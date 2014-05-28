@@ -1,0 +1,104 @@
+#!/usr/bin/ruby
+
+require 'ansi/code'
+
+include ANSI::Code
+
+# spatial / architectural
+
+puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
+puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Composition' } } + white{ ': Design programs to be connected to other programs.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Separation' } } + white{ ': Separate policy from mechanism; separate interfaces from engines.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Parsimony' } } + white{ ': Write a big program only when it is clear by demonstration that nothing else will do.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Robustness' } } + white{ ': Robustness is the child of transparency and simplicity.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Representation' } } + white{ ': Fold knowledge into data so program logic can be stupid and robust.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Diversity' } } + white{ ': Distrust all claims for "one true way".' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Extensibility' } } + white{ ': Design for the future, because it will be here sooner than you think.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Clarity' } } + white{ ': Clarity is better than cleverness.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Transparency' } } + white{ ': Design for visibility to make inspection and debugging easier.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Simplicity' } } + white{ ': Design for simplicity; add complexity only where you must.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Least Surprise' } } + white{ ': In interface design, always do the least surprising thing.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Silence' } } + white{ ': When a program has nothing surprising to say, it should say nothing.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Repair' } } + white{ ': When you must fail, fail noisily and as soon as possible.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Economy' } } + white{ ': Programmer time is expensive; conserve it in preference to machine time.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Generation' } } + white{ ': Avoid hand-hacking; write programs to write programs when you can.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+puts white{ bold{ 'Optimization' } } + white{ ': Prototype before polishing. Get it working before you optimize it.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+
+# x11 guy
+puts '------------ Mike Garcanz: The Unix Philosophy -------------------------------------'
+puts white{ bold{ 'Small is beautiful.' } } + black{ bold{ ' - Mike Garcanz: The Unix Philosophy' } }
+puts white{ bold{ 'Make each program do one thing well.' } } + black{ bold{ ' - Mike Garcanz: The Unix Philosophy' } }
+puts white{ bold{ 'Build a prototype as soon as possible.' } } + black{ bold{ ' - Mike Garcanz: The Unix Philosophy' } }
+puts white{ bold{ 'Choose portability ' } } + white{ '[high level]' } + white{ bold{ ' over efficiency ' } } + white{ '[low-level]' } + white{ bold{ '.' } } + black{ bold{ ' - Mike Garcanz: The Unix Philosophy' } }
+puts white{ bold{ 'Store data in flat text files.' } } + black{ bold{ ' - Mike Garcanz: The Unix Philosophy' } }
+puts white{ bold{ 'Use software leverage to your advantage.' } } + black{ bold{ ' - Mike Garcanz: The Unix Philosophy' } }
+puts white{ bold{ 'Use shell scripts ' } } + white{ '[higher level languages]' } + white{ bold{ ' to increase leverage and portability.' } } + black{ bold{ ' - Mike Garcanz: The Unix Philosophy' } }
+puts white{ bold{ 'Avoid captive user interfaces.' } } + black{ bold{ ' - Mike Garcanz: The Unix Philosophy' } }
+puts white{ bold{ 'Make every program a filter.' } } + black{ bold{ ' - Mike Garcanz: The Unix Philosophy' } }
+
+# unix
+puts '--- unix ----'
+puts white{ bold{ "Those who don\'t understand Unix are condemned to reinvent it" } } + white{ ", poorly." } + black{ bold{ ' - Henry Spencer' } }
+puts white{ bold{ "Unix is simple." } } + white{ " It just takes a genius to understand its simplicity." } + black{ bold{ ' - Dennis Ritchie' } }
+puts white{ bold{ "Unix was not designed to stop its users from doing stupid things, as that would also stop them from doing clever things." } } + black{ bold{ ' - Doug Gwyn' } }
+puts white{ bold{ "Unix never says 'please'." } } + black{ bold{ ' - Rob Pike' } }
+puts white{ bold{ "Unix is user-friendly." } } + white{ " It just isn't promiscuous about which users it's friendly with." } + black{ bold{ ' - Steven King' } }
+puts white{ bold{ "Make each program do one thing well." } } + white{ " To do a new job, build afresh rather than complicate old programs by adding new features." } + black{ bold{ ' - Doug McIlroy, The Bell System Technical Journal, Unix Time-Sharing System Forward (1978)' } }
+puts white{ bold{ "Expect the output of every program to become the input to another, as yet unknown, program." } } + white{ " Don't clutter output with extraneous information. Avoid stringently columnar or binary input formats. Don't insist on interactive input." } + black{ bold{ ' - Doug McIlroy, The Bell System Technical Journal, Unix Time-Sharing System Forward (1978)' } }
+puts white{ bold{ "Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them." } } + black{ bold{ ' - Doug McIlroy, The Bell System Technical Journal, Unix Time-Sharing System Forward (1978)' } }
+puts white{ bold{ "Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them." } } + black{ bold{ ' - Doug McIlroy, The Bell System Technical Journal - Unix Time-Sharing System Forward (1978)' } }
+puts white{ 'This is the Unix philosophy: ' } + white{ bold{ 'Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams' } } + white{ ', because that is a universal interface.' } + black{ bold{ ' - Doug McIlroy (1994)' } }
+puts white{ bold{ 'The real hero of programming is the one who writes negative code.' } } + black{ bold{ ' - Doug McIlroy' } }
+puts white{ 'As a programmer, it is your job to put yourself out of business.' } + white{ bold{ ' What you do today can be automated tomorrow.' } } + black{ bold{ ' - Doug McIlroy' } }
+puts white{ 'Keep it ' } + white{ bold{ 'simple' } } + white{ ', make it ' } + white{ bold{ 'general' } } + white{ ', and make it ' } + white{ bold{ 'intelligible.' } } + black{ bold{ ' - Doug McIlroy' } }
+puts white{ bold{ 'When in doubt, use brute force.' } } + black{ bold{ ' - Ken Thompson' } }
+puts white{ bold{ 'One of my most productive days was throwing away 1000 lines of code.' } } + black{ bold{ ' - Ken Thompson' } }
+puts white{ "Postel's Prescription: " } + white{ bold{ 'Be liberal in what you accept, and conservative in what you send.' } } + black{ bold{ ' - Jon Postel ' } }
+puts white{ bold{ "90% of the functionality delivered now is better than 100% of it delivered never." } } + black{ bold{ ' - Kernighan & Plauger' } }
+
+# mark burgess
+puts '--- mark burgess ---'
+puts white{ bold{ "We have incomplete information about the world." } } + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
+puts white{ bold{ "Use the right kind of probe to see the right level of detail." } } + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
+puts white{ bold{ "Make our comprehension of the world more manageable by limiting the amount of information we have to interact with at any time." } } + white{ " Our experience of the world can be made comprehensible, or incomprehensible, by design." } + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
+puts white{ "The effect of limited information is that " } + white{ bold{ "we perceive and build the world as a collection of containers, patches or environments, separated from one another by limited information flow" } }  + white{ ". These structures define characteristic scales." } + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
+puts white{ bold{ "The more details we can see, the less we have a sense of control." } }  + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
+puts white{ bold{ "Separation of concerns" } } + white{ " ... a necessary consequence of loss of resolution due to scale ... " } + white{ bold{ "a strategy for staying sane" } } + white{ "." } + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
+puts white{ bold{ "Certainty = Knowledge + Information." } } + white{ " Where knowledge is a relationship to the history of what we've already observed in the past, ie. an expectation of behaviour, and information is evidence of the present: that things are proceeding is expected." }  + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
+puts white{ "The way control emerges in a quantum-mechanical sense is in the manipulation of guard-rails or constraining walls, forces called potentials: containers that limit the probable range of electrons to an approximately predictable region. This is not control, but loading the dice by throwing other dice at them. Similarly, " } + white{ bold{ "when building technologies to deal with uncertainty, we must use similar ideas of constraint" } } + white{ "." }  + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
+puts white{ bold{ "Strong coupling turns out to be a particular problem in computer based infrastructure." } } + white{ " Chaos is easily contained, given the nature of computer-based infrastructure, yet systems are often pushed beyond the brink of instability. We do not escape from uncertainty so easily." } + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
+puts white{ "Designers who don't believe in Murphy's Law," } + white{ bold{ " that which can happen will happen" } } + white{ ", are irresponsible." } + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
+puts white{ bold{ "The simplest idea of stability is constancy, or invariance." } } + white{ " A thing that has no possibility to change is, by definition, immune to external pertubations. [...] Invariance is an important concept, but also one that has been shattered by modern ideas of physics." } + white{ bold{ " What was once considered invariant, is usually only apparently invariant on a certain scale" } } + white{ ". When one looks in more detail, we find that we may only have invariance of an average." } + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
+
+# randoms
+puts '--- randoms ----'
+puts white{ bold{ 'Decisiveness is overrated.' } } + black{ bold{ ' - Philosophy, University of California, Santa Cruz' } } # via http://lolmythesis.com/post/71394379186/decisiveness-is-overrated
+puts white{ bold{ 'Starfish do not walk in straight lines.' } } + black{ bold{ ' - Zoology, University College Dublin' } } # via http://lolmythesis.com/post/71594009129/starfish-do-not-walk-in-straight-lines
+puts white{ bold{ 'Rocks that are next to each other in Massachusetts now were also next to each other 400 million years ago.' } } + black{ bold{ ' - Geology, Amherst College' } } # via http://lolmythesis.com/post/71456192526/rocks-that-are-next-to-each-other-in-massachusetts-now
+#puts white{ bold{ 'Space is where shit happens; place is where shit goes down.' } } + black{ bold{ ' - Geography, University of Auckland' } } # http://lolmythesis.com/post/71414469402/space-is-where-shit-happens-place-is-where-shit-goes
+puts white{ bold{ "I'm sorry but there's nothing I can do to help." } } + black{ bold{ ' - Information Security, Johns Hopkins University' } } # http://lolmythesis.com/post/71511993228/im-sorry-but-theres-nothing-i-can-do-to-help
+puts white{ bold{ 'Rats will go to great lengths to earn a pellet of sugar' } } + white{ ', and even more so when on the right kinds of drugs.' } + black{ bold{ ' - Neuroscience, University of California, Los Angeles' } } # http://lolmythesis.com/post/71495588905/rats-will-go-to-great-lengths-to-earn-a-pellet-of
+#puts white{ bold{ 'Self-assembling nanoparticles are kinda like Legos.' } } + black{ bold{ ' - Material Engineering and Nanotechnology, Tel Aviv University, Israel' } } # http://lolmythesis.com/post/71455923346/self-assembling-nanoparticles-are-kinda-like-legos
+puts white{ bold{ 'The people don\'t understand.' } } + black{ bold{ ' - Political science, Sciences Po Bordeaux' } } # http://lolmythesis.com/post/71414197257/the-people-doesnt-understand
+puts white{ bold{ 'Kids with imaginary friends are wicked smaht.' } } + black{ bold{ ' - Developmental Psychology, Clark University' } } # http://lolmythesis.com/post/71506098602/kids-with-imaginary-friends-are-wicked-smaht
+#puts white{ bold{ 'People rock at memorizing insecure passwords, but we already knew that.' } } + black{ bold{ ' - Psychology and Computer Science, Carleton University' } } # http://lolmythesis.com/post/71394112987/people-rock-at-memorizing-insecure-passwords-but-we
+#puts white{ bold{ 'We know things when we think we know things.' } } + black{ bold{ ' - Philosophy, San Francisco State University' } } # http://lolmythesis.com/post/71394719732/we-know-things-when-we-think-we-know-things
+puts white{ bold{ 'Are We Certain Yet?' } } + white{ ' Towards a Phenomenal Account of Scepticism' } + black{ bold{ ' - Philosophy, University of St Andrews' } } # http://lolmythesis.com/post/71454789345/are-we-certain-yet-towards-a-phenomenal-account-of
+
+# steven levy
+puts '--- Steven Levy ---'
+puts white{ bold{ 'Access to computers - and anything which might teach you something about the way the world works - should be unlimited and total.' } } + white{ ' Always yield to the Hands-On Imperative!' } + black{ bold{ ' - Steven Levy, Hackers: Heroes of the Computer Revolution (1984)' } }
+puts white{ bold{ 'All information should be free.' } } + black{ bold{ ' - Steven Levy, Hackers: Heroes of the Computer Revolution (1984)' } }
+puts white{ bold{ 'Mistrust authority - promote decentralization.' } } + black{ bold{ ' - Steven Levy, Hackers: Heroes of the Computer Revolution (1984)' } }
+puts white{ bold{ 'Hackers should be judged by their hacking' } } + white{ ', not criteria such as degrees, age, race, sex, or position.' } + black{ bold{ ' - Steven Levy, Hackers: Heroes of the Computer Revolution (1984)' } }
+puts white{ bold{ 'You can create art and beauty on a computer.' } } + black{ bold{ ' - Steven Levy, Hackers: Heroes of the Computer Revolution (1984)' } }
+puts white{ bold{ 'Computers can change your life for the better.' } } + black{ bold{ ' - Steven Levy, Hackers: Heroes of the Computer Revolution (1984)' } }
+
+# rob pike
+puts '--- Rob Pike ---'
+puts white{ "Pike's 1st Rule:" } + white{ bold{ " You can't tell where a program is going to spend its time." } } + white{ " Bottlenecks occur in surprising places, so don't try to second guess and put in a speed hack until you've proven that's where the bottleneck is." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
+puts white{ "Pike's 2nd Rule:" } + white{ bold{ " Measure." } } + white{ " Don't tune for speed until you've measured, and even then don't unless one part of the code overwhelms the rest." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
+puts white{ "Pike's 3rd Rule:" } + white{ bold{ " Fancy algorithms are slow when " } } + white{ "n" } + white{ bold{ " is small, and " } } + white{ 'n' } + white{ bold{ " is usually small." } } + white{ " Fancy algorithms have big constants. Until you know that n is frequently going to be big, don't get fancy." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
+puts white{ "Pike's 4th Rule:" } + white{ bold{ " Fancy algorithms are buggier than simple ones, and they're much harder to implement." } } + white{ " Use simple algorithms as well as simple data structures." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
+puts white{ "Pike's 5th Rule:" } + white{ bold{ " Data dominates." } } + white{ " If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. Data structures, not algorithms, are central to programming." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
