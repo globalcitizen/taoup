@@ -16,5 +16,7 @@ To have it display on login, you could try something like this:
 echo '' | cowsay -f eyes |tail -n 10 |sed 's/^/[0;32;40m/'
 ```
 
-That `while read line...done` stuff is an ugly hack for portable random `sort`.
-(If you don't yet have `cowsay`, stop reading right now and get it installed!)
+Note that you need to use the real source here, since the final `sed` contains
+extended ANSI escape sequence characters that do not copy from Github-webland.
+The `while read line...done` stuff is an ugly hack for portable random `sort`.
+If you don't yet have `cowsay`, stop reading right now and get it installed!
