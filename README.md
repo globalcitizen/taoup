@@ -9,7 +9,7 @@ To get it running, make sure you have `ruby` and `gem` installed, then run:
 
 After that, it should work fine.
 
-To have it display on login, you could try something like this:
+To have it display on login, you could try something like this in your `.profile`:
 
 ```
 /path/to/taoup |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1 | cowsay -f eyes -n |head -n 2 |tail -n 1
