@@ -56,6 +56,7 @@ puts white{ bold{ 'When in doubt, use brute force.' } } + black{ bold{ ' - Ken T
 puts white{ bold{ 'One of my most productive days was throwing away 1000 lines of code.' } } + black{ bold{ ' - Ken Thompson' } }
 puts white{ "Postel's Prescription: " } + white{ bold{ 'Be liberal in what you accept, and conservative in what you send.' } } + black{ bold{ ' - Jon Postel ' } }
 puts white{ bold{ "90% of the functionality delivered now is better than 100% of it delivered never." } } + black{ bold{ ' - Kernighan & Plauger' } }
+puts white{ bold{ "Spell create with an \'e\'." } } + black{ bold{ " - Ken Thompson (referring to design regrets on the UNIX creat(2) system call and the fallacy of premature optimization)" } } 
 
 # mark burgess
 puts '--- mark burgess ---'
