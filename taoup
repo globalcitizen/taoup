@@ -106,4 +106,4 @@ puts white{ "Pike's 5th Rule:" } + white{ bold{ " Data dominates." } } + white{ 
 
 # hackers of history
 puts '--- Hackers of History ---'
-puts white{ 'The libertinistic rake is ' } + white{ bold{ 'anti-authoritarian, anti-normative, and anti-traditional' } } + white{ '.' } + black{ bold{ ' - Wikipedia entry for \'Rake (character)\'' } }
+puts white{ 'The libertinistic rake is ' } + white{ bold{ 'anti-authoritarian' } } + white{ ',' } + white{ bold{ ' anti-normative' } } + white{ ', and ' } + white{ bold{ 'anti-traditional' } } + white{ '.' } + black{ bold{ ' - Wikipedia on 17th century \'Rake (character)\'' } }
