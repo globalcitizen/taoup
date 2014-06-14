@@ -103,3 +103,7 @@ puts white{ "Pike's 2nd Rule:" } + white{ bold{ " Measure." } } + white{ " Don't
 puts white{ "Pike's 3rd Rule:" } + white{ bold{ " Fancy algorithms are slow when " } } + white{ "n" } + white{ bold{ " is small, and " } } + white{ 'n' } + white{ bold{ " is usually small." } } + white{ " Fancy algorithms have big constants. Until you know that n is frequently going to be big, don't get fancy." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
 puts white{ "Pike's 4th Rule:" } + white{ bold{ " Fancy algorithms are buggier than simple ones, and they're much harder to implement." } } + white{ " Use simple algorithms as well as simple data structures." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
 puts white{ "Pike's 5th Rule:" } + white{ bold{ " Data dominates." } } + white{ " If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. Data structures, not algorithms, are central to programming." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
+
+# hackers of history
+puts '--- Hackers of History ---'
+puts white{ 'The libertinistic rake is ' } + white{ bold{ 'anti-authoritarian, anti-normative, and anti-traditional' } } + white{ '.' } + black{ bold{ ' - Wikipedia entry for \'Rake (character)\'' } }
