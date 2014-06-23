@@ -1,5 +1,5 @@
-TAO (The Art) of Unix Programming
-=================================
+TAO (The Art) of Unix Programming (and related systemic epiphanies)
+===================================================================
 
 This is a ruby-powered, ANSI-enabled, fortune-like program to espouse wisdom at
 opportune moments, such as when you log in.
