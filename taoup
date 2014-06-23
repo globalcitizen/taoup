@@ -4,6 +4,55 @@ require 'ansi/code'
 
 include ANSI::Code
 
+# ... but optionally make sure ANSI escape sequences are filtered out
+zero_colors=false
+fortunify=false
+if ARGV[0] == '--machine' then
+ ARGV.shift
+ zero_colors = true
+elsif ARGV[0] == '--fortune' then
+ zero_colors = true
+ fortunify = true
+else
+ if `which tput` then
+  colors = `tput colors`
+  if colors.chop == "-1" then
+   zero_colors = true
+  end
+ end
+end
+if zero_colors then
+ alias :puts_old :puts
+ alias :print_old :print
+ if fortunify==false then
+  # normal drop-ansi mode
+  def puts(*args)
+   args = args.join('')
+   args.gsub!(/\x1b\[[;0-9]*[a-zA-Z]/,'') # ie. remove ansi sequences
+   puts_old(args)
+  end
+  def print(*args)
+   args = args.join('')
+   args.gsub!(/\x1b\[[;0-9]*[a-zA-Z]/,'') # ie. remove ansi sequences
+   print_old(args)
+  end
+ else
+  # fortune mode
+  def puts(*args)
+   args = args.join('')
+   args.gsub!(/\x1b\[[;0-9]*[a-zA-Z]/,'') # ie. remove ansi sequences
+   if not args.match(/^--/) and not args.match(/^$/) then
+    puts_old(args + "\n%\n")
+   end
+  end
+  def print(*args)
+   args = args.join('')
+   args.gsub!(/\x1b\[[;0-9]*[a-zA-Z]/,'') # ie. remove ansi sequences
+   print_old(args)
+  end
+ end
+end
+
 # spatial / architectural
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'

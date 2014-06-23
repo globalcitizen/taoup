@@ -9,6 +9,11 @@ To get it running, make sure you have `ruby` and `gem` installed, then run:
 
 After that, it should work fine.
 
+There are two modes other than standard invocation, `--machine` which drops any
+ANSI colors from the output, and `--fortune` which converts the wisdom to an
+assumed imitation of the fortune format (untested, may need header/footer
+massaging or character set tweaking).
+
 To have it display on login, you could try something like this in your `.profile`:
 
 ```
