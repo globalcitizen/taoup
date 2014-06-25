@@ -59,6 +59,11 @@ puts white{ "I can get another if I break it, so " } + white{ bold{ "a clay cup 
 puts white{ bold{ "Rule of Zero, One or Infinity (ZOI)" } } + white{ ": Arbitrary limits on the number of instances of a particular entity should not be allowed." } + black{ bold{ " - Willem van der Poel" } }
 puts white{ bold{ "Worse is better" } } + white{ ": Design for simplicity." } + black{ bold{ " - Richard P. Gabriel, 'Lisp: Good News, Bad News, How to Win Big' (1989)" } }
 puts white{ bold{ "Uniform Access Principle" } } + white{ ": Services should be offered through uniform interfaces, regardless of internal implementation." } + black{ bold{ " - Bertrand Meyer" } }
+puts white{ bold{ "Rule of Least Power" } } + white{ ": Use the least powerful langauge possible for a given problem. Prefer declarative languages over procedural." }
+puts white{ bold{ "Rule 3.14" } } + white{ ": Nothing gets standardised until there are multiple instances of running code." } + black{ bold{ " - RFC1958 (1996)" } }
+puts white{ bold{ "Optimization considered harmful" } } + white{ ": In particular, optimization introduces complexity, and as well as introducing tighter coupling between components and layers." } + black{ bold{ " - RFC3439" } }
+puts white{ bold{ "Law of Diminishing Returns" } } + white{ ": If one factor of production is increased while the others remain constant, the overall returns will relatively decrease after a certain point." } + black{ bold{ " - W. J. Spillman and E. Lang (1924)" } }
+puts white{ bold{ "Upgrade cost of network complexity" } } + white{ ": The Internet has smart edges ... and a simple core. Adding an new Internet service is just a matter of distributing an application ... Compare this to voice, where one has to upgrade the entire core." } + black{ bold{ " - RFC3439 (2002)" } } 
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
