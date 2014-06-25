@@ -103,7 +103,7 @@ puts white{ 'As a programmer, it is your job to put yourself out of business.' }
 puts white{ 'Keep it ' } + white{ bold{ 'simple' } } + white{ ', make it ' } + white{ bold{ 'general' } } + white{ ', and make it ' } + white{ bold{ 'intelligible.' } } + black{ bold{ ' - Doug McIlroy' } }
 puts white{ bold{ 'When in doubt, use brute force.' } } + black{ bold{ ' - Ken Thompson' } }
 puts white{ bold{ 'One of my most productive days was throwing away 1000 lines of code.' } } + black{ bold{ ' - Ken Thompson' } }
-puts white{ "Postel's Prescription: " } + white{ bold{ 'Be liberal in what you accept, and conservative in what you send.' } } + black{ bold{ ' - Jon Postel ' } }
+puts white{ "Postel's Prescription" } + white{ bold{ ': Be liberal in what you accept, and conservative in what you send.' } } + black{ bold{ ' - Jon Postel ' } }
 puts white{ bold{ "90% of the functionality delivered now is better than 100% of it delivered never." } } + black{ bold{ ' - Kernighan & Plauger' } }
 puts white{ bold{ "Spell create with an \'e\'." } } + black{ bold{ " - Ken Thompson (referring to design regrets on the UNIX creat(2) system call and the fallacy of premature optimization)" } } 
 
@@ -135,6 +135,109 @@ puts white{ bold{ 'Kids with imaginary friends are wicked smaht.' } } + black{ b
 #puts white{ bold{ 'People rock at memorizing insecure passwords, but we already knew that.' } } + black{ bold{ ' - Psychology and Computer Science, Carleton University' } } # http://lolmythesis.com/post/71394112987/people-rock-at-memorizing-insecure-passwords-but-we
 #puts white{ bold{ 'We know things when we think we know things.' } } + black{ bold{ ' - Philosophy, San Francisco State University' } } # http://lolmythesis.com/post/71394719732/we-know-things-when-we-think-we-know-things
 puts white{ bold{ 'Are We Certain Yet?' } } + white{ ' Towards a Phenomenal Account of Scepticism' } + black{ bold{ ' - Philosophy, University of St Andrews' } } # http://lolmythesis.com/post/71454789345/are-we-certain-yet-towards-a-phenomenal-account-of
+puts white{ bold{ 'Acyclic dependencies principle' } } + white{ ': Avoid infinite loops.' }
+puts white{ bold{ 'Convention over configuration' } } + white{ ': Simplify normal use cases, without necessarily sacrificing flexibility.' }
+puts white{ bold{ "Atwood's Law" } } + white{ ": Any software that can be written in JavaScript will eventually be written in JavaScript." } + black{ bold{ " - Jeff Atwood" } }
+
+# randoms on time
+puts "----- randoms on time -----"
+puts white{ bold{ "He who does not have a past has no present or future." } } + black{ bold{ " - Arabic proverb" } }
+puts white{ bold{ "Man's most prudent counselor is time." } } + black{ bold{ " - Publilius Syrus (first century BCE)" } }
+puts white{ bold{ "There is nothing which the lapse of time will not either extinguish or improve." } } + black{ bold{ " - Publilius Syrus (first century BCE)" } }
+puts white{ bold{ "Those who do not forget the past are masters of the future." } } + black{ bold{ " - Sima Qian (second century BCE)" } }
+
+# re-sectionize
+puts "----- eponymous randoms -----"
+
+# conway's law
+puts white{ bold{ 'Conway\'s Law' } } + white{ ': Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.' } + black{ bold{ " - Melvin Conway, 'National Symposium on Modular Programming', 1968" } }
+puts white{ bold{ 'The organization of the software and the organization of the software team will be congruent.' } } + black{ bold{ " - Eric S. Raymond, paraphrasing Conway's Law in 'The New Hacker's Dictionary'" } }
+puts white{ 'If the parts of an organization (e.g. teams, departments, or subdivisions) do not closely reflect the essential parts of the product, or if the relationship between organizations do not reflect the relationships between product parts, then the project will be in trouble... therefore: ' } + white{ bold{ 'Make sure the organization is compatible with the product architecture.' } } + black{ bold{ ' - James O. Coplien and Neil B. Harrison, paraphasing Conway\'s Law (2004)' } }
+
+# brooks' law
+puts white{ bold{ "Adding manpower to a late software project makes it later." } } + white{ " Nine women can't make a baby in one month." } + black{ bold{ " - Fred Brooks, 'The Mythical Man-Month' (1975)" } }
+
+# miller's law
+puts white{ bold{ "All discussions of incremental updates will eventually trend towards proposals for large scale redesigns, feature additions or replacements." } } + black{ bold{ " - Mike Beltzner, after Dave Miller of Bugzilla" } }
+
+# wirth's law
+puts white{ bold{ "Wirth's Law" } } + white{ ": Software gets slower faster than hardware gets faster." } + black{ bold{ " - Niklaus Wirth (1995)" } }
+#puts white{ bold{ "May's Law" } } + white{ ": Software efficiency halves every 18 months, compensating Moore's Law." } + black{ bold{ " - Restatement of Wirth's Law after David May." } }
+#puts white{ bold{ "The speed of software halves every 18 months." } } + black{ bold{ " - Restatement of Wirth's Law after Bill Gates, founder of Microsoft." } }
+
+# parkinson's law
+puts white{ bold{ "Parkinson's Law" } } + white{ ": Work expands so as to fill the time available for its completion." } + 
+black{ bold{ " - Cyril Northcote Parkinson, British civil servant, first published in 'The Economist' (1955)" } }
+puts white{ bold{ "Parkinson's Law - Stock-Sanford Corollary" } } + white{ ": If you wait until the last minute, it only takes a minute to do." }
+puts white{ bold{ "Parkinson's Law - Data Corollary" } } + white{ ": Data expands to fill the space available for storage." }
+puts white{ bold{ "Generalized form of Parkinson's Law" } } + white{ ": The demand upon a resource tends to expand to match the supply of the resource. The reverse is not true." }
+puts white{ bold{ "Principle of Comitology" } } + white{ ": Committees, government cabinets, and other such bodies are created and eventually grow irrelevant (or are initially designed as such)." } + black{ bold{ " - Cyril Northcote Parkinson, British civil servant" } }
+puts white{ bold{ "Parkinson's Conjecture" } } + white{ ": Committees with a membership exceeding a number between 19.9 and 22.4 are ineffective." } + black{ bold{ " - Cyril Northcote Parkinson, British civil servant" } }
+
+# hofstader's law
+puts white{ bold{ "Hofstadter's Law" } } + white{ ": It always takes longer than you expect, even when you take into account Hofstadter's Law." } + black{ bold{ " - Douglas Hofstadter, 'Gödel, Escher, Bach: An Eternal Golden Braid' (1979)" } }
+
+# classen's law
+puts white{ bold{ "Classen's Law" } } + white{ ": Usefulness = log(Technology)" } + black{ bold{ " - Theo A. C. M. Claasen, CTO of Philips Semiconductors (1999)" } }
+
+# arthur c. clarke
+puts "----- Arthur C. Clarke -----"
+puts white{ bold{ "Clarke's First Law" } } + white{ ": When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong." } + black{ bold{ " - Arthur C. Clarke" } }
+puts white{ bold{ "Clarke's First Law - AI Corollary" } } + white{ ": Any sufficiently advanced benevolence may be indistinguishable from malevolence." }
+puts white{ bold{ "Grey's Law (corollary to Clarke's First Law)" } } + white{ ": Any sufficiently advanced incompetence is indistinguishable from malice." }
+puts white{ bold{ "Poe's Law (crollary to Clarke's First Law)" } } + white{ ": Any sufficiently advanced troll is indistinguishable from a genuine kook." }
+puts white{ bold{ "Clarke's Second Law" } } + white{ ": The only way of discovering the limits of the possible is to venture a little way past them into the impossible." } + black{ bold{ " - Arthur C. Clarke" } }
+puts white{ bold{ "Clarke's Third law" } } + white{ ": Any sufficiently advanced technology is indistinguishable from magic." } + black{ bold{ " - Arthur C. Clarke" } }
+
+# kranzberg
+puts "----- Melvin Kranzberg -----"
+puts white{ bold{ "Kranzberg's 1st Law of Technology" } } + white{ ": Technology is neither good nor bad; nor is it neutral." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
+puts white{ bold{ "Kranzberg's 2nd Law of Technology" } } + white{ ": Invention is the mother of necessity." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
+puts white{ bold{ "Kranzberg's 3rd Law of Technology" } } + white{ ": Technology comes in packages, big and small." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
+puts white{ bold{ "Kranzberg's 4th Law of Technology" } } + white{ ": Although technology might be a prime element in many public issues, nontechnical factors take precedence in technology-policy decisions." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
+puts white{ bold{ "Kranzberg's 5th Law of Technology" } } + white{ ": All history is relevant, but the history of technology is the most relevant." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
+puts white{ bold{ "Kranzberg's 6th Law of Technology" } } + white{ ": Technology is a very human activity - and so is the history of technology." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
+
+
+# larry niven
+puts "----- Larry Niven ------"
+puts white{ bold{ "Niven's First Law" } } + white{ ": Never fire a laser at a mirror." } + black{ bold{ " - Larry Niven, science fiction author" } }
+puts white{ bold{ "Niven's Second Law" } } + white{ ": Giving up freedom for security is beginning to look naïve." } + black{ bold{ " - Larry Niven, science fiction author" } }
+puts white{ bold{ "Niven's Third Law" } } + white{ ": It is easier to destroy than to create." } + black{ bold{ " - Larry Niven, science fiction author" } }
+puts white{ bold{ "Niven's Fourth Law" } } + white{ ": Ethics change with technology." } + black{ bold{ " - Larry Niven, science fiction author" } }
+puts white{ bold{ "Niven's Fifth Law" } } + white{ ": The only universal message in science fiction: There exist minds that think as well as you do, but differently." } + black{ bold{ " - Larry Niven, science fiction author" } }
+puts white{ bold{ "Niven's Law of Time Travel" } } + white{ ": If the universe of discourse permits the possibility of time travel and of changing the past, then no time machine will be invented in that universe." }
+
+puts white{ bold{ "Niven's First Law of Writing" } } + white{ ": Writers who write for other writers should write letters." } + black{ bold{ " - Larry Niven, science fiction author (1989)" } }
+puts white{ bold{ "Niven's Second Law of Writing" } } + white{ ": Never be embarrassed or ashamed about anything you choose to write. (Think of this before you send it to a market.)" } + black{ bold{ " - Larry Niven, science fiction author (1989)" } }
+puts white{ bold{ "Niven's Third Law of Writing" } } + white{ ": Stories to end all stories on a given topic, don't." } + black{ bold{ " - Larry Niven, science fiction author (1989)" } }
+puts white{ bold{ "Niven's Fourth Law of Writing" } } + white{ ": It is a sin to waste the reader's time." } + black{ bold{ " - Larry Niven, science fiction author (1989)" } }
+puts white{ bold{ "Niven's Fifth Law of Writing" } } + white{ ": If you've nothing to say, say it any way you like. Stylistic innovations, contorted story lines or none, exotic or genderless pronouns, internal inconsistencies, the recipe for preparing your lover as a cannibal banquet: feel free. If what you have to say is important and/or difficult to follow, use the simplest language possible. If the reader doesn't get it then, let it not be your fault." } + black{ bold{ " - Larry Niven, science fiction author (1989)" } }
+puts white{ bold{ "Niven's Sixth Law of Writing" } } + white{ ": Everybody talks first draft." } + black{ bold{ " - Larry Niven, science fiction author (1989)" } }
+
+
+puts "----- randoms on distribution -----"
+# 90/90 aka. 'Rule of Credibility'
+puts white{ bold{ "90:90 Rule (Rule of Credibility)" } } + white{ ": The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time." } + black{ " - Tom Cargill, Bell Labs, as popularized by Jon Bentley's 'Programming Pearls' column, 'Communications of the ACM' (September 1985)" }
+
+# 80/20 aka. 'Pareto Principle'
+puts white{ bold{ "80:20 Rule (Pareto Principle)" } } + white{ ": 80% of the state of the system derives from 20% of the causes." } + black{ bold{ " - Italian economist Vilfredo Pareto (1906)" } }
+puts white{ bold{ "80:20 Rule (Pareto Principle) - Bug Fixing Corollary" } } + white{ ": Fixing 20% of the bugs resolves 80% of the issues." } + black{ bold{ " - Microsoft" } }
+puts white{ bold{ "Law of the Vital Few" } } + white{ ": 20% of people do 80% of the work." } + black{ bold{ " - Anonymous" } }
+puts white{ bold{ "20 percent of the code has 80 percent of the errors." } } + white{ " Find them, fix them!" } + black{ bold{ " - Lowell Arthur" } }
+
+# randoms - change
+puts "------ randoms on change ------"
+puts white{ bold{ "A rolling stone gathers no moss." } } + black{ bold{ " - Condensed form of Publilius Syrus' (first century BCE) observation that people who are always moving, with no roots in one place, avoid responsibilities and cares. Another interpretation equates 'moss' to 'stagnation'; stagnant people lack fresh ideas and creativity." } }
+puts white{ bold{ "Precautionary Principle" } } + white{ ": If an action or policy has a suspected risk, in the absence of consensus, the burden of proof that it is not harmful falls upon those taking the action." }
+puts white{ bold{ "Peter Principle" } } + white{ ": People will tend to be promoted until they reach their 'position of incompetence'." } + black{ bold{ " - After Laurence J. Peter, Raymond Hull's co-author of 'The Peter Princple: Why Things Always Go Wrong' (1975)" } }
+
+# randoms - optimization / efficiency
+puts "------ randoms on optimization/efficiency ------"
+#  snackwell is basically a domain-specific jevons in its original statement, therefore instead of a reasonable 
+#  restatement, we leave snackwell out in favour of jevons
+#puts white{ bold{ "Snackwell Effect" } } + white{ " (restatement of): Those seeking efficiency through optimization will consume with an increased frequency that partly negates the original gain." }
+puts white{ bold{ "Jevons Paradox" } } + white{ ": As technology progresses, the increase in efficiency with which a resource is used tends to increase (rather than decrease) the rate of consumption of that resource." }
 
 # steven levy
 puts '--- Steven Levy ---'
@@ -147,11 +250,11 @@ puts white{ bold{ 'Computers can change your life for the better.' } } + black{ 
 
 # rob pike
 puts '--- Rob Pike ---'
-puts white{ "Pike's 1st Rule:" } + white{ bold{ " You can't tell where a program is going to spend its time." } } + white{ " Bottlenecks occur in surprising places, so don't try to second guess and put in a speed hack until you've proven that's where the bottleneck is." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
-puts white{ "Pike's 2nd Rule:" } + white{ bold{ " Measure." } } + white{ " Don't tune for speed until you've measured, and even then don't unless one part of the code overwhelms the rest." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
-puts white{ "Pike's 3rd Rule:" } + white{ bold{ " Fancy algorithms are slow when " } } + white{ "n" } + white{ bold{ " is small, and " } } + white{ 'n' } + white{ bold{ " is usually small." } } + white{ " Fancy algorithms have big constants. Until you know that n is frequently going to be big, don't get fancy." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
-puts white{ "Pike's 4th Rule:" } + white{ bold{ " Fancy algorithms are buggier than simple ones, and they're much harder to implement." } } + white{ " Use simple algorithms as well as simple data structures." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
-puts white{ "Pike's 5th Rule:" } + white{ bold{ " Data dominates." } } + white{ " If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. Data structures, not algorithms, are central to programming." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
+puts white{ "Pike's 1st Rule" } + white{ bold{ ": You can't tell where a program is going to spend its time." } } + white{ " Bottlenecks occur in surprising places, so don't try to second guess and put in a speed hack until you've proven that's where the bottleneck is." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
+puts white{ "Pike's 2nd Rule" } + white{ bold{ ": Measure." } } + white{ " Don't tune for speed until you've measured, and even then don't unless one part of the code overwhelms the rest." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
+puts white{ "Pike's 3rd Rule" } + white{ bold{ ": Fancy algorithms are slow when " } } + white{ "n" } + white{ bold{ " is small, and " } } + white{ 'n' } + white{ bold{ " is usually small." } } + white{ " Fancy algorithms have big constants. Until you know that n is frequently going to be big, don't get fancy." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
+puts white{ "Pike's 4th Rule" } + white{ bold{ ": Fancy algorithms are buggier than simple ones, and they're much harder to implement." } } + white{ " Use simple algorithms as well as simple data structures." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
+puts white{ "Pike's 5th Rule" } + white{ bold{ ": Data dominates." } } + white{ " If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. Data structures, not algorithms, are central to programming." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
 
 # hackers of history
 puts '--- Hackers of History ---'
