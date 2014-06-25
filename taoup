@@ -54,6 +54,8 @@ if zero_colors then
 end
 
 # spatial / architectural
+puts '------ software architecture ------'
+puts white{ "I can get another if I break it, so " } + white{ bold{ "a clay cup trumps a grail." } } + black{ bold{ " - Mirza Asadullah Khan Ghalib, classical Urdu and Persian poet from the Mughal Empire" } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
