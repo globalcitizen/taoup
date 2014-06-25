@@ -56,6 +56,9 @@ end
 # spatial / architectural
 puts '------ software architecture ------'
 puts white{ "I can get another if I break it, so " } + white{ bold{ "a clay cup trumps a grail." } } + black{ bold{ " - Mirza Asadullah Khan Ghalib, classical Urdu and Persian poet from the Mughal Empire" } }
+puts white{ bold{ "Rule of Zero, One or Infinity (ZOI)" } } + white{ ": Arbitrary limits on the number of instances of a particular entity should not be allowed." } + black{ bold{ " - Willem van der Poel" } }
+puts white{ bold{ "Worse is better" } } + white{ ": Design for simplicity." } + black{ bold{ " - Richard P. Gabriel, 'Lisp: Good News, Bad News, How to Win Big' (1989)" } }
+puts white{ bold{ "Uniform Access Principle" } } + white{ ": Services should be offered through uniform interfaces, regardless of internal implementation." } + black{ bold{ " - Bertrand Meyer" } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
