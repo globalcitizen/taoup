@@ -218,7 +218,7 @@ puts white{ bold{ "Niven's Sixth Law of Writing" } } + white{ ": Everybody talks
 
 puts "----- randoms on distribution -----"
 # 90/90 aka. 'Rule of Credibility'
-puts white{ bold{ "90:90 Rule (Rule of Credibility)" } } + white{ ": The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time." } + black{ " - Tom Cargill, Bell Labs, as popularized by Jon Bentley's 'Programming Pearls' column, 'Communications of the ACM' (September 1985)" }
+puts white{ bold{ "90:90 Rule (Rule of Credibility)" } } + white{ ": The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time." } + black{ bold{ " - Tom Cargill, Bell Labs, as popularized by Jon Bentley's 'Programming Pearls' column, 'Communications of the ACM' (September 1985)" } }
 
 # 80/20 aka. 'Pareto Principle'
 puts white{ bold{ "80:20 Rule (Pareto Principle)" } } + white{ ": 80% of the state of the system derives from 20% of the causes." } + black{ bold{ " - Italian economist Vilfredo Pareto (1906)" } }
