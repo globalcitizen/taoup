@@ -159,6 +159,12 @@ puts white{ bold{ "Those who do not forget the past are masters of the future." 
 # re-sectionize
 puts "----- eponymous randoms -----"
 
+# brewer's theorem (cap theorem)
+puts white{ bold{ "CAP Theorem (Brewer's Theorem)" } } + white{ ': it is impossible for a distributed computer system to simultaneously provide Consistency (all nodes see the same data at the same time), Availability (a guarantee that every request receives a response about whether it was successful or failed) and Partition tolerance (the system continues to operate despite arbitrary message loss or failure of part of the system)' } + black{ bold{ " - Eric Brewer, Symposium on Principles of Distributed Computing (PODC) (2000)" } }
+puts white{ bold{ "CAP Theorem (Brewer's Theorem) - Clarification 1" } } + white{ ": Because Partitions are rare, there is little reason to forfeit Consistency or Availability when the system is not partitioned." } + black{ bold{ " - Eric Brewer, IEEE Computer Society 'Computer' Magazine (2012)" } }
+puts white{ bold{ "CAP Theorem (Brewer's Theorem) - Clarification 2" } } + white{ ": The choice between Consistency and Availability can occur many times within the same system at very fine granularity; not only can subsystems make different choices, but the choice can change according to the operation or even the specific data or user involved." } + black{ bold{ " - Eric Brewer, IEEE Computer Society 'Computer' Magazine (2012)" } }
+puts white{ bold{ "CAP Theorem (Brewer's Theorem) - Clarification 3" } } + white{ ": All three properties (Consistency, Availability, Partition tolerance) are more continuous than binary. Availability is obviously continuous from 0 to 100 percent, but there are also many levels of Consistency, and even Partitions have nuances, including disagreement within the system about whether a Partition exists." } + black{ bold{ " - Eric Brewer, IEEE Computer Society 'Computer' Magazine (2012)" } }
+
 # conway's law
 puts white{ bold{ 'Conway\'s Law' } } + white{ ': Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.' } + black{ bold{ " - Melvin Conway, 'National Symposium on Modular Programming', 1968" } }
 puts white{ bold{ 'The organization of the software and the organization of the software team will be congruent.' } } + black{ bold{ " - Eric S. Raymond, paraphrasing Conway's Law in 'The New Hacker's Dictionary'" } }
