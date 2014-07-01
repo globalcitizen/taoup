@@ -64,6 +64,8 @@ puts white{ bold{ "Rule 3.14" } } + white{ ": Nothing gets standardised until th
 puts white{ bold{ "Optimization considered harmful" } } + white{ ": In particular, optimization introduces complexity, and as well as introducing tighter coupling between components and layers." } + black{ bold{ " - RFC3439" } }
 puts white{ bold{ "Law of Diminishing Returns" } } + white{ ": If one factor of production is increased while the others remain constant, the overall returns will relatively decrease after a certain point." } + black{ bold{ " - W. J. Spillman and E. Lang (1924)" } }
 puts white{ bold{ "Upgrade cost of network complexity" } } + white{ ": The Internet has smart edges ... and a simple core. Adding an new Internet service is just a matter of distributing an application ... Compare this to voice, where one has to upgrade the entire core." } + black{ bold{ " - RFC3439 (2002)" } } 
+puts white{ bold{ "Lest men suspect your tale untrue, keep probability in view." } } + black{ bold{ " - John Gay (1727)" } }
+puts white{ bold{ "For every proverb, there is an equal and opposite proverb." } } + black{ bold{ " - Philip Wadler (2011-03-23)" } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
