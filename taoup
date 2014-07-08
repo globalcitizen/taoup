@@ -150,6 +150,10 @@ puts white{ bold{ 'Are We Certain Yet?' } } + white{ ' Towards a Phenomenal Acco
 puts white{ bold{ 'Acyclic dependencies principle' } } + white{ ': Avoid infinite loops.' }
 puts white{ bold{ 'Convention over configuration' } } + white{ ': Simplify normal use cases, without necessarily sacrificing flexibility.' }
 puts white{ bold{ "Atwood's Law" } } + white{ ": Any software that can be written in JavaScript will eventually be written in JavaScript." } + black{ bold{ " - Jeff Atwood" } }
+puts white{ bold{ "Everything of importance has been said before" } } + white{ " by somebody who did not discover it." } + black{ bold{ " - Alfred North Whitehead" } }
+puts white{ bold{ "Gobbledygook." } } + black{ bold{ " - Congressman Maury Maverick (1944); grandson of Samuel Augustus Maverick, originator of the term 'maverick'." } }
+puts white{ bold{ "AI is whatever hasn't been done yet." } } + black{ bold{ " - Douglas Hofstadter (1980)" } }
+puts white{ bold{ "The simple things you see are all complicated." } } + black{ bold{ " - 'Substitute', song by The Who (1966)" } }
 
 # randoms on time
 puts "----- randoms on time -----"
@@ -160,6 +164,12 @@ puts white{ bold{ "Those who do not forget the past are masters of the future." 
 
 # re-sectionize
 puts "----- eponymous randoms -----"
+
+# stigler's law
+puts white{ bold{ "Stigler's Law of Eponymy" } } + white{ ": No scientific discovery is named after its original discoverer." } + black{ bold{ " - Stephen Sigler, statistician (but attributed to Robert K. Merton, sociologist)" } }
+
+# tesler's law
+puts white{ bold{ "Tesler's Law of Conservation of Complexity" } } + white{ ": Every application has an inherent amount of irreducible complexity. The only question is who will have to deal with it - the user, the application developer, or the platform developer?" } + black{ bold{ " - Larry Tesler (ca. 1984)" } }
 
 # brewer's theorem (cap theorem)
 puts white{ bold{ "CAP Theorem (Brewer's Theorem)" } } + white{ ': it is impossible for a distributed computer system to simultaneously provide Consistency (all nodes see the same data at the same time), Availability (a guarantee that every request receives a response about whether it was successful or failed) and Partition tolerance (the system continues to operate despite arbitrary message loss or failure of part of the system)' } + black{ bold{ " - Eric Brewer, Symposium on Principles of Distributed Computing (PODC) (2000)" } }
@@ -176,7 +186,7 @@ puts white{ 'If the parts of an organization (e.g. teams, departments, or subdiv
 puts white{ bold{ "Adding manpower to a late software project makes it later." } } + white{ " Nine women can't make a baby in one month." } + black{ bold{ " - Fred Brooks, 'The Mythical Man-Month' (1975)" } }
 
 # miller's law
-puts white{ bold{ "All discussions of incremental updates will eventually trend towards proposals for large scale redesigns, feature additions or replacements." } } + black{ bold{ " - Mike Beltzner, after Dave Miller of Bugzilla" } }
+puts white{ bold{ "Miller's Law" } } + white{ ": All discussions of incremental updates will eventually trend towards proposals for large scale redesigns, feature additions or replacements." } + black{ bold{ " - Mike Beltzner (after Dave Miller of Bugzilla)" } }
 
 # wirth's law
 puts white{ bold{ "Wirth's Law" } } + white{ ": Software gets slower faster than hardware gets faster." } + black{ bold{ " - Niklaus Wirth (1995)" } }
@@ -197,6 +207,9 @@ puts white{ bold{ "Hofstadter's Law" } } + white{ ": It always takes longer than
 
 # classen's law
 puts white{ bold{ "Classen's Law" } } + white{ ": Usefulness = log(Technology)" } + black{ bold{ " - Theo A. C. M. Claasen, CTO of Philips Semiconductors (1999)" } }
+
+# moravec's paradox
+puts white{ bold{ "Moravec's Paradox" } } + white{ ": Contrary to traditional assumptions, high-level reasoning requires very little computation, but low-level sensorimotor skills require enormous computational resources." } + black{ bold{ " - Hans Moravec, Rodney Brooks, Marvin Minsky et al. (1980s)" } }
 
 # arthur c. clarke
 puts "----- Arthur C. Clarke -----"
@@ -273,6 +286,11 @@ puts white{ "Pike's 2nd Rule" } + white{ bold{ ": Measure." } } + white{ " Don't
 puts white{ "Pike's 3rd Rule" } + white{ bold{ ": Fancy algorithms are slow when " } } + white{ "n" } + white{ bold{ " is small, and " } } + white{ 'n' } + white{ bold{ " is usually small." } } + white{ " Fancy algorithms have big constants. Until you know that n is frequently going to be big, don't get fancy." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
 puts white{ "Pike's 4th Rule" } + white{ bold{ ": Fancy algorithms are buggier than simple ones, and they're much harder to implement." } } + white{ " Use simple algorithms as well as simple data structures." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
 puts white{ "Pike's 5th Rule" } + white{ bold{ ": Data dominates." } } + white{ " If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. Data structures, not algorithms, are central to programming." } + black{ bold{ ' - Rob Pike, Notes on C Programming (1989)' } }
+
+# marvin minsky (MIT AI lab)
+puts '--- marvin minsky ---'
+puts white{ "In general, " } + white{ bold{ "we're least aware of what our minds do best." } } + black{ bold{ ' - Marvin Minsky, MIT AI lab co-founder' } }
+puts white{ bold{ "We're more aware of simple processes that don't work well than of complex ones that work flawlessly." } } + black{ bold{ ' - Marvin Minsky, MIT AI lab co-founder' } }
 
 # hackers of history
 puts '--- Hackers of History ---'
