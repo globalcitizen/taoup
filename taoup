@@ -149,11 +149,22 @@ puts white{ bold{ 'Kids with imaginary friends are wicked smaht.' } } + black{ b
 puts white{ bold{ 'Are We Certain Yet?' } } + white{ ' Towards a Phenomenal Account of Scepticism' } + black{ bold{ ' - Philosophy, University of St Andrews' } } # http://lolmythesis.com/post/71454789345/are-we-certain-yet-towards-a-phenomenal-account-of
 puts white{ bold{ 'Acyclic dependencies principle' } } + white{ ': Avoid infinite loops.' }
 puts white{ bold{ 'Convention over configuration' } } + white{ ': Simplify normal use cases, without necessarily sacrificing flexibility.' }
-puts white{ bold{ "Atwood's Law" } } + white{ ": Any software that can be written in JavaScript will eventually be written in JavaScript." } + black{ bold{ " - Jeff Atwood" } }
 puts white{ bold{ "Everything of importance has been said before" } } + white{ " by somebody who did not discover it." } + black{ bold{ " - Alfred North Whitehead" } }
 puts white{ bold{ "Gobbledygook." } } + black{ bold{ " - Congressman Maury Maverick (1944); grandson of Samuel Augustus Maverick, originator of the term 'maverick'." } }
 puts white{ bold{ "AI is whatever hasn't been done yet." } } + black{ bold{ " - Douglas Hofstadter (1980)" } }
 puts white{ bold{ "The simple things you see are all complicated." } } + black{ bold{ " - 'Substitute', song by The Who (1966)" } }
+puts white{ bold{ "Let us be lazy in everything, except in loving and drinking, except in being lazy." } } + black{ bold{ " - Gotthold Ephraim Lessing (1729-1781)" } }
+puts white{ bold{ "It is the mark of great people to treat trifles as trifles and important matters as important." } } + black{ bold{ " - Gotthold Ephraim Lessing (1729-1781)" } }
+puts white{ bold{ "The worst of superstitions is to think one's own most bearable." } } + black{ bold{ " - Gotthold Ephraim Lessing (1729-1781), 'Nathan the Wise' (1779), Act IV, scene II" } }
+puts white{ bold{ "It is infinitely difficult to know when and where one should stop, and for all but one in thousands the goal of their thinking is the point at which they have become tired of thinking." } } + black{ bold{ " - Gotthold Ephraim Lessing (1729-1781)" } }
+puts white{ bold{ "Laziness is the mother of efficiency." } } + black{ bold{ " - Marian Propp" } }
+puts white{ bold{ "Human nature is above all things lazy." } } + black{ bold{ " - Harriet Beecher Stowe (1811-1896)" } }
+puts white{ bold{ "Law of Communications" } } + white{ ": The inevitable result of improved and enlarged communications between different levels in a hierarchy is a vastly increased area of misunderstanding." }
+puts white{ bold{ "Rule of Defactualization" } } + white{ ": Information deteriorates upward through bureaucracies." }
+puts white{ bold{ "Motto of the Electrical Engineer" } } + white{ ": Working hardware is a lot like an erect penis; it stays up as long as you don't fuck with it." }
+puts white{ bold{ "Fifth Rule" } } + white{ ": You have taken yourself too seriously." }
+puts white{ bold{ "Futility Principle" } } + white{ ": No experiment is ever a complete failure; it can always serve as a bad example." }
+puts white{ bold{ "One Page Principle" } } + white{ ": A specification that will not fit on one page cannot be understood." }
 
 # randoms on time
 puts "----- randoms on time -----"
@@ -161,15 +172,35 @@ puts white{ bold{ "He who does not have a past has no present or future." } } + 
 puts white{ bold{ "Man's most prudent counselor is time." } } + black{ bold{ " - Publilius Syrus (first century BCE)" } }
 puts white{ bold{ "There is nothing which the lapse of time will not either extinguish or improve." } } + black{ bold{ " - Publilius Syrus (first century BCE)" } }
 puts white{ bold{ "Those who do not forget the past are masters of the future." } } + black{ bold{ " - Sima Qian (second century BCE)" } }
+puts white{ bold{ "Hanson's Treatment of Time" } } + white{ ": There are never enough hours in a day, but always too many days before Saturday." }
 
 # re-sectionize
 puts "----- eponymous randoms -----"
 
-# stigler's law
-puts white{ bold{ "Stigler's Law of Eponymy" } } + white{ ": No scientific discovery is named after its original discoverer." } + black{ bold{ " - Stephen Sigler, statistician (but attributed to Robert K. Merton, sociologist)" } }
+# abrams' principle
+puts white{ bold{ "Abrams' Principle" } } + white{ ": The shortest distance between two points is off the wall." }
 
-# tesler's law
-puts white{ bold{ "Tesler's Law of Conservation of Complexity" } } + white{ ": Every application has an inherent amount of irreducible complexity. The only question is who will have to deal with it - the user, the application developer, or the platform developer?" } + black{ bold{ " - Larry Tesler (ca. 1984)" } }
+# allen's axiom / cahn's axiom
+#puts white{ bold{ "Allen's Axiom" } } + white{ ": When all else fails, read the directions." }
+puts white{ bold{ "Cahn's Axiom" } } + white{ ": When all else fails, read the instructions." }
+
+# anthony's law of force
+puts white{ bold{ "Anthony's Law of Force" } } + white{ ": Don't force it; get a larger hammer." }
+
+# arnold's law of documentation
+puts white{ bold{ "Arnold's Law of Documentation" } } + white{ ": If it should exist, it doesn't.  If it does exist, it's out of date.  Only documentation for useless programs transcends the first two laws." }
+
+# atwood's law
+puts white{ bold{ "Atwood's Law" } } + white{ ": Any software that can be written in JavaScript will eventually be written in JavaScript." } + black{ bold{ " - Jeff Atwood" } }
+
+# boob's law
+puts white{ bold{ "Boob's Law" } } + white{ ": You always find something in the last place you look." }
+
+# boren's laws
+puts white{ bold{ "Boren's Laws" } } + white{ ": When in charge, ponder. When in trouble, delegate. When in doubt, mumble." }
+
+# bradley's bromide
+puts white{ bold{ "Bradley's Bromide" } } + white{ ": If computers get too powerful, we can organize them into a committee -- that will do them in." }
 
 # brewer's theorem (cap theorem)
 puts white{ bold{ "CAP Theorem (Brewer's Theorem)" } } + white{ ': it is impossible for a distributed computer system to simultaneously provide Consistency (all nodes see the same data at the same time), Availability (a guarantee that every request receives a response about whether it was successful or failed) and Partition tolerance (the system continues to operate despite arbitrary message loss or failure of part of the system)' } + black{ bold{ " - Eric Brewer, Symposium on Principles of Distributed Computing (PODC) (2000)" } }
@@ -177,21 +208,74 @@ puts white{ bold{ "CAP Theorem (Brewer's Theorem) - Clarification 1" } } + white
 puts white{ bold{ "CAP Theorem (Brewer's Theorem) - Clarification 2" } } + white{ ": The choice between Consistency and Availability can occur many times within the same system at very fine granularity; not only can subsystems make different choices, but the choice can change according to the operation or even the specific data or user involved." } + black{ bold{ " - Eric Brewer, IEEE Computer Society 'Computer' Magazine (2012)" } }
 puts white{ bold{ "CAP Theorem (Brewer's Theorem) - Clarification 3" } } + white{ ": All three properties (Consistency, Availability, Partition tolerance) are more continuous than binary. Availability is obviously continuous from 0 to 100 percent, but there are also many levels of Consistency, and even Partitions have nuances, including disagreement within the system about whether a Partition exists." } + black{ bold{ " - Eric Brewer, IEEE Computer Society 'Computer' Magazine (2012)" } }
 
+# brooks' law
+puts white{ bold{ "Adding manpower to a late software project makes it later." } } + white{ " Nine women can't make a baby in one month." } + black{ bold{ " - Fred Brooks, 'The Mythical Man-Month' (1975)" } }
+
+# classen's law
+puts white{ bold{ "Classen's Law" } } + white{ ": Usefulness = log(Technology)" } + black{ bold{ " - Theo A. C. M. Claasen, CTO of Philips Semiconductors (1999)" } }
+
 # conway's law
 puts white{ bold{ 'Conway\'s Law' } } + white{ ': Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.' } + black{ bold{ " - Melvin Conway, 'National Symposium on Modular Programming', 1968" } }
 puts white{ bold{ 'The organization of the software and the organization of the software team will be congruent.' } } + black{ bold{ " - Eric S. Raymond, paraphrasing Conway's Law in 'The New Hacker's Dictionary'" } }
 puts white{ 'If the parts of an organization (e.g. teams, departments, or subdivisions) do not closely reflect the essential parts of the product, or if the relationship between organizations do not reflect the relationships between product parts, then the project will be in trouble... therefore: ' } + white{ bold{ 'Make sure the organization is compatible with the product architecture.' } } + black{ bold{ ' - James O. Coplien and Neil B. Harrison, paraphasing Conway\'s Law (2004)' } }
 
-# brooks' law
-puts white{ bold{ "Adding manpower to a late software project makes it later." } } + white{ " Nine women can't make a baby in one month." } + black{ bold{ " - Fred Brooks, 'The Mythical Man-Month' (1975)" } }
+# ducharm's axiom
+puts white{ bold{ "Ducharm's Axiom" } } + white{ ": If you view your problem closely enough you will recognize yourself as part of the problem." }
+
+# dykstra's observation
+puts white{ bold{ "Dykstra's Observation" } } + white{ ": If debugging is the process of removing bugs, then programming must be the process of putting them in." }
+
+# farber
+puts white{ bold{ "Farber's Rule" } } + white{ ": Necessity is the mother of strange bedfellows." }
+
+# farvour's law
+puts white{ bold{ "Farvour's Law of Debugging" } } + white{ ": There is always one more bug..." }
+
+# finagle's four laws
+puts white{ bold{ "Finagle's First Law" } } + white{ ": If an experiment works, something has gone wrong." }
+puts white{ bold{ "Finagle's Second Law" } } + white{ ": No matter what the anticipated result, there will always be someone eager to (a) misinterpret it, (b) fake it, or (c) believe it happened according to his own pet theory." }
+puts white{ bold{ "Finagle's Third Law" } } + white{ ": In any collection of data, the figure most obviously correct, beyond all need of checking, is the mistake." }
+puts white{ bold{ "Finagle's Fourth Law" } } + white{ ": Once a job is fouled up, anything done to improve it only makes it worse." }
+
+# fresco's discovery
+puts white{ bold{ "Fresco's Discovery" } } + white{ ": If you knew what you were doing you'd probably be bored." }
+
+# glib's fourth law
+puts white{ bold{ "Glib's Fourth Law of Unreliability" } } + white{ ": Investment in reliability will increase until it exceeds the probable cost of errors, or until someone insists on getting some useful work done." }
+
+# hlade's law .. appears to be a misattribution with no source available
+puts white{ bold{ "If you have a difficult task, give it to a lazy person" } } + white{ " - they will find an easier way to do it." } + black{ bold{ " - Walter Percy Chrysler (1875-1940), American industrialist" } }
+
+# hoare's law
+puts white{ bold{ "Hoare's Law of Large Problems" } } + white{ ": Inside every large problem is a small problem struggling to get out." }
+
+# howe's law
+puts white{ bold{ "Howe's Law" } } + white{ ": Everyone has a scheme that will not work." }
+
+# kinkler
+puts white{ bold{ "Kinkler's First Law" } } + white{ ": Responsibility always exceeds authority." }
+puts white{ bold{ "Kinkler's Second Law" } } + white{ ": All the easy problems have been solved." }
+
+# lazlo
+puts white{ bold{ "Lazlo's Chinese Relativity Axiom" } } + white{ ": No matter how great your triumphs or how tragic your defeats -- approximately one billion Chinese couldn't care less." }
+
+# maier's law
+puts white{ bold{ "Maier's Law" } } + white{ ": If the facts do not conform to the theory, they must be disposed of." }
+
+# meskimen's law
+puts white{ bold{ "Meskimen's Law" } } + white{ ": There's never time to do it right, but there's always time to do it over." }
 
 # miller's law
 puts white{ bold{ "Miller's Law" } } + white{ ": All discussions of incremental updates will eventually trend towards proposals for large scale redesigns, feature additions or replacements." } + black{ bold{ " - Mike Beltzner (after Dave Miller of Bugzilla)" } }
 
-# wirth's law
-puts white{ bold{ "Wirth's Law" } } + white{ ": Software gets slower faster than hardware gets faster." } + black{ bold{ " - Niklaus Wirth (1995)" } }
-#puts white{ bold{ "May's Law" } } + white{ ": Software efficiency halves every 18 months, compensating Moore's Law." } + black{ bold{ " - Restatement of Wirth's Law after David May." } }
-#puts white{ bold{ "The speed of software halves every 18 months." } } + black{ bold{ " - Restatement of Wirth's Law after Bill Gates, founder of Microsoft." } }
+# moravec's paradox
+puts white{ bold{ "Moravec's Paradox" } } + white{ ": Contrary to traditional assumptions, high-level reasoning requires very little computation, but low-level sensorimotor skills require enormous computational resources." } + black{ bold{ " - Hans Moravec, Rodney Brooks, Marvin Minsky et al. (1980s)" } }
+
+# mosher's law
+puts white{ bold{ "Mosher's Law of Software Engineering" } } + white{ ": Don't worry if it doesn't work right. If everything did, you'd be out of a job." }
+
+# ogden's law
+puts white{ bold{ "Ogden's Law" } } + white{ ": The sooner you fall behind, the more time you have to catch up." }
 
 # parkinson's law
 puts white{ bold{ "Parkinson's Law" } } + white{ ": Work expands so as to fill the time available for its completion." } + 
@@ -202,14 +286,27 @@ puts white{ bold{ "Generalized form of Parkinson's Law" } } + white{ ": The dema
 puts white{ bold{ "Principle of Comitology" } } + white{ ": Committees, government cabinets, and other such bodies are created and eventually grow irrelevant (or are initially designed as such)." } + black{ bold{ " - Cyril Northcote Parkinson, British civil servant" } }
 puts white{ bold{ "Parkinson's Conjecture" } } + white{ ": Committees with a membership exceeding a number between 19.9 and 22.4 are ineffective." } + black{ bold{ " - Cyril Northcote Parkinson, British civil servant" } }
 
+# peter's law
+puts white{ bold{ "Peter's Law of Substitution" } } + white{ ": Look after the molehills, and the mountains will look after themselves." }
+
+# roman rule
+puts white{ bold{ "Roman Rule" } } + white{ ": The one who says it cannot be done should never interrupt the one who is doing it." }
+
+# stigler's law
+puts white{ bold{ "Stigler's Law of Eponymy" } } + white{ ": No scientific discovery is named after its original discoverer." } + black{ bold{ " - Stephen Sigler, statistician (but attributed to Robert K. Merton, sociologist)" } }
+
+# tesler's law
+puts white{ bold{ "Tesler's Law of Conservation of Complexity" } } + white{ ": Every application has an inherent amount of irreducible complexity. The only question is who will have to deal with it - the user, the application developer, or the platform developer?" } + black{ bold{ " - Larry Tesler (ca. 1984)" } }
+
+# wirth's law (and disabled restatements)
+puts white{ bold{ "Wirth's Law" } } + white{ ": Software gets slower faster than hardware gets faster." } + black{ bold{ " - Niklaus Wirth (1995)" } }
+#puts white{ bold{ "May's Law" } } + white{ ": Software efficiency halves every 18 months, compensating Moore's Law." } + black{ bold{ " - Restatement of Wirth's Law after David May." } }
+#puts white{ bold{ "The speed of software halves every 18 months." } } + black{ bold{ " - Restatement of Wirth's Law after Bill Gates, founder of Microsoft." } }
 # hofstader's law
 puts white{ bold{ "Hofstadter's Law" } } + white{ ": It always takes longer than you expect, even when you take into account Hofstadter's Law." } + black{ bold{ " - Douglas Hofstadter, 'Gödel, Escher, Bach: An Eternal Golden Braid' (1979)" } }
 
-# classen's law
-puts white{ bold{ "Classen's Law" } } + white{ ": Usefulness = log(Technology)" } + black{ bold{ " - Theo A. C. M. Claasen, CTO of Philips Semiconductors (1999)" } }
-
-# moravec's paradox
-puts white{ bold{ "Moravec's Paradox" } } + white{ ": Contrary to traditional assumptions, high-level reasoning requires very little computation, but low-level sensorimotor skills require enormous computational resources." } + black{ bold{ " - Hans Moravec, Rodney Brooks, Marvin Minsky et al. (1980s)" } }
+# zymurgy
+puts white{ bold{ "Zymurgy's First Law of Evolving Systems Dynamics" } } + white{ ": Once you open a can of worms, the only way to recan them is to use a larger can." }
 
 # arthur c. clarke
 puts "----- Arthur C. Clarke -----"
@@ -228,7 +325,6 @@ puts white{ bold{ "Kranzberg's 3rd Law of Technology" } } + white{ ": Technology
 puts white{ bold{ "Kranzberg's 4th Law of Technology" } } + white{ ": Although technology might be a prime element in many public issues, nontechnical factors take precedence in technology-policy decisions." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
 puts white{ bold{ "Kranzberg's 5th Law of Technology" } } + white{ ": All history is relevant, but the history of technology is the most relevant." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
 puts white{ bold{ "Kranzberg's 6th Law of Technology" } } + white{ ": Technology is a very human activity - and so is the history of technology." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
-
 
 # larry niven
 puts "----- Larry Niven ------"
