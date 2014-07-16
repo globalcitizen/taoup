@@ -353,6 +353,10 @@ puts white{ bold{ "80:20 Rule (Pareto Principle) - Bug Fixing Corollary" } } + w
 puts white{ bold{ "Law of the Vital Few" } } + white{ ": 20% of people do 80% of the work." } + black{ bold{ " - Anonymous" } }
 puts white{ bold{ "20 percent of the code has 80 percent of the errors." } } + white{ " Find them, fix them!" } + black{ bold{ " - Lowell Arthur" } }
 
+# law of probability dispersal
+puts white{ bold{ "Law of Probability Dispersal" } } + white{ ": Whatever it is that hits the fan will not be evenly distributed." }
+
+
 # randoms - change
 puts "------ randoms on change ------"
 puts white{ bold{ "A rolling stone gathers no moss." } } + black{ bold{ " - Condensed form of Publilius Syrus' (first century BCE) observation that people who are always moving, with no roots in one place, avoid responsibilities and cares. Another interpretation equates 'moss' to 'stagnation'; stagnant people lack fresh ideas and creativity." } }
