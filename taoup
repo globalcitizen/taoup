@@ -165,6 +165,7 @@ puts white{ bold{ "Motto of the Electrical Engineer" } } + white{ ": Working har
 puts white{ bold{ "Fifth Rule" } } + white{ ": You have taken yourself too seriously." }
 puts white{ bold{ "Futility Principle" } } + white{ ": No experiment is ever a complete failure; it can always serve as a bad example." }
 puts white{ bold{ "One Page Principle" } } + white{ ": A specification that will not fit on one page cannot be understood." }
+puts white{ bold{ "The most powerful dehumanizing machine is not technology but the social machine" } } + white{ ", ie. The formation of command structures to make humans emulate technology in order to build pyramids and skyscrapers..." } + black{ bold{ " - Lewis Mumford (1967)" } }
 
 # randoms on time
 puts "----- randoms on time -----"
