@@ -419,3 +419,4 @@ puts white{ 'Others wiser than I have pointed out that ' } + white{ bold{ 'natur
 # randoms - writing & software
 puts '--- writing with applicability to software ---'
 puts white{ "I was learning to extend myself, to make imprints of my inner life onto the outer reality of the page. Words had created visual fields for me—allowing endless possibilities for expressing meaning." } + black{ bold{ " - Pakistani-American poet Shadab Zeest Hashmi, on his development of calligraphic capacity." } }
+puts white{ bold{ "The relation of language to painting is an infinite relation." } } + black{ bold{ " - 'Les Mots et les choses: Une archéologie des sciences humaines', Michel Foucault (1926-1984)" } }
