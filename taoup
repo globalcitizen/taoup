@@ -68,6 +68,7 @@ puts white{ bold{ "Lest men suspect your tale untrue, keep probability in view."
 puts white{ bold{ "For every proverb, there is an equal and opposite proverb." } } + black{ bold{ " - Philip Wadler (2011-03-23)" } }
 puts white{ bold{ "A distributed system is one where the failure of a machine you've never heard of stops you from getting any work done." } } + black{ bold{ " - Leslie Lamport" } }
 puts white{ bold{ "Fast, cheap, reliable" } } + white{ ": choose two." } + black{ bold{ " - Old engineering proverb" } }
+puts white{ bold{ "Trust is the availability of effective recourse." } + black{ bold{ " - Leslie Lamport" } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
