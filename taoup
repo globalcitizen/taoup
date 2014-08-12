@@ -66,6 +66,8 @@ puts white{ bold{ "Law of Diminishing Returns" } } + white{ ": If one factor of 
 puts white{ bold{ "Upgrade cost of network complexity" } } + white{ ": The Internet has smart edges ... and a simple core. Adding an new Internet service is just a matter of distributing an application ... Compare this to voice, where one has to upgrade the entire core." } + black{ bold{ " - RFC3439 (2002)" } } 
 puts white{ bold{ "Lest men suspect your tale untrue, keep probability in view." } } + black{ bold{ " - John Gay (1727)" } }
 puts white{ bold{ "For every proverb, there is an equal and opposite proverb." } } + black{ bold{ " - Philip Wadler (2011-03-23)" } }
+puts white{ bold{ "A distributed system is one where the failure of a machine you've never heard of stops you from getting any work done." } } + black{ bold{ " - Leslie Lamport" } }
+puts white{ bold{ "Fast, cheap, reliable" } } + white{ ": choose two." } + black{ bold{ " - Old engineering proverb" } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
