@@ -69,8 +69,8 @@ puts white{ bold{ "For every proverb, there is an equal and opposite proverb." }
 puts white{ bold{ "A distributed system is one where the failure of a machine you've never heard of stops you from getting any work done." } } + black{ bold{ " - Leslie Lamport" } }
 puts white{ bold{ "Fast, cheap, and reliable" } } + white{ ": choose two." } + black{ bold{ " - Old engineering proverb" } }
 puts white{ bold{ "Freedom, security, and convenience" } } + white{ ": choose two." } + black{ bold{ " - Unknown" } }
-puts white{ bold{ "Trust is the availability of effective recourse." } } + black{ bold{ " - Leslie Lamport (2014)" } }
-puts white{ bold{ "Security engineering is about tolerable failure modes." } } + white{ "  Determine which failure modes are tolerable and which are not, and design around not having the intolerable ones." } + black{ bold{ " - Leslie Lamport (2014)" } }
+puts white{ bold{ "Trust is the availability of effective recourse." } } + black{ bold{ " - Dan Geer (2014)" } }
+puts white{ bold{ "Security engineering is about tolerable failure modes." } } + white{ "  Determine which failure modes are tolerable and which are not, and design around not having the intolerable ones." } + black{ bold{ " - Dan Geer (2014)" } }
 puts white{ bold{ "CIA triad" } } + white{ ": Confidentiality, Integrity, Availability." } + black{ bold{ " - Famous summary of computer security concerns." } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
