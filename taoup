@@ -67,8 +67,11 @@ puts white{ bold{ "Upgrade cost of network complexity" } } + white{ ": The Inter
 puts white{ bold{ "Lest men suspect your tale untrue, keep probability in view." } } + black{ bold{ " - John Gay (1727)" } }
 puts white{ bold{ "For every proverb, there is an equal and opposite proverb." } } + black{ bold{ " - Philip Wadler (2011-03-23)" } }
 puts white{ bold{ "A distributed system is one where the failure of a machine you've never heard of stops you from getting any work done." } } + black{ bold{ " - Leslie Lamport" } }
-puts white{ bold{ "Fast, cheap, reliable" } } + white{ ": choose two." } + black{ bold{ " - Old engineering proverb" } }
-puts white{ bold{ "Trust is the availability of effective recourse." } + black{ bold{ " - Leslie Lamport" } }
+puts white{ bold{ "Fast, cheap, and reliable" } } + white{ ": choose two." } + black{ bold{ " - Old engineering proverb" } }
+puts white{ bold{ "Freedom, security, and convenience" } } + white{ ": choose two." } + black{ bold{ " - Unknown" } }
+puts white{ bold{ "Trust is the availability of effective recourse." } } + black{ bold{ " - Leslie Lamport (2014)" } }
+puts white{ bold{ "Security engineering is about tolerable failure modes." } } + white{ "  Determine which failure modes are tolerable and which are not, and design around not having the intolerable ones." } + black{ bold{ " - Leslie Lamport (2014)" } }
+puts white{ bold{ "CIA triad" } } + white{ ": Confidentiality, Integrity, Availability." } + black{ bold{ " - Famous summary of computer security concerns." } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
