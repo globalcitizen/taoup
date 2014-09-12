@@ -178,6 +178,7 @@ puts white{ bold{ "The most powerful dehumanizing machine is not technology but 
 puts "----- peter thiel -----"
 puts white{ bold{ "The eccentric university professor is a species that is going extinct fast." } } + black{ bold{ " - Peter Thiel (2014)" } }
 puts white{ bold{ "Most MBA's tend to be high extrovert/low conviction people" } } + white{ " - a combination that in my experience leads towards extremely herd-like thinking and behavior." } + black{ bold{ " - Peter Thiel (2014)" } }
+puts white{ bold{ "Most companies are killed by internal infighting, even though it may not seem like it." } } + black{ bold{ " - Peter Thiel" } }
 
 # randoms on time
 puts "----- randoms on time -----"
