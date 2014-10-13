@@ -189,6 +189,7 @@ puts white{ bold{ "Man's most prudent counselor is time." } } + black{ bold{ " -
 puts white{ bold{ "There is nothing which the lapse of time will not either extinguish or improve." } } + black{ bold{ " - Publilius Syrus (first century BCE)" } }
 puts white{ bold{ "Those who do not forget the past are masters of the future." } } + black{ bold{ " - Sima Qian (second century BCE)" } }
 puts white{ bold{ "Hanson's Treatment of Time" } } + white{ ": There are never enough hours in a day, but always too many days before Saturday." }
+puts white{ "Of course hardened mariners would have thrashed up through the night without a tremor, hardened mariners would have battled in stinging spray and sodden clothes, hardened mariners would have reached a haven as dawn was breaking. " } + white{ bold{ "What a terrible affliction, to be a hardened mariner!" } } + black{ bold{ " - W. I. B. Crealock, 'Vagabonding Under Sail' (1951)" } }
 
 # re-sectionize
 puts "----- eponymous randoms -----"
