@@ -187,6 +187,7 @@ puts white{ bold{ "Futility Principle" } } + white{ ": No experiment is ever a c
 puts white{ bold{ "One Page Principle" } } + white{ ": A specification that will not fit on one page cannot be understood." }
 puts white{ bold{ "The most powerful dehumanizing machine is not technology but the social machine" } } + white{ ", ie. The formation of command structures to make humans emulate technology in order to build pyramids and skyscrapers..." } + black{ bold{ " - Lewis Mumford (1967)" } }
 puts white{ "When things are not going well, " } + white{ bold{ 'until you get the truth out on the table' } } + white{ ', no matter how ugly, ' } + white{ bold{ 'you are not in a position to deal with it.' } } + black{ bold{ ' - Bob Seelert, chairman of the global advertising firm Saatchi and Saatchi' } }
+puts white{ bold{ "The reasons you get into trouble become the reasons you don’t get out of it." } } + black{ bold{ " - Old saying in the aviation industry." } }
 
 # peter thiel on tech/business/society
 puts "----- peter thiel -----"
