@@ -73,6 +73,7 @@ puts white{ bold{ "Freedom, security, and convenience" } } + white{ ": choose tw
 puts white{ bold{ "Trust is the availability of effective recourse." } } + black{ bold{ " - Dan Geer (2014)" } }
 puts white{ bold{ "Security engineering is about tolerable failure modes." } } + white{ "  Determine which failure modes are tolerable and which are not, and design around not having the intolerable ones." } + black{ bold{ " - Dan Geer (2014)" } }
 puts white{ bold{ "CIA triad" } } + white{ ": Confidentiality, Integrity, Availability." } + black{ bold{ " - Famous summary of computer security concerns." } }
+puts white{ "Some people when faced with a problem think: \"I know, I'll use distributed computing\"." } + white{ bold{ " Now they have N^2 problems." } } + black{ bold{ " - @jamesiry" } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
