@@ -189,6 +189,7 @@ puts white{ bold{ "The most powerful dehumanizing machine is not technology but 
 puts white{ "When things are not going well, " } + white{ bold{ 'until you get the truth out on the table' } } + white{ ', no matter how ugly, ' } + white{ bold{ 'you are not in a position to deal with it.' } } + black{ bold{ ' - Bob Seelert, chairman of the global advertising firm Saatchi and Saatchi' } }
 puts white{ bold{ "The reasons you get into trouble become the reasons you don’t get out of it." } } + black{ bold{ " - Old saying in the aviation industry." } }
 puts white{ "It seems that we are locked into a spiral in which " } + white{ bold{ "poor human performance begets automation, which worsens human performance, which begets increasing automation" } } + white{ ". The pattern is common to our time but is acute in aviation. Air France 447 was a case in point." } + black{ bold{ " - William Langewiesche, 'The Human Factor: Should Airplanes be Flying Themselves?', Vanity Fair, October 2014" } }
+puts white{ "The dynamic has become inevitable. " } + white{ bold{ "There will still be accidents, but at some point we will have only the machines to blame." } } + black{ bold{ " - William Langewiesche, 'The Human Factor: Should Airplanes be Flying Themselves?', Vanity Fair, October 2014"} }
 
 # peter thiel on tech/business/society
 puts "----- peter thiel -----"
