@@ -470,3 +470,4 @@ puts white{ bold{ "The relation of language to painting is an infinite relation.
 puts white{ bold{ "The artist is not the transcriber of the world" } } + white{ ", he is its rival." } + black{ bold{ " - L'Intemporel (Third volume of 'The Metamorphosis of the Gods'), André Malraux (1957)" } }
 puts white{ bold{ "Digression is secular revelation." } } + black{ bold{ " - Adam Phillips, psychoanalyst and author" } }
 puts white{ 'A man who lies to himself, and believes his own lies, becomes unable to recognize truth, either in himself or in anyone else.' } + black{ bold{ ' - Fyodor Dostoevsky' } }
+puts white{ 'Once you\'ve got some words looking back at you, you can take two or three — or throw them away and look for others.' } + black{ bold{ ' - Bernard Malamud' } }
