@@ -142,6 +142,17 @@ puts white{ bold{ "Strong coupling turns out to be a particular problem in compu
 puts white{ "Designers who don't believe in Murphy's Law," } + white{ bold{ " that which can happen will happen" } } + white{ ", are irresponsible." } + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
 puts white{ bold{ "The simplest idea of stability is constancy, or invariance." } } + white{ " A thing that has no possibility to change is, by definition, immune to external pertubations. [...] Invariance is an important concept, but also one that has been shattered by modern ideas of physics." } + white{ bold{ " What was once considered invariant, is usually only apparently invariant on a certain scale" } } + white{ ". When one looks in more detail, we find that we may only have invariance of an average." } + black{ bold{ " - Mark Burgess, In Search of Certainty: The Science of Our Information Infrastructure (2013)" } }
 
+# earl wiener
+puts '--- earl wiener ---'
+puts white{ bold{ "Wiener's First Law" } } + white{ ": Every device creates its own opportunity for human error." } + black{ bold{ " - Earl Wiener, Professor of Engineering, University of Miami (1980)" } }
+puts white{ bold{ "Wiener's Second Law" } } + white{ ": Exotic devices create exotic problems." } + black{ bold{ " - Earl Wiener, Professor of Engineering, University of Miami (1980)" } }
+puts white{ bold{ "Wiener's Third Law" } } + white{ ": Digital devices tune out small errors while creating opportunities for large errors." } + black{ bold{ " - Earl Wiener, Professor of Engineering, University of Miami (1980)" } }
+puts white{ bold{ "Wiener's Fourth Law" } } + white{ ": Invention is the mother of necessity." } + black{ bold{ " - Earl Wiener, Professor of Engineering, University of Miami (1980)" } }
+puts white{ bold{ "Wiener's Fifth Law" } } + white{ ": Some problems have no solution." } + black{ bold{ " - Earl Wiener, Professor of Engineering, University of Miami (1980)" } }
+puts white{ bold{ "Wiener's Sixth Law" } } + white{ ": It takes an airplane to bring out the worst in a pilot." } + black{ bold{ " - Earl Wiener, Professor of Engineering, University of Miami (1980)" } }
+puts white{ bold{ "Wiener's Seventh Law" } } + white{ ": Whenever you solve a problem, you usually create one. You can only hope that the one you created is less critical than the one you eliminated." } + black{ bold{ " - Earl Wiener, Professor of Engineering, University of Miami (1980)" } }
+puts white{ bold{ "Wiener's Eighth and Final Law" } } + white{ ": You can never be too careful about what you put into a digital flight-guidance system." } + black{ bold{ " - Earl Wiener, Professor of Engineering, University of Miami (1980)" } }
+
 # randoms
 puts '--- randoms ----'
 puts white{ bold{ 'Decisiveness is overrated.' } } + black{ bold{ ' - Philosophy, University of California, Santa Cruz' } } # via http://lolmythesis.com/post/71394379186/decisiveness-is-overrated
@@ -338,7 +349,8 @@ puts white{ bold{ "Clarke's Third law" } } + white{ ": Any sufficiently advanced
 # kranzberg
 puts "----- Melvin Kranzberg -----"
 puts white{ bold{ "Kranzberg's 1st Law of Technology" } } + white{ ": Technology is neither good nor bad; nor is it neutral." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
-puts white{ bold{ "Kranzberg's 2nd Law of Technology" } } + white{ ": Invention is the mother of necessity." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
+# removed ... this law is previously attributable to earl wiener (1980) as wiener's fourth law
+#puts white{ bold{ "Kranzberg's 2nd Law of Technology" } } + white{ ": Invention is the mother of necessity." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
 puts white{ bold{ "Kranzberg's 3rd Law of Technology" } } + white{ ": Technology comes in packages, big and small." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
 puts white{ bold{ "Kranzberg's 4th Law of Technology" } } + white{ ": Although technology might be a prime element in many public issues, nontechnical factors take precedence in technology-policy decisions." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
 puts white{ bold{ "Kranzberg's 5th Law of Technology" } } + white{ ": All history is relevant, but the history of technology is the most relevant." } + black{ bold{ " - Melvin Kranzberg, 'Technology and Culture', Vol. 27, No. 3 (1986)" } }
