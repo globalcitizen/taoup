@@ -100,6 +100,10 @@ puts white{ "My basic mode of thinking hasn't changed: basically the idea that "
 # http://channel9.msdn.com/Events/Build/2014/3-642
 puts white{ bold{ "To think, you have to write." } } + white{ " If you're thinking without writing, you only think you're thinking." } + black{ bold{ " - Leslie Lamport" } }
 puts white{ bold{ "Writing requires thinking." } } + black{ bold{ " - Leslie Lamport" } }
+puts white{ bold{ "There are two models of reality that I find to be the most useful ones, especially when writing programs" } } + white{ ". The first is functions, and the second is sequences of states." } + black{ bold{ " - Leslie Lamport" } }
+puts white{ bold{ "All possible successor states" } } + white{ " of any state." } + black{ bold{ " - Leslie Lamport" } }
+puts white{ bold{ "Not knowing what a program should do means we have to think even harder" } } + white{ ", before we start coding." } + black{ bold{ " - Leslie Lamport" } }
+puts white{ bold{ "You write a spec to help you think about a problem" } } + white{ " before you write the code." } + black{ bold{ " - Leslie Lamport" } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
