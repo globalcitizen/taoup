@@ -106,6 +106,7 @@ puts white{ bold{ "Not knowing what a program should do means we have to think e
 puts white{ bold{ "You write a spec to help you think about a problem" } } + white{ " before you write the code." } + black{ bold{ " - Leslie Lamport" } }
 puts white{ bold{ "People are so used to thinking at a code level that they can't think at a higher level." } } + black{ bold{ " - Leslie Lamport" } }
 puts white{ bold{ "Why don't programmers write specs?" } } + white{ " Writing is like running. The less you do it, the slower you are. You have to strengthen your writing muscles. It takes practice. It's easier to find an excuse not to." } + black{ bold{ " - Leslie Lamport" } }
+puts white{ bold{ "Thinking doesn't guarantee that you won't make mistakes" } } + white{ ". Not thinking guarantees that you will." } + black{ bold{ " - Leslie Lamport" } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
