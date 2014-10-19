@@ -67,13 +67,20 @@ puts white{ bold{ "Law of Diminishing Returns" } } + white{ ": If one factor of 
 puts white{ bold{ "Upgrade cost of network complexity" } } + white{ ": The Internet has smart edges ... and a simple core. Adding an new Internet service is just a matter of distributing an application ... Compare this to voice, where one has to upgrade the entire core." } + black{ bold{ " - RFC3439 (2002)" } } 
 puts white{ bold{ "Lest men suspect your tale untrue, keep probability in view." } } + black{ bold{ " - John Gay (1727)" } }
 puts white{ bold{ "For every proverb, there is an equal and opposite proverb." } } + black{ bold{ " - Philip Wadler (2011-03-23)" } }
-puts white{ bold{ "A distributed system is one where the failure of a machine you've never heard of stops you from getting any work done." } } + black{ bold{ " - Leslie Lamport" } }
 puts white{ bold{ "Fast, cheap, and reliable" } } + white{ ": choose two." } + black{ bold{ " - Old engineering proverb" } }
 puts white{ bold{ "Freedom, security, and convenience" } } + white{ ": choose two." } + black{ bold{ " - Unknown" } }
 puts white{ bold{ "Trust is the availability of effective recourse." } } + black{ bold{ " - Dan Geer (2014)" } }
 puts white{ bold{ "Security engineering is about tolerable failure modes." } } + white{ "  Determine which failure modes are tolerable and which are not, and design around not having the intolerable ones." } + black{ bold{ " - Dan Geer (2014)" } }
 puts white{ bold{ "CIA triad" } } + white{ ": Confidentiality, Integrity, Availability." } + black{ bold{ " - Famous summary of computer security concerns." } }
 puts white{ "Some people when faced with a problem think: \"I know, I'll use distributed computing\"." } + white{ bold{ " Now they have N^2 problems." } } + black{ bold{ " - @jamesiry" } }
+
+puts '------------ Leslie Lamport ---------------'
+puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
+# http://www.infoq.com/news/2014/10/ser-lamport-interview
+puts white{ bold{ "Success really depends on the conception of problems, the design of the system" } } + white{ ", not on the details of how it's coded." } + black{ bold{ " - Leslie Lamport" } }
+puts white{ "You're not to come up with a simple design through any kind of coding techniques or any kind of programming language concepts." } + white{ bold{ " Simplicity has to be achieved above the code level before you get to the point which you worry about how you actually implement this thing in code." } } + black{ bold{ " - Leslie Lamport" } }
+puts white{ bold{ "UML" } } + white{ ": a language " } + black{ bold{ "[that]" } } + white{ " was invented first and then people came around and try to get semantics." } + black{ bold{ " - Leslie Lamport" } }
+puts white{ bold{ "The benefit of using [a formal specification language] is that it teaches you to think rigorously, to think precisely" } } + white{ ", and the important point is the precise thinking. So what you need to avoid at all costs is any language that's all syntax and no semantics." } + black{ bold{ " - Leslie Lamport" } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
