@@ -104,6 +104,8 @@ puts white{ bold{ "There are two models of reality that I find to be the most us
 puts white{ bold{ "All possible successor states" } } + white{ " of any state." } + black{ bold{ " - Leslie Lamport" } }
 puts white{ bold{ "Not knowing what a program should do means we have to think even harder" } } + white{ ", before we start coding." } + black{ bold{ " - Leslie Lamport" } }
 puts white{ bold{ "You write a spec to help you think about a problem" } } + white{ " before you write the code." } + black{ bold{ " - Leslie Lamport" } }
+puts white{ bold{ "People are so used to thinking at a code level that they can't think at a higher level." } } + black{ bold{ " - Leslie Lamport" } }
+puts white{ bold{ "Why don't programmers write specs?" } } + white{ " Writing is like running. The less you do it, the slower you are. You have to strengthen your writing muscles. It takes practice. It's easier to find an excuse not to." } + black{ bold{ " - Leslie Lamport" } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
@@ -425,6 +427,7 @@ puts "------ randoms on change ------"
 puts white{ bold{ "A rolling stone gathers no moss." } } + black{ bold{ " - Condensed form of Publilius Syrus' (first century BCE) observation that people who are always moving, with no roots in one place, avoid responsibilities and cares. Another interpretation equates 'moss' to 'stagnation'; stagnant people lack fresh ideas and creativity." } }
 puts white{ bold{ "Precautionary Principle" } } + white{ ": If an action or policy has a suspected risk, in the absence of consensus, the burden of proof that it is not harmful falls upon those taking the action." }
 puts white{ bold{ "Peter Principle" } } + white{ ": People will tend to be promoted until they reach their 'position of incompetence'." } + black{ bold{ " - After Laurence J. Peter, Raymond Hull's co-author of 'The Peter Princple: Why Things Always Go Wrong' (1975)" } }
+puts white{ bold{ "No battle was ever won according to plan," } } + white{ " but no battle was ever won without one." } + black{ bold{ "Dwight D. Eisenhower" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
