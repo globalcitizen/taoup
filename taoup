@@ -99,6 +99,7 @@ puts white{ "What you need to avoid at all costs is any language that's all synt
 puts white{ "My basic mode of thinking hasn't changed: basically the idea that " } + white{ bold{ "I want to understand things, and understand things for me means being able to describe them mathematically" } } + white{ "." } + black{ bold{ " - Leslie Lamport" } }
 # http://channel9.msdn.com/Events/Build/2014/3-642
 puts white{ bold{ "To think, you have to write." } } + white{ " If you're thinking without writing, you only think you're thinking." } + black{ bold{ " - Leslie Lamport" } }
+puts white{ bold{ "Writing requires thinking." } } + black{ bold{ " - Leslie Lamport" } }
 
 puts '------------ Eric S. Raymond, The Art of Unix Programming --------------------------'
 puts white{ bold{ 'Modularity' } } + white{ ': Write simple parts connected by clean interfaces.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
