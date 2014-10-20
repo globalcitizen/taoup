@@ -226,7 +226,15 @@ puts white{ "When things are not going well, " } + white{ bold{ 'until you get t
 puts white{ bold{ "The reasons you get into trouble become the reasons you don’t get out of it." } } + black{ bold{ " - Old saying in the aviation industry." } }
 puts white{ "It seems that we are locked into a spiral in which " } + white{ bold{ "poor human performance begets automation, which worsens human performance, which begets increasing automation" } } + white{ ". The pattern is common to our time but is acute in aviation. Air France 447 was a case in point." } + black{ bold{ " - William Langewiesche, 'The Human Factor: Should Airplanes be Flying Themselves?', Vanity Fair, October 2014" } }
 puts white{ "The dynamic has become inevitable. " } + white{ bold{ "There will still be accidents, but at some point we will have only the machines to blame." } } + black{ bold{ " - William Langewiesche, 'The Human Factor: Should Airplanes be Flying Themselves?', Vanity Fair, October 2014"} }
+# http://www.salon.com/2014/10/12/google_makes_us_all_dumber_the_neuroscience_of_search_engines/
 puts white{ "Looking back, I think it was more difficult to see what the problems were than to solve them." } + black{ bold{ " - Charles Darwin" } }
+puts white{ "Thoroughly conscious ignorance is the prelude to every real advance in science." } + black{ bold{ ' - James Clerk Maxwell' } }
+puts white{ "Science produces ignorance at a faster rate than it produces knowledge." } + black{ bold{ ' - Stuart Firestein, Chair of the Department of Biological Sciences, Columbia University' } }
+puts white{ bold{ "The idea we should outsource our memories to the web: it’s a short-cut to stupidity" } } + white{ ". The less we know, the worse we are at processing new information, and the slower we are to arrive at pertinent inquiry." } + black{ bold{ " - Ian Leslie, 'Google makes us all dumber: The Neuroscience of Search Engines', Salon.com (2014)" } }
+puts white{ bold{ "Machines are for answers" } } + white{ "; humans are for questions." } + black{ bold{ " - Kevin Kelly, founding executive editor of Wired magazine, former editor/publisher of the Whole Earth Review" } }
+puts white{ "In a world awash in ready-made answers, " } + white{ bold{ "the ability to pose difficult, even unanswerable questions is more important than ever" } } + white{ "." } + black{ bold{ " - Ian Leslie, 'Google makes us all dumber: The Neuroscience of Search Engines', Salon.com (2014)" } }
+puts white{ bold{ "[Computers] are useless." } } + white{ " They can only give you answers." } + black{ bold{ " - Pablo Picasso (1964) " } }
+puts white{ "Computers are useless without truly curious humans." } + black{ bold{ " - Ian Leslie, 'Google makes us all dumber: The Neuroscience of Search Engines', Salon.com (2014)" } }
 
 # peter thiel on tech/business/society
 puts "----- peter thiel -----"
@@ -510,3 +518,4 @@ puts white{ bold{ "Digression is secular revelation." } } + black{ bold{ " - Ada
 puts white{ 'A man who lies to himself, and believes his own lies, becomes unable to recognize truth, either in himself or in anyone else.' } + black{ bold{ ' - Fyodor Dostoevsky' } }
 puts white{ 'Once you\'ve got some words looking back at you, you can take two or three — or throw them away and look for others.' } + black{ bold{ ' - Bernard Malamud' } }
 puts white{ "Writing is nature's way of letting you know how sloppy your thinking is." } + black{ bold{ " - Guindon" } }
+puts white{ "The role of the artist is to ask questions, not answer them." } + black{ bold{ " - Anton Checkov" } }
