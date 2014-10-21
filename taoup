@@ -163,6 +163,7 @@ puts white{ "Postel's Prescription" } + white{ bold{ ': Be liberal in what you a
 puts white{ bold{ "90% of the functionality delivered now is better than 100% of it delivered never." } } + black{ bold{ ' - Kernighan & Plauger' } }
 puts white{ bold{ "Spell create with an \'e\'." } } + black{ bold{ " - Ken Thompson (referring to design regrets on the UNIX creat(2) system call and the fallacy of premature optimization)" } } 
 puts white{ bold{ "There are two major products that come out of Berkeley: LSD and UNIX." } } + white{ " We don't believe this to be a coincidence." } + black{ bold{ ' - Jeremy S. Anderson.' } }
+puts white{ bold{ "'One thing well' misses the point" } } + white{ ": it should be 'One thing well AND COMPOSES WELL'" } + black{ bold{ " - marius eriksen (@marius), October 10, 2012, referring to the 'programs should do one thing and do it well' unix philosophy." } }
 
 # mark burgess
 puts '--- mark burgess ---'
