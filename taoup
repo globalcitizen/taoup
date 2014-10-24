@@ -236,6 +236,8 @@ puts white{ bold{ "Machines are for answers" } } + white{ "; humans are for ques
 puts white{ "In a world awash in ready-made answers, " } + white{ bold{ "the ability to pose difficult, even unanswerable questions is more important than ever" } } + white{ "." } + black{ bold{ " - Ian Leslie, 'Google makes us all dumber: The Neuroscience of Search Engines', Salon.com (2014)" } }
 puts white{ bold{ "[Computers] are useless." } } + white{ " They can only give you answers." } + black{ bold{ " - Pablo Picasso (1964) " } }
 puts white{ "Computers are useless without truly curious humans." } + black{ bold{ " - Ian Leslie, 'Google makes us all dumber: The Neuroscience of Search Engines', Salon.com (2014)" } }
+# http://www.nytimes.com/2014/04/06/magazine/flash-boys-michael-lewis.html?_r=4
+puts white{ "The deep problem with the system was a kind of moral inertia. " } + white{ bold{ "So long as it served the narrow self-interests of everyone inside it, no one on the inside would ever seek to change it" } } + white{ ", no matter how corrupt or sinister it became." } + black{ bold{ " - Michael Lewis on systematized high frequency trading (HFT) fraud, New York Times Magazine, March 2014." } }
 
 # peter thiel on tech/business/society
 puts "----- peter thiel -----"
