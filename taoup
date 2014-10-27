@@ -441,6 +441,8 @@ puts white{ bold{ "20 percent of the code has 80 percent of the errors." } } + w
 # law of probability dispersal
 puts white{ bold{ "Law of Probability Dispersal" } } + white{ ": Whatever it is that hits the fan will not be evenly distributed." }
 
+# bystander effect
+puts white{ bold{ "Bystander Effect" } } + white{ ": a social psychological phenomenon in which individuals do not offer any means of help to a victim when other people are present, and the probability of help is inversely related to the number of bystanders. In other words, the greater the number of bystanders, the less likely it is that any one of them will help." } + black{ bold{ " - Wikipedia" } }
 
 # randoms - change
 puts "------ randoms on change ------"
