@@ -79,6 +79,10 @@ puts white{ "Policy is a one-way ratchet that only loosens over time." } + black
 puts white{ "Software Architecture Paradox #1: " } + white{ bold{ "Flexibility breeds complexity." } } + white{ " We aim to design flexible software; yet, in doing so, we see an undesirable increase in complexity." } + black{ bold{ " - Kirk Knoernschild, 2012" } }
 puts white{ "Software Architecture Paradox #2: " } + white{ bold{ "Reuse complicates use." } } + white{ " We strive to develop reusable software, only to impair the software's ease of use." } + black{ bold{ " - Kirk Knoernschild, 2012" } }
 puts white{ "Software Architecture Paradox #3: " } + white{ bold{ "Evolution impedes survival." } } + white{ " We design a software system that can evolve, but in doing so hasten its death." } + black{ bold{ " - Kirk Knoernschild, 2012" } }
+# https://news.ycombinator.com/item?id=8558942
+puts white{ "Design up front for reuse is, in essence, premature optimization." } + black{ bold{ " - AnimalMuppet" } }
+# https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
+puts white{ bold{ "S-Programs" } } + white{ " are programs whose function is formally defined by and derivable from a specification. " } + white{ bold{ "P-Programs" } } + white{ " [are problems] that can be precisely formulated but whose solution must inevitably reflect an approximation of the real world. " } + white{ bold{ "E-Programs" } } + white{ " are inherently even more change prone. They are programs that mechanize a human or societal activity." } + black{ bold{ " - Meir M. Lehman, Proceedings of the IEEE, Vol. 68, No. 9, September 1980." } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
