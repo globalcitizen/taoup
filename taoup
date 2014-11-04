@@ -75,6 +75,10 @@ puts white{ bold{ "CIA triad" } } + white{ ": Confidentiality, Integrity, Availa
 puts white{ "Some people when faced with a problem think: \"I know, I'll use distributed computing\"." } + white{ bold{ " Now they have N^2 problems." } } + black{ bold{ " - @jamesiry" } }
 puts white{ "Policy is a very weak protection." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 puts white{ "Policy is a one-way ratchet that only loosens over time." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
+# paradoxes from http://www.informit.com/articles/article.aspx?p=1963779
+puts white{ "Software Architecture Paradox #1: " } + white{ bold{ "Flexibility breeds complexity." } } + white{ " We aim to design flexible software; yet, in doing so, we see an undesirable increase in complexity." } + black{ bold{ " - Kirk Knoernschild, 2012" } }
+puts white{ "Software Architecture Paradox #2: " } + white{ bold{ "Reuse complicates use." } } + white{ " We strive to develop reusable software, only to impair the software's ease of use." } + black{ bold{ " - Kirk Knoernschild, 2012" } }
+puts white{ "Software Architecture Paradox #3: " } + white{ bold{ "Evolution impedes survival." } } + white{ " We design a software system that can evolve, but in doing so hasten its death." } + black{ bold{ " - Kirk Knoernschild, 2012" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
