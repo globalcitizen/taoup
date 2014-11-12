@@ -139,6 +139,24 @@ puts white{ bold{ 'Repair' } } + white{ ': When you must fail, fail noisily and 
 puts white{ bold{ 'Economy' } } + white{ ': Programmer time is expensive; conserve it in preference to machine time.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
 puts white{ bold{ 'Generation' } } + white{ ': Avoid hand-hacking; write programs to write programs when you can.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
 puts white{ bold{ 'Optimization' } } + white{ ': Prototype before polishing. Get it working before you optimize it.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Programming (2003)" } }
+# ESR does UIs
+puts white{ bold{ 'Bliss' } } + white{ ': Allow your users the luxury of ignorance.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Distractions' } } + white{ ': Allow your users the luxury of inattention.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Flow' } } + white{ ': Allow your users the luxury of attention.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Documentation' } } + white{ ': Documentation is an admission of failure.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Least Surprise' } } + white{ ': In interface design, always do the least surprising thing.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Transparency' } } + white{ ': Every bit of program state that the user has to reason about should be manifest in the interface.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Modelessness' } } + white{ ': The interface\'s response to user actions should be consistent and never depend on hidden state.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Seven' } } + white{ ': Users can hold at most 7±2 things at once in working storage.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Reversibility' } } + white{ ': Every operation without an undo is a horror story waiting to happen.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Confirmation' } } + white{ ': Every confirmation prompt should be a surprise.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Failure' } } + white{ ': All failures should be lessons in how not to fail.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Silence' } } + white{ ': When a program has nothing surprising to say, it should say nothing.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Automation' } } + white{ ': Never ask the user for any information that you can autodetect, copy, or deduce.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Defaults' } } + white{ ': Choose safe defaults, apply them unobtrusively, and let them be overridden if necessary.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Respect' } } + white{ ': Never mistake keeping things simple for dumbing them down, or vice-versa.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Predictability' } } + white{ ': Predictability is more important than prettiness.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
+puts white{ bold{ 'Reality' } } + white{ ': The interface isn\'t finished till the end-user testing is done.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
 
 # x11 guy
 puts '------------ Mike Garcanz: The Unix Philosophy -------------------------------------'
@@ -250,6 +268,8 @@ puts white{ "Computers are useless without truly curious humans." } + black{ bol
 puts white{ "The deep problem with the system was a kind of moral inertia. " } + white{ bold{ "So long as it served the narrow self-interests of everyone inside it, no one on the inside would ever seek to change it" } } + white{ ", no matter how corrupt or sinister it became." } + black{ bold{ " - Michael Lewis on systematized high frequency trading (HFT) fraud, New York Times Magazine, March 2014." } }
 puts white{ "Government never places additional restrictions on itself... unprovoked." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 puts white{ "If you believe in a principle, never damage it with a poor impression." } + white{ bold{ " You must go the whole way." } } + black{ bold{ " - Charlie Parsons, gentleman scientist" } }
+# http://aeon.co/magazine/psychology/why-broken-sleep-is-a-golden-time-for-creativity/
+puts white{ bold{ "Let the end of thy first sleep raise thee from thy repose" } } + white{ ": then hath thy body the best temper, then hath thy soule the least incumbrance; then no noise shall disturbe thine ear; no object shall divert thine eye." } + black{ bold{ " - 17th-century English poet Francis Quarles, on the value of night-waking, darkness and silence as aids to internal reflection" } }
 
 # peter thiel on tech/business/society
 puts "----- peter thiel -----"
