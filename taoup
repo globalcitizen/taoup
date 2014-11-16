@@ -272,6 +272,16 @@ puts white{ "Government never places additional restrictions on itself... unprov
 puts white{ "If you believe in a principle, never damage it with a poor impression." } + white{ bold{ " You must go the whole way." } } + black{ bold{ " - Charlie Parsons, gentleman scientist" } }
 # http://aeon.co/magazine/psychology/why-broken-sleep-is-a-golden-time-for-creativity/
 puts white{ bold{ "Let the end of thy first sleep raise thee from thy repose" } } + white{ ": then hath thy body the best temper, then hath thy soule the least incumbrance; then no noise shall disturbe thine ear; no object shall divert thine eye." } + black{ bold{ " - 17th-century English poet Francis Quarles, on the value of night-waking, darkness and silence as aids to internal reflection" } }
+puts white{ bold{ "Throw The First One Away" } } + white{ ": You will understand the problem much better after your first attempt." }
+puts white{ bold{ "Fail Quickly" } } + white{ ": This makes evolution less painful and improves testability." }
+puts white{ bold{ "Minimize Coupling, Maximize Cohesion" } } + white{ ": It is better to reduce the amount of dependency between modules to make future changes and adaptations easier." }
+puts white{ bold{ "Make it work first" } } + white{ ", then make it work fast." }
+puts white{ bold{ "Data Design > " } } + white{ "Code Design" }
+puts white{ bold{ "Document 'Why'" } }
+puts white{ bold{ "Save early, save often" } }
+puts white{ bold{ "Share early, share often" } }
+# https://en.wikipedia.org/wiki/Spherical_cow
+puts white{ bold{ "Avoid spherical cows" } } + white{ ": Understand the requirements, and anticipate change." }
 
 # peter thiel on tech/business/society
 puts "----- peter thiel -----"
