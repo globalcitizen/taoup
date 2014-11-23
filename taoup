@@ -283,6 +283,8 @@ puts white{ bold{ "Share early, share often" } }
 # https://en.wikipedia.org/wiki/Spherical_cow
 puts white{ bold{ "Avoid spherical cows" } } + white{ ": Understand the requirements, and anticipate change." }
 puts white{ bold{ "Reality is that which, when you stop believing in it, doesn't go away." } } + black{ bold{ " - Philip K. Dick" } }
+# opposite of moore's law, for pharma
+puts white{ bold{ "Eroom’s law" } } + white{ " the number of new drugs approved per billion US dollars spent on R&D has halved roughly every nine years since 1950." }
 
 # peter thiel on tech/business/society
 puts "----- peter thiel -----"
