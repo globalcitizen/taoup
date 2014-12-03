@@ -85,6 +85,7 @@ puts white{ "Design up front for reuse is, in essence, premature optimization." 
 puts white{ bold{ "S-Programs" } } + white{ " are programs whose function is formally defined by and derivable from a specification. " } + white{ bold{ "P-Programs" } } + white{ " [are problems] that can be precisely formulated but whose solution must inevitably reflect an approximation of the real world. " } + white{ bold{ "E-Programs" } } + white{ " are inherently even more change prone. They are programs that mechanize a human or societal activity." } + black{ bold{ " - Meir M. Lehman, Proceedings of the IEEE, Vol. 68, No. 9, September 1980." } }
 # this one aka 'fundamental theorem of software engineering'
 puts white{ bold{ "All problems in computer science can be solved by another level of indirection" } } + white{ ", except of course for the problem of too many indirections." } + black{ bold{ " - David Wheeler" } }
+puts white{ bold{ "The RPC fallacy" } } + white{ ": making remote/slow/independent things pretend to be local/fast/fate-shared." } + black{ bold{ ' - Wes Felter' } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
