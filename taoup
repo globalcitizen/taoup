@@ -85,6 +85,9 @@ puts white{ "Design up front for reuse is, in essence, premature optimization." 
 puts white{ bold{ "S-Programs" } } + white{ " are programs whose function is formally defined by and derivable from a specification. " } + white{ bold{ "P-Programs" } } + white{ " [are problems] that can be precisely formulated but whose solution must inevitably reflect an approximation of the real world. " } + white{ bold{ "E-Programs" } } + white{ " are inherently even more change prone. They are programs that mechanize a human or societal activity." } + black{ bold{ " - Meir M. Lehman, Proceedings of the IEEE, Vol. 68, No. 9, September 1980." } }
 # this one aka 'fundamental theorem of software engineering'
 puts white{ bold{ "All problems in computer science can be solved by another level of indirection" } } + white{ ", except of course for the problem of too many indirections." } + black{ bold{ " - David Wheeler" } }
+puts white{ "If you have too many special cases, you're doing it wrong." } + black{ bold{ " - Craig Zerouni" } }
+puts white{ "One person's constant is another person's variable." } + black{ bold{ " - Susan Gerhart" } }
+puts white{ "One person's data is another person's program." } + black{ bold{ " - Guy L. Steele, Jr." } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
@@ -191,7 +194,6 @@ puts white{ bold{ 'When in doubt, use brute force.' } } + black{ bold{ ' - Ken T
 puts white{ bold{ 'One of my most productive days was throwing away 1000 lines of code.' } } + black{ bold{ ' - Ken Thompson' } }
 puts white{ "Postel's Prescription" } + white{ bold{ ': Be liberal in what you accept, and conservative in what you send.' } } + black{ bold{ ' - Jon Postel ' } }
 puts white{ bold{ "90% of the functionality delivered now is better than 100% of it delivered never." } } + black{ bold{ ' - Kernighan & Plauger' } }
-puts white{ bold{ "Spell create with an \'e\'." } } + black{ bold{ " - Ken Thompson (referring to design regrets on the UNIX creat(2) system call and the fallacy of premature optimization)" } } 
 puts white{ bold{ "There are two major products that come out of Berkeley: LSD and UNIX." } } + white{ " We don't believe this to be a coincidence." } + black{ bold{ ' - Jeremy S. Anderson.' } }
 puts white{ bold{ "'One thing well' misses the point" } } + white{ ": it should be 'One thing well AND COMPOSES WELL'" } + black{ bold{ " - marius eriksen (@marius), October 10, 2012, referring to the 'programs should do one thing and do it well' unix philosophy." } }
 
@@ -247,6 +249,7 @@ puts white{ bold{ "It is infinitely difficult to know when and where one should 
 puts white{ bold{ "Laziness is the mother of efficiency." } } + black{ bold{ " - Marian Propp" } }
 puts white{ bold{ "Human nature is above all things lazy." } } + black{ bold{ " - Harriet Beecher Stowe (1811-1896)" } }
 puts white{ bold{ "Law of Communications" } } + white{ ": The inevitable result of improved and enlarged communications between different levels in a hierarchy is a vastly increased area of misunderstanding." }
+puts white{ "Good customer relations double productivity." } + black{ bold{ " - Larry Bernstein, Bell Communications Research" } }
 puts white{ bold{ "Rule of Defactualization" } } + white{ ": Information deteriorates upward through bureaucracies." }
 puts white{ bold{ "Motto of the Electrical Engineer" } } + white{ ": Working hardware is a lot like an erect penis; it stays up as long as you don't fuck with it." }
 puts white{ bold{ "Fifth Rule" } } + white{ ": You have taken yourself too seriously." }
@@ -285,6 +288,10 @@ puts white{ bold{ "Avoid spherical cows" } } + white{ ": Understand the requirem
 puts white{ bold{ "Reality is that which, when you stop believing in it, doesn't go away." } } + black{ bold{ " - Philip K. Dick" } }
 # opposite of moore's law, for pharma
 puts white{ bold{ "Eroom’s law" } } + white{ " the number of new drugs approved per billion US dollars spent on R&D has halved roughly every nine years since 1950." }
+puts white{ bold{ "Get your data structures correct first" } } + white{ ", and the rest of the program will write itself." } + black{ bold{ " - David Jones" } }
+puts white{ "For 80 percent of all data sets, 95 percent of the information can be seen in a good graph." } + black{ bold{ " - William S. Cleveland, Bell Labs" } }
+puts white{ "The first step in fixing a broken program is getting it to fail repeatably." } + black{ bold{ " - Tom Duff, Bell Labs" } }
+puts white{ "If you've made it this far, you'll certainly appreciate this excellent advice. Eschew clever rules." } + black{ bold{ " - Joe Condon, Bell Labs" } }
 
 # peter thiel on tech/business/society
 puts "----- peter thiel -----"
@@ -405,6 +412,9 @@ puts white{ bold{ "Mosher's Law of Software Engineering" } } + white{ ": Don't w
 # ogden's law
 puts white{ bold{ "Ogden's Law" } } + white{ ": The sooner you fall behind, the more time you have to catch up." }
 
+# carlson's conundrum
+puts white{ bold{ "Carlson's Conundrum" } } + white{ ": The sooner you start to code, the longer the program will take." }
+
 # parkinson's law
 puts white{ bold{ "Parkinson's Law" } } + white{ ": Work expands so as to fill the time available for its completion." } + 
 black{ bold{ " - Cyril Northcote Parkinson, British civil servant, first published in 'The Economist' (1955)" } }
@@ -474,7 +484,7 @@ puts white{ bold{ "Niven's Sixth Law of Writing" } } + white{ ": Everybody talks
 
 puts "----- randoms on distribution -----"
 # 90/90 aka. 'Rule of Credibility'
-puts white{ bold{ "90:90 Rule (Rule of Credibility)" } } + white{ ": The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time." } + black{ bold{ " - Tom Cargill, Bell Labs, as popularized by Jon Bentley's 'Programming Pearls' column, 'Communications of the ACM' (September 1985)" } }
+puts white{ bold{ "90:90 Rule (Rule of Credibility)" } } + white{ ": The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time." } + black{ bold{ " - Tom Cargill, Bell Labs" } }
 
 # 80/20 aka. 'Pareto Principle'
 puts white{ bold{ "80:20 Rule (Pareto Principle)" } } + white{ ": 80% of the state of the system derives from 20% of the causes." } + black{ bold{ " - Italian economist Vilfredo Pareto (1906)" } }
@@ -488,6 +498,8 @@ puts white{ bold{ "Law of Probability Dispersal" } } + white{ ": Whatever it is 
 # bystander effect
 puts white{ bold{ "Bystander Effect" } } + white{ ": a social psychological phenomenon in which individuals do not offer any means of help to a victim when other people are present, and the probability of help is inversely related to the number of bystanders. In other words, the greater the number of bystanders, the less likely it is that any one of them will help." } + black{ bold{ " - Wikipedia" } }
 
+puts white{ "Less than 10 percent of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other hosuekeeping." } + black{ bold{ " - Mary Shaw, Carnegie-Mellon University" } }
+
 # randoms - change
 puts "------ randoms on change ------"
 puts white{ bold{ "A rolling stone gathers no moss." } } + black{ bold{ " - Condensed form of Publilius Syrus' (first century BCE) observation that people who are always moving, with no roots in one place, avoid responsibilities and cares. Another interpretation equates 'moss' to 'stagnation'; stagnant people lack fresh ideas and creativity." } }
@@ -495,6 +507,8 @@ puts white{ bold{ "Precautionary Principle" } } + white{ ": If an action or poli
 puts white{ bold{ "Peter Principle" } } + white{ ": People will tend to be promoted until they reach their 'position of incompetence'." } + black{ bold{ " - After Laurence J. Peter, Raymond Hull's co-author of 'The Peter Princple: Why Things Always Go Wrong' (1975)" } }
 puts white{ bold{ "No battle was ever won according to plan," } } + white{ " but no battle was ever won without one." } + black{ bold{ "Dwight D. Eisenhower" } }
 puts white{ bold{ "Technology is increasingly providing us [with] the ability to encode our rights not just in to our laws but in to our systems." } } + white{ " So when the failure of black letters on a page becomes apparent, we still have the failsafe of our technological systems, the systems that we surround ourselves [with] and rely upon every day." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
+puts white{ "Don't keep doing what doesn't work." }
+puts white{ "Good judgement comes from experience, and experience comes from bad judgement." } + black{ bold{ " - Fred Books, University of North Carolina" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
@@ -502,6 +516,30 @@ puts "------ randoms on optimization/efficiency ------"
 #  restatement, we leave snackwell out in favour of jevons
 #puts white{ bold{ "Snackwell Effect" } } + white{ " (restatement of): Those seeking efficiency through optimization will consume with an increased frequency that partly negates the original gain." }
 puts white{ bold{ "Jevons Paradox" } } + white{ ": As technology progresses, the increase in efficiency with which a resource is used tends to increase (rather than decrease) the rate of consumption of that resource." }
+puts white{ bold{ "The First Rule of Program Optimization" } } + white{ ": Don't do it." } + black{ bold{ " - Michael Jackson" } }
+puts white{ bold{ "The Second Rule of Program Optimization" } } + white{ " (for experts only): Don't do it yet." } + black{ bold{ " - Michael Jackson" } }
+puts white{ "The fastest algorithm can frequently be replaced by one that is almost as fast and much easier to understand." } + black{ bold{ " - Douglas W. Jones" } }
+puts white{ "In non I/O-bound programs, a few percent of the source code typically accounts for over half the run time." } + black{ bold{ " - Don Knuth" } }
+puts white{ "Before optimizing, using a profiler." } + black{ bold{ " - Mike Morton" } }
+puts white{ "To speed up an I/O-bound program, begin by accounting for all I/O. Eliminate that which is unnecessary or redundant, and make the remaining as fast as possible." } + black{ bold{ " - David Martin" } }
+puts white{ "The fastest I/O is no I/O." } + black{ bold{ " - Nils-Peter Nelson" } }
+puts white{ "The cheapest, fastest and most reliable components of a system are those that aren't there." } + black{ bold{ " - Gordon Bell" } }
+puts white{ "Whenever possible, steal code." } + black{ bold{ " - Tom Duff, Bell Labs" } }
+puts white{ "Translating a working program to a new language or system takes 10 percent of the original development time or manpower or cost." } + black{ bold{ " - Douglas W. Jones, University of Iowa" } }
+puts white{ "Don't use the computer to do things that can be done efficiently by hand." } + black{ bold{ " - Richard Hill, Hewlett-Packard" } }
+puts white{ "Don't use hands to do things that can be done efficiently by the computer." } + black{ bold{ " - Tom Duff, Bell Labs" } }
+puts white{ "I'd rather write programs to write programs than write programs." } + black{ bold{ " - Dick Sites, Digital Equipment Corporation" } }
+puts white{ bold{ "Brooks' Law of Prototypes" } } + white{ "Plan to throw one away, you will anyhow." } + black{ bold{ " - Fred Brooks, University of North Carolina" } }
+puts white{ bold{ "Brooks' Law of Prototypes (Zerouni's Carollary)" } } + white{ "If you plan to throw one away, you will throw away two." } + black{ bold{ " - Craig Zerouni" } }
+puts white{ "Prototyping cuts the work to produce a system by 40 percent." } + black{ bold{ " - Larry Bernstein, Bell Communications Research" } }
+puts white{ "Furious activity is no substitute for understanding." } + black{ bold{ " - H. H. Williams" } }
+puts white{ "Make it work first before you make it work fast." } + black{ bold{ " - Bruce Whiteside" } }
+puts white{ "Make it right before you make it faster." } + black{ bold{ " - Jon Bentley" } }
+puts white{ "Omit needless words." } + black{ bold{ " - Strunk and White, 'The Elements of Style' (1919)" } }
+puts white{ bold{ "Spell create with an \'e\'." } } + black{ bold{ " - Ken Thompson (referring to design regrets on the UNIX creat(2) system call and the fallacy of premature optimization)" } } 
+puts white{ "Keep it simple to make it faster." } + black{ bold{ " - Kernighan and Plauger, 'Elements of Programming Style'" } }
+puts white{ "Do not take shortcuts at the cost of clarity." }
+puts white{ "Thomas Edison was already famous for his telegraph technology and his huge hit with the record player. He had made a public show of turning the full focus of his massive laboratory to the question of electric light. A couple of years into the effort a reporter was visiting his lab and asked how close Edison was to coming up with a viable light bulb. Edison replied " } + white{ bold{ "\"We are on bulb number 732!\"" } } 
 
 # steven levy
 puts '--- Steven Levy ---'
@@ -573,6 +611,11 @@ puts white{ 'A man who lies to himself, and believes his own lies, becomes unabl
 puts white{ 'Once you\'ve got some words looking back at you, you can take two or three — or throw them away and look for others.' } + black{ bold{ ' - Bernard Malamud' } }
 puts white{ "Writing is nature's way of letting you know how sloppy your thinking is." } + black{ bold{ " - Guindon" } }
 puts white{ "The role of the artist is to ask questions, not answer them." } + black{ bold{ " - Anton Checkov" } }
+puts white{ "If you can't write it down in English, you can't code it." } + black{ bold{ " - Peter Halpern" } }
+puts white{ "If the code and the comments disagree, then both are probably wrong." } + black{ bold{ " - Norm Schryer" } }
+puts white{ "A procedure should fit on a page." } + black{ bold{ " - David Tribble" } }
+puts white{ bold{ "The Test of Negation" } } + white{ ": Don't include a sentence in documentation if its negation is obviously false." } + black{ bold{ " - Bob Martin, AT&T" } }
+puts white{ "When explaining a command, or language feature, or hardware widget, first describe the problem it is designed to solve." } + black{ bold{ " - David Martin" } }
 
 # seven deadly sins of cloud computing research
 puts '--- 7 deadly sins of cloud computing research ---'
@@ -583,5 +626,3 @@ puts white{ bold{ 'Sin #4 - Forcing the abstraction' } } + white{ ': In some app
 puts white{ bold{ 'Sin #5 - Unrepresentative workloads' } } + white{ ': The common assumption in academic research systems is that the cluster workload is relatively homogenous. Most research evaluations measure performance by running a single job on an otherwise idle cluster.' } + black{ bold{ " - Schwarzkopf et al, 'The seven deadly sins of cloud computing research' (2014)" } }
 puts white{ bold{ 'Sin #6 - Assuming perfect elasticity' } } + white{ ': The cloud paradigm [...] its promise of an unlimited supply of computation. This is, of course, a fallacy. Workloads do not exhibit infinite parallel speedup. The scalability and supply of compute resources are not infinite. There are limits to the scalability of data center communication infrastructure. Another reason for diminishing returns from parallelization is the increasing likelihood of failures and vulnerability to "straggler" tasks. ' } + black{ bold{ " - Schwarzkopf et al, 'The seven deadly sins of cloud computing research' (2014)" } }
 puts white{ bold{ 'Sin #7 - Ignoring fault tolerance' } } + white{ ': Many recent systems neglect to account for the performance implications of fault tolerance, or indeed of faults occuring. For each system, we should ask whether fault tolerance is relevant or required. If it is, it makes sense to check precisely what level is required, and what faults are to be protected against; consider and ideally quantify the cost.' } + black{ bold{ " - Schwarzkopf et al, 'The seven deadly sins of cloud computing research' (2014)" } }
-
-
