@@ -88,6 +88,7 @@ puts white{ bold{ "All problems in computer science can be solved by another lev
 puts white{ "If you have too many special cases, you're doing it wrong." } + black{ bold{ " - Craig Zerouni" } }
 puts white{ "One person's constant is another person's variable." } + black{ bold{ " - Susan Gerhart" } }
 puts white{ "One person's data is another person's program." } + black{ bold{ " - Guy L. Steele, Jr." } }
+puts white{ bold{ "The RPC fallacy" } } + white{ ": making remote/slow/independent things pretend to be local/fast/fate-shared." } + black{ bold{ ' - Wes Felter' } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
