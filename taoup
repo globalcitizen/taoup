@@ -294,6 +294,10 @@ puts white{ "For 80 percent of all data sets, 95 percent of the information can 
 puts white{ "The first step in fixing a broken program is getting it to fail repeatably." } + black{ bold{ " - Tom Duff, Bell Labs" } }
 puts white{ "If you've made it this far, you'll certainly appreciate this excellent advice. Eschew clever rules." } + black{ bold{ " - Joe Condon, Bell Labs" } }
 
+# paul graham
+puts "----- paul graham -----"
+puts white{ bold{ "The winds of change originate in the unconscious minds of domain experts." } } + white{ " If you're sufficiently expert in a field, any weird idea or apparently irrelevant question that occurs to you is ipso facto worth exploring." } + black{ bold{ " - Paul Graham (2014) " } } # http://paulgraham.com/ecw.html
+
 # peter thiel on tech/business/society
 puts "----- peter thiel -----"
 puts white{ bold{ "The eccentric university professor is a species that is going extinct fast." } } + black{ bold{ " - Peter Thiel (2014)" } }
