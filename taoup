@@ -95,6 +95,7 @@ puts white{ "Any attempt to formulate all possible requirements at the start of 
 puts white{ "If a design, particularly a team design, is to have conceptual integrity, one should " } + white{ bold{ "name the scarce resource explicitly, track it publicly, control it firmly" } } + white{ "." } + black{ bold{ " - Frederick P. Brooks, 'The Design of Design: Essays from a Computer Scientist' (2010)" } }
 puts white{ "A general-purpose product is harder to design well than a special-purpose one." } + black{ bold{ " - Frederick P. Brooks, 'The Design of Design: Essays from a Computer Scientist' (2010)" } }
 puts white{ bold{ "Firmitas, utilitas, venusitas." } } + white{ ' ("Firmness, utility, delight")' } + black{ bold{ " - Marcus Vitruvius, 'De Architectura' (22BCE)" } }
+puts white{ "The besetting mistake of expert designers is not designing the thing wrong, but designing the wrong thing." } + black{ bold{ " - Frederick P. Brooks, 'The Design of Design: Essays from a Computer Scientist' (2010)" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
