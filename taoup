@@ -91,6 +91,7 @@ puts white{ "One person's data is another person's program." } + black{ bold{ " 
 puts white{ bold{ "The RPC fallacy" } } + white{ ": making remote/slow/independent things pretend to be local/fast/fate-shared." } + black{ bold{ ' - Wes Felter' } }
 puts white{ "Sometimes the problem is to discover what the problem is." } + black{ bold{ " - Gordon Glegg, 'The Design of Design' (1969)" } }
 puts white{ "In practice, " } + white{ bold{ "designing seems to proceed by oscillating between sub-solution and sub-problem areas" } } + white{ ", as well as by decomposing the problem and combining sub-solutions." } + black{ bold{ " - Nigel Cross" } }
+puts white{ "Any attempt to formulate all possible requirements at the start of a project will fail and would cause considerable delays." } + black{ bold{ " - Pahl and Beitz, 'Engineering Design' (2007)" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
