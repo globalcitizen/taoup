@@ -297,6 +297,7 @@ puts white{ "For 80 percent of all data sets, 95 percent of the information can 
 puts white{ "The first step in fixing a broken program is getting it to fail repeatably." } + black{ bold{ " - Tom Duff, Bell Labs" } }
 puts white{ "If you've made it this far, you'll certainly appreciate this excellent advice. Eschew clever rules." } + black{ bold{ " - Joe Condon, Bell Labs" } }
 puts white{ "A meeting is a refuge from 'the dreariness of labor and the loneliness of thought'." } + black{ bold{ " - Bernard Baruch, In Risen, 'A Theory on Meetings' (1970)" } }
+puts white{ "The new electronic interdependence recreates the world in the image of a global village." } + black{ bold{ " - Marshall McLuhan, 'The Medium is the Message' (1967)" } }
 
 # paul graham
 puts "----- paul graham -----"
