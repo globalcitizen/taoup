@@ -306,6 +306,7 @@ puts white{ "The new electronic interdependence recreates the world in the image
 puts white{ "Truth will sooner come out of error than from confusion." } + black{ bold{ " - Sir Francis Bacon, 'The New Organon' (1620)" } }
 puts white{ "An articulated guess beats an unspoken assumption." } + black{ bold{ " - Frederick P. Brooks, 'The Design of Design: Essays from a Computer Scientist' (2010)" } }
 puts white{ "Every man who rises above the common level has received two educations: the first, from his teachers; the second, more personal and important, from himself."  } + black{ bold{ " - Edward Gibbons, 'Memoirs of My Life and Writings' (1789)" } }
+puts white{ bold{ "Hanlon's razor" } } + black{ bold{ ": " } } + white{ "Never attribute to malice that which is adequately explained by stupidity." }
 
 # paul graham
 puts "----- paul graham -----"
