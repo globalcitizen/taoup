@@ -97,6 +97,7 @@ puts white{ "A general-purpose product is harder to design well than a special-p
 puts white{ bold{ "Firmitas, utilitas, venusitas." } } + white{ ' ("Firmness, utility, delight")' } + black{ bold{ " - Marcus Vitruvius, 'De Architectura' (22BCE)" } }
 puts white{ "The besetting mistake of expert designers is not designing the thing wrong, but designing the wrong thing." } + black{ bold{ " - Frederick P. Brooks, 'The Design of Design: Essays from a Computer Scientist' (2010)" } }
 puts white{ "The central tension in the software process comes from the fact that we must go from an informally identified need that exists in-the-world to a formal model that operates in-the-computer." } + black{ bold{ " - Bruce Blum, 'Beyond Programming' (1996)" } }
+puts white{ bold{ "UML" } } + white{ " - Unnecessary Management Lingo." } + black{ bold{ " - @iamdevloper" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
