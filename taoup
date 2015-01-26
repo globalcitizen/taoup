@@ -531,6 +531,7 @@ puts white{ bold{ "No battle was ever won according to plan," } } + white{ " but
 puts white{ bold{ "Technology is increasingly providing us [with] the ability to encode our rights not just in to our laws but in to our systems." } } + white{ " So when the failure of black letters on a page becomes apparent, we still have the failsafe of our technological systems, the systems that we surround ourselves [with] and rely upon every day." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 puts white{ "Don't keep doing what doesn't work." }
 puts white{ "Good judgement comes from experience, and experience comes from bad judgement." } + black{ bold{ " - Fred Books, University of North Carolina" } }
+puts white{ "I think " } + white{ bold{ "I've had milk last longer than some JavaScript frameworks" } } + white{ "." } + black{ bold{ " - @iamdevloper (2014)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
