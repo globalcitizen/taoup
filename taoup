@@ -399,6 +399,9 @@ puts white{ bold{ "Finagle's Fourth Law" } } + white{ ": Once a job is fouled up
 # fresco's discovery
 puts white{ bold{ "Fresco's Discovery" } } + white{ ": If you knew what you were doing you'd probably be bored." }
 
+# geer's law
+puts white{ bold{ "Geer's Law" } } + white{ ": Any security technology whose effectiveness can't be empirically determined is indistinguishable from blind luck." }
+
 # glib's fourth law
 puts white{ bold{ "Glib's Fourth Law of Unreliability" } } + white{ ": Investment in reliability will increase until it exceeds the probable cost of errors, or until someone insists on getting some useful work done." }
 
