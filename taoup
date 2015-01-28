@@ -457,6 +457,11 @@ puts white{ bold{ "Peter's Law of Substitution" } } + white{ ": Look after the m
 # roman rule
 puts white{ bold{ "Roman Rule" } } + white{ ": The one who says it cannot be done should never interrupt the one who is doing it." }
 
+# shamir's three laws of security
+puts white{ bold{ "Shamir's First Law of Security" } } + white{ ": Absolutely secure systems do not exist." }
+puts white{ bold{ "Shamir's Second Law of Security" } } + white{ ": To halve your vulnerability, you have to double your expenditure." }
+puts white{ bold{ "Shamir's Third Law of Security" } } + white{ ": Cryptography is typically bypassed, not penetrated." }
+
 # stigler's law
 puts white{ bold{ "Stigler's Law of Eponymy" } } + white{ ": No scientific discovery is named after its original discoverer." } + black{ bold{ " - Stephen Sigler, statistician (but attributed to Robert K. Merton, sociologist)" } }
 
