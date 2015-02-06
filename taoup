@@ -310,6 +310,7 @@ puts white{ "Every man who rises above the common level has received two educati
 puts white{ bold{ "Hanlon's razor" } } + black{ bold{ ": " } } + white{ "Never attribute to malice that which is adequately explained by stupidity." }
 puts white{ "Hadoop bit too much? Want a simpler syntax now? " } + white{ bold{ "Use GNU Parallel" } } + white{ "." } + black{ bold{ " - Ole Tange" } }
 puts white{ bold{ "Being 'disruptive' used to be a black mark on a school report." } } + white{ " Now it's a celebrated personality trait in Silicon Valley." } + black{ bold{ " - @iamdevloper" } }
+puts white{ "Experimental epistemology." } + black{ bold{ " - Sign on a door, MIT, 1952." } }
 
 # paul graham
 puts "----- paul graham -----"
