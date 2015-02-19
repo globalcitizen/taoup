@@ -311,6 +311,7 @@ puts white{ bold{ "Hanlon's razor" } } + black{ bold{ ": " } } + white{ "Never a
 puts white{ "Hadoop bit too much? Want a simpler syntax now? " } + white{ bold{ "Use GNU Parallel" } } + white{ "." } + black{ bold{ " - Ole Tange" } }
 puts white{ bold{ "Being 'disruptive' used to be a black mark on a school report." } } + white{ " Now it's a celebrated personality trait in Silicon Valley." } + black{ bold{ " - @iamdevloper" } }
 puts white{ "Experimental epistemology." } + black{ bold{ " - Sign on a door, MIT, 1952." } }
+puts white{ "Discontent arises from a knowledge of the possible, as contrasted with the actual." } + black{ bold{ " - Aneurin Bevan (founder, UK NHS)" } }
 
 # paul graham
 puts "----- paul graham -----"
