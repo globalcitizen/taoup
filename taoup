@@ -564,8 +564,8 @@ puts white{ "Translating a working program to a new language or system takes 10 
 puts white{ "Don't use the computer to do things that can be done efficiently by hand." } + black{ bold{ " - Richard Hill, Hewlett-Packard" } }
 puts white{ "Don't use hands to do things that can be done efficiently by the computer." } + black{ bold{ " - Tom Duff, Bell Labs" } }
 puts white{ "I'd rather write programs to write programs than write programs." } + black{ bold{ " - Dick Sites, Digital Equipment Corporation" } }
-puts white{ bold{ "Brooks' Law of Prototypes" } } + white{ "Plan to throw one away, you will anyhow." } + black{ bold{ " - Fred Brooks, University of North Carolina" } }
-puts white{ bold{ "Brooks' Law of Prototypes (Zerouni's Carollary)" } } + white{ "If you plan to throw one away, you will throw away two." } + black{ bold{ " - Craig Zerouni" } }
+puts white{ bold{ "Brooks' Law of Prototypes" } } + white{ ": Plan to throw one away, you will anyhow." } + black{ bold{ " - Fred Brooks, University of North Carolina" } }
+puts white{ bold{ "Brooks' Law of Prototypes (Zerouni's Carollary)" } } + white{ ": If you plan to throw one away, you will throw away two." } + black{ bold{ " - Craig Zerouni" } }
 puts white{ "Prototyping cuts the work to produce a system by 40 percent." } + black{ bold{ " - Larry Bernstein, Bell Communications Research" } }
 puts white{ "Furious activity is no substitute for understanding." } + black{ bold{ " - H. H. Williams" } }
 puts white{ "Make it work first before you make it work fast." } + black{ bold{ " - Bruce Whiteside" } }
