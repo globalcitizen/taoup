@@ -312,6 +312,7 @@ puts white{ "Hadoop bit too much? Want a simpler syntax now? " } + white{ bold{ 
 puts white{ bold{ "Being 'disruptive' used to be a black mark on a school report." } } + white{ " Now it's a celebrated personality trait in Silicon Valley." } + black{ bold{ " - @iamdevloper" } }
 puts white{ "Experimental epistemology." } + black{ bold{ " - Sign on a door, MIT, 1952." } }
 puts white{ "Discontent arises from a knowledge of the possible, as contrasted with the actual." } + black{ bold{ " - Aneurin Bevan (founder, UK NHS)" } }
+puts white{ bold{ "The people have spoken" } } + white{ " ... most of it was complete gibberish." } + black{ bold{ " - Linus Torvalds, Linux-4.0-rc1 announcement (2015-02-22)" } }
 
 # paul graham
 puts "----- paul graham -----"
