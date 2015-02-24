@@ -322,6 +322,7 @@ puts white{ "Government never places additional restrictions on itself... unprov
 puts white{ "Many people I've talked to have told me that they're careful about what they type in to search engines because they know that it's being recorded. That limits the boundaries of their intellectual exploration." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 puts white{ "I'm more willing to risk imprisonment (or any other negative outcome) personally than I am willing to risk the curtailment of my intellectual freedom and that of those around me who I care for equally as I do for myself." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 puts white{ "I feel good in my human experience to know that I can contribute to the good of others." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
+puts white{ "I have some strongly held views." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 
 # paul graham
 puts "----- paul graham -----"
