@@ -73,8 +73,6 @@ puts white{ bold{ "Trust is the availability of effective recourse." } } + black
 puts white{ bold{ "Security engineering is about tolerable failure modes." } } + white{ "  Determine which failure modes are tolerable and which are not, and design around not having the intolerable ones." } + black{ bold{ " - Dan Geer (2014)" } }
 puts white{ bold{ "CIA triad" } } + white{ ": Confidentiality, Integrity, Availability." } + black{ bold{ " - Famous summary of computer security concerns." } }
 puts white{ "Some people when faced with a problem think: \"I know, I'll use distributed computing\"." } + white{ bold{ " Now they have N^2 problems." } } + black{ bold{ " - @jamesiry" } }
-puts white{ "Policy is a very weak protection." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
-puts white{ "Policy is a one-way ratchet that only loosens over time." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 # paradoxes from http://www.informit.com/articles/article.aspx?p=1963779
 puts white{ "Software Architecture Paradox #1: " } + white{ bold{ "Flexibility breeds complexity." } } + white{ " We aim to design flexible software; yet, in doing so, we see an undesirable increase in complexity." } + black{ bold{ " - Kirk Knoernschild, 2012" } }
 puts white{ "Software Architecture Paradox #2: " } + white{ bold{ "Reuse complicates use." } } + white{ " We strive to develop reusable software, only to impair the software's ease of use." } + black{ bold{ " - Kirk Knoernschild, 2012" } }
@@ -281,7 +279,6 @@ puts white{ bold{ "[Computers] are useless." } } + white{ " They can only give y
 puts white{ "Computers are useless without truly curious humans." } + black{ bold{ " - Ian Leslie, 'Google makes us all dumber: The Neuroscience of Search Engines', Salon.com (2014)" } }
 # http://www.nytimes.com/2014/04/06/magazine/flash-boys-michael-lewis.html?_r=4
 puts white{ "The deep problem with the system was a kind of moral inertia. " } + white{ bold{ "So long as it served the narrow self-interests of everyone inside it, no one on the inside would ever seek to change it" } } + white{ ", no matter how corrupt or sinister it became." } + black{ bold{ " - Michael Lewis on systematized high frequency trading (HFT) fraud, New York Times Magazine, March 2014." } }
-puts white{ "Government never places additional restrictions on itself... unprovoked." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 puts white{ "If you believe in a principle, never damage it with a poor impression." } + white{ bold{ " You must go the whole way." } } + black{ bold{ " - Charlie Parsons, gentleman scientist" } }
 # http://aeon.co/magazine/psychology/why-broken-sleep-is-a-golden-time-for-creativity/
 puts white{ bold{ "Let the end of thy first sleep raise thee from thy repose" } } + white{ ": then hath thy body the best temper, then hath thy soule the least incumbrance; then no noise shall disturbe thine ear; no object shall divert thine eye." } + black{ bold{ " - 17th-century English poet Francis Quarles, on the value of night-waking, darkness and silence as aids to internal reflection" } }
@@ -313,6 +310,15 @@ puts white{ bold{ "Being 'disruptive' used to be a black mark on a school report
 puts white{ "Experimental epistemology." } + black{ bold{ " - Sign on a door, MIT, 1952." } }
 puts white{ "Discontent arises from a knowledge of the possible, as contrasted with the actual." } + black{ bold{ " - Aneurin Bevan (founder, UK NHS)" } }
 puts white{ bold{ "The people have spoken" } } + white{ " ... most of it was complete gibberish." } + black{ bold{ " - Linus Torvalds, Linux-4.0-rc1 announcement (2015-02-22)" } }
+
+# snowden
+puts "----- edward snowden -----"
+puts white{ "For me, it all comes down to state power against " } + white{ bold{ "the people's ability to meaningfully oppose" } } + white{ " that power." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
+puts white{ bold{ "I remember what the internet was like before it was being watched and there's never been anything in the history of man that's like it." } } + white{ " [...] It was free and unrestrained, and we've seen the chilling of that, the cooling of that, the changing of that model towards something in which people self-police their views and they literally make jokes about ending up on 'the list' if they donate to a political cause or if they say something in a discussion, and it's become an expectation that we're being watched." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
+puts white{ bold{ "Technology is increasingly providing us [with] the ability to encode our rights not just in to our laws but in to our systems." } } + white{ " So when the failure of black letters on a page becomes apparent, we still have the failsafe of our technological systems, the systems that we surround ourselves [with] and rely upon every day." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
+puts white{ "Policy is a very weak protection." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
+puts white{ "Policy is a one-way ratchet that only loosens over time." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
+puts white{ "Government never places additional restrictions on itself... unprovoked." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 
 # paul graham
 puts "----- paul graham -----"
@@ -541,7 +547,6 @@ puts white{ bold{ "A rolling stone gathers no moss." } } + black{ bold{ " - Cond
 puts white{ bold{ "Precautionary Principle" } } + white{ ": If an action or policy has a suspected risk, in the absence of consensus, the burden of proof that it is not harmful falls upon those taking the action." }
 puts white{ bold{ "Peter Principle" } } + white{ ": People will tend to be promoted until they reach their 'position of incompetence'." } + black{ bold{ " - After Laurence J. Peter, Raymond Hull's co-author of 'The Peter Princple: Why Things Always Go Wrong' (1975)" } }
 puts white{ bold{ "No battle was ever won according to plan," } } + white{ " but no battle was ever won without one." } + black{ bold{ "Dwight D. Eisenhower" } }
-puts white{ bold{ "Technology is increasingly providing us [with] the ability to encode our rights not just in to our laws but in to our systems." } } + white{ " So when the failure of black letters on a page becomes apparent, we still have the failsafe of our technological systems, the systems that we surround ourselves [with] and rely upon every day." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 puts white{ "Don't keep doing what doesn't work." }
 puts white{ "Good judgement comes from experience, and experience comes from bad judgement." } + black{ bold{ " - Fred Books, University of North Carolina" } }
 puts white{ "I think " } + white{ bold{ "I've had milk last longer than some JavaScript frameworks" } } + white{ "." } + black{ bold{ " - @iamdevloper (2014)" } }
