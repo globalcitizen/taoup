@@ -489,6 +489,9 @@ puts white{ bold{ "Wirth's Law" } } + white{ ": Software gets slower faster than
 # hofstader's law
 puts white{ bold{ "Hofstadter's Law" } } + white{ ": It always takes longer than you expect, even when you take into account Hofstadter's Law." } + black{ bold{ " - Douglas Hofstadter, 'Gödel, Escher, Bach: An Eternal Golden Braid' (1979)" } }
 
+# zawinski
+puts white{ bold{ "Zawinski's Law" } } + white{ ": Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can." }
+
 # zymurgy
 puts white{ bold{ "Zymurgy's First Law of Evolving Systems Dynamics" } } + white{ ": Once you open a can of worms, the only way to recan them is to use a larger can." }
 
