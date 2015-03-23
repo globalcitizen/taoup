@@ -531,6 +531,10 @@ puts white{ bold{ "Niven's Fourth Law of Writing" } } + white{ ": It is a sin to
 puts white{ bold{ "Niven's Fifth Law of Writing" } } + white{ ": If you've nothing to say, say it any way you like. Stylistic innovations, contorted story lines or none, exotic or genderless pronouns, internal inconsistencies, the recipe for preparing your lover as a cannibal banquet: feel free. If what you have to say is important and/or difficult to follow, use the simplest language possible. If the reader doesn't get it then, let it not be your fault." } + black{ bold{ " - Larry Niven, science fiction author (1989)" } }
 puts white{ bold{ "Niven's Sixth Law of Writing" } } + white{ ": Everybody talks first draft." } + black{ bold{ " - Larry Niven, science fiction author (1989)" } }
 
+puts "----- richard stallman -----"
+puts white{ "With software, " } + white{ bold{ "either the users control the program, or the program controls the users." } } + black{ bold{ " - Richard Stallman" } }
+puts white{ bold{ "Americans have shown that they are politically naïve." } } + white{ " If you look at how successful plutocratic candidates are in the U.S. - you can get Americans to vote to give their money to the rich. You have to just say certain predictable, silly things to them, and most of them will be fooled." } + black{ bold{ " - Richard Stallman" } }
+puts white{ "Even though it’s sad to see people being foolish, there's no use giving up." } + white{ bold{ " Nothing good can come of giving up. That just means you lose completely, right away." } } + black{ bold{ " - Richard Stallman" } }
 
 puts "----- randoms on distribution -----"
 # 90/90 aka. 'Rule of Credibility'
