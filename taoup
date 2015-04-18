@@ -311,6 +311,8 @@ puts white{ "Experimental epistemology." } + black{ bold{ " - Sign on a door, MI
 puts white{ "Discontent arises from a knowledge of the possible, as contrasted with the actual." } + black{ bold{ " - Aneurin Bevan (founder, UK NHS)" } }
 puts white{ bold{ "The people have spoken" } } + white{ " ... most of it was complete gibberish." } + black{ bold{ " - Linus Torvalds, Linux-4.0-rc1 announcement (2015-02-22)" } }
 puts white{ bold{ "Putting yourself in new situations constantly is the only way to ensure that you make your decisions unencumbered by the nature of habit, law, custom or prejudice" } } + white{ " – and it’s up to you to create the situations." } + black{ bold{ " - Crimethinc anarchist collective" } }
+puts white{ bold{ "The fact that something is silly doesn't mean that it should be ignored." } } + white{ " Hitler was silly. The Inquisition was stupid. The great religious wars and persecutions, I would argue, were thoroughly absurd. But they were also very terrible. The beliefs themselves may be silly or harmless, but a resurgence of medieval-type thinking is no laughing matter." } + black{ bold{ " - Robert Burnham Jr., Astronomer (1983)" } }
+puts white{ bold{ "We don't know one millionth of one percent about anything." } } + black{ bold{ " - Thomas Edison" } }
 
 # snowden
 puts "----- edward snowden -----"
