@@ -316,6 +316,7 @@ puts white{ bold{ "The fact that something is silly doesn't mean that it should 
 puts white{ bold{ "We are all children. But if we cannot be wise, we can at least be honest." } } + white{ " I accept the existence of what I call the all-pervading intelligence of the universe. The Orientals call it the Tao. To me, that is too obvious to need scientific proof. That's my religion -- that and the Grand Canyon. And Yosemite. And the surf coming in with the tide. And NGC-6611." } + black{ bold{ " - Robert Burnham Jr., Astronomer (1983)" } }
 puts white{ "I would say this: There is no ultimate truth about life or the universe which can be expressed in words. Whatever it is, it has to be experienced directly. Words are symbols, never to be confused with the thing itself. The most that any set of symbols can do is to point the way. " } + white{ bold{ "Your task is to walk down the road, not to worship the signpost." } } + black{ bold{ " - Robert Burnham Jr., Astronomer (1983)" } }
 puts white{ bold{ "Blind monkey at the typewriter." } } + black{ bold{ " - Robert Burnham Jr., Astronomer (1983)" } }
+puts white{ bold{ "May the ox of journalism always be yoked to the cart of commerce." } } + black{ bold{ " - Herman Zweibel, [fictional] publisher of 'The Onion' (satire)" } }
 
 # snowden
 puts "----- edward snowden -----"
