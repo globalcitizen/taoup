@@ -96,6 +96,7 @@ puts white{ bold{ "Firmitas, utilitas, venusitas." } } + white{ ' ("Firmness, ut
 puts white{ "The besetting mistake of expert designers is not designing the thing wrong, but designing the wrong thing." } + black{ bold{ " - Frederick P. Brooks, 'The Design of Design: Essays from a Computer Scientist' (2010)" } }
 puts white{ "The central tension in the software process comes from the fact that we must go from an informally identified need that exists in-the-world to a formal model that operates in-the-computer." } + black{ bold{ " - Bruce Blum, 'Beyond Programming' (1996)" } }
 puts white{ bold{ "UML" } } + white{ " - Unnecessary Management Lingo." } + black{ bold{ " - @iamdevloper" } }
+puts white{ bold{ "There are only two hard things in Computer Science" } } + white{ ": off by one errors, cache invalidation and naming things." } + black{ bold{ " - Phil Karlton" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
@@ -679,6 +680,15 @@ puts white{ "If the code and the comments disagree, then both are probably wrong
 puts white{ "A procedure should fit on a page." } + black{ bold{ " - David Tribble" } }
 puts white{ bold{ "The Test of Negation" } } + white{ ": Don't include a sentence in documentation if its negation is obviously false." } + black{ bold{ " - Bob Martin, AT&T" } }
 puts white{ "When explaining a command, or language feature, or hardware widget, first describe the problem it is designed to solve." } + black{ bold{ " - David Martin" } }
+puts white{ "Write with the door closed, " } + bold{ white{ "rewrite with the door open" } } + white{ '.' } + black{ bold{ " - 'Steven King on pair programming', Peter Hilton" } }
+puts white{ "I find " } + white{ bold{ "the bigger the monitor, the better the concentration" } } + white{ "." } + black{ bold{ " - 'Anne Rice on development hardware', Peter Hilton" } }
+puts white{ bold{ "When writing a novel a writer should create living people" } } + white{ "; people not characters. A character is a charicature." } + black{ bold{ " - 'Ernest Hemingway on user personas', Peter Hilton" } }
+puts white{ "There are three rules for writing the novel." } + white{ bold{ " Unfortunately, nobody knows what they are." } } + black{ bold{ " - 'W. Somerset Maugham on enterprise architecture', Peter Hilton" } }
+puts white{ bold{ "When people tell you something's wrong or doesn't work for them they are almost always right." } } + white{ " When they tell you exactly what they think is wrong and how to fix it, they are almost always wrong." } + black{ bold{ " - 'Neil Gaiman on review feedback', Peter Hilton" } }
+puts white{ bold{ "The main rule of writing is that if you do it with enough assurance and confidence, you're allowed to do whatever you like." } } + black{ bold{ " - 'Neil Gaiman on open source', Peter Hilton" } }
+puts white{ "When I use a word, " } + white{ bold{ "it means just what I choose it to mean - neither more nor less" } } + white{ "." } + black{ bold{ " - Humpty Dumpty (\"in a rather scornful tone\"), 'Through the Looking-Glass, and What Alice Found There' (1871), Lewis Carroll" } }
+puts white{ "A rose by any other name will end up as a cabbage." } + black{ bold{ " - Sam Gardiner" } }
+puts white{ bold{ "Summary of advice from writers" } } + white{ ": Advice from writers is useful, and not only about naming. Writers have been at it for centuries; programming is merely decades old. Also, their advice is better written. And funnier." } + black{ bold{ " - Peter Hilton" } }
 
 # seven deadly sins of cloud computing research
 puts '--- 7 deadly sins of cloud computing research ---'
