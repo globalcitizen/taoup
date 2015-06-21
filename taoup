@@ -158,7 +158,6 @@ puts white{ bold{ 'Bliss' } } + white{ ': Allow your users the luxury of ignoran
 puts white{ bold{ 'Distractions' } } + white{ ': Allow your users the luxury of inattention.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
 puts white{ bold{ 'Flow' } } + white{ ': Allow your users the luxury of attention.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
 puts white{ bold{ 'Documentation' } } + white{ ': Documentation is an admission of failure.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
-puts white{ bold{ 'Least Surprise' } } + white{ ': In interface design, always do the least surprising thing.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
 puts white{ bold{ 'Transparency' } } + white{ ': Every bit of program state that the user has to reason about should be manifest in the interface.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
 puts white{ bold{ 'Modelessness' } } + white{ ': The interface\'s response to user actions should be consistent and never depend on hidden state.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
 puts white{ bold{ 'Seven' } } + white{ ': Users can hold at most 7±2 things at once in working storage.' } + black{ bold{ " - Eric S. Raymond, The Art of Unix Usability (2004)" } }
