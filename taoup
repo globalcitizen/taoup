@@ -97,6 +97,7 @@ puts white{ "The besetting mistake of expert designers is not designing the thin
 puts white{ "The central tension in the software process comes from the fact that we must go from an informally identified need that exists in-the-world to a formal model that operates in-the-computer." } + black{ bold{ " - Bruce Blum, 'Beyond Programming' (1996)" } }
 puts white{ bold{ "UML" } } + white{ " - Unnecessary Management Lingo." } + black{ bold{ " - @iamdevloper" } }
 puts white{ bold{ "There are only two hard things in Computer Science" } } + white{ ": off by one errors, cache invalidation and naming things." } + black{ bold{ " - Phil Karlton" } }
+puts white{ "Functions in particular are a programming language construct and as such not easily extended across programming languages, processes and networks, mostly due to different type systems and error states [...] " } + white{ bold{ "it's not an accident or historical vestige that Unix philosophy uses the word 'program'" } } + white{ ". It has technical as well as social implications that have barely changed in the past 50 years." } + black{ bold{ " - fauigerzigerk" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
@@ -717,3 +718,13 @@ puts white{ bold{ '10th Fundamental Truth of Networking' } } + white{ ': One siz
 puts white{ bold{ '11th Fundamental Truth of Networking' } } + white{ ': Every old idea will be proposed again with a different name and a different presentation' } + black{ bold{ ', regardless of whether it works.' } }
 # the above has a corollary which is see corollary to the 6th rule .. leaving this out due to display-time limitations
 puts white{ bold{ '12th Fundamental Truth of Networking' } } + white{ ': ' } + black{ bold{ 'In protocol design, ' } } + white{ 'perfection has been reached not when there is nothing left to add, but when there is nothing left to take away' } + black{ bold{ '.' } }
+
+puts '------ anti-OO ------'
+puts white{ bold{ "Object-oriented programming is an exceptionally bad idea" } } + white{ " which could only have originated in California." } + black{ bold{ " - Edsger Dijkstra" } }
+puts white{ "Object-oriented design is the roman numerals of computing." } + black{ bold{ " - Rob Pike" } }
+puts white{ bold{ "The phrase 'object-oriented' means a lot of things." } } + white{ " Half are obvious, and the other half are mistakes." } + black{ bold{ " - Paul Graham" } }
+puts white{ "Implementation inheritance causes the same intertwining and brittleness that have been observed when goto statements are overused. As a result, " } + white{ bold{ "OO systems often suffer from complexity and lack of reuse." } } + black{ bold{ " - John Ousterhout Scripting, IEEE Computer, March 1998" } }
+puts white{ bold{ "Sometimes, the elegant implementation is just a function." } } + white{ " Not a method. Not a class. Not a framework. Just a function." } + black{ bold{ " - John Carmack" } }
+puts white{ "The problem with object-oriented languages is they've got all this implicit environment that they carry around with them. " } + white{ bold{ "You wanted a banana but what you got was a gorilla holding the banana and the entire jungle." } } + black{ bold{ " - Joe Armstrong" } }
+puts white{ bold{ "I used to be enamored of object-oriented programming." } } + white{ " I’m now finding myself leaning toward believing that it is a plot designed to destroy joy." } + black{ bold{ " - Eric Allman" } }
+puts white{ bold{ "OO is the 'structured programming' snake oil of the 90's" } } + white{ ": useful at times, but hardly the 'end all' programing paradigm some like to make out of it." } + black{ bold{ " - ESR" } }
