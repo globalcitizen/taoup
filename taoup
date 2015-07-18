@@ -430,6 +430,12 @@ puts white{ bold{ "Geer's Law" } } + white{ ": Any security technology whose eff
 # glib's fourth law
 puts white{ bold{ "Glib's Fourth Law of Unreliability" } } + white{ ": Investment in reliability will increase until it exceeds the probable cost of errors, or until someone insists on getting some useful work done." }
 
+# goodhart's law and corollary
+#  (see https://en.wikipedia.org/wiki/Goodhart%27s_law)
+puts white{ bold{ "Goodhart's Law (Popular formulation)" } } + white{ ": When a measure becomes a target, it ceases to be a good measure." }
+puts white{ bold{ "Goodhart's Law (Original formulation)" } } + white{ ": Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes." } + black{ bold{ " - Charles Goodhart (1975)" } }
+puts white{ bold{ "Goodhart's Law (Danielsson's corollary)" } } + white{ bold{ ": A risk model breaks down when used for regulatory purposes." } } + black{ bold{ " (2002)" } }
+
 # hlade's law .. appears to be a misattribution with no source available
 puts white{ bold{ "If you have a difficult task, give it to a lazy person" } } + white{ " - they will find an easier way to do it." } + black{ bold{ " - Walter Percy Chrysler (1875-1940), American industrialist" } }
 
