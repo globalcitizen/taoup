@@ -639,6 +639,7 @@ puts white{ bold{ "We're more aware of simple processes that don't work well tha
 puts '--- Hackers of History ---'
 puts white{ 'The libertinistic rake is ' } + white{ bold{ 'anti-authoritarian' } } + white{ ',' } + white{ bold{ ' anti-normative' } } + white{ ', and ' } + white{ bold{ 'anti-traditional' } } + white{ '.' } + black{ bold{ ' - Wikipedia on 17th century \'Rake (character)\'' } }
 puts white{ 'Knowledge will forever govern ignorance, and a people who mean to be their own governors must arm themselves with the power knowledge gives. ' } + white{ bold{ 'A popular government without popular information or the means of acquiring it is but a prologue to a farce or a tragedy' } } + white{ '... or perhaps both.' } + black{ bold{ ' - U.S. Founding Father James Madison' } }
+puts white{ "There was a romantic tradition, in this country at least, of " } + white{ bold{ "the drifter Typesetters" } } + white{ ", who were good enough at the craft to find work wherever they traveled. They'd work in one town until they wanted a change and then drift on. They had a reputation for being well read, occasionally hard drinking, strong union men who enjoyed an independence particularly rare in the 19th century." } + black{ bold{ ' - Clark E. Coffee (founder of Graphion, a phototypesetting company in SF)' } }
 
 # robert david steele
 puts '--- Robert David Steele ---'
