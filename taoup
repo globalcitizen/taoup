@@ -327,7 +327,7 @@ puts white{ "The plural of anecdote is data."  } + black{ bold{ " - Raymond Wolf
 puts white{ bold{ "EIE_IO" } } + white{ ": With a SYNC SYNC here... and a SYNC SYNC there..." } + black{ bold{ " - CP-6 OS's communications software, synchronous-terminal (BISYNC) module source code" } }
 puts white{ bold{ "There are three things that no one can advise another person for or against." } } + white{ " One is marriage, another is waging war and the third is visiting the Holy Sepulchre. These things often end badly." } + black{ bold{ " - Eberhard, Count of Wurttemberg (1480)." } }
 puts white{ bold{ "Batch jobs and message queues give me 80% of the benefit of 'microservices'" } } + white{ " with only 5% of the pain." } + black{ bold{ " - daxfohl, Hacker News (2015-10-06)" } }
-puts white{ bold{ "Man is at his vilest when he erects a billboard." } } + black{ bold{ " - David Ogilvy" } }
+puts white{ bold{ "Man is at his vilest when he erects a billboard." } } + white{ " When I retire from Madison Avenue, I am going to start a secret society of masked vigilantes who will travel around the world on silent motor bicycles, chopping down posters at the dark of the moon." } + black{ bold{ " - David Ogilvy" } }
 
 # snowden
 puts "----- edward snowden -----"
