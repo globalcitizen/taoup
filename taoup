@@ -324,6 +324,10 @@ puts white{ "We should also be much more transparent on the negative aspects of 
 puts white{ "They will say that because of my lack of book learning, I cannot properly express what I desire to treat of. " } + white{ bold{ "Do they not know that my subjects require for their exposition experience rather than the words of others?" } } + white{ " And since experience has been the mistress, and to her in all points make my appeal." } + black{ bold{ " - Leonardo Da Vinci" } }
 # http://blog.revolutionanalytics.com/2011/04/the-plural-of-anecdote-is-data-after-all.html
 puts white{ "The plural of anecdote is data."  } + black{ bold{ " - Raymond Wolfinger (1969)" } }
+puts white{ bold{ "EIE_IO" } } + white{ ": With a SYNC SYNC here... and a SYNC SYNC there..." } + black{ bold{ " - CP-6 OS's communications software, synchronous-terminal (BISYNC) module source code" } }
+puts white{ bold{ "There are three things that no one can advise another person for or against." } } + white{ " One is marriage, another is waging war and the third is visiting the Holy Sepulchre. These things often end badly." } + black{ bold{ " - Eberhard, Count of Wurttemberg (1480)." } }
+puts white{ bold{ "Batch jobs and message queues give me 80% of the benefit of 'microservices'" } } + white{ " with only 5% of the pain." } + black{ bold{ " - daxfohl, Hacker News (2015-10-06)" } }
+puts white{ bold{ "Man is at his vilest when he erects a billboard." } } + black{ bold{ " - David Ogilvy" } }
 
 # snowden
 puts "----- edward snowden -----"
