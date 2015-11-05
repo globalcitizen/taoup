@@ -101,6 +101,7 @@ puts white{ "Functions in particular are a programming language construct and as
 puts white{ bold{ "Most of it's bullshit" } } + white{ " but there is a core of good ideas you have to pay attention to." } + black{ bold{ " - Joseph Henry Condon on cognitive engineering (a 1970s predecessor to the Unix Philosophy)" } }
 puts white{ bold{ "Any piece of engineering design is a statement." } } + white{ " By the designer without the user." } + black{ bold{ " - MSM" } } # from https://www.princeton.edu/~hos/mike/transcripts/condon.htm .. who is MSM?
 puts white{ bold{ "The major thing that we found was that you had to look at the whole problem." } } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } }
+puts white{ bold{ "People write programs around here because they want to use them." } } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
