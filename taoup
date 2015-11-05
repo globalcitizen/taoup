@@ -98,6 +98,7 @@ puts white{ "The central tension in the software process comes from the fact tha
 puts white{ bold{ "UML" } } + white{ " - Unnecessary Management Lingo." } + black{ bold{ " - @iamdevloper" } }
 puts white{ bold{ "There are only two hard things in Computer Science" } } + white{ ": off by one errors, cache invalidation and naming things." } + black{ bold{ " - Phil Karlton" } }
 puts white{ "Functions in particular are a programming language construct and as such not easily extended across programming languages, processes and networks, mostly due to different type systems and error states [...] " } + white{ bold{ "it's not an accident or historical vestige that Unix philosophy uses the word 'program'" } } + white{ ". It has technical as well as social implications that have barely changed in the past 50 years." } + black{ bold{ " - fauigerzigerk" } }
+puts white{ bold{ "Most of it's bullshit" } } + white{ " but there is a core of good ideas you have to pay attention to." } + black{ bold{ " - Joseph Henry Condon on cognitive engineering (a 1970s predecessor to the Unix Philosophy)" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
