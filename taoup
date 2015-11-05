@@ -596,6 +596,7 @@ puts white{ "Don't keep doing what doesn't work." }
 puts white{ "Good judgement comes from experience, and experience comes from bad judgement." } + black{ bold{ " - Fred Books, University of North Carolina" } }
 puts white{ "I think " } + white{ bold{ "I've had milk last longer than some JavaScript frameworks" } } + white{ "." } + black{ bold{ " - @iamdevloper (2014)" } }
 puts white{ "Technological progress was much faster than political progress." } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } }
+puts white{ "Those change-over things are really severe. Really severe problems." } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } } 
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
