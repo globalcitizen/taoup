@@ -718,6 +718,10 @@ puts white{ "When I use a word, " } + white{ bold{ "it means just what I choose 
 puts white{ "A rose by any other name will end up as a cabbage." } + black{ bold{ " - Sam Gardiner" } }
 puts white{ bold{ "Summary of advice from writers" } } + white{ ": Advice from writers is useful, and not only about naming. Writers have been at it for centuries; programming is merely decades old. Also, their advice is better written. And funnier." } + black{ bold{ " - Peter Hilton" } }
 
+# randoms - learning
+puts '--- learning ---'
+puts white{ "It is well to bear in mind that " } + white{ bold{ "knowledge is like food, and becomes ours only when it is absorbed, assimilated and digested by the intellect" } } + white{ "." } + black{ bold{ " - 'The Key of Knowledge', Champat Rai Jain (1928)" } }
+
 # seven deadly sins of cloud computing research
 puts '--- 7 deadly sins of cloud computing research ---'
 puts white{ bold{ 'Sin #1 - Unnecessary distributed parallelism' } } + white{ ': It does not always make sense to parallelize a computation. Doing so almost inevitably comes with an additional overhead, both in runtime performance and in engineering time. When designing a parallel implementation, its performance should ' } + white{ bold{ 'always' } } + white{ ' be compared to an optimized serial implementation in order to understand the overheads involved. If we satisfy ourselves that parallel processing is necessary, it is also worth considering whether ' } + white{ bold{ 'distribution' } } + white{ ' over multiple machines is required. The rapid increase in RAM and CPU cores can make local parallelism economical and worthwhile. Establish the need for distributed parallelism on a case by case basis.' } + black{ bold{ " - Schwarzkopf et al, 'The seven deadly sins of cloud computing research' (2014)" } }
