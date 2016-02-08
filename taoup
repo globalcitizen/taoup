@@ -718,9 +718,10 @@ puts white{ "When I use a word, " } + white{ bold{ "it means just what I choose 
 puts white{ "A rose by any other name will end up as a cabbage." } + black{ bold{ " - Sam Gardiner" } }
 puts white{ bold{ "Summary of advice from writers" } } + white{ ": Advice from writers is useful, and not only about naming. Writers have been at it for centuries; programming is merely decades old. Also, their advice is better written. And funnier." } + black{ bold{ " - Peter Hilton" } }
 
-# randoms - learning
-puts '--- learning ---'
+# randoms - AI + learning
+puts '--- AI + learning ---'
 puts white{ "It is well to bear in mind that " } + white{ bold{ "knowledge is like food, and becomes ours only when it is absorbed, assimilated and digested by the intellect" } } + white{ "." } + black{ bold{ " - 'The Key of Knowledge', Champat Rai Jain (1928)" } }
+puts white{ "A smart machine is a profoundly paradoxical entity, but a paradox is not a supernatural act. " } + white{ bold{ "A paradox is a symptom of a breakdown in two competing definitional systems." } } + black{ bold{ " - Bruce Sterling (1995)" } }
 
 # seven deadly sins of cloud computing research
 puts '--- 7 deadly sins of cloud computing research ---'
