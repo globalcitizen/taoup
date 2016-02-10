@@ -718,6 +718,7 @@ puts white{ bold{ "The main rule of writing is that if you do it with enough ass
 puts white{ "When I use a word, " } + white{ bold{ "it means just what I choose it to mean - neither more nor less" } } + white{ "." } + black{ bold{ " - Humpty Dumpty (\"in a rather scornful tone\"), 'Through the Looking-Glass, and What Alice Found There' (1871), Lewis Carroll" } }
 puts white{ "A rose by any other name will end up as a cabbage." } + black{ bold{ " - Sam Gardiner" } }
 puts white{ bold{ "Summary of advice from writers" } } + white{ ": Advice from writers is useful, and not only about naming. Writers have been at it for centuries; programming is merely decades old. Also, their advice is better written. And funnier." } + black{ bold{ " - Peter Hilton" } }
+puts white{ "A language is a dialect with an army and a navy." } + black{ bold{ " - Max Weinreich" } }
 
 # randoms - AI + learning
 puts '--- AI + learning ---'
