@@ -9,7 +9,7 @@ It's mostly a personal collection, but contributions are welcome.
 To get it running, make sure you have `ruby` and `gem` installed, then run:
  `gem install ansi`
 
-After that, it should work fine.
+After that, it should work fine, as long as you use a black terminal (who doesn't?).
 
 
 Getting wisdom at login
