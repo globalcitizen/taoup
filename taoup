@@ -642,6 +642,7 @@ puts white{ "Technological progress was much faster than political progress." } 
 puts white{ "Those change-over things are really severe. Really severe problems." } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } } 
 puts white{ bold{ "Perhaps we have overrated roots as a psychic need. " } } + white{ "Maybe the greater urge, the deeper and more ancient is the need, the will, the hunger to be somewhere else." } + black{ bold{ " - John Steinbeck" } }
 puts white{ "Wisdom is the accumulation of knowledge and experience, living long enough to reflect on it, make sense of it, and apply it to oneself and others." } + black{ bold{ " - Abraham Maslow" } }
+puts white{ bold{ "A third of people are really enthusiastic, a third have big eyes, and the other third think we are crazy." } } + white{ " That's how it goes with innovations." } + black{ bold{ " - Carel De Vries" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
