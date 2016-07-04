@@ -11,6 +11,8 @@ To get it running, make sure you have `ruby` and `gem` installed, then run:
 
 After that, it should work fine, as long as you use a black terminal (who doesn't?).
 
+[screenshot]: https://raw.githubusercontent.com/globalcitizen/taoup/master/screenshot.png "Behold, wisdom!"
+
 
 Getting wisdom at login
 -----------------------
