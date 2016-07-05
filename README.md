@@ -17,19 +17,7 @@ After that, it should work fine, as long as you use a black terminal (who doesn'
 Getting wisdom at login
 -----------------------
 
-To display `taoup` output at login, try something like this in your `.profile`:
-
-```
-/path/to/taoup |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1 | cowsay -f eyes -n |head -n 2 |tail -n 1
-echo '' | cowsay -f eyes |tail -n 10 |sed 's/^/[0;32;40m/'
-```
-
-Note that you need to use the real source of `README.md` for the command here, 
-since the final `sed` contains extended ANSI escape sequence characters that 
-do not copy from Github-webland. The `while read line...done` stuff is an 
-ugly hack for portable random `sort`, mostly for OSX users. If you don't yet 
-have `cowsay`, stop reading right now and get it installed!
-
+To display `taoup` output at login, use the `taoup-fortune` example script or try adding something similar in your `.profile`.
 
 Special modes
 -------------
