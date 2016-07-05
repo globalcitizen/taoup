@@ -372,7 +372,7 @@ puts white{ bold{ "Hanson's Treatment of Time" } } + white{ ": There are never e
 puts white{ "Of course hardened mariners would have thrashed up through the night without a tremor, hardened mariners would have battled in stinging spray and sodden clothes, hardened mariners would have reached a haven as dawn was breaking. " } + white{ bold{ "What a terrible affliction, to be a hardened mariner!" } } + black{ bold{ " - W. I. B. Crealock, 'Vagabonding Under Sail' (1951)" } }
 puts white{ "Upon arriving in the capital-F Future, we discover it, invariably, to be the lowercase now." } + black{ bold{ " - William Gibson" } }
 # http://www.economist.com/news/christmas-specials/21636612-time-poverty-problem-partly-perception-and-partly-distribution-why?fsrc=scn/tw/te/pe/ed/whyiseveryonesobusy
-puts white{ "Lean back under a tree, put your arms behind your head, wonder at the pass we've come to, smile and remember that the beginnings and ends of man's every great enterprise are untidy." } + black{ bold{ " - Sebastian de Grazia (1962)" } }
+puts white{ "Lean back under a tree, put your arms behind your head, wonder at the pass we've come to, smile and remember that " } + white{ bold{ "the beginnings and ends of man's every great enterprise are untidy" } } + white{ "." } + black{ bold{ " - Sebastian de Grazia (1962)" } }
 puts white{ "Even a broken clock is right twice a day." }
 
 # re-sectionize
