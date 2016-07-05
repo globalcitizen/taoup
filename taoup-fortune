@@ -1,0 +1,3 @@
+#!/bin/bash
+./taoup |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1 | /usr/local/bin/cowsay -f eyes -n |head -n 2 |tail -n 1
+echo '' | cowsay -f eyes |tail -n 10 |sed 's/^/[0;32;40m/'
