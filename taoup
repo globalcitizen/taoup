@@ -103,6 +103,7 @@ puts white{ bold{ "Any piece of engineering design is a statement." } } + white{
 puts white{ bold{ "The major thing that we found was that you had to look at the whole problem." } } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } }
 puts white{ bold{ "People write programs around here because they want to use them." } } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } }
 puts white{ bold{ "There is no excellent beauty which hath not some strangeness in the proportion." } } + black{ bold{ " - Francis Bacon" } }
+puts white{ "Don't pick the right tool for the job, " } + white{ bold{ "pick the right framework which secures you extra work for being a tool" } } + white{ "." } + black{ bold{ " - @iamdevloper" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
@@ -337,6 +338,13 @@ puts white{ "All old-established national industries have been destroyed or are 
 puts white{ bold{ "Sometimes paranoia's just having all the facts." } } + black{ bold{ " - William S. Burroughs" } }
 puts white{ bold{ "Go play with it yourself." } } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } }
 puts white{ bold{ "It's a paradox to be an artist working through the medium of machinery" } } + white{ " - but the paradox is where the sons of bitches have hidden all the oxygen. It may be crazy here, but we can breathe in here. Because the old art is no longer working, and the old science is no longer funded, and politics are a debacle, and the culture is at its wits' end." } + black{ bold{ " - Bruce Sterling (1995)" } }
+puts white{ "foo walks into a bar" } + black{ bold{ " - @iamdevloper" } }
+puts white{ bold{ "nomads" } } + white{ ": people who have larger collections of coffee shop wifi passwords than clothes" } + black{ bold{ " - @jongold" } }
+puts white{ bold{ "The software development process" } + white{ ": I can't fix this. " } + black{ bold{ "*crisis of confidence* *questions career* *questions life*" } } + white{ " Oh it was a typo, cool." } + black{ bold{ " - @iamdevloper" } }
+puts white{ "On the 7th day, God did a sprint retrospective." } + black{ bold{ " - @iamdevloper" } }
+puts white{ "What's a dinosaur's favourite file format?" } white{ bold{ ".rar" } } + black{ bold{ " - @iamdevloper" } }
+puts white{ "Asking a developer you’ve approached because of their work to do a code puzzle is like asking a surgeon to complete a game of Operation." } + black{ bold{ " - @iamdevloper" } }
+puts white{ "Give a man a fish and you feed him for a day, teach a man to fish and you feed him for a lifetime, " } + white{ bold{ "give a startup $$ and they'll waste it." } } + black{ bold{ " - @iamdevloper" } }
 
 # snowden
 puts "----- edward snowden -----"
