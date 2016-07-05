@@ -74,9 +74,9 @@ puts white{ bold{ "Security engineering is about tolerable failure modes." } } +
 puts white{ bold{ "CIA triad" } } + white{ ": Confidentiality, Integrity, Availability." } + black{ bold{ " - Famous summary of computer security concerns." } }
 puts white{ "Some people when faced with a problem think: \"I know, I'll use distributed computing\"." } + white{ bold{ " Now they have N^2 problems." } } + black{ bold{ " - @jamesiry" } }
 # paradoxes from http://www.informit.com/articles/article.aspx?p=1963779
-puts white{ "Software Architecture Paradox #1: " } + white{ bold{ "Flexibility breeds complexity." } } + white{ " We aim to design flexible software; yet, in doing so, we see an undesirable increase in complexity." } + black{ bold{ " - Kirk Knoernschild, 2012" } }
-puts white{ "Software Architecture Paradox #2: " } + white{ bold{ "Reuse complicates use." } } + white{ " We strive to develop reusable software, only to impair the software's ease of use." } + black{ bold{ " - Kirk Knoernschild, 2012" } }
-puts white{ "Software Architecture Paradox #3: " } + white{ bold{ "Evolution impedes survival." } } + white{ " We design a software system that can evolve, but in doing so hasten its death." } + black{ bold{ " - Kirk Knoernschild, 2012" } }
+puts white{ "Software Architecture Paradox #1: " } + white{ bold{ "Flexibility breeds complexity." } } + white{ " We aim to design flexible software; yet, in doing so, we see an undesirable increase in complexity." } + black{ bold{ " - Kirk Knoernschild (2012)" } }
+puts white{ "Software Architecture Paradox #2: " } + white{ bold{ "Reuse complicates use." } } + white{ " We strive to develop reusable software, only to impair the software's ease of use." } + black{ bold{ " - Kirk Knoernschild (2012)" } }
+puts white{ "Software Architecture Paradox #3: " } + white{ bold{ "Evolution impedes survival." } } + white{ " We design a software system that can evolve, but in doing so hasten its death." } + black{ bold{ " - Kirk Knoernschild (2012)" } }
 # https://news.ycombinator.com/item?id=8558942
 puts white{ "Design up front for reuse is, in essence, premature optimization." } + black{ bold{ " - AnimalMuppet" } }
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
