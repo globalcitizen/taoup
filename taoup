@@ -340,10 +340,10 @@ puts white{ bold{ "Go play with it yourself." } } + black{ bold{ " - Joseph Henr
 puts white{ bold{ "It's a paradox to be an artist working through the medium of machinery" } } + white{ " - but the paradox is where the sons of bitches have hidden all the oxygen. It may be crazy here, but we can breathe in here. Because the old art is no longer working, and the old science is no longer funded, and politics are a debacle, and the culture is at its wits' end." } + black{ bold{ " - Bruce Sterling (1995)" } }
 puts white{ "foo walks into a bar" } + black{ bold{ " - @iamdevloper" } }
 puts white{ bold{ "nomads" } } + white{ ": people who have larger collections of coffee shop wifi passwords than clothes" } + black{ bold{ " - @jongold" } }
-puts white{ bold{ "The software development process" } + white{ ": I can't fix this. " } + black{ bold{ "*crisis of confidence* *questions career* *questions life*" } } + white{ " Oh it was a typo, cool." } + black{ bold{ " - @iamdevloper" } }
+puts white{ bold{ "The software development process" } } + white{ ": I can't fix this. " } + black{ bold{ "*crisis of confidence* *questions career* *questions life*" } } + white{ " Oh it was a typo, cool." } + black{ bold{ " - @iamdevloper" } }
 puts white{ "On the 7th day, God did a sprint retrospective." } + black{ bold{ " - @iamdevloper" } }
-puts white{ "What's a dinosaur's favourite file format?" } white{ bold{ ".rar" } } + black{ bold{ " - @iamdevloper" } }
-puts white{ "Asking a developer you’ve approached because of their work to do a code puzzle is like asking a surgeon to complete a game of Operation." } + black{ bold{ " - @iamdevloper" } }
+puts white{ "What's a dinosaur's favourite file format?" } + white{ bold{ ".rar" } } + black{ bold{ " - @iamdevloper" } }
+puts white{ "Asking a developer you've approached because of their work to do a code puzzle is like asking a surgeon to complete a game of Operation." } + black{ bold{ " - @iamdevloper" } }
 puts white{ "Give a man a fish and you feed him for a day, teach a man to fish and you feed him for a lifetime, " } + white{ bold{ "give a startup $$ and they'll waste it." } } + black{ bold{ " - @iamdevloper" } }
 puts white{ "If your commit message is more than 15 words you should probably just write it down and read it to your therapist." } + black{ bold{ " - @iamdevloper" } }
 puts white{ "What do we want?" } + white{ bold{ " ASYNCHRONICITY!" } } + white{ " When do we want it? " } + white{ bold{ "THAT'S IRRELEVANT." } } + black{ bold{ " - @iamdevloper" } }
@@ -352,7 +352,10 @@ puts white{ "QA teams represent the alienation of product teams from their labor
 puts white{ "Values aren't achieved through specialization. " } + white{ bold{ "Imagine a VP of teamwork." } } + black{ bold{ " - Startup L. Jackson" } }
 puts white{ "Let's base our entire SDLC off of a product meant for tracking bugs." } + black{ bold{ " - David J. Bland" } }
 puts white{ "Days since array index errors: " } + white{ bold{ "-1" } } + black{ bold{ " - @iamdevloper" } }
-
+puts white{ "Programming is like endless detangling of Christmas lights." } + black{ bold{ " - Fred Willerup" } }
+puts white{ bold{ "$1" } } + white{ ": Not sure if currency or regex capture group." } + black{ bold{ " - @iamdevloper" } }
+puts white{ bold{ "1998" } } + white{ ": Don't get in strangers' cars. Don't meet people from the internet. " } + white{ bold{ "2016" } } + white{ ": Literally summon strangers from internet to get in their car." }
+puts white{ bold{ "Things that don't exist" } } + white{ ": 1) Unit tests 2) DRY 3) TDD" }
 
 # snowden
 puts "----- edward snowden -----"
