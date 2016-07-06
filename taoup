@@ -356,6 +356,18 @@ puts white{ "Programming is like endless detangling of Christmas lights." } + bl
 puts white{ bold{ "$1" } } + white{ ": Not sure if currency or regex capture group." } + black{ bold{ " - @iamdevloper" } }
 puts white{ bold{ "1998" } } + white{ ": Don't get in strangers' cars. Don't meet people from the internet. " } + white{ bold{ "2016" } } + white{ ": Literally summon strangers from internet to get in their car." }
 puts white{ bold{ "Things that don't exist" } } + white{ ": 1) Unit tests 2) DRY 3) TDD" }
+puts white{ "A JavaScript developer walks into a bar. By the time they go to order, the bar is abandoned and out-of-date." } + black{ bold{ " - @iamdevloper" } }
+puts white{ bold{ "2003" } } + white{ ": I replaced you with a set of very small shell scripts." } + white{ bold{ " 2013" } } + white{ ": I replaced your scripts with a six-figure enterprise DevOps platform." } + black{ bold{ " - @NeckbeardHacker" } }
+puts white{ bold{ "What kind of meat comes on the Functional Object Burger? " } } + white{ "Lamb, duh." } + black{ bold{ " - @hipsterhacker" } }
+puts white{ "Erlang is better than yer lang." } + black{ bold{ " - @hipsterhacker" } }
+puts white{ "I can't believe your Caps Lock key hasn't been remapped yet." } + black{ bold{ " - @hipsterhacker" } }
+puts white{ "They say the dream of the 90's is alive in Portland, but I haven't met a single Java developer here." } + black{ bold{ " - @hipsterhacker" } }
+puts white{ bold{ "For angel investors" } } + white{ ": A startup's value is inversely proportional to the # of people wearing business casual." } + black{ bold{ " - @hipsterhacker" } }
+puts white{ "Common Lisp is making a comeback like bellbottoms, pubic hair, and the unholy alliance of mustaches and androgyny." } + black{ bold{ " - @hipsterhacker" } }
+puts white{ "Android's spellchecker doesn't know the word 'quinoa', but iPhone's does. I'm guessing the same can be said for their respective users." } + black{ bold{ " - @hipsterhacker" } }
+puts white{ bold{ "Only old people need money to get a startup going. " } } + white{ "Venture capital? More like denture capital." } + black{ bold{ " - @hipsterhacker" } }
+puts white{ bold{ "I write world-changing applications in languages you have probably not yet heard of." } } + white{ "  My code is poetry, meanwhile yours is oh-noetry." } + black{ bold{ " - @hipsterhacker" } }
+
 
 # snowden
 puts "----- edward snowden -----"
