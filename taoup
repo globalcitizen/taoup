@@ -72,7 +72,7 @@ puts white{ bold{ "Freedom, security, and convenience" } } + white{ ": choose tw
 puts white{ bold{ "Trust is the availability of effective recourse." } } + black{ bold{ " - Dan Geer (2014)" } }
 puts white{ bold{ "Security engineering is about tolerable failure modes." } } + white{ "  Determine which failure modes are tolerable and which are not, and design around not having the intolerable ones." } + black{ bold{ " - Dan Geer (2014)" } }
 puts white{ bold{ "CIA triad" } } + white{ ": Confidentiality, Integrity, Availability." } + black{ bold{ " - Famous summary of computer security concerns." } }
-puts white{ "Some people when faced with a problem think: \"I know, I'll use distributed computing\"." } + white{ bold{ " Now they have N^2 problems." } } + black{ bold{ " - @jamesiry" } }
+puts white{ "Some people when faced with a problem think: \"I know, I'll use distributed computing\"." } + white{ bold{ " Now they have N^2 problems." } } + black{ bold{ ' - @jamesiry' } }
 # paradoxes from http://www.informit.com/articles/article.aspx?p=1963779
 puts white{ "Software Architecture Paradox #1: " } + white{ bold{ "Flexibility breeds complexity." } } + white{ " We aim to design flexible software; yet, in doing so, we see an undesirable increase in complexity." } + black{ bold{ " - Kirk Knoernschild (2012)" } }
 puts white{ "Software Architecture Paradox #2: " } + white{ bold{ "Reuse complicates use." } } + white{ " We strive to develop reusable software, only to impair the software's ease of use." } + black{ bold{ " - Kirk Knoernschild (2012)" } }
@@ -95,7 +95,7 @@ puts white{ "A general-purpose product is harder to design well than a special-p
 puts white{ bold{ "Firmitas, utilitas, venusitas." } } + white{ ' ("Firmness, utility, delight")' } + black{ bold{ " - Marcus Vitruvius, 'De Architectura' (22BCE)" } }
 puts white{ "The besetting mistake of expert designers is not designing the thing wrong, but designing the wrong thing." } + black{ bold{ " - Frederick P. Brooks, 'The Design of Design: Essays from a Computer Scientist' (2010)" } }
 puts white{ "The central tension in the software process comes from the fact that we must go from an informally identified need that exists in-the-world to a formal model that operates in-the-computer." } + black{ bold{ " - Bruce Blum, 'Beyond Programming' (1996)" } }
-puts white{ bold{ "UML" } } + white{ " - Unnecessary Management Lingo." } + black{ bold{ " - @iamdevloper" } }
+puts white{ bold{ "UML" } } + white{ " - Unnecessary Management Lingo." } + black{ bold{ ' - @iamdevloper' } }
 puts white{ bold{ "There are only two hard things in Computer Science" } } + white{ ": off by one errors, cache invalidation and naming things." } + black{ bold{ " - Phil Karlton" } }
 puts white{ "Functions in particular are a programming language construct and as such not easily extended across programming languages, processes and networks, mostly due to different type systems and error states [...] " } + white{ bold{ "it's not an accident or historical vestige that Unix philosophy uses the word 'program'" } } + white{ ". It has technical as well as social implications that have barely changed in the past 50 years." } + black{ bold{ " - fauigerzigerk" } }
 puts white{ bold{ "Most of it's bullshit" } } + white{ " but there is a core of good ideas you have to pay attention to." } + black{ bold{ " - Joseph Henry Condon on cognitive engineering (a 1970s predecessor to the Unix Philosophy)" } }
@@ -103,7 +103,7 @@ puts white{ bold{ "Any piece of engineering design is a statement." } } + white{
 puts white{ bold{ "The major thing that we found was that you had to look at the whole problem." } } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } }
 puts white{ bold{ "People write programs around here because they want to use them." } } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } }
 puts white{ bold{ "There is no excellent beauty which hath not some strangeness in the proportion." } } + black{ bold{ " - Francis Bacon" } }
-puts white{ "Don't pick the right tool for the job, " } + white{ bold{ "pick the right framework which secures you extra work for being a tool" } } + white{ "." } + black{ bold{ " - @iamdevloper" } }
+puts white{ "Don't pick the right tool for the job, " } + white{ bold{ "pick the right framework which secures you extra work for being a tool" } } + white{ "." } + black{ bold{ ' - @iamdevloper' } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
@@ -313,7 +313,7 @@ puts white{ "An articulated guess beats an unspoken assumption." } + black{ bold
 puts white{ "Every man who rises above the common level has received two educations: the first, from his teachers; the second, more personal and important, from himself."  } + black{ bold{ " - Edward Gibbons, 'Memoirs of My Life and Writings' (1789)" } }
 puts white{ bold{ "Hanlon's razor" } } + black{ bold{ ": " } } + white{ "Never attribute to malice that which is adequately explained by stupidity." }
 puts white{ "Hadoop bit too much? Want a simpler syntax now? " } + white{ bold{ "Use GNU Parallel" } } + white{ "." } + black{ bold{ " - Ole Tange" } }
-puts white{ bold{ "Being 'disruptive' used to be a black mark on a school report." } } + white{ " Now it's a celebrated personality trait in Silicon Valley." } + black{ bold{ " - @iamdevloper" } }
+puts white{ bold{ "Being 'disruptive' used to be a black mark on a school report." } } + white{ " Now it's a celebrated personality trait in Silicon Valley." } + black{ bold{ ' - @iamdevloper' } }
 puts white{ "Experimental epistemology." } + black{ bold{ " - Sign on a door, MIT, 1952." } }
 puts white{ "Discontent arises from a knowledge of the possible, as contrasted with the actual." } + black{ bold{ " - Aneurin Bevan (founder, UK NHS)" } }
 puts white{ bold{ "The people have spoken" } } + white{ " ... most of it was complete gibberish." } + black{ bold{ " - Linus Torvalds, Linux-4.0-rc1 announcement (2015-02-22)" } }
@@ -338,20 +338,20 @@ puts white{ "All old-established national industries have been destroyed or are 
 puts white{ bold{ "Sometimes paranoia's just having all the facts." } } + black{ bold{ " - William S. Burroughs" } }
 puts white{ bold{ "Go play with it yourself." } } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } }
 puts white{ bold{ "It's a paradox to be an artist working through the medium of machinery" } } + white{ " - but the paradox is where the sons of bitches have hidden all the oxygen. It may be crazy here, but we can breathe in here. Because the old art is no longer working, and the old science is no longer funded, and politics are a debacle, and the culture is at its wits' end." } + black{ bold{ " - Bruce Sterling (1995)" } }
-puts white{ "foo walks into a bar" } + black{ bold{ " - @iamdevloper" } }
-puts white{ bold{ "nomads" } } + white{ ": people who have larger collections of coffee shop wifi passwords than clothes" } + black{ bold{ " - @jongold" } }
-puts white{ bold{ "The software development process" } } + white{ ": I can't fix this. " } + black{ bold{ "*crisis of confidence* *questions career* *questions life*" } } + white{ " Oh it was a typo, cool." } + black{ bold{ " - @iamdevloper" } }
-puts white{ "On the 7th day, God did a sprint retrospective." } + black{ bold{ " - @iamdevloper" } }
-puts white{ "What's a dinosaur's favourite file format?" } + white{ bold{ ".rar" } } + black{ bold{ " - @iamdevloper" } }
-puts white{ "Asking a developer you've approached because of their work to do a code puzzle is like asking a surgeon to complete a game of Operation." } + black{ bold{ " - @iamdevloper" } }
-puts white{ "Give a man a fish and you feed him for a day, teach a man to fish and you feed him for a lifetime, " } + white{ bold{ "give a startup $$ and they'll waste it." } } + black{ bold{ " - @iamdevloper" } }
-puts white{ "If your commit message is more than 15 words you should probably just write it down and read it to your therapist." } + black{ bold{ " - @iamdevloper" } }
-puts white{ "What do we want?" } + white{ bold{ " ASYNCHRONICITY!" } } + white{ " When do we want it? " } + white{ bold{ "THAT'S IRRELEVANT." } } + black{ bold{ " - @iamdevloper" } }
-puts white{ "What is 2+2? " } + black{ bold{ "Engineer: " } } + white{ "4.000000" } + black{ bold{ " Manager: " } } + white{ "around 4" } + black{ bold{ " Accountant:" } } + white{ "What do you want it to be?" } + black{ bold{ " - @iamdevloper" } }
+puts white{ "foo walks into a bar" } + black{ bold{ ' - @iamdevloper' } }
+puts white{ bold{ "nomads" } } + white{ ": people who have larger collections of coffee shop wifi passwords than clothes" } + black{ bold{ ' - @jongold' } }
+puts white{ bold{ "The software development process" } } + white{ ": I can't fix this. " } + black{ bold{ "*crisis of confidence* *questions career* *questions life*" } } + white{ " Oh it was a typo, cool." } + black{ bold{ ' - @iamdevloper' } }
+puts white{ "On the 7th day, God did a sprint retrospective." } + black{ bold{ ' - @iamdevloper' } }
+puts white{ "What's a dinosaur's favourite file format?" } + white{ bold{ ".rar" } } + black{ bold{ ' - @iamdevloper' } }
+puts white{ "Asking a developer you've approached because of their work to do a code puzzle is like asking a surgeon to complete a game of Operation." } + black{ bold{ ' - @iamdevloper' } }
+puts white{ "Give a man a fish and you feed him for a day, teach a man to fish and you feed him for a lifetime, " } + white{ bold{ "give a startup $$ and they'll waste it." } } + black{ bold{ ' - @iamdevloper' } }
+puts white{ "If your commit message is more than 15 words you should probably just write it down and read it to your therapist." } + black{ bold{ ' - @iamdevloper' } }
+puts white{ "What do we want?" } + white{ bold{ " ASYNCHRONICITY!" } } + white{ " When do we want it? " } + white{ bold{ "THAT'S IRRELEVANT." } } + black{ bold{ ' - @iamdevloper' } }
+puts white{ "What is 2+2? " } + black{ bold{ "Engineer: " } } + white{ "4.000000" } + black{ bold{ " Manager: " } } + white{ "around 4" } + black{ bold{ " Accountant:" } } + white{ "What do you want it to be?" } + black{ bold{ ' - @iamdevloper' } }
 puts white{ "QA teams represent the alienation of product teams from their labor." } + black{ bold{ " - Startup Marx" } }
 puts white{ "Values aren't achieved through specialization. " } + white{ bold{ "Imagine a VP of teamwork." } } + black{ bold{ " - Startup L. Jackson" } }
 puts white{ "Let's base our entire SDLC off of a product meant for tracking bugs." } + black{ bold{ " - David J. Bland" } }
-puts white{ "Days since array index errors: " } + white{ bold{ "-1" } } + black{ bold{ " - @iamdevloper" } }
+puts white{ "Days since array index errors: " } + white{ bold{ "-1" } } + black{ bold{ ' - @iamdevloper' } }
 puts white{ "Programming is like endless detangling of Christmas lights." } + black{ bold{ " - Fred Willerup" } }
 puts white{ bold{ "$1" } } + white{ ": Not sure if currency or regex capture group." } + black{ bold{ " - @iamdevloper" } }
 puts white{ bold{ "1998" } } + white{ ": Don't get in strangers' cars. Don't meet people from the internet. " } + white{ bold{ "2016" } } + white{ ": Literally summon strangers from internet to get in their car." }
@@ -383,7 +383,22 @@ puts white{ "Company seeks Neutral-aligned Level 60 Half-Elf Assassin/Mage for V
 puts white{ "Those who can't code, sysadmin. And those who can't sysadmin, sysadmin Windows." } + black{ bold{ " - @NeckbeardHacker" } }
 puts white{ bold{ "Immuteability" } } + white{ ": The property of functional programmers that prevents them from shutting up about pure functional programming." } + black{ bold{ " - @raganwald" } }
 puts white{ bold{ "1974" } } + white{ ": 8080 CPU. " } + white{ bold{ "1979" } } + white{ ": SCHEME-79 chip with hardware GC. " } + white{ bold{ "2013" } } + white{ ": hundreds of inefficient software GCs running on n-GHz 8080 CPUs." } + white{ bold{ " Cool industry." } } + black{ bold{ " - @garybernhardt" } }
+puts white{ "Knowing what to code is more important than knowing how to code." } + black{ bold{ " - @pmddomingos" } }
+puts white{ bold{ "Optimist" } } + white{ ": The glass is half full. " } + white{ bold{ "Pessimist" } } + white{ ": The glass is half empty. " } + white{ bold{ "Engineer" } } + white{ ": The glass is too large." } + black{ bold{ " - @pmddomingos" } }
+puts white{ "Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love." } + black{ bold{ " - @petecordell" } }
 
+# machine learning
+puts white{ 'What idiot called it "deep learning hype" and not "backpropaganda"?' } + black{ bold{ " - @nsaphra" } }
+puts white{ bold{ "You threaten my startup with patents & debt?" } } + white { "I've chosen my models carefully. Perhaps you should have done the same." } + black{ bold{ ' - @ML_Hipster' } }
+puts white{ "Adverserial training = gradient dissent." } + black{ bold{ ' - @ylecun' } }
+puts white{ "A recent meta-analysis of empirical results in scientific papers showed 36% were 'lies', 27% 'damned lies', and 37% 'other'." } + black{ bold{ ' - @ML_Hipster' } }
+puts white{ "A good learner is forever walking the narrow path between blindness and hallucination." } + black{ bold{ ' - @sanderiam' } }
+puts white{ "He who controls the data controls the learner." } + black{ bold{ ' - @pmddomingos' } }
+puts white{ bold{ "Q" } } + white{ ": Why did the deep net cross the road? " } + white{ bold{ "A" } } + white{ ": We don't know. But look, it did it really well..." } + black{ bold{ ' - @cogconfluence' } }
+puts white{ "The Turing test is like saying planes don't fly unless they can fool birds into thinking they're birds." } + black{ bold{ " - Peter Norvig" } }
+puts white{ "Using weighted majority to evaluate MOOCs that teach sequential prediction. It's online learning of online learning for online learning." } + black{ bold{ ' - @ML_Hipster' } }
+puts white{ bold{ "Q" } } + white{ ": How many machine learners does it take to change a lightbulb? " } + white{ bold{ "A" } } + white{ ": Isn't that a database thing?" } + black{ bold{ ' - @ML_Hipster' } }
+puts white{ bold{ "This ML algorithm is rated R." } } + white{ " It contains: Strong assumptions, frequent sampling, and matrix inversions. Restricted to masochistic users." } + black{ bold{ " - @ML_Hipster" } }
 
 # snowden
 puts "----- edward snowden -----"
@@ -684,7 +699,7 @@ puts white{ bold{ "Peter Principle" } } + white{ ": People will tend to be promo
 puts white{ bold{ "No battle was ever won according to plan," } } + white{ " but no battle was ever won without one." } + black{ bold{ " - Dwight D. Eisenhower" } }
 puts white{ "Don't keep doing what doesn't work." }
 puts white{ "Good judgement comes from experience, and experience comes from bad judgement." } + black{ bold{ " - Fred Books, University of North Carolina" } }
-puts white{ "I think " } + white{ bold{ "I've had milk last longer than some JavaScript frameworks" } } + white{ "." } + black{ bold{ " - @iamdevloper (2014)" } }
+puts white{ "I think " } + white{ bold{ "I've had milk last longer than some JavaScript frameworks" } } + white{ "." } + black{ bold{ ' - @iamdevloper (2014)' } }
 puts white{ "Technological progress was much faster than political progress." } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } }
 puts white{ "Those change-over things are really severe. Really severe problems." } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } } 
 puts white{ bold{ "Perhaps we have overrated roots as a psychic need. " } } + white{ "Maybe the greater urge, the deeper and more ancient is the need, the will, the hunger to be somewhere else." } + black{ bold{ " - John Steinbeck" } }
