@@ -367,6 +367,22 @@ puts white{ "Common Lisp is making a comeback like bellbottoms, pubic hair, and 
 puts white{ "Android's spellchecker doesn't know the word 'quinoa', but iPhone's does. I'm guessing the same can be said for their respective users." } + black{ bold{ " - @hipsterhacker" } }
 puts white{ bold{ "Only old people need money to get a startup going. " } } + white{ "Venture capital? More like denture capital." } + black{ bold{ " - @hipsterhacker" } }
 puts white{ bold{ "I write world-changing applications in languages you have probably not yet heard of." } } + white{ "  My code is poetry, meanwhile yours is oh-noetry." } + black{ bold{ " - @hipsterhacker" } }
+puts white{ bold{ "Comedy" } } + white{ ": You, trying to launch a startup from scratch using Java. " } + white{ bold{ "Tragedy" } } + white{ ": Me, trying to debug 27k lines of legacy Perl that brings $113MM/yr" } + black{ bold{ " - @NeckbeardHacker" } }
+puts white{ bold{ "Did you hear about the C programmer who broke their ARM?" } } + white{ " They were volatile because they had an unsigned cast." } + black{ bold{ " - @silentbicycle" } }
+puts white{ bold{ "Q" } } + white{ ": What LAN protocol was forged in the fires of Mount Doom? " } + white{ bold{ "A" } } + white{ ": Tolkien ring." } + black{ bold{ " - @aloria" } }
+puts white{ bold{ "Best kind of engineers to work with" } } + white{ ": 40yo parents who actually know how computers work. " } + white{ bold{ "Worst kind" } } + white{ ": 22yo kids who love javascript frameworks." } + black{ bold{ " - @rogerclark" } }
+puts white{ "CentOS in the streets, " } + white{ bold{ "Gentoo in the sheets" } } + white{ "." } + black{ bold{ " - @NeckbeardHacker" } }
+puts white{ bold{ "What's bower?" } } + white{ " A package manager, install it with npm. " } + white{ bold{ "What's npm?" } } + white{ " A package manager, install it with brew. " } + white{ bold{ "What's brew?" } } + white{ " ... " } + black{ bold{ " - @ddprtt" } }
+puts white{ "Wait... are you saying that you don't write tests for your shell scripts? How do you know if they're correct?" } + black{ bold{ " - @NeckbeardHacker" } }
+puts white{ "A machine learning researcher, a crypto-currency expert, and an Erlang programmer walk into a bar. Facebook buys the bar for $27 billion." } + black{ bold{ " - @ML_Hipster" } }
+puts white{ 'The filth of their mongrel LISPs and NoSQL will foam up about their waists, and their VCs will shout "Save us!" ...and I\'ll whisper "No."' } + black{ bold{ " - @NeckbeardHacker" } }
+puts white{ "Works fine for me locally. Sounds like an ops problem. I'm going to lunch." } + black{ bold{ " - @hipsterhacker" } }
+puts white{ "Did you know Richard Stallman is developing a free open source Unix-like OS? No? I guess you hadn't...Hurd." } + black{ bold{ " - @NeckbeardHacker" } }
+puts white{ bold{ "BREAKING" } } + white{ ": Linux version upgrades still free." } + black{ bold{ " - @NeckbeardHacker" } }
+puts white{ "Company seeks Neutral-aligned Level 60 Half-Elf Assassin/Mage for VC-backed, webscale-tier campaign. No munchkins, please. " } + white{ bold{ "(sponsored tweet)" } } + black{ bold{ " - @NeckbeardHacker" } }
+puts white{ "Those who can't code, sysadmin. And those who can't sysadmin, sysadmin Windows." } + black{ bold{ " - @NeckbeardHacker" } }
+puts white{ bold{ "Immuteability" } } + white{ ": The property of functional programmers that prevents them from shutting up about pure functional programming." } + black{ bold{ " - @raganwald" } }
+puts white{ bold{ "1974" } } + white{ ": 8080 CPU. " } + white{ bold{ "1979" } } + white{ ": SCHEME-79 chip with hardware GC. " } + white{ bold{ "2013" } } + white{ ": hundreds of inefficient software GCs running on n-GHz 8080 CPUs." } + white{ bold{ " Cool industry." } } + black{ bold{ " - @garybernhardt" } }
 
 
 # snowden
