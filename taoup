@@ -382,12 +382,13 @@ puts white{ bold{ "BREAKING" } } + white{ ": Linux version upgrades still free."
 puts white{ "Company seeks Neutral-aligned Level 60 Half-Elf Assassin/Mage for VC-backed, webscale-tier campaign. No munchkins, please. " } + white{ bold{ "(sponsored tweet)" } } + black{ bold{ " - @NeckbeardHacker" } }
 puts white{ "Those who can't code, sysadmin. And those who can't sysadmin, sysadmin Windows." } + black{ bold{ " - @NeckbeardHacker" } }
 puts white{ bold{ "Immuteability" } } + white{ ": The property of functional programmers that prevents them from shutting up about pure functional programming." } + black{ bold{ " - @raganwald" } }
-puts white{ bold{ "1974" } } + white{ ": 8080 CPU. " } + white{ bold{ "1979" } } + white{ ": SCHEME-79 chip with hardware GC. " } + white{ bold{ "2013" } } + white{ ": hundreds of inefficient software GCs running on n-GHz 8080 CPUs." } + white{ bold{ " Cool industry." } } + black{ bold{ " - @garybernhardt" } }
+puts white{ bold{ "1974" } } + white{ ": 8080 CPU. " } + white{ bold{ "1979" } } + white{ ": SCHEME-79 chip with hardware GC. " } + white{ bold{ "2013" } } + white{ ": Hundreds of inefficient software GCs running on n-GHz 8080 CPUs." } + white{ bold{ " Cool industry." } } + black{ bold{ " - @garybernhardt" } }
 puts white{ "Knowing what to code is more important than knowing how to code." } + black{ bold{ " - @pmddomingos" } }
 puts white{ bold{ "Optimist" } } + white{ ": The glass is half full. " } + white{ bold{ "Pessimist" } } + white{ ": The glass is half empty. " } + white{ bold{ "Engineer" } } + white{ ": The glass is too large." } + black{ bold{ " - @pmddomingos" } }
 puts white{ "Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love." } + black{ bold{ " - @petecordell" } }
 
 # machine learning
+puts "------ machine learning ------"
 puts white{ 'What idiot called it "deep learning hype" and not "backpropaganda"?' } + black{ bold{ " - @nsaphra" } }
 puts white{ bold{ "You threaten my startup with patents & debt?" } } + white { "I've chosen my models carefully. Perhaps you should have done the same." } + black{ bold{ ' - @ML_Hipster' } }
 puts white{ "Adverserial training = gradient dissent." } + black{ bold{ ' - @ylecun' } }
@@ -399,6 +400,7 @@ puts white{ "The Turing test is like saying planes don't fly unless they can foo
 puts white{ "Using weighted majority to evaluate MOOCs that teach sequential prediction. It's online learning of online learning for online learning." } + black{ bold{ ' - @ML_Hipster' } }
 puts white{ bold{ "Q" } } + white{ ": How many machine learners does it take to change a lightbulb? " } + white{ bold{ "A" } } + white{ ": Isn't that a database thing?" } + black{ bold{ ' - @ML_Hipster' } }
 puts white{ bold{ "This ML algorithm is rated R." } } + white{ " It contains: Strong assumptions, frequent sampling, and matrix inversions. Restricted to masochistic users." } + black{ bold{ " - @ML_Hipster" } }
+puts white{ "Thinking of changing my business cards to read: " } + white{ bold{ "Freelance Datamancer"} } + white{ "." } + black{ bold{ " - @ML_Hipster" } }
 
 # snowden
 puts "----- edward snowden -----"
