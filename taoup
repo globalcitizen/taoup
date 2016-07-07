@@ -386,6 +386,7 @@ puts white{ bold{ "1974" } } + white{ ": 8080 CPU. " } + white{ bold{ "1979" } }
 puts white{ "Knowing what to code is more important than knowing how to code." } + black{ bold{ " - @pmddomingos" } }
 puts white{ bold{ "Optimist" } } + white{ ": The glass is half full. " } + white{ bold{ "Pessimist" } } + white{ ": The glass is half empty. " } + white{ bold{ "Engineer" } } + white{ ": The glass is too large." } + black{ bold{ " - @pmddomingos" } }
 puts white{ "Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love." } + black{ bold{ " - @petecordell" } }
+puts white{ bold{ "boondoggle" } } + white{ " (n): work or activity that is wasteful or pointless but gives the appearance of having value" }
 
 # machine learning
 puts "------ machine learning ------"
