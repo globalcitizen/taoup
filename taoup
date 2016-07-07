@@ -387,6 +387,15 @@ puts white{ "Knowing what to code is more important than knowing how to code." }
 puts white{ bold{ "Optimist" } } + white{ ": The glass is half full. " } + white{ bold{ "Pessimist" } } + white{ ": The glass is half empty. " } + white{ bold{ "Engineer" } } + white{ ": The glass is too large." } + black{ bold{ " - @pmddomingos" } }
 puts white{ "Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love." } + black{ bold{ " - @petecordell" } }
 puts white{ bold{ "boondoggle" } } + white{ " (n): work or activity that is wasteful or pointless but gives the appearance of having value" }
+puts white{ bold{ "Rule #8" } } + white{ ": Try not to create and analyze at the same time. They are different processes." } + black{ bold{ " - John Cage" } }
+
+# comp sci courses that don't exist - but should
+puts "------ comp sci courses that don't exist but should ------"
+puts white{ bold{ "CSCI 2100: Unlearning Object-Oriented Programming" } } + white{ " - Discover how to create and use variables that aren't inside of an object hierarchy. Learn about 'functions,' which are like methods but more generally useful. Prerequisite: Any course that used the term 'abstract base class.'" } + black{ bold{ " - James Hague" } }
+puts white{ bold{ "CSCI 3300: Classical Software Studies" } } + white{ " - Discuss and dissect historically significant products, including VisiCalc, AppleWorks, Robot Odyssey, Zork, and MacPaint. Emphases are on user interface and creativity fostered by hardware limitations." } + black{ bold{ " - James Hague" } }
+puts white{ bold{ "CSCI 4020: Writing Fast Code in Slow Languages" } } + white{ " - Analyze performance at a high level, writing interpreted Python that matches or beats typical C++ code while being less fragile and more fun to work with." } + black{ bold{ " - James Hague" } }
+puts white{ bold{ "CSCI 2170: User Experience of Command Line Tools" } } + white{ " - An introduction to UX principles as applied to command line programs designed as class projects. Core focus is on output relevance, readability, and minimization. UNIX 'ls' tool is a case study in excessive command line switches." } + black{ bold{ " - James Hague" } }
+puts white{ bold{ "PSYC 4410: Obsessions of the Programmer Mind" } } + white{ " - Identify and understand tangential topics that software developers frequently fixate on: code formatting, taxonomy, type systems, splitting projects into too many files. Includes detailed study of knee-jerk criticism when exposed to unfamiliar systems." } + black{ bold{ " - James Hague" } }
 
 # machine learning
 puts "------ machine learning ------"
