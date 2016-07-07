@@ -192,7 +192,7 @@ puts white{ bold{ 'Make every program a filter.' } } + black{ bold{ ' - Mike Gar
 
 # unix
 puts '--- unix ----'
-puts white{ bold{ "Those who don\'t understand Unix are condemned to reinvent it" } } + white{ ", poorly." } + black{ bold{ ' - Henry Spencer' } }
+puts white{ bold{ "Those who don't understand Unix are condemned to reinvent it" } } + white{ ", poorly." } + black{ bold{ ' - Henry Spencer' } }
 puts white{ bold{ "Unix is simple." } } + white{ " It just takes a genius to understand its simplicity." } + black{ bold{ ' - Dennis Ritchie' } }
 puts white{ bold{ "Unix was not designed to stop its users from doing stupid things, as that would also stop them from doing clever things." } } + black{ bold{ ' - Doug Gwyn' } }
 puts white{ bold{ "Unix never says 'please'." } } + black{ bold{ ' - Rob Pike' } }
@@ -613,7 +613,7 @@ puts white{ bold{ "Zawinski's Law" } } + white{ ": Every program attempts to exp
 puts white{ bold{ "Zymurgy's First Law of Evolving Systems Dynamics" } } + white{ ": Once you open a can of worms, the only way to recan them is to use a larger can." }
 
 # alan kay
-puts "----- Alan Kay -----\n"
+puts "----- Alan Kay -----"
 puts white{ bold{ "I like developed arts of all kinds, and these require learning on the part of the beholder" } } + white{ ", not just bones tossed at puppies." } + black{ bold{ " - Alan Kay (2016)" } }
 puts white{ bold{ "Children need to learn how to use the 21st century" } } + white{ ", or there's a good chance they will lose the 21st century." } + black{ bold{ " - Alan Kay (2016)" } }
 puts white{ bold{ "Television is the last technology we should be allowed to invent without a Surgeon General's warning on it." } } + black{ bold{ " - Alan Kay" } }
