@@ -104,6 +104,11 @@ puts white{ bold{ "The major thing that we found was that you had to look at the
 puts white{ bold{ "People write programs around here because they want to use them." } } + black{ bold{ " - Joseph Henry Condon, Bell Labs" } }
 puts white{ bold{ "There is no excellent beauty which hath not some strangeness in the proportion." } } + black{ bold{ " - Francis Bacon" } }
 puts white{ "Don't pick the right tool for the job, " } + white{ bold{ "pick the right framework which secures you extra work for being a tool" } } + white{ "." } + black{ bold{ ' - @iamdevloper' } }
+puts white{ "I cannot paint until I have the complete picture in my mind." } + black{ bold{ " - René Magritte, surrealist" } }
+puts white{ "Everything tends to make one think that there is little relation between an object and that which represents it." } + black{ bold{ " - René Magritte, surrealist" } }
+puts white{ "Scissors, paste, images, and genius in effect superseded brushes, paints, models, style, sensibility, and that famous sincerity demanded of artists." } + black{ bold{ " - René Magritte, surrealist, on collage" } }
+puts white{ "I leave to others the business of causing anxiety and terror and mixing everything up." } + black{ bold{ " - René Magritte, surrealist" } }
+puts white{ "Our secret desire is for a change in the order of things." } + black{ bold{ " - René Magritte, surrealist" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
