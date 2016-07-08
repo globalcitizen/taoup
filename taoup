@@ -389,6 +389,7 @@ puts white{ "Telling a programmer there's already a library to do X is like tell
 puts white{ bold{ "boondoggle" } } + white{ " (n): work or activity that is wasteful or pointless but gives the appearance of having value" }
 puts white{ bold{ "Rule #8" } } + white{ ": Try not to create and analyze at the same time. They are different processes." } + black{ bold{ " - John Cage" } }
 puts white{ "The essence of philosophy is that " } + white{ bold{ "a man should so live that his happiness shall depend as little as possible on external things" } } + white{ "." } + black{ bold{ " - Ἐπίκτητος/Epictetus, Stoic philosopher born a slave (55-135)" } }
+puts white{ "One argues because one is confused." } + white{ bold{ " The man who knows does not argue" } } + white{ ";" } + white{ bold{ " the man who argues does not know." } } + black{ bold{ " - Lin Yutang, 'Pleasures of a Nonconformist' (1962)" } }
 
 # comp sci courses that don't exist - but should
 puts "------ comp sci courses that don't exist but should ------"
