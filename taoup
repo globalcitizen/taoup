@@ -397,6 +397,7 @@ puts white{ "The essence of philosophy is that " } + white{ bold{ "a man should 
 puts white{ "One argues because one is confused." } + white{ bold{ " The man who knows does not argue" } } + white{ ";" } + white{ bold{ " the man who argues does not know." } } + black{ bold{ " - Lin Yutang, 'Pleasures of a Nonconformist' (1962)" } }
 puts white{ "Each thing we see hides something else we want to see." } + black{ bold{ " - René Magritte, surrealist" } }
 puts white{ "We are surrounded by curtains. " } + white{ bold{ "We only perceive the world behind a curtain of semblance. At the same time, an object needs to be covered in order to be recognized at all." } } + black{ bold{ " - René Magritte, surrealist" } }
+puts white{ "The easiest person to deceive is one's own self." } + black{ bold{ " - Edward Bulwer-Lytton" } }
 
 # comp sci courses that don't exist - but should
 puts "------ comp sci courses that don't exist but should ------"
