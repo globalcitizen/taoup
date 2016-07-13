@@ -347,7 +347,7 @@ puts white{ "foo walks into a bar" } + black{ bold{ ' - @iamdevloper' } }
 puts white{ bold{ "nomads" } } + white{ ": people who have larger collections of coffee shop wifi passwords than clothes" } + black{ bold{ ' - @jongold' } }
 puts white{ bold{ "The software development process" } } + white{ ": I can't fix this. " } + black{ bold{ "*crisis of confidence* *questions career* *questions life*" } } + white{ " Oh it was a typo, cool." } + black{ bold{ ' - @iamdevloper' } }
 puts white{ "On the 7th day, God did a sprint retrospective." } + black{ bold{ ' - @iamdevloper' } }
-puts white{ "What's a dinosaur's favourite file format?" } + white{ bold{ ".rar" } } + black{ bold{ ' - @iamdevloper' } }
+puts white{ "What's a dinosaur's favourite file format?" } + white{ bold{ " .rar" } } + black{ bold{ ' - @iamdevloper' } }
 puts white{ "Asking a developer you've approached because of their work to do a code puzzle is like asking a surgeon to complete a game of Operation." } + black{ bold{ ' - @iamdevloper' } }
 puts white{ "Give a man a fish and you feed him for a day, teach a man to fish and you feed him for a lifetime, " } + white{ bold{ "give a startup $$ and they'll waste it." } } + black{ bold{ ' - @iamdevloper' } }
 puts white{ "If your commit message is more than 15 words you should probably just write it down and read it to your therapist." } + black{ bold{ ' - @iamdevloper' } }
