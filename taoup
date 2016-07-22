@@ -271,7 +271,6 @@ puts white{ bold{ "Human nature is above all things lazy." } } + black{ bold{ " 
 puts white{ bold{ "Law of Communications" } } + white{ ": The inevitable result of improved and enlarged communications between different levels in a hierarchy is a vastly increased area of misunderstanding." }
 puts white{ "Good customer relations double productivity." } + black{ bold{ " - Larry Bernstein, Bell Communications Research" } }
 puts white{ bold{ "Rule of Defactualization" } } + white{ ": Information deteriorates upward through bureaucracies." }
-puts white{ bold{ "Motto of the Electrical Engineer" } } + white{ ": Working hardware is a lot like an erect penis; it stays up as long as you don't fuck with it." }
 puts white{ bold{ "Fifth Rule" } } + white{ ": You have taken yourself too seriously." }
 puts white{ bold{ "Futility Principle" } } + white{ ": No experiment is ever a complete failure; it can always serve as a bad example." }
 puts white{ bold{ "One Page Principle" } } + white{ ": A specification that will not fit on one page cannot be understood." }
@@ -387,7 +386,6 @@ puts white{ bold{ "BREAKING" } } + white{ ": Linux version upgrades still free."
 puts white{ "Company seeks Neutral-aligned Level 60 Half-Elf Assassin/Mage for VC-backed, webscale-tier campaign. No munchkins, please. " } + white{ bold{ "(sponsored tweet)" } } + black{ bold{ " - @NeckbeardHacker" } }
 puts white{ "Those who can't code, sysadmin. And those who can't sysadmin, sysadmin Windows." } + black{ bold{ " - @NeckbeardHacker" } }
 puts white{ bold{ "Immuteability" } } + white{ ": The property of functional programmers that prevents them from shutting up about pure functional programming." } + black{ bold{ " - @raganwald" } }
-puts white{ bold{ "1974" } } + white{ ": 8080 CPU. " } + white{ bold{ "1979" } } + white{ ": SCHEME-79 chip with hardware GC. " } + white{ bold{ "2013" } } + white{ ": Hundreds of inefficient software GCs running on n-GHz 8080 CPUs." } + white{ bold{ " Cool industry." } } + black{ bold{ " - @garybernhardt" } }
 puts white{ "Knowing what to code is more important than knowing how to code." } + black{ bold{ " - @pmddomingos" } }
 puts white{ bold{ "Optimist" } } + white{ ": The glass is half full. " } + white{ bold{ "Pessimist" } } + white{ ": The glass is half empty. " } + white{ bold{ "Engineer" } } + white{ ": The glass is too large." } + black{ bold{ " - @pmddomingos" } }
 puts white{ "Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love." } + black{ bold{ " - @petecordell" } }
@@ -897,3 +895,9 @@ puts white{ bold{ "Sometimes, the elegant implementation is just a function." } 
 puts white{ "The problem with object-oriented languages is they've got all this implicit environment that they carry around with them. " } + white{ bold{ "You wanted a banana but what you got was a gorilla holding the banana and the entire jungle." } } + black{ bold{ " - Joe Armstrong" } }
 puts white{ bold{ "I used to be enamored of object-oriented programming." } } + white{ " I’m now finding myself leaning toward believing that it is a plot designed to destroy joy." } + black{ bold{ " - Eric Allman" } }
 puts white{ bold{ "OO is the 'structured programming' snake oil of the 90's" } } + white{ ": useful at times, but hardly the 'end all' programing paradigm some like to make out of it." } + black{ bold{ " - ESR" } }
+
+# hardware
+puts '------- hardware --------'
+puts white{ bold{ "Motto of the Electrical Engineer" } } + white{ ": Working hardware is a lot like an erect penis; it stays up as long as you don't fuck with it." }
+puts white{ bold{ "1974" } } + white{ ": 8080 CPU. " } + white{ bold{ "1979" } } + white{ ": SCHEME-79 chip with hardware GC. " } + white{ bold{ "2013" } } + white{ ": Hundreds of inefficient software GCs running on n-GHz 8080 CPUs." } + white{ bold{ " Cool industry." } } + black{ bold{ " - @garybernhardt" } }
+puts white{ bold{ "The outsourcing plan failed very badly" } } + white{ ": all these different suppliers who were going to build these major sections couldn't actually do it." } + black{ bold{ " - Dominic Gates (Seattle Times) on the Boeing 787 'Dreamliner'" } }
