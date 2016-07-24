@@ -895,6 +895,7 @@ puts white{ bold{ "Sometimes, the elegant implementation is just a function." } 
 puts white{ "The problem with object-oriented languages is they've got all this implicit environment that they carry around with them. " } + white{ bold{ "You wanted a banana but what you got was a gorilla holding the banana and the entire jungle." } } + black{ bold{ " - Joe Armstrong" } }
 puts white{ bold{ "I used to be enamored of object-oriented programming." } } + white{ " I’m now finding myself leaning toward believing that it is a plot designed to destroy joy." } + black{ bold{ " - Eric Allman" } }
 puts white{ bold{ "OO is the 'structured programming' snake oil of the 90's" } } + white{ ": useful at times, but hardly the 'end all' programing paradigm some like to make out of it." } + black{ bold{ " - ESR" } }
+puts white{ "The notion of object oriented programming is completely misunderstood. It's not about objects and classes, it's all about messages." } + black{ bold{ " - Alan Kay" } }
 
 # hardware
 puts '------- hardware --------'
