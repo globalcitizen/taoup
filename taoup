@@ -857,6 +857,10 @@ puts white{ "A rose by any other name will end up as a cabbage." } + black{ bold
 puts white{ bold{ "Summary of advice from writers" } } + white{ ": Advice from writers is useful, and not only about naming. Writers have been at it for centuries; programming is merely decades old. Also, their advice is better written. And funnier." } + black{ bold{ " - Peter Hilton" } }
 puts white{ "A language is a dialect with an army and a navy." } + black{ bold{ " - Max Weinreich" } }
 
+# randoms - visual art and programming
+puts '--- randoms - visual art and programming ---'
+puts white{ "When an artist has no personal vision, what can he communicate on to the canvas?" } + black{ bold{ " - Clifford Irving, 'F for Fake' (1973)" } }
+
 # randoms - AI + learning
 puts '--- AI + learning ---'
 puts white{ "It is well to bear in mind that " } + white{ bold{ "knowledge is like food, and becomes ours only when it is absorbed, assimilated and digested by the intellect" } } + white{ "." } + black{ bold{ " - 'The Key of Knowledge', Champat Rai Jain (1928)" } }
