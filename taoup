@@ -401,6 +401,7 @@ puts white{ bold{ "Censorship" } } + black{ bold{ ':' } } + white{ " panacea of 
 puts white{ bold{ "Heilmeier Catechism" } } + black{ bold{ ": " } } + white{ "(1) What are you trying to do? Articulate your objectives using absolutely no jargon. What is the problem? Why is it hard? (2) How is it done today, and what are the limits of current practice? (3) What's new in your approach and why do you think it will be successful? (4) Who cares? (5) If you're successful, what difference will it make?  What impact will success have? How will it be measured? (6) What are the risks and the payoffs? (7) How much will it cost? (8) How long will it take? (9) What are the midterm and final 'exams' to check for success? How will progress be measured?" } + black{ bold{ " - George H. Heilmeier, Director of ARPA, 1970s" } }
 puts white{ bold{ "Some people never go crazy." } } + white{ " What truly horrible lives they must live." } + black{ bold{ " - 'Barfly' (1987)" } }
 puts white{ bold{ "Anybody can be a nondrunk." } } + white{ " It takes a special talent to be a drunk. It takes endurance. Endurance is more important than truth." } + black{ bold{ " - 'Barfly' (1987)" } }
+puts white{ bold{ "They speak to us with the absolute authority of the computer." } } + white{ " And we bow down before them." } + black{ bold{ " Orson Welles on art experts, 'F for Fake' (1973)" } }
 
 # comp sci courses that don't exist - but should
 puts "------ comp sci courses that don't exist but should ------"
