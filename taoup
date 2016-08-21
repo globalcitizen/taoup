@@ -861,6 +861,7 @@ puts white{ "A language is a dialect with an army and a navy." } + black{ bold{ 
 puts '--- randoms - visual art and programming ---'
 puts white{ "When an artist has no personal vision, what can he communicate on to the canvas?" } + black{ bold{ " - Clifford Irving, 'F for Fake' (1973)" } }
 puts white{ bold{ "Art is a lie that makes us realize truth" } } + white{ ", at least the truth that is given us to understand." } + black{ bold{ " - Pablo Picasso" } }
+puts white{ "When one paints, one loves in a different way." } + black{ bold{ " - Séraphine Louis, 'Séraphine' (2008)" } }
 
 # randoms - AI + learning
 puts '--- AI + learning ---'
