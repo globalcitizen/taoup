@@ -860,6 +860,7 @@ puts white{ "A language is a dialect with an army and a navy." } + black{ bold{ 
 # randoms - visual art and programming
 puts '--- randoms - visual art and programming ---'
 puts white{ "When an artist has no personal vision, what can he communicate on to the canvas?" } + black{ bold{ " - Clifford Irving, 'F for Fake' (1973)" } }
+puts white{ bold{ "Art is a lie that makes us realize truth" } } + white{ ", at least the truth that is given us to understand." } + black{ bold{ " - Pablo Picasso" } }
 
 # randoms - AI + learning
 puts '--- AI + learning ---'
