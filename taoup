@@ -863,6 +863,7 @@ puts white{ "When an artist has no personal vision, what can he communicate on t
 puts white{ bold{ "Art is a lie that makes us realize truth" } } + white{ ", at least the truth that is given us to understand." } + black{ bold{ " - Pablo Picasso" } }
 puts white{ "When one paints, one loves in a different way." } + black{ bold{ " - Séraphine Louis, 'Séraphine' (2008)" } }
 puts white{ bold{ "Art" } } + white{ ": Process of abstraction and representation." } + black{ bold{ " - Alex Schniedeman, Black+White Photography (2016)" } }
+puts white{ "There is nothing worse than a sharp image of a fuzzy concept." } + black{ bold{ " - Ansel Adams" } }
 
 # randoms - AI + learning
 puts '--- AI + learning ---'
