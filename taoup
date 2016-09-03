@@ -859,6 +859,7 @@ puts white{ "A language is a dialect with an army and a navy." } + black{ bold{ 
 puts white{ "That's what storytellers are... thieves and liars." } + black{ bold{ " - 'Tamaya Drewe' (2010)" } }
 puts white{ "Words build bridges in to unexplored regions." } + black{ bold{ " - Adolf Hitler" } }
 puts white{ "Impossible is a word to be found only in the dictionary of fools." } + black{ bold{ " - Napoleon Bonaparte" } }
+puts white{ "Programmers and translators are doing similar things; they are both translating one language into another." } + black { bold{ " - Japanese engineer" } }
 
 # randoms - visual art and programming
 puts '--- randoms - visual art and programming ---'
