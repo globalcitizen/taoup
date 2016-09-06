@@ -739,6 +739,7 @@ puts white{ bold{ "Perhaps we have overrated roots as a psychic need. " } } + wh
 puts white{ "Wisdom is the accumulation of knowledge and experience, living long enough to reflect on it, make sense of it, and apply it to oneself and others." } + black{ bold{ " - Abraham Maslow" } }
 puts white{ bold{ "A third of people are really enthusiastic, a third have big eyes, and the other third think we are crazy." } } + white{ " That's how it goes with innovations." } + black{ bold{ " - Carel De Vries" } }
 puts white{ "We somehow have to start trying to act as if there is going to be a future." } + black{ bold{ " - Brian Eno" } }
+puts white{ bold{ "Technology does not drive change." } } + white{ " It is our collective response to the options and opportunities presented by technology that drives change." } + black{ bold{ " - Paul Saffo, Stanford Professor" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
