@@ -741,6 +741,14 @@ puts white{ bold{ "A third of people are really enthusiastic, a third have big e
 puts white{ "We somehow have to start trying to act as if there is going to be a future." } + black{ bold{ " - Brian Eno" } }
 puts white{ bold{ "Technology does not drive change." } } + white{ " It is our collective response to the options and opportunities presented by technology that drives change." } + black{ bold{ " - Paul Saffo, Stanford Professor" } }
 puts white{ "This 'telephone' has too many shortcomings to be seriously considered as a practical form of communication. The device is inherently of no value to us. What use could this company make of an electrical toy?" } + black{ bold{ " - Western Union (1878)" } }
+puts white{ "Radio has no future." } + black{ bold{ " - Lord Kelvin, British mathematician and physicist (~1897)" } }
+puts white{ "Heavier-than-air flying machines are impossible." } + black{ bold{ " - Lord Kelvin, British mathematician and physicist (~1895)" } }
+puts white{ "What can be more palpably absurd than the prospect held out of locomotives traveling twice as fast as stagecoaches?" } + black{ bold{ " - The Quarterly Review, England (March 1825)" } }
+puts white{ bold{ "There is not the slightest indication that [nuclear energy] will ever be obtainable." } } + white{ " It would mean that the atom would have to be shattered at will." } + black{ bold{ " - Albert Einstein (1932)" } }
+puts white{ "Airplanes are interesting toys but of no military value." } + black{ bold{ " - Marshal Ferdinand Foch, French military strategist (1911)" } }
+puts white{ "Space travel is utter bilge." } + black{ bold{ " - Dr. Richard van der Reit Wooley, Astronomer Royal, space advisor to the British government, 1956. (Sputnik orbited the earth the following year.)" } }
+puts white{ "If the world should blow itself up, the last audible voice would be that of an expert saying it can't be done." } + black{ bold{ " - Peter Ustinov" } }
+puts white{ "It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow." } + black{ bold{ " - Robert Goddard (1882-1945)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
