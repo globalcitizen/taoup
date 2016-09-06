@@ -740,6 +740,7 @@ puts white{ "Wisdom is the accumulation of knowledge and experience, living long
 puts white{ bold{ "A third of people are really enthusiastic, a third have big eyes, and the other third think we are crazy." } } + white{ " That's how it goes with innovations." } + black{ bold{ " - Carel De Vries" } }
 puts white{ "We somehow have to start trying to act as if there is going to be a future." } + black{ bold{ " - Brian Eno" } }
 puts white{ bold{ "Technology does not drive change." } } + white{ " It is our collective response to the options and opportunities presented by technology that drives change." } + black{ bold{ " - Paul Saffo, Stanford Professor" } }
+puts white{ "This 'telephone' has too many shortcomings to be seriously considered as a practical form of communication. The device is inherently of no value to us. What use could this company make of an electrical toy?" } + black{ bold{ " - Western Union (1878)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
