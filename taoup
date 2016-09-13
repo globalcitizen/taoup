@@ -415,7 +415,7 @@ puts white{ bold{ "PSYC 4410: Obsessions of the Programmer Mind" } } + white{ " 
 # machine learning
 puts "------ machine learning ------"
 puts white{ 'What idiot called it "deep learning hype" and not "backpropaganda"?' } + black{ bold{ " - @nsaphra" } }
-puts white{ bold{ "You threaten my startup with patents & debt?" } } + white { "I've chosen my models carefully. Perhaps you should have done the same." } + black{ bold{ ' - @ML_Hipster' } }
+puts white{ bold{ "You threaten my startup with patents & debt?" } } + white { " I've chosen my models carefully. Perhaps you should have done the same." } + black{ bold{ ' - @ML_Hipster' } }
 puts white{ "Adverserial training = gradient dissent." } + black{ bold{ ' - @ylecun' } }
 puts white{ "A recent meta-analysis of empirical results in scientific papers showed 36% were 'lies', 27% 'damned lies', and 37% 'other'." } + black{ bold{ ' - @ML_Hipster' } }
 puts white{ "A good learner is forever walking the narrow path between blindness and hallucination." } + black{ bold{ ' - @sanderiam' } }
@@ -871,6 +871,7 @@ puts white{ "That's what storytellers are... thieves and liars." } + black{ bold
 puts white{ "Words build bridges in to unexplored regions." } + black{ bold{ " - Adolf Hitler" } }
 puts white{ "Impossible is a word to be found only in the dictionary of fools." } + black{ bold{ " - Napoleon Bonaparte" } }
 puts white{ "Programmers and translators are doing similar things; they are both translating one language into another." } + black { bold{ " - Japanese engineer" } }
+puts white{ "I am all for other authors being cads, but not me." } + black{ bold{ " - William Empson" } }
 
 # randoms - visual art and programming
 puts '--- randoms - visual art and programming ---'
