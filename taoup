@@ -750,6 +750,7 @@ puts white{ "Space travel is utter bilge." } + black{ bold{ " - Dr. Richard van 
 puts white{ "If the world should blow itself up, the last audible voice would be that of an expert saying it can't be done." } + black{ bold{ " - Peter Ustinov" } }
 puts white{ "It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow." } + black{ bold{ " - Robert Goddard (1882-1945)" } }
 puts white{ "As I like to say to my American hedge fund friends, " } + white{ bold{ "the Hamptons is not a defensible position." } } + black{ bold{ " - Mark Blyth (professor of Political Economy at Brown University), on the rise in popular rejection of traditional politics (2016)" } }
+puts white{ "Chaos is order yet undeciphered." } + black{ bold{ " - 'The Double', José Saramago (2002)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
