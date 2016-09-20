@@ -110,6 +110,7 @@ puts white{ "Scissors, paste, images, and genius in effect superseded brushes, p
 puts white{ "I leave to others the business of causing anxiety and terror and mixing everything up." } + black{ bold{ " - René Magritte, surrealist" } }
 puts white{ "Our secret desire is for a change in the order of things." } + black{ bold{ " - René Magritte, surrealist" } }
 puts white{ bold{ "Ship of Theseus" } } + white{ ": All of the parts are new, and yet it is the same ship." }
+puts white{ "I came to the conclusion that the designer of a new system must not only be the implementor and the first large-scale user; the designer should also write the first user manual." } + black{ bold{ " - Donald E. Knuth, 'The Errors of TeX' (1989)" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
