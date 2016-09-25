@@ -111,6 +111,7 @@ puts white{ "I leave to others the business of causing anxiety and terror and mi
 puts white{ "Our secret desire is for a change in the order of things." } + black{ bold{ " - René Magritte, surrealist" } }
 puts white{ bold{ "Ship of Theseus" } } + white{ ": All of the parts are new, and yet it is the same ship." }
 puts white{ "I came to the conclusion that the designer of a new system must not only be the implementor and the first large-scale user; the designer should also write the first user manual." } + black{ bold{ " - Donald E. Knuth, 'The Errors of TeX' (1989)" } }
+puts white{ "The height of cleverness is to be able to conceal it." } + black{ bold{ " - Francois de la Rochefoucauld (1613-1680)" } } 
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
@@ -752,6 +753,7 @@ puts white{ "If the world should blow itself up, the last audible voice would be
 puts white{ "It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow." } + black{ bold{ " - Robert Goddard (1882-1945)" } }
 puts white{ "As I like to say to my American hedge fund friends, " } + white{ bold{ "the Hamptons is not a defensible position." } } + black{ bold{ " - Mark Blyth (professor of Political Economy at Brown University), on the rise in popular rejection of traditional politics (2016)" } }
 puts white{ "Chaos is order yet undeciphered." } + black{ bold{ " - 'The Double', José Saramago (2002)" } }
+puts white{ "The isms go, the ist dies, " } + white{ bold{ "art remains" } } + white{ "." } + black{ bold{ " - Vladimir Nabokov" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
