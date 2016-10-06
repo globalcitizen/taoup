@@ -757,8 +757,9 @@ puts white{ "It is difficult to say what is impossible, for the dream of yesterd
 puts white{ "As I like to say to my American hedge fund friends, " } + white{ bold{ "the Hamptons is not a defensible position." } } + black{ bold{ " - Mark Blyth (professor of Political Economy at Brown University), on the rise in popular rejection of traditional politics (2016)" } }
 puts white{ "Chaos is order yet undeciphered." } + black{ bold{ " - 'The Double', José Saramago (2002)" } }
 puts white{ "The isms go, the ist dies, " } + white{ bold{ "art remains" } } + white{ "." } + black{ bold{ " - Vladimir Nabokov" } }
-puts white{ "Man the food-gatherer reappears incongruously as information-gatherer." } + black{ bold{ " - Marshall McLuhan (1967)" } }
+puts white{ bold{ "Man the food-gatherer reappears incongruously as information-gatherer." } } + white{ " In this role, electronic man is no less a nomad than his Paleolithic ancestors." } + black{ bold{ " - Marshall McLuhan (1967)" } }
 puts white{ bold{ "It is hard to picture the world before Shannon as it seemed to those who lived in it." } } + white{ " It is difficult to recover innocence, ignorance, and lack of understanding." } + black{ bold{ " - John Robinson Pierce, on the world before Claude Shannon and the information age" } }
+puts white{ bold{ "The invention of printing, though ingenious, compared with the invention of letters is no great matter." } } + black{ bold{ " - Thomas Hobbes, resisting new media hype in the 17th century" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
