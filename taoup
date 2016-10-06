@@ -754,6 +754,7 @@ puts white{ "It is difficult to say what is impossible, for the dream of yesterd
 puts white{ "As I like to say to my American hedge fund friends, " } + white{ bold{ "the Hamptons is not a defensible position." } } + black{ bold{ " - Mark Blyth (professor of Political Economy at Brown University), on the rise in popular rejection of traditional politics (2016)" } }
 puts white{ "Chaos is order yet undeciphered." } + black{ bold{ " - 'The Double', José Saramago (2002)" } }
 puts white{ "The isms go, the ist dies, " } + white{ bold{ "art remains" } } + white{ "." } + black{ bold{ " - Vladimir Nabokov" } }
+puts white{ "Man the food-gatherer reappears incongruously as information-gatherer." } + black{ bold{ " - Marshall McLuhan (1967)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
