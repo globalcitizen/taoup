@@ -113,6 +113,7 @@ puts white{ bold{ "Ship of Theseus" } } + white{ ": All of the parts are new, an
 puts white{ "I came to the conclusion that the designer of a new system must not only be the implementor and the first large-scale user; the designer should also write the first user manual." } + black{ bold{ " - Donald E. Knuth, 'The Errors of TeX' (1989)" } }
 puts white{ "The height of cleverness is to be able to conceal it." } + black{ bold{ " - Francois de la Rochefoucauld (1613-1680)" } } 
 puts white{ bold{ "It from Bit." } } + white{ " [Information gives rise to] every it - every particle, every field of force, even the spacetime continuum itself." } + black{ bold{ " - 'Oracular monosyllables' of Archibald Wheeler, last surviving collaborator of Einstein and Bohr" } }
+puts white{ "What we call reality arises in the last analysis from the posing of yes-no questions." } + black{ bold{ " - Archibald Wheeler" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
