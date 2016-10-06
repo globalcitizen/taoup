@@ -757,6 +757,7 @@ puts white{ "As I like to say to my American hedge fund friends, " } + white{ bo
 puts white{ "Chaos is order yet undeciphered." } + black{ bold{ " - 'The Double', José Saramago (2002)" } }
 puts white{ "The isms go, the ist dies, " } + white{ bold{ "art remains" } } + white{ "." } + black{ bold{ " - Vladimir Nabokov" } }
 puts white{ "Man the food-gatherer reappears incongruously as information-gatherer." } + black{ bold{ " - Marshall McLuhan (1967)" } }
+puts white{ bold{ "It is hard to picture the world before Shannon as it seemed to those who lived in it." } } + white{ " It is difficult to recover innocence, ignorance, and lack of understanding." } + black{ bold{ " - John Robinson Pierce, on the world before Claude Shannon and the information age" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
