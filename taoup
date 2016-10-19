@@ -761,6 +761,7 @@ puts white{ bold{ "Man the food-gatherer reappears incongruously as information-
 puts white{ bold{ "It is hard to picture the world before Shannon as it seemed to those who lived in it." } } + white{ " It is difficult to recover innocence, ignorance, and lack of understanding." } + black{ bold{ " - John Robinson Pierce, on the world before Claude Shannon and the information age" } }
 puts white{ bold{ "The invention of printing, though ingenious, compared with the invention of letters is no great matter." } } + black{ bold{ " - Thomas Hobbes, resisting new media hype in the 17th century" } }
 puts white{ bold{ "Each new technology turns its predecessor into an art form." } } + black{ bold{ " - Marshall McLuhan" } }
+puts white{ "With the PC, I could see that " } + white{ bold{ "computers were fun" } } + white{ ", and that is " } + white{ bold{ "the real reason why all innovations come into widespread use" } } + white{ "." } + black{ bold{ " - Leo Beranek, President of BBN, acoustics designer and internet pioneer" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
