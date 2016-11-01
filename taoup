@@ -762,6 +762,7 @@ puts white{ bold{ "It is hard to picture the world before Shannon as it seemed t
 puts white{ bold{ "The invention of printing, though ingenious, compared with the invention of letters is no great matter." } } + black{ bold{ " - Thomas Hobbes, resisting new media hype in the 17th century" } }
 puts white{ bold{ "Each new technology turns its predecessor into an art form." } } + black{ bold{ " - Marshall McLuhan" } }
 puts white{ "With the PC, I could see that " } + white{ bold{ "computers were fun" } } + white{ ", and that is " } + white{ bold{ "the real reason why all innovations come into widespread use" } } + white{ "." } + black{ bold{ " - Leo Beranek, President of BBN, acoustics designer and internet pioneer" } }
+puts white{ "The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry." } + black{ bold{ " - Henry Petroski" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
