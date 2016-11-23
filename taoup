@@ -115,6 +115,7 @@ puts white{ "The height of cleverness is to be able to conceal it." } + black{ b
 puts white{ bold{ "It from Bit." } } + white{ " [Information gives rise to] every it - every particle, every field of force, even the spacetime continuum itself." } + black{ bold{ " - 'Oracular monosyllables' of Archibald Wheeler, last surviving collaborator of Einstein and Bohr" } }
 puts white{ "What we call reality arises in the last analysis from the posing of yes-no questions." } + black{ bold{ " - Archibald Wheeler" } }
 puts white{ bold{ "TMI" } } + white{ ": Too Much Information" } + black{ bold{ " (popular saying at the turn of the 21st century)" } }
+puts white{ bold{ "Shannon's maxim" } } + black{ bold{ ": One ought to design systems under the assumption that the enemy will immediately gain full familiarity with them." } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
