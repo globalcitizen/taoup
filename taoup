@@ -409,6 +409,7 @@ puts white{ bold{ "Heilmeier Catechism" } } + black{ bold{ ": " } } + white{ "(1
 puts white{ bold{ "Some people never go crazy." } } + white{ " What truly horrible lives they must live." } + black{ bold{ " - 'Barfly' (1987)" } }
 puts white{ bold{ "Anybody can be a nondrunk." } } + white{ " It takes a special talent to be a drunk. It takes endurance. Endurance is more important than truth." } + black{ bold{ " - 'Barfly' (1987)" } }
 puts white{ bold{ "They speak to us with the absolute authority of the computer" } } + white{ ", and we bow down before them. They are god's own gift to the faker." } + black{ bold{ " - Orson Welles on art experts, 'F for Fake' (1973)" } }
+puts white{ "Startups mostly don't compete against each other, they compete against no one giving a shit." } + black{ bold{ " - Justin Kan" } }
 
 # comp sci courses that don't exist - but should
 puts "------ comp sci courses that don't exist but should ------"
