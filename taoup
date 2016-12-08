@@ -771,6 +771,7 @@ puts white{ bold{ "The invention of printing, though ingenious, compared with th
 puts white{ bold{ "Each new technology turns its predecessor into an art form." } } + black{ bold{ " - Marshall McLuhan" } }
 puts white{ "With the PC, I could see that " } + white{ bold{ "computers were fun" } } + white{ ", and that is " } + white{ bold{ "the real reason why all innovations come into widespread use" } } + white{ "." } + black{ bold{ " - Leo Beranek, President of BBN, acoustics designer and internet pioneer" } }
 puts white{ "The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry." } + black{ bold{ " - Henry Petroski" } }
+puts white{ "In 1299, zero was banned in Florence [...] Incredibly " } + white{ bold{ "it wasn't until the 15th Century that zero, along with all the other Arabic numbers, was finally accepted" } } + white{ ". Just to put it in context, by then Oxford University in England had been around for centuries and the printing press was just up and running." } + black{ bold{ " - Hannah Fry, BBC future" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
