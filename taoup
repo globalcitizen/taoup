@@ -116,6 +116,7 @@ puts white{ bold{ "It from Bit." } } + white{ " [Information gives rise to] ever
 puts white{ "What we call reality arises in the last analysis from the posing of yes-no questions." } + black{ bold{ " - Archibald Wheeler" } }
 puts white{ bold{ "TMI" } } + white{ ": Too Much Information" } + black{ bold{ " (popular saying at the turn of the 21st century)" } }
 puts white{ bold{ "Shannon's maxim" } } + black{ bold{ ": One ought to design systems under the assumption that the enemy will immediately gain full familiarity with them." } }
+puts white{ "If you want creativity, take a zero off your budget. If you want sustainability, take off two zeros." } + black{ bold { " - Jaime Lerner" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
