@@ -806,6 +806,7 @@ puts white{ bold{ "Spell create with an \'e\'." } } + black{ bold{ " - Ken Thomp
 puts white{ "Keep it simple to make it faster." } + black{ bold{ " - Kernighan and Plauger, 'Elements of Programming Style'" } }
 puts white{ "Do not take shortcuts at the cost of clarity." }
 puts white{ "Thomas Edison was already famous for his telegraph technology and his huge hit with the record player. He had made a public show of turning the full focus of his massive laboratory to the question of electric light. A couple of years into the effort a reporter was visiting his lab and asked how close Edison was to coming up with a viable light bulb. Edison replied " } + white{ bold{ "\"We are on bulb number 732!\"" } } 
+puts white{ bold{ "The No Free Lunch theorem" } } + black{ bold{ ": " } } + white{ "Any two optimization algorithms are equivalent when their performance is averaged across all possible problems " } + black{ bold{ "(if an algorithm performs well on a certain class of problems then it necessarily pays for that with degraded performance on the set of all remaining problems)." } }
 
 # steven levy
 puts '--- Steven Levy ---'
