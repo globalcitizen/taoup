@@ -117,6 +117,10 @@ puts white{ "What we call reality arises in the last analysis from the posing of
 puts white{ bold{ "TMI" } } + white{ ": Too Much Information" } + black{ bold{ " (popular saying at the turn of the 21st century)" } }
 puts white{ bold{ "Shannon's maxim" } } + black{ bold{ ": One ought to design systems under the assumption that the enemy will immediately gain full familiarity with them." } }
 puts white{ "If you want creativity, take a zero off your budget. If you want sustainability, take off two zeros." } + black{ bold { " - Jaime Lerner" } }
+puts white{ bold{ "Keep your code absolutely simple." } } + white{ " Keep looking at your functions and figure out how you simplify further." } + black{ bold{ " - John Romero, id Software" } }
+puts white{ bold{ "We are our own best testing team" } } + white{ " and should never allow anyone else to experience bugs [...] Don't waste others' time. Test thoroughly before checking in your code." } + black{ bold{ " - John Romero, id Software" } }
+puts white{ bold{ "As soon as you see a bug, you fix it." } } + white{ " Do not continue on. If you don’t fix your bugs your new code will be built on a buggy codebase and ensure an unstable foundation." } + black{ bold{ " - John Romero, id Software" } }
+puts white{ bold{ "Encapsulate functionality to ensure design consistency." } } + white{ " This minimizes mistakes and saves design time." } + black{ bold{ " - John Romero, id Software" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
@@ -776,6 +780,7 @@ puts white{ bold{ "Each new technology turns its predecessor into an art form." 
 puts white{ "With the PC, I could see that " } + white{ bold{ "computers were fun" } } + white{ ", and that is " } + white{ bold{ "the real reason why all innovations come into widespread use" } } + white{ "." } + black{ bold{ " - Leo Beranek, President of BBN, acoustics designer and internet pioneer" } }
 puts white{ "The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry." } + black{ bold{ " - Henry Petroski" } }
 puts white{ "In 1299, zero was banned in Florence [...] Incredibly " } + white{ bold{ "it wasn't until the 15th Century that zero, along with all the other Arabic numbers, was finally accepted" } } + white{ ". Just to put it in context, by then Oxford University in England had been around for centuries and the printing press was just up and running." } + black{ bold{ " - Hannah Fry, BBC future" } }
+puts white{ "I am less concerned with Terminator scenarios." } + white{ bold { " If current trends continue, people are going to rise up well before the machines do." } } + black{ bold{ " - Andrew McAfee, MIT economist on AI (2017)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
