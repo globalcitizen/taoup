@@ -423,6 +423,7 @@ puts white{ bold{ "They speak to us with the absolute authority of the computer"
 puts white{ "Startups mostly don't compete against each other, they compete against no one giving a shit." } + black{ bold{ " - Justin Kan" } }
 puts white{ bold{ "Engineers are pretty arrogant." } } + white{ " Like, I would never want to hang out with those guys for a minute, outside of work. In most cases, in most jobs I had." } + black{ bold{ " - 'Engineered Truth'" } }
 puts white{ bold{ "A great many people think they are thinking when they are really rearranging their prejudices." } } + black{ bold{ " - William James" } }
+puts white{ bold{ "Why do we host on AWS?" } } + white{ " Because if it goes down then our customers are so busy worried about themselves being down that they don't even notice that we're down!" }
 
 # comp sci courses that don't exist - but should
 puts "------ comp sci courses that don't exist but should ------"
