@@ -747,6 +747,8 @@ puts white{ bold{ "Bystander Effect" } } + white{ ": a social psychological phen
 
 puts white{ "Less than 10 percent of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other hosuekeeping." } + black{ bold{ " - Mary Shaw, Carnegie-Mellon University" } }
 
+puts white{ bold{ "Why don't computers crash at the same time?" } } + white{ " Because network connections aren't fast enough." } + black{ bold{ " - 1980s computing joke" } }
+
 # randoms - change
 puts "------ randoms on change ------"
 puts white{ bold{ "A rolling stone gathers no moss." } } + black{ bold{ " - Condensed form of Publilius Syrus' (first century BCE) observation that people who are always moving, with no roots in one place, avoid responsibilities and cares. Another interpretation equates 'moss' to 'stagnation'; stagnant people lack fresh ideas and creativity." } }
