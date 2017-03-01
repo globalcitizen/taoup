@@ -1,4 +1,6 @@
 #!/bin/bash
-# Note: The `while read line...done` stuff is an ugly hack for portable random `sort`, mostly for OSX users. If you don't yet have `cowsay`, stop reading right now and get it installed!
+# Note: The `while read line...done` stuff is an ugly hack for portable random `sort`, mostly for OSX users.
+#       If you don't yet have `cowsay`, stop reading right now and get it installed!
+#       Another interesting output modification tool is https://github.com/busyloop/lolcat
 ./taoup |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1 | /usr/local/bin/cowsay -f eyes -n |head -n 2 |tail -n 1
 echo '' | cowsay -f eyes |tail -n 10 |sed 's/^/[0;32;40m/'
