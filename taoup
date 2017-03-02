@@ -425,6 +425,8 @@ puts white{ bold{ "Engineers are pretty arrogant." } } + white{ " Like, I would 
 puts white{ bold{ "A great many people think they are thinking when they are really rearranging their prejudices." } } + black{ bold{ " - William James" } }
 puts white{ bold{ "Why do we host on AWS?" } } + white{ " Because if it goes down then our customers are so busy worried about themselves being down that they don't even notice that we're down!" }
 puts white{ bold{ "Banking has always orientated towards cartel structures with high synthetic start-up capital costs, because the good the sector ultimately provides (trust) has a zero marginal cost of production." } } + white{ " This renders the industry uniquely vulnerable to undercutting." } + black{ bold{ " - Izabella Kaminska, Financial Times" } }
+puts white{ bold{ "Why don't computers crash at the same time?" } } + white{ " Because network connections aren't fast enough." } + black{ bold{ " - 1980s computing joke" } }
+puts white{ bold{ "Robot" } } + white{ ", n. A machine that doesn't work yet." } + black{ bold{ " (Because if it worked you'd name it after what it does, like a dishwasher or a vacuum cleaner)." } }
 
 # comp sci courses that don't exist - but should
 puts "------ comp sci courses that don't exist but should ------"
@@ -746,8 +748,6 @@ puts white{ bold{ "Law of Probability Dispersal" } } + white{ ": Whatever it is 
 puts white{ bold{ "Bystander Effect" } } + white{ ": a social psychological phenomenon in which individuals do not offer any means of help to a victim when other people are present, and the probability of help is inversely related to the number of bystanders. In other words, the greater the number of bystanders, the less likely it is that any one of them will help." } + black{ bold{ " - Wikipedia" } }
 
 puts white{ "Less than 10 percent of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other hosuekeeping." } + black{ bold{ " - Mary Shaw, Carnegie-Mellon University" } }
-
-puts white{ bold{ "Why don't computers crash at the same time?" } } + white{ " Because network connections aren't fast enough." } + black{ bold{ " - 1980s computing joke" } }
 
 # randoms - change
 puts "------ randoms on change ------"
