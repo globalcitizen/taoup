@@ -785,6 +785,7 @@ puts white{ "With the PC, I could see that " } + white{ bold{ "computers were fu
 puts white{ "The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry." } + black{ bold{ " - Henry Petroski" } }
 puts white{ "In 1299, zero was banned in Florence [...] Incredibly " } + white{ bold{ "it wasn't until the 15th Century that zero, along with all the other Arabic numbers, was finally accepted" } } + white{ ". Just to put it in context, by then Oxford University in England had been around for centuries and the printing press was just up and running." } + black{ bold{ " - Hannah Fry, BBC future" } }
 puts white{ "I am less concerned with Terminator scenarios." } + white{ bold { " If current trends continue, people are going to rise up well before the machines do." } } + black{ bold{ " - Andrew McAfee, MIT economist on AI (2017)" } }
+puts white{ bold{ "To make error is human." } } + white{ " To propagate error to all server in automatic way is #devops." } + black{ bold{ " - @devopsborat" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
