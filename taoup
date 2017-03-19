@@ -928,6 +928,7 @@ puts white{ "It is well to bear in mind that " } + white{ bold{ "knowledge is li
 puts white{ "A smart machine is a profoundly paradoxical entity, but a paradox is not a supernatural act. " } + white{ bold{ "A paradox is a symptom of a breakdown in two competing definitional systems." } } + black{ bold{ " - Bruce Sterling (1995)" } }
 puts white{ "The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt." } + black{ bold{ " - Bertrand Russell (1950)" } }
 puts white{ "Ignorance more frequently begets confidence than does knowledge." } + black{ bold{ " - Charles Darwin" } }
+puts white{ "The fool doth think he is wise, but the wise man knows himself to be a fool." } + black{ bold{ " - William Shakespeare, 'As You Like It' (1559)" } }
 
 # seven deadly sins of cloud computing research
 puts '--- 7 deadly sins of cloud computing research ---'
