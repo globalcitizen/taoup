@@ -926,6 +926,8 @@ puts white{ "This imminence of a revelation which does not occur is, perhaps, th
 puts '--- AI + learning ---'
 puts white{ "It is well to bear in mind that " } + white{ bold{ "knowledge is like food, and becomes ours only when it is absorbed, assimilated and digested by the intellect" } } + white{ "." } + black{ bold{ " - 'The Key of Knowledge', Champat Rai Jain (1928)" } }
 puts white{ "A smart machine is a profoundly paradoxical entity, but a paradox is not a supernatural act. " } + white{ bold{ "A paradox is a symptom of a breakdown in two competing definitional systems." } } + black{ bold{ " - Bruce Sterling (1995)" } }
+puts white{ "The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt." } + black{ bold{ " - Bertrand Russell (1950)" } }
+puts white{ "Ignorance more frequently begets confidence than does knowledge." } + black{ bold{ " - Charles Darwin" } }
 
 # seven deadly sins of cloud computing research
 puts '--- 7 deadly sins of cloud computing research ---'
