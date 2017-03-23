@@ -428,6 +428,7 @@ puts white{ bold{ "Why do we host on AWS?" } } + white{ " Because if it goes dow
 puts white{ bold{ "Banking has always orientated towards cartel structures with high synthetic start-up capital costs, because the good the sector ultimately provides (trust) has a zero marginal cost of production." } } + white{ " This renders the industry uniquely vulnerable to undercutting." } + black{ bold{ " - Izabella Kaminska, Financial Times" } }
 puts white{ bold{ "Why don't computers crash at the same time?" } } + white{ " Because network connections aren't fast enough." } + black{ bold{ " - 1980s computing joke" } }
 puts white{ bold{ "Robot" } } + white{ ", n. A machine that doesn't work yet." } + black{ bold{ " (Because if it worked you'd name it after what it does, like a dishwasher or a vacuum cleaner)." } }
+puts white{ bold{ "Never underestimate the power of being one of the few people to have a particular set of individually-common skills." } } + white{ " If you know molecular biology and group theory, or chemical engineering and architecture, or web design and sign language, or whatever and whatever, there's special opportunities open to you and almost noone else." } + black{ bold{ " - @maxander" } }
 
 # comp sci courses that don't exist - but should
 puts "------ comp sci courses that don't exist but should ------"
