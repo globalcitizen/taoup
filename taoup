@@ -121,6 +121,7 @@ puts white{ bold{ "Keep your code absolutely simple." } } + white{ " Keep lookin
 puts white{ bold{ "We are our own best testing team" } } + white{ " and should never allow anyone else to experience bugs [...] Don't waste others' time. Test thoroughly before checking in your code." } + black{ bold{ " - John Romero, id Software" } }
 puts white{ bold{ "As soon as you see a bug, you fix it." } } + white{ " Do not continue on. If you don’t fix your bugs your new code will be built on a buggy codebase and ensure an unstable foundation." } + black{ bold{ " - John Romero, id Software" } }
 puts white{ bold{ "Encapsulate functionality to ensure design consistency." } } + white{ " This minimizes mistakes and saves design time." } + black{ bold{ " - John Romero, id Software" } }
+puts white{ "No worthy problem is ever solved in the plane of its original conception." } + black{ bold{ " - Albert Einstein" } }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
