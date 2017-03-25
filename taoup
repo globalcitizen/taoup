@@ -429,9 +429,33 @@ puts white{ bold{ "Banking has always orientated towards cartel structures with 
 puts white{ bold{ "Why don't computers crash at the same time?" } } + white{ " Because network connections aren't fast enough." } + black{ bold{ " - 1980s computing joke" } }
 puts white{ bold{ "Robot" } } + white{ ", n. A machine that doesn't work yet." } + black{ bold{ " (Because if it worked you'd name it after what it does, like a dishwasher or a vacuum cleaner)." } }
 puts white{ bold{ "Never underestimate the power of being one of the few people to have a particular set of individually-common skills." } } + white{ " If you know molecular biology and group theory, or chemical engineering and architecture, or web design and sign language, or whatever and whatever, there's special opportunities open to you and almost noone else." } + black{ bold{ " - @maxander" } }
+
+# scott allen
+puts "------ scott allen ------"
 puts white{ "A project is complete when it starts working for you, rather than you working for it." } + black{ bold{ " - Scott Allen" } }
 puts white{ "Done is better than perfect." } + black{ bold{ " - Scott Allen" } }
 puts white{ "Sometimes it takes an expert to point out the obvious." } + black{ bold{ " - Scott Allen" } }
+
+# gary gygax
+puts "------ gary gygax ------"
+puts white{ "Random chance plays a huge part in everybody's life." } + black{ bold{ " - Gary Gygax, inventor of D&D" } }
+puts white{ "The secret we should never let the gamemasters know is that they don't need any rules." } + black{ bold{ " - Gary Gygax, inventor of D&D" } }
+puts white{ "I hated school, didn't like the discipline." } + black{ bold{ " - Gary Gygax, inventor of D&D" } }
+
+# buckminster fuller
+puts "------ buckminster fuller ------"
+puts white{ "When I am working on a problem, I never think about beauty but when I have finished, if the solution is not beautiful, I know it is wrong." } + black{ bold{ " - R. Buckminster Fuller" } }
+puts white{ "A designer is an emerging synthesis of artist, inventor, mechanic, objective economist and evolutionary strategist." } + black{ bold{ " - R. Buckminster Fuller" } }
+puts white{ "How often I found where I should be going only by setting out for somewhere else." } + black{ bold{ " - R. Buckminster Fuller" } }
+puts white{ "Don't fight forces, use them." } + black{ bold{ " - R. Buckminster Fuller" } }
+puts white{ bold{ "One in ten thousand of us can make a technological breakthrough capable of supporting all the rest." } } + white{ " The youth of today are absolutely right in recognizing this nonsense of earning a wage." } + black{ bold{ " - R. Buckminster Fuller (1960s?)" } }
+puts white{ "What usually happens in the educational process is that the faculties are dulled, overloaded, stuffed and paralyzed so that by the time most people are mature they have lost their innate capabilities." } + black{ bold{ " - R. Buckminster Fuller" } }
+puts white{ "We are called to be architects of the future, not its victims." } + black{ bold{ " - R. Buckminster Fuller" } }
+puts white{ "There is nothing in a caterpillar that tells you it's going to be a butterfly." } + black{ bold{ " - R. Buckminster Fuller" } }
+puts white{ "Search others for their virtue, and yourself for your vices." } + black{ bold{ " - R. Buckminster Fuller" } }
+puts white{ "Everyone is born a genius, but the process of living de-geniuses them." } + black{ bold{ " - R. Buckminster Fuller" } }
+puts white{ "If you are the master be sometimes blind, if you are the servant be sometimes deaf." } + black{ bold{ " - R. Buckminster Fuller" } }
+puts white{ "People should think things out fresh and not just accept conventional terms and the conventional way of doing things." } + black{ bold{ " - R. Buckminster Fuller" } }
 
 # edwin land
 puts "------ edwin land -------"
