@@ -444,7 +444,7 @@ puts white{ "I hated school, didn't like the discipline." } + black{ bold{ " - G
 
 # buckminster fuller
 puts "------ buckminster fuller ------"
-puts white{ "When I am working on a problem, I never think about beauty but when I have finished, if the solution is not beautiful, I know it is wrong." } + black{ bold{ " - R. Buckminster Fuller" } }
+puts white{ "When I am working on a problem, I never think about beauty but when I have finished, " } + white{ bold{ "if the solution is not beautiful, I know it is wrong" } } + white{ "." } + black{ bold{ " - R. Buckminster Fuller" } }
 puts white{ "A designer is an emerging synthesis of artist, inventor, mechanic, objective economist and evolutionary strategist." } + black{ bold{ " - R. Buckminster Fuller" } }
 puts white{ "How often I found where I should be going only by setting out for somewhere else." } + black{ bold{ " - R. Buckminster Fuller" } }
 puts white{ "Don't fight forces, use them." } + black{ bold{ " - R. Buckminster Fuller" } }
