@@ -430,6 +430,18 @@ puts white{ bold{ "Why don't computers crash at the same time?" } } + white{ " B
 puts white{ bold{ "Robot" } } + white{ ", n. A machine that doesn't work yet." } + black{ bold{ " (Because if it worked you'd name it after what it does, like a dishwasher or a vacuum cleaner)." } }
 puts white{ bold{ "Never underestimate the power of being one of the few people to have a particular set of individually-common skills." } } + white{ " If you know molecular biology and group theory, or chemical engineering and architecture, or web design and sign language, or whatever and whatever, there's special opportunities open to you and almost noone else." } + black{ bold{ " - @maxander" } }
 
+# edwin land
+puts white{ "Don't undertake a project unless it is manifestly important and nearly impossible." } + black{ bold{ " - Edwin Land, founder of Polaroid" } }
+puts white{ "An essential aspect of creativity is not being afraid to fail." } + black{ bold{ " - Edwin Land, founder of Polaroid" } }
+puts white{ "Any problem can be solved using the materials in the room." } + black{ bold{ " - Edwin Land, founder of Polaroid" } }
+puts white{ "Creativity is the sudden cessation of stupidity." } + black{ bold{ " - Edwin Land, founder of Polaroid" } }
+puts white{ "Politeness is the poison of collaboration." } + black{ bold{ " - Edwin Land, founder of Polaroid" } }
+puts white{ "Marketing is what you do when your product is no good." } + black{ bold{ " - Edwin Land, founder of Polaroid" } }
+puts white{ "Science is a method to keep yourself from kidding yourself." } + black{ bold{ " - Edwin Land, founder of Polaroid" } }
+puts white{ "The most important thing about power is to make sure you don't have to use it." } + black{ bold{ " - Edwin Land, founder of Polaroid" } }
+puts white{ "It's not that we need new ideas, but we need to stop having old ideas." } + black{ bold{ " - Edwin Land, founder of Polaroid" } }
+puts white{ "If you dream of something worth doing and then simply go to work on it and don't think anything of personalities, or emotional conflicts, or of money, or of family distractions; it is amazing how quickly you get through those 5,000 steps." } + black{ bold{ " - Edwin Land, founder of Polaroid" } }
+
 # comp sci courses that don't exist - but should
 puts "------ comp sci courses that don't exist but should ------"
 puts white{ bold{ "CSCI 2100: Unlearning Object-Oriented Programming" } } + white{ " - Discover how to create and use variables that aren't inside of an object hierarchy. Learn about 'functions,' which are like methods but more generally useful. Prerequisite: Any course that used the term 'abstract base class.'" } + black{ bold{ " - James Hague" } }
