@@ -125,6 +125,7 @@ puts white{ "No worthy problem is ever solved in the plane of its original conce
 puts white{ "New levels, new devils." }
 puts white{ "Little fleas have lesser fleas... and so on ad infinitum." }
 puts white{ bold{ "In the time that bandwidth doubles, latency improves by no more than a factor of 1.2 to 1.4" } } + white{ " (and capacity improves faster than bandwidth)" } + black{ bold{ " - David Patterson, U.C. Berkeley (2004)" } }
+puts white{ "Design the data, not the code." } + black{ bold{ " - Jon Devaan" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
@@ -138,6 +139,10 @@ puts white{ bold{ "Layers get replaced." } } + white{ " Requirements evolve, sys
 puts white{ bold{ "Break apart and simplify components" } } + white{ " rather than accrete more and more functionality within them." } + black{ bold{ " - Terry Crowley" } }
 puts white{ bold{ "Revel in the asynchrony." } } + white{ " Rather than trying to hide it, you accept it and design for it." } + black{ bold{ " - Terry Crowley" } }
 puts white{ "When you see a technique like idempotency or immutability, you recognize them as ways of embracing the fundamental nature of the universe, not just one more design tool in your toolbox." } + black{ bold{ " - Terry Crowley" } }
+puts white{ bold{ "Much of performance analysis is about three things: locality, locality, locality." } } + white{ " Whether it is packing data on disk, managing processor cache hierarchies, or coalescing data into a communications packet, how data is packed together, the patterns for how you touch that data with locality over time and the patterns of how you transfer that data between components is fundamental to performance. Focusing on less code operating on less data with more locality over space and time is a good way to cut through the noise." } + black{ bold{ " - Terry Crowley" } }
+puts white{ "When looking at the structure of a system, I'm less interested in seeing how the code interacts... " } + white{ bold{ "I want to see how the data interacts and flows" } } + white{ "." } + black{ bold{ " - Terry Crowley" } }
+puts white{ "If someone tries to explain a system by describing the code structure and does not understand the rate and volume of data flow, they do not understand the system." } + black{ bold{ " - Terry Crowley" } }
+puts white{ bold{ "Caches are fundamental but also dangerous." } } + white{ " Caches are trying to leverage the runtime behavior of the code to change the pattern of interaction between different components in the system. They inherently need to model that behavior, even if that model is implicit in how they fill and invalidate the cache and test for a cache hit. If the model is poor or becomes poor as the behavior changes, the cache will not operate as expected. A simple guideline is that " } + white{ bold{ "caches must be instrumented" } } + white{ " - their behavior will degrade over time because of changing behavior of the application and the changing nature and balance of the performance characteristics of the components you are modeling. " } + white{ bold{ "Every long-time programmer has cache horror stories." } } + black{ bold{ " - Terry Crowley" } }
 
 # extracted from https://hackernoon.com/education-of-a-programmer-aaecf2d35312
 puts "------------ Terry Crowley's rules of distributed systems design ---------------"
