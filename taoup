@@ -598,6 +598,8 @@ puts white{ bold{ "CAP Theorem (Brewer's Theorem) - Clarification 3" } } + white
 
 # brooks' law
 puts white{ bold{ "Adding manpower to a late software project makes it later." } } + white{ " Nine women can't make a baby in one month." } + black{ bold{ " - Fred Brooks, 'The Mythical Man-Month' (1975)" } }
+# snarky restatement
+puts white{ "What one programmer can do in one month, two programmers can do in two months." } + black{ bold{ " - Fred Brooks" } }
 
 # classen's law
 puts white{ bold{ "Classen's Law" } } + white{ ": Usefulness = log(Technology)" } + black{ bold{ " - Theo A. C. M. Claasen, CTO of Philips Semiconductors (1999)" } }
