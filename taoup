@@ -123,6 +123,7 @@ puts white{ bold{ "As soon as you see a bug, you fix it." } } + white{ " Do not 
 puts white{ bold{ "Encapsulate functionality to ensure design consistency." } } + white{ " This minimizes mistakes and saves design time." } + black{ bold{ " - John Romero, id Software" } }
 puts white{ "No worthy problem is ever solved in the plane of its original conception." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "New levels, new devils." }
+puts white{ "Little fleas have lesser fleas... and so on ad infinitum." }
 
 puts '------------ Leslie Lamport ---------------'
 puts white{ bold{ "A distributed system" } } + white{ " is one where the failure of a machine you've never heard of stops you from getting any work done." } + black{ bold{ " - Leslie Lamport" } }
