@@ -466,7 +466,7 @@ puts white{ bold{ "Robot" } } + white{ ", n. A machine that doesn't work yet." }
 puts white{ bold{ "Never underestimate the power of being one of the few people to have a particular set of individually-common skills." } } + white{ " If you know molecular biology and group theory, or chemical engineering and architecture, or web design and sign language, or whatever and whatever, there's special opportunities open to you and almost noone else." } + black{ bold{ " - @maxander" } }
 puts white{ "Your margin is my opportunity." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ bold{ "I am enough of the artist to draw freely upon my imagination." } } + white{ " Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." } + black{ bold{ " - Albert Einstein (1929)" } } # http://quoteinvestigator.com/2013/01/01/einstein-imagination/
-pust white{ "The practical genius is not someone who knows everything but knows where to find it." }
+puts white{ "The practical genius is not someone who knows everything but knows where to find it." }
 
 # scott allen
 puts "------ scott allen ------"
