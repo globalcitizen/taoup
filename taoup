@@ -647,6 +647,9 @@ puts white{ bold{ 'Conway\'s Law' } } + white{ ': Organizations which design sys
 puts white{ bold{ 'The organization of the software and the organization of the software team will be congruent.' } } + black{ bold{ " - Eric S. Raymond, paraphrasing Conway's Law in 'The New Hacker's Dictionary'" } }
 puts white{ 'If the parts of an organization (e.g. teams, departments, or subdivisions) do not closely reflect the essential parts of the product, or if the relationship between organizations do not reflect the relationships between product parts, then the project will be in trouble... therefore: ' } + white{ bold{ 'Make sure the organization is compatible with the product architecture.' } } + black{ bold{ ' - James O. Coplien and Neil B. Harrison, paraphasing Conway\'s Law (2004)' } }
 
+# dredmorbius' dialectic @ https://news.ycombinator.com/item?id=8295375
+puts white{ bold{ "Dredmorbius' Dialectic" } } + white{ ": Ultimately, the resources required to maintain a system prove insufficient." }
+
 # ducharm's axiom
 puts white{ bold{ "Ducharm's Axiom" } } + white{ ": If you view your problem closely enough you will recognize yourself as part of the problem." }
 
