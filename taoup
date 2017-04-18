@@ -732,8 +732,14 @@ puts white{ bold{ "Parkinson's Conjecture" } } + white{ ": Committees with a mem
 # peter's law
 puts white{ bold{ "Peter's Law of Substitution" } } + white{ ": Look after the molehills, and the mountains will look after themselves." }
 
+# planck's principle
+puts white{ bold{ "Planck's Principle of Increasing Effort" } } + white{ ": With every advance [in science] the difficulty of the task is increased." }
+
 # roman rule
 puts white{ bold{ "Roman Rule" } } + white{ ": The one who says it cannot be done should never interrupt the one who is doing it." }
+
+# rostow's reflection
+puts white{ bold{ "Rostow's Reflection" } } + white{ ": Marginal productivity first rises and then declines in individual fields." } + black{ bold{ " - Walter Rostow (1980)" } }
 
 # shamir's three laws of security
 puts white{ bold{ "Shamir's First Law of Security" } } + white{ ": Absolutely secure systems do not exist." }
@@ -745,6 +751,12 @@ puts white{ bold{ "Stigler's Law of Eponymy" } } + white{ ": No scientific disco
 
 # sturgeon's law
 puts white{ bold{ "Sturgeon's Law" } } + white{ ": ninety percent of everything is crap." } + black{ bold{ " - Theodore Sturgeon, an science fiction author" } }
+
+# tainter's law (paraphrased from 1996 paper @ http://dieoff.org/page134.htm)
+puts white{ bold{ "Tainter's Law of Social Complexity" } } + white{ ": Social structures generate negative returns when they become too complex." }
+puts white{ bold{ "Tainter's Law of Human Behavior" } } + white{ ": Many aspects of human behavior appear to be complexity averse." } # 1995
+puts white{ bold{ "Tainter's Law of Diminishing Returns" } } + white{ ": Diminishing returns make complexity less attractive and breed disaffection." }
+puts white{ bold{ "Tainter's Law of Problem Solving" } } + white{ ": As easier solutions are exhausted, problem solving moves inexorably to greater complexity, higher costs, and diminishing returns." }
 
 # tesler's law
 puts white{ bold{ "Tesler's Law of Conservation of Complexity" } } + white{ ": Every application has an inherent amount of irreducible complexity. The only question is who will have to deal with it - the user, the application developer, or the platform developer?" } + black{ bold{ " - Larry Tesler (ca. 1984)" } }
