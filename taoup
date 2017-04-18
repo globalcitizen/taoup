@@ -632,6 +632,13 @@ puts white{ bold{ "Adding manpower to a late software project makes it later." }
 # snarky restatement
 puts white{ "What one programmer can do in one month, two programmers can do in two months." } + black{ bold{ " - Fred Brooks" } }
 
+# celine's laws @ https://en.wikipedia.org/wiki/Celine%27s_laws
+puts white{ bold{ "Celine's first law" } } + white{ ": National Security is the chief cause of national insecurity." }
+puts white{ bold{ "Celine's second law" } } + white{ ": Communication is possible only in a non-punishing situation." }
+# generalized restatement
+puts white{ bold{ "Celine's second law" } } + white{ " (restatement): Communication occurs only between equals." }
+puts white{ bold{ "Celine's third law" } } + white{ ": An honest politician is a national calamity." }
+
 # classen's law
 puts white{ bold{ "Classen's Law" } } + white{ ": Usefulness = log(Technology)" } + black{ bold{ " - Theo A. C. M. Claasen, CTO of Philips Semiconductors (1999)" } }
 
