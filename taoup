@@ -479,6 +479,7 @@ puts white{ bold{ "I am enough of the artist to draw freely upon my imagination.
 puts white{ "The practical genius is not someone who knows everything but knows where to find it." }
 puts white{ "Inside every utopia is a dystopia striving to get out." } # http://bostonreview.net/literature-culture/john-crowley-inside-every-utopia-dystopia
 puts white{ "We are faced with an insurmountable opportunity." } + black{ bold{ " - Walter Crawford Kelly, Jr., American animator and cartoonist" } }
+puts white{ "An engineer is a man who can do for a dime what any fool can do for a dollar." }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
