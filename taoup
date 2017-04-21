@@ -136,7 +136,6 @@ puts white{ bold{ "Service must have a fairly predictable cost, and the interfac
 puts white{ "If in doubt, leave it out." }
 puts white{ "Exterminate features." } + black{ bold{ " - Charles P. Thacker" } }
 puts white{ "Everything should be made a simple as possible, but no simpler." } + black{ bold{ " - Albert Einstein" } }
-puts white{ bold{ "Get it right." } } + white{ " Neither abstraction nor simplicity is a substitute for getting it right. In fact, abstraction can be a source of severe difficulties." } + black{ bold{ " - Butler W. Lampson (1983)" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
@@ -718,6 +717,17 @@ puts white{ bold{ "Howe's Law" } } + white{ ": Everyone has a scheme that will n
 # kinkler
 puts white{ bold{ "Kinkler's First Law" } } + white{ ": Responsibility always exceeds authority." }
 puts white{ bold{ "Kinkler's Second Law" } } + white{ ": All the easy problems have been solved." }
+
+# lampson's law
+puts white{ bold{ "Lampson's Law" } } + white{ ": " } + white{ bold{ "Get it right." } } + white{ " Neither abstraction nor simplicity is a substitute for getting it right. In fact, abstraction can be a source of severe difficulties." } + black{ bold{ " - Butler W. Lampson (1983)" } }
+# lampson's law - corollary of speed
+puts white{ bold{ "Lampson's Law - Corollary of Speed" } } + white{ ": " } + white{ bold{ "Make it fast, rather than general or powerful." } } + white{ " If it's fast, the client can program the function it wants, and another client can program some other function. It is much better to have basic operations executed quickly than more powerful ones that are slower (of course, a fast, powerful operation is best, if you know how to get it). The trouble with slow, powerful operations is that the client who doesn’t want the power pays more for the basic function. Usually it turns out that the powerful operation is not the right one." } + black{ bold{ " - Butler W. Lampson (1983)" } }
+# lampson's law - corollary of power
+puts white{ bold{ "Lampson's Law - Corollary of Power" } } + white{ ": " } + white{ bold{ "Don't hide power." } } + white{ " When a low level of abstraction allows something to be done quickly, higher levels should not bury this power inside something more general. The purpose of abstractions is to conceal undesirable properties; desirable ones should not be hidden. Sometimes, of course, an abstraction is multiplexing a resource, and this necessarily has some cost. But it should be possible to deliver all or nearly all of it to a single client with only slight loss of performance." } + black{ bold{ " - Butler W. Lampson (1983)" } }
+# lampson's law - corollary of arguments
+puts white{ bold{ "Lampson's Law - Corollary of Arguments" } } + white{ ": " } + white{ bold{ "Use procedure arguments to provide flexibility in an interface." } } + white{ " They can be restricted or encoded in various ways if necessary for protection or portability. This technique can greatly simplify an interface, eliminating a jumble of parameters that amount to a small programming language. A simple example is an enumeration procedure that returns all the elements of a set satisfying some property. The cleanest interface allows the client to pass a filter procedure that tests for the property, rather than defining a special language of patterns or whatever." } + black{ bold{ " - Butler W. Lampson (1983)" } }
+# lampson's law - corollary of the client
+puts white{ bold{ "Lampson's Law - Corollary of the Client" } } + white{ ": " } + white{ bold{ "Leave it to the client." } } + white{ " As long as it is cheap to pass control back and forth, an interface can combine simplicity, flexibility and high performance by solving only one problem and leaving the rest to the client." } + black{ bold{ " - Butler W. Lampson (1983)" } }
 
 # lazlo
 puts white{ bold{ "Lazlo's Chinese Relativity Axiom" } } + white{ ": No matter how great your triumphs or how tragic your defeats - approximately one billion Chinese couldn't care less." }
