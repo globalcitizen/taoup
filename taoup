@@ -126,6 +126,7 @@ puts white{ "New levels, new devils." }
 puts white{ "Little fleas have lesser fleas... and so on ad infinitum." }
 puts white{ bold{ "In the time that bandwidth doubles, latency improves by no more than a factor of 1.2 to 1.4" } } + white{ " (and capacity improves faster than bandwidth)" } + black{ bold{ " - David Patterson, U.C. Berkeley (2004)" } }
 puts white{ "Design the data, not the code." } + black{ bold{ " - Jon Devaan" } }
+puts white{ bold{ "Designing a computer system is very different from designing an algorithm" } } + white{ ": The external interface (that is, the requirement) is less precisely defined, more complex, and more subject to change. The system has much more internal structure, and hence many internal interfaces. The measure of success is much less clear." } + black{ bold{ " - Butler W. Lampson (1983)" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
