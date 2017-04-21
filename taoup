@@ -944,6 +944,7 @@ puts white{ bold{ "To make error is human." } } + white{ " To propagate error to
 puts white{ "In #devops is turtle all way down but at bottom is perl script." } + black{ bold{ " - @devopsborat" } }
 puts white{ bold{ "There are two kinds of idiots" } } + black{ bold{ ":" } } + white{ ' the idiot who says "this is new, so it must be better" and the idiot who says "this is old, so it must be better". I try not to be either kind.' } + black{ bold{ " - @dsr_" } }
 puts white{ "The last 20 years of Internet policy have been dominated by the copyright war, but the war turns out only to have been a skirmish. " } + white{ bold{ "The coming century will be dominated by war against the general purpose computer, and the stakes are the freedom, fortune and privacy of the entire human race." } } + black{ bold{ " - Cory Doctorow, at 28C3 (2011)" } }
+puts white{ bold{ "Keep basic interfaces stable." } } + white{ " Since an interface embodies assumptions that are shared by more than one part of a system, and sometimes by a great many parts, it is very desirable not to change the interface." } + black{ bold{ " - Butler W. Lampson (1983)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
