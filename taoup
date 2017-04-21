@@ -136,6 +136,7 @@ puts white{ bold{ "Service must have a fairly predictable cost, and the interfac
 puts white{ "If in doubt, leave it out." }
 puts white{ "Exterminate features." } + black{ bold{ " - Charles P. Thacker" } }
 puts white{ "Everything should be made a simple as possible, but no simpler." } + black{ bold{ " - Albert Einstein" } }
+puts white{ bold{ "Get it right." } } + white{ " Neither abstraction nor simplicity is a substitute for getting it right. In fact, abstraction can be a source of severe difficulties." } + black{ bold{ " - Butler W. Lampson (1983)" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
