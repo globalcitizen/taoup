@@ -473,6 +473,7 @@ puts white{ "Your margin is my opportunity." } + black{ bold{ " - Jeff Bezos" } 
 puts white{ bold{ "I am enough of the artist to draw freely upon my imagination." } } + white{ " Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." } + black{ bold{ " - Albert Einstein (1929)" } } # http://quoteinvestigator.com/2013/01/01/einstein-imagination/
 puts white{ "The practical genius is not someone who knows everything but knows where to find it." }
 puts white{ "Inside every utopia is a dystopia striving to get out." } # http://bostonreview.net/literature-culture/john-crowley-inside-every-utopia-dystopia
+puts white{ "We are faced with an insurmountable opportunity." } + black{ bold{ " - Walter Crawford Kelly, Jr., American animator and cartoonist" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
