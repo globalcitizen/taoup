@@ -142,6 +142,7 @@ puts white{ bold{ "One way to improve performance is to increase the number of a
 puts white{ bold{ "Divide and conquer." } } + white{ " A well known method for solving a hard problem: reduce it to several easier ones. The resulting program is usually recursive. When resources are limited the method takes a slightly different form: bite off as much as will fit, leaving the rest for another iteration." } + black{ bold{ " - Butler W. Lampson (1983)" } }
 puts white{ "An efficient program is an exercise in logical brinkmanship." } + black{ bold{ " - Edsger Dijkstra" } }
 puts white{ bold{ "Use a good idea again instead of generalizing it." } } + white{ " A specialized implementation of the idea may be much more effective than a general one." } + black{ bold{ " - Butler W. Lampson (1983)" } }
+puts white{ bold{ "Handle normal and worst cases separately" } } + white{ ", because the requirements for the two are quite different: The normal case must be fast. The worst case must make some progress." } + black{ bold{ " - Butler W. Lampson (1983)" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
