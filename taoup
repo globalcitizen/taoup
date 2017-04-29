@@ -760,6 +760,9 @@ puts white{ bold{ "Miller's Law" } } + white{ ": All discussions of incremental 
 # moravec's paradox
 puts white{ bold{ "Moravec's Paradox" } } + white{ ": Contrary to traditional assumptions, high-level reasoning requires very little computation, but low-level sensorimotor skills require enormous computational resources." } + black{ bold{ " - Hans Moravec, Rodney Brooks, Marvin Minsky et al. (1980s)" } }
 
+# morrison's menace
+puts white{ bold{ "Morrison's Menace" } } + white{ ": Programmers with no money write better code." } 
+
 # mosher's law
 puts white{ bold{ "Mosher's Law of Software Engineering" } } + white{ ": Don't worry if it doesn't work right. If everything did, you'd be out of a job." }
 
