@@ -152,6 +152,7 @@ puts white{ bold{ "Shed load to control demand, rather than allowing the system 
 puts white{ "The unavoidable price of reliability is simplicity." } + black{ bold{ " - C. Hoare" } }
 puts white{ "Many hard problems are best solved when they are addressed backward." } + black{ bold{ " - Charlie Munger, Vice-Chairman of Berkshire Hathaway" } }
 puts white{ "Bring the computation to the data rather than bringing the data to the computation." }
+puts white{ "You can't have effective competition without density and an ability to start extremely small." } + black{ bold{ " - @phil21" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
@@ -498,6 +499,7 @@ puts white{ "We are faced with an insurmountable opportunity." } + black{ bold{ 
 puts white{ "An engineer is a man who can do for a dime what any fool can do for a dollar." }
 puts white{ bold{ "We didn't quite invent everything." } } + white{ " We didn't invent spreadsheets, and there's actually a good lesson in that. I think the reason we didn't invent spreadsheets is that we didn't have any use for them, since we didn't do accounting." } + black{ bold{ " - Dr. Butler Lampson, on Xerox PARC (2016)" } }
 puts white{ "Experiment patiently, accept failures, plant seeds, protect saplings, and double down when you see customer delight" } + black{ bold{ " - Jeff Bezos (2017)" } }
+puts white{ "Talent is hitting a target that nobody else can hit, genius is hitting a target that nobody else can see." } + black{ bold{ " - Schopenhauer" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
