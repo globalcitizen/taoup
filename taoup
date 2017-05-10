@@ -501,6 +501,7 @@ puts white{ bold{ "We didn't quite invent everything." } } + white{ " We didn't 
 puts white{ "Experiment patiently, accept failures, plant seeds, protect saplings, and double down when you see customer delight" } + black{ bold{ " - Jeff Bezos (2017)" } }
 puts white{ "Talent is hitting a target that nobody else can hit, genius is hitting a target that nobody else can see." } + black{ bold{ " - Schopenhauer" } }
 puts white{ "6,000 years of history in 640k." } + black{ bold{ " - Sid Meier on Civilization" } }
+puts white{ bold{ "The purpose of computation is insight" } } + white{ ", not numbers." } + black{ bold{ " - Richard Hamming" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
