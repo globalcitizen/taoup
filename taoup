@@ -504,6 +504,8 @@ puts white{ "Talent is hitting a target that nobody else can hit, genius is hitt
 puts white{ "6,000 years of history in 640k." } + black{ bold{ " - Sid Meier on Civilization" } }
 puts white{ bold{ "The purpose of computation is insight" } } + white{ ", not numbers." } + black{ bold{ " - Richard Hamming" } }
 puts white{ bold{ "I admire the elegance of your method of computation" } } + white{ "; it must be nice to ride through these fields upon the horse of true mathematics while the like of us have to make our way laboriously on foot." } + black{ bold{ " - Albert Einstein to Tullio Levi-Civita, on tensor analysis (1915)" } }
+puts white{ bold{ "Everyone struggles." } } + white{ " This is what it means to be human." }
+puts white{ "The only normal people are the ones you don't know very well." }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
