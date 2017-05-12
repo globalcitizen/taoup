@@ -154,6 +154,7 @@ puts white{ "The unavoidable price of reliability is simplicity." } + black{ bol
 puts white{ "Many hard problems are best solved when they are addressed backward." } + black{ bold{ " - Charlie Munger, Vice-Chairman of Berkshire Hathaway" } }
 puts white{ "Bring the computation to the data rather than bringing the data to the computation." }
 puts white{ "You can't have effective competition without density and an ability to start extremely small." } + black{ bold{ " - @phil21" } }
+puts white{ bold{ "The Internet is not about technology; it's about communication." } } + white{ " The Internet connects people who have shared interests, ideas and needs, regardless of geography." } + black{ bold{ " - Bob Taylor" } } # https://en.wikipedia.org/wiki/Robert_Taylor_(computer_scientist)
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
