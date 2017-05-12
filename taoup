@@ -952,7 +952,7 @@ puts white{ bold{ "A third of people are really enthusiastic, a third have big e
 puts white{ "We somehow have to start trying to act as if there is going to be a future." } + black{ bold{ " - Brian Eno" } }
 puts white{ bold{ "Technology does not drive change." } } + white{ " It is our collective response to the options and opportunities presented by technology that drives change." } + black{ bold{ " - Paul Saffo, Stanford Professor" } }
 puts white{ "This 'telephone' has too many shortcomings to be seriously considered as a practical form of communication. The device is inherently of no value to us. What use could this company make of an electrical toy?" } + black{ bold{ " - Western Union (1878)" } }
-puts white{ "I see how it " } + black{ bold{ "[the phone]" } } + white{ " works. It rings, and you have to get up." } + black{ bold{ " - Degas" } }
+puts white{ "I see how it works. It rings, and you have to get up." } + black{ bold{ " - Degas, on the telephone" } }
 puts white{ "Radio has no future." } + black{ bold{ " - Lord Kelvin, British mathematician and physicist (~1897)" } }
 puts white{ "Heavier-than-air flying machines are impossible." } + black{ bold{ " - Lord Kelvin, British mathematician and physicist (~1895)" } }
 puts white{ "What can be more palpably absurd than the prospect held out of locomotives traveling twice as fast as stagecoaches?" } + black{ bold{ " - The Quarterly Review, England (March 1825)" } }
@@ -1015,6 +1015,7 @@ puts white{ "Keep it simple to make it faster." } + black{ bold{ " - Kernighan a
 puts white{ "Do not take shortcuts at the cost of clarity." }
 puts white{ "Thomas Edison was already famous for his telegraph technology and his huge hit with the record player. He had made a public show of turning the full focus of his massive laboratory to the question of electric light. A couple of years into the effort a reporter was visiting his lab and asked how close Edison was to coming up with a viable light bulb. Edison replied " } + white{ bold{ "\"We are on bulb number 732!\"" } } 
 puts white{ bold{ "The No Free Lunch theorem" } } + black{ bold{ ": " } } + white{ "Any two optimization algorithms are equivalent when their performance is averaged across all possible problems " } + black{ bold{ "(if an algorithm performs well on a certain class of problems then it necessarily pays for that with degraded performance on the set of all remaining problems)." } }
+puts white{ "It brings everything to a certainty, which before floated in the mind indefinitely." } + black{ bold{ " - Samuel Johnson, on counting" } }
 
 # steven levy
 puts '--- Steven Levy ---'
