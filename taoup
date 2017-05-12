@@ -980,6 +980,7 @@ puts white{ bold{ "Keep a place to stand if you do have to change interfaces." }
 puts white{ bold{ "Rather bear those ills we have" } } + white{ "; Than fly to others that we know not of." } + black{ bold{ " - William Shakespeare, 'Hamlet', Polonius' advice to Laertes (~1600)" } }
 puts white{ bold{ "The California Roll Rule" } } + white{ ": People don't want something truly new, they want the familiar done differently." }
 puts white{ "The best way to predict the future is to invent it." }
+puts white{ bold{ "The real job of upper management in the 20th and 21st century is to learn things" } } + white{ ", because change is the constant thing that's going on." } + black{ bold{ " - Alan Kay (2017)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
