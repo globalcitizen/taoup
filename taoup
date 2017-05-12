@@ -1031,6 +1031,7 @@ puts white{ "Pike's 5th Rule" } + white{ bold{ ": Data dominates." } } + white{ 
 puts '--- marvin minsky ---'
 puts white{ "In general, " } + white{ bold{ "we're least aware of what our minds do best." } } + black{ bold{ ' - Marvin Minsky, MIT AI lab co-founder' } }
 puts white{ bold{ "We're more aware of simple processes that don't work well than of complex ones that work flawlessly." } } + black{ bold{ ' - Marvin Minsky, MIT AI lab co-founder' } }
+puts white{ "School is the best thing ever invented to keep you from thinking about something important for more than a few minutes." } + black{ bold{ " - Marvin Minsky" } }
 
 # hackers of history
 puts '--- Hackers of History ---'
