@@ -983,6 +983,8 @@ puts white{ bold{ "The California Roll Rule" } } + white{ ": People don't want s
 puts white{ "The best way to predict the future is to invent it." }
 puts white{ bold{ "The real job of upper management in the 20th and 21st century is to learn things" } } + white{ ", because change is the constant thing that's going on." } + black{ bold{ " - Alan Kay (2017)" } }
 puts white{ "The future aint what it used to be." } + black{ bold{ " - Yogi Berra" } }
+puts white{ bold{ "Features common to the telegraph networks of the 19th century and the internet of today" } } + white{ ": hype, scepticism, hackers, on-line romances and weddings, chat-rooms, flame wars, information overload, predictions of imminent world peace, and so on." } + black{ bold{ " - Tom Standage, author of 'The Victorian Internet'" } }
+puts white{ "The telegraph in its day was much more revolutionary than the Internet is in our day." } + black{ bold{ " - Jimmy Wales, founder of Wikipedia" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
