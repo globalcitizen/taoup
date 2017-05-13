@@ -987,6 +987,7 @@ puts white{ "The future aint what it used to be." } + black{ bold{ " - Yogi Berr
 puts white{ bold{ "Features common to the telegraph networks of the 19th century and the internet of today" } } + white{ ": hype, scepticism, hackers, on-line romances and weddings, chat-rooms, flame wars, information overload, predictions of imminent world peace, and so on." } + black{ bold{ " - Tom Standage, author of 'The Victorian Internet'" } }
 puts white{ "The telegraph in its day was much more revolutionary than the Internet is in our day." } + black{ bold{ " - Jimmy Wales, founder of Wikipedia" } }
 puts white{ bold{ "Whatever's going on right now is just crap, by definition" } } + black{ bold{ " [...] " } } + white{ "it's gotten mundane, and part of it is just the bell curve of normality in humans. Whatever it is, it gets converted to something like normal." } + black{ bold{ " - Alan Kay (2017)" } }
+puts white{ bold{ "Living in the present" } } + white{ ": man, you're just out of it." } + black{ bold{ " - Alan Kay (2017)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
