@@ -827,6 +827,12 @@ puts white{ bold{ "Tainter's Law of Problem Solving" } } + white{ ": As easier s
 # tesler's law
 puts white{ bold{ "Tesler's Law of Conservation of Complexity" } } + white{ ": Every application has an inherent amount of irreducible complexity. The only question is who will have to deal with it - the user, the application developer, or the platform developer?" } + black{ bold{ " - Larry Tesler (ca. 1984)" } }
 
+# universal conundrums - https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f
+puts white{ bold{ "First Conundrum of the Universe" } } + white{ ": There's too much information." } + black{ bold{ " So we only notice changes, bizzareness, repetition, confirmation..." } }
+puts white{ bold{ "Second Conundrum of the Universe" } } + white{ ": There's not enough meaning." } + black{ bold{ " So we fill in gaps with patterns, generalities, benefit of doubt, easier problems, current mindset..." } }
+puts white{ bold{ "Third Conundrum of the Universe" } } + white{ ": There's not enough time and resources." } + black{ bold{ " So we assume we're right, we can do this, the nearest thing is best, we should finish what's started, we should keep our options open, easier is better..." } }
+puts white{ bold{ "Fourth Conundrum of the Universe" } } + white{ ": There's not enough memory." } + black{ bold{ " So we save space by editing memories down, generalizing, keeping an example, using external memory..." } }
+
 # wirth's law (and disabled restatements)
 puts white{ bold{ "Wirth's Law" } } + white{ ": Software gets slower faster than hardware gets faster." } + black{ bold{ " - Niklaus Wirth (1995)" } }
 #puts white{ bold{ "May's Law" } } + white{ ": Software efficiency halves every 18 months, compensating Moore's Law." } + black{ bold{ " - Restatement of Wirth's Law after David May." } }
