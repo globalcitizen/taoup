@@ -1179,3 +1179,20 @@ puts white{ bold{ "Motto of the Electrical Engineer" } } + white{ ": Working har
 puts white{ bold{ "1974" } } + white{ ": 8080 CPU. " } + white{ bold{ "1979" } } + white{ ": SCHEME-79 chip with hardware GC. " } + white{ bold{ "2013" } } + white{ ": Hundreds of inefficient software GCs running on n-GHz 8080 CPUs." } + white{ bold{ " Cool industry." } } + black{ bold{ " - @garybernhardt" } }
 puts white{ bold{ "The outsourcing plan failed very badly" } } + white{ ": all these different suppliers who were going to build these major sections couldn't actually do it." } + black{ bold{ " - Dominic Gates (Seattle Times) on the Boeing 787 'Dreamliner'" } }
 puts white{ bold{ "Oh yeah. I'm not flying on a 787" } } + white{ " [...] I would definitely avoid flying on a 787." } + black{ bold{ " - Cynthia Cole, former 32 year Boeing employee and former President, Boeing Engineers' Union" } }
+
+# ideo's mantra for innovation
+puts "------ IDEO's mantra for innovation ------"
+puts white{ bold{ "IDEO's mantra for innovation - 1/5" } } + white{ ": One conversation at a time." }
+puts white{ bold{ "IDEO's mantra for innovation - 2/5" } } + white{ ": Stay focused on topic." }
+puts white{ bold{ "IDEO's mantra for innovation - 3/5" } } + white{ ": Encourage wild ideas." }
+puts white{ bold{ "IDEO's mantra for innovation - 4/5" } } + white{ ": Defer judgement." }
+puts white{ bold{ "IDEO's mantra for innovation - 5/5" } } + white{ ": Build on the ideas of others." }
+puts white{ "Englightened trial and error suceeds over the planning of the lone genius." } + black{ bold{ " - Peter Skillman (1999)" } }
+puts white{ "Members of a design team should be design process experts rather than product domain experts." } + black{ bold{ " - IDEO" } }
+puts white{ "Choose a project leader based upon their ability to work with groups." } + black{ bold{ " - IDEO" } }
+puts white{ "Source design team members from a wide-range of fields." } + black{ bold{ " - IDEO" } }
+puts white{ "There should not be a hierarchy system in an innovative culture." } + black{ bold{ " - IDEO" } }
+puts white{ "Speak with domain experts (people who use, provide, and repair the product or service) because it is faster than learning about the product yourself." } + black{ bold{ " - IDEO" } }
+puts white{ "Fail often in order to succeed sooner." } + black{ bold{ " - IDEO" } }
+puts white{ bold{ "Recipe for Innovation" } } + white{ " = time + open mind + leader who demands fresh ideas be corky + teamwork + belief chaos can be constructive" } + black{ bold{ " - IDEO" } }
+
