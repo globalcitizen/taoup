@@ -468,7 +468,7 @@ puts white{ "Did you know Richard Stallman is developing a free open source Unix
 puts white{ bold{ "BREAKING" } } + white{ ": Linux version upgrades still free." } + black{ bold{ " - @NeckbeardHacker" } }
 puts white{ "Company seeks Neutral-aligned Level 60 Half-Elf Assassin/Mage for VC-backed, webscale-tier campaign. No munchkins, please. " } + white{ bold{ "(sponsored tweet)" } } + black{ bold{ " - @NeckbeardHacker" } }
 puts white{ "Those who can't code, sysadmin. And those who can't sysadmin, sysadmin Windows." } + black{ bold{ " - @NeckbeardHacker" } }
-puts white{ bold{ "Immuteability" } } + white{ ": The property of functional programmers that prevents them from shutting up about pure functional programming." } + black{ bold{ " - @raganwald" } }
+puts white{ bold{ "Immutability" } } + white{ ": The property of functional programmers that prevents them from shutting up about pure functional programming." } + black{ bold{ " - @raganwald" } }
 puts white{ "Knowing what to code is more important than knowing how to code." } + black{ bold{ " - @pmddomingos" } }
 puts white{ bold{ "Optimist" } } + white{ ": The glass is half full. " } + white{ bold{ "Pessimist" } } + white{ ": The glass is half empty. " } + white{ bold{ "Engineer" } } + white{ ": The glass is too large." } + black{ bold{ " - @pmddomingos" } }
 puts white{ "Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love." } + black{ bold{ " - @petecordell" } }
