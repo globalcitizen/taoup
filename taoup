@@ -510,6 +510,7 @@ puts white{ "The only normal people are the ones you don't know very well." }
 puts white{ bold{ "PARC only happened because of the Vietnam War." } } + white{ " Nobody wanted to try to do this stuff inside of a company, the company quarterly cycles and everything else are really antithetical to long-range thinking." } + black{ bold{ " - Alan Kay on the emergence of the personal computer (2017)" } }
 puts white{ "Procrastination is a vice when it comes to productivity, but it can be a virtue for creativity." } + black{ bold{ " - Adam Grant" } }
 puts white{ bold{ "To be original you don't have to be first" } } + white{ " - you just have to be different and better." } + black{ bold{ " - Adam Grant" } }
+puts white{ bold{ "Prestige is a sucker's game" } } + white{ "; it's a way of inducing people to do things that aren't much fun and they wouldn't really want to do on their own, by lauding them with accolades from people they don't really care about." } + black{ bold{ " - @nostrademons" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
