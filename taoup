@@ -999,6 +999,7 @@ puts white{ "The telegraph in its day was much more revolutionary than the Inter
 puts white{ bold{ "Whatever's going on right now is just crap, by definition" } } + black{ bold{ " [...] " } } + white{ "it's gotten mundane, and part of it is just the bell curve of normality in humans. Whatever it is, it gets converted to something like normal." } + black{ bold{ " - Alan Kay (2017)" } }
 puts white{ bold{ "Living in the present" } } + white{ ": man, you're just out of it." } + black{ bold{ " - Alan Kay (2017)" } }
 puts white{ "Most people want to stay 'asleep' in The Swamp of Familiarity." } + black{ bold{ " - @da02" } }
+puts white{ bold{ '"The internet is broken. It has been for a while"' } } + white{ " are the first words of the article you cannot read because of Javascriptosis. Quite ironic." } + black{ bold{ " - @astrobe_ on 'The Blockstack Browser: A Gateway to a New, Decentralized Internet' (2017)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
