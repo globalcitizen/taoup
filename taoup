@@ -512,6 +512,7 @@ puts white{ "Procrastination is a vice when it comes to productivity, but it can
 puts white{ bold{ "To be original you don't have to be first" } } + white{ " - you just have to be different and better." } + black{ bold{ " - Adam Grant" } }
 puts white{ bold{ "Prestige is a sucker's game" } } + white{ "; it's a way of inducing people to do things that aren't much fun and they wouldn't really want to do on their own, by lauding them with accolades from people they don't really care about." } + black{ bold{ " - @nostrademons" } }
 puts white{ "The phrase that determines the total pain of basically all systems biology is '" } + white{ bold{ "combinatorial explosion" } } + white{ "'." } + black{ bold{ " - @hprotagonist" } }
+puts white{ bold{ "Don't let anyone rob you of your imagination, your creativity, or your curiosity." } } + white{ " It's your place in the world; it's your life. Go on and do all you can with it, and make it the life you want to live." } + black{ bold{ " - Mae Jemison, engineer, physician, and first African-American female astronaut" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
