@@ -516,6 +516,7 @@ puts white{ bold{ "Don't let anyone rob you of your imagination, your creativity
 puts white{ "Where is the life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?" } + black{ bold{ " - T.S. Elliot (1934)" } }
 puts white{ "Spend more time working on code that analyzes the meaning of metrics than code that collects, moves, stores and displays metrics." } + black{ bold{ " - Adrian Cockcroft" } }
 puts white{ "Those who " } + white{ bold{ "don't understand" } } + white{ " the past are condemned to repeat it." } + black{ bold{ " - Kevin Driscoll" } }
+puts white{ "An expert is someone who can avoid the worst errors in their own discipline." } + black{ bold{ " - Werner Heisenberg" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
