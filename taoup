@@ -517,6 +517,7 @@ puts white{ "Where is the life we have lost in living? Where is the wisdom we ha
 puts white{ "Spend more time working on code that analyzes the meaning of metrics than code that collects, moves, stores and displays metrics." } + black{ bold{ " - Adrian Cockcroft" } }
 puts white{ "Those who " } + white{ bold{ "don't understand" } } + white{ " the past are condemned to repeat it." } + black{ bold{ " - Kevin Driscoll" } }
 puts white{ "An expert is someone who can avoid the worst errors in their own discipline." } + black{ bold{ " - Werner Heisenberg" } }
+puts white{ bold{ "Opportunity is missed by most people" } } + white{ " because it is dressed in overalls and looks like work." } + black{ bold{ " - Thomas Edison" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -1006,6 +1007,7 @@ puts white{ bold{ "Living in the present" } } + white{ ": man, you're just out o
 puts white{ "Most people want to stay 'asleep' in The Swamp of Familiarity." } + black{ bold{ " - @da02" } }
 puts white{ bold{ '"The internet is broken. It has been for a while"' } } + white{ " are the first words of the article you cannot read because of Javascriptosis. Quite ironic." } + black{ bold{ " - @astrobe_ on 'The Blockstack Browser: A Gateway to a New, Decentralized Internet' (2017)" } }
 puts white{ bold{ "You never change things by fighting the existing reality." } } + white{ " To change something, build a new model that makes the existing model obsolete." } + black{ bold{ " - Buckminster Fuller" } }
+puts white{ "Replaceability is just system-level maintainability." } + black{ bold{ " - @andrewstuart2" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
