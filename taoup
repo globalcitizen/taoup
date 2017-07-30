@@ -519,6 +519,7 @@ puts white{ "Those who " } + white{ bold{ "don't understand" } } + white{ " the 
 puts white{ "An expert is someone who can avoid the worst errors in their own discipline." } + black{ bold{ " - Werner Heisenberg" } }
 puts white{ bold{ "Opportunity is missed by most people" } } + white{ " because it is dressed in overalls and looks like work." } + black{ bold{ " - Thomas Edison" } }
 puts white{ "Waiting is frustrating, demoralizing, agonizing, aggravating, annoying, time consuming and incredibly expensive." } + black{ bold{ " - Fedex, p. 10, 'Fortune', 28 July 1980." } }
+puts white{ bold{ "The first law of service" } } + white{ ": Satisfaction equals perception minus expectation." }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
