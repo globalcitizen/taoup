@@ -522,7 +522,8 @@ puts white{ "Waiting is frustrating, demoralizing, agonizing, aggravating, annoy
 puts white{ bold{ "The first law of service" } } + white{ ": Satisfaction equals perception minus expectation." }
 puts white{ bold{ "First of all it has to an intellectual challenge. Secondly it has to be of some significance" } } + white{ ", and there are many different dimensions of significance. So for example things that have an impact on human life and in fact survival are of course significant, even if they don't pose much of an intellectual challenge." } + black{ bold{ " - Noam Chomsky on what makes things interesting, 2017" } }
 puts white{ "The first article I wrote " } + black{ bold{ "[...]" } } + white{ " was about the rise of fascism." } + black{ bold{ " - Noam Chomsky, world's most cited academic, 2017" } }
-puts white{ bold{ "Those are things you learn" } } + black{ bold{ " ... " } } + white{ "if you pay attention." } + black{ bold{ " - Noam Chomsky" } }
+puts white{ bold{ "Those are things you learn" } } + black{ bold{ " ... " } } + white{ "if you pay attention." } + black{ bold{ " - Noam Chomsky, 2017" } }
+puts white{ bold{ "And now you can get it on the internet, thanks to what we call the free market" } } + white{ ": which means the taxpayer putting huge amounts of subsidies in to developing the high tech system of the next generation which is handed over to private corporations for marketing and profit. So that's the internet and computers and so on and so forth." } + black{ bold{ " - Noam Chomsky, 2017" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
