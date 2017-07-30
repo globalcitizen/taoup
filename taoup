@@ -1010,6 +1010,7 @@ puts white{ "Most people want to stay 'asleep' in The Swamp of Familiarity." } +
 puts white{ bold{ '"The internet is broken. It has been for a while"' } } + white{ " are the first words of the article you cannot read because of Javascriptosis. Quite ironic." } + black{ bold{ " - @astrobe_ on 'The Blockstack Browser: A Gateway to a New, Decentralized Internet' (2017)" } }
 puts white{ bold{ "You never change things by fighting the existing reality." } } + white{ " To change something, build a new model that makes the existing model obsolete." } + black{ bold{ " - Buckminster Fuller" } }
 puts white{ "Replaceability is just system-level maintainability." } + black{ bold{ " - @andrewstuart2" } }
+puts white{ bold{ "I'm optimistic about people. I'm just pessimistic about human systems." } } + white{ " They don't seem particularly good at taking care of business long-term." } + black{ bold{ " - James Cameron, director of 'Terminator', 2017" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
