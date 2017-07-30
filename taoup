@@ -521,6 +521,7 @@ puts white{ bold{ "Opportunity is missed by most people" } } + white{ " because 
 puts white{ "Waiting is frustrating, demoralizing, agonizing, aggravating, annoying, time consuming and incredibly expensive." } + black{ bold{ " - Fedex, p. 10, 'Fortune', 28 July 1980." } }
 puts white{ bold{ "The first law of service" } } + white{ ": Satisfaction equals perception minus expectation." }
 puts white{ bold{ "First of all it has to an intellectual challenge. Secondly it has to be of some significance" } } + white{ ", and there are many different dimensions of significance. So for example things that have an impact on human life and in fact survival are of course significant, even if they don't pose much of an intellectual challenge." } + black{ bold{ " - Noam Chomsky on what makes things interesting, 2017" } }
+puts white{ "The first article I wrote " } + black{ bold{ "[...]" } } + white{ " was about the rise of fascism." } + black{ bold{ " - Noam Chomsky, world's most cited academic, 2017" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
