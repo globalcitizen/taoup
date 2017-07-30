@@ -674,6 +674,9 @@ puts white{ bold{ "Arnold's Law of Documentation" } } + white{ ": If it should e
 # atwood's law
 puts white{ bold{ "Atwood's Law" } } + white{ ": Any software that can be written in JavaScript will eventually be written in JavaScript." } + black{ bold{ " - Jeff Atwood" } }
 
+# bombeck's law
+puts white{ bold{ "Erma Bombeck's Law" } } + white{ ": The other line always moves faster." }
+
 # boob's law
 puts white{ bold{ "Boob's Law" } } + white{ ": You always find something in the last place you look." }
 
