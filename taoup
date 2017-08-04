@@ -525,6 +525,7 @@ puts white{ "The first article I wrote " } + black{ bold{ "[...]" } } + white{ "
 puts white{ bold{ "Those are things you learn" } } + black{ bold{ " ... " } } + white{ "if you pay attention." } + black{ bold{ " - Noam Chomsky, 2017" } }
 puts white{ bold{ "And now you can get it on the internet, thanks to what we call the free market" } } + white{ ": which means the taxpayer putting huge amounts of subsidies in to developing the high tech system of the next generation which is handed over to private corporations for marketing and profit. So that's the internet and computers and so on and so forth." } + black{ bold{ " - Noam Chomsky, 2017" } }
 puts white{ "Why not do some of the serious things?" } + black{ bold{ " - Noam Chomsky, closing remark to Googlers, 2017" } }
+puts white{ "From what I understand of the last 15 years, " } + white{ bold{ "IPOs are now for cashing out when you've manufactured a solid enough filing to convince normal people that you're worth what the 10 VCs who gave you money say you're worth." } } + white{ " No company IPOs if they don't absolutely have to. It's like conceding that you can't make enough profit privately to recoup your investment on any kind of reasonable timescale. " } + black{ bold{ " - @forthefuture" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
