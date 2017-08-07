@@ -713,6 +713,9 @@ puts white{ bold{ "Celine's third law" } } + white{ ": An honest politician is a
 # classen's law
 puts white{ bold{ "Classen's Law" } } + white{ ": Usefulness = log(Technology)" } + black{ bold{ " - Theo A. C. M. Claasen, CTO of Philips Semiconductors (1999)" } }
 
+# connel's thesis
+puts white{ bold{ "Connell's Thesis" } } + white{ ": Software engineering will never be a rigorous discipline with proven results, because it involves human activity." }
+
 # conway's law
 puts white{ bold{ 'Conway\'s Law' } } + white{ ': Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.' } + black{ bold{ " - Melvin Conway, 'National Symposium on Modular Programming', 1968" } }
 puts white{ bold{ 'The organization of the software and the organization of the software team will be congruent.' } } + black{ bold{ " - Eric S. Raymond, paraphrasing Conway's Law in 'The New Hacker's Dictionary'" } }
