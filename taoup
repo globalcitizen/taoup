@@ -1025,6 +1025,7 @@ puts white{ bold{ '"The internet is broken. It has been for a while"' } } + whit
 puts white{ bold{ "You never change things by fighting the existing reality." } } + white{ " To change something, build a new model that makes the existing model obsolete." } + black{ bold{ " - Buckminster Fuller" } }
 puts white{ "Replaceability is just system-level maintainability." } + black{ bold{ " - @andrewstuart2" } }
 puts white{ bold{ "I'm optimistic about people. I'm just pessimistic about human systems." } } + white{ " They don't seem particularly good at taking care of business long-term." } + black{ bold{ " - James Cameron, director of 'Terminator', 2017" } }
+puts white{ "By giving networks like Google and Facebook control of the present, we cede our freedom to choose our future." } + black{ bold{ " - Jonathan Taplin (2017)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
