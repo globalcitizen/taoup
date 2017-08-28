@@ -528,6 +528,8 @@ puts white{ bold{ "And now you can get it on the internet, thanks to what we cal
 puts white{ "Why not do some of the serious things?" } + black{ bold{ " - Noam Chomsky, closing remark to Googlers, 2017" } }
 puts white{ "From what I understand of the last 15 years, " } + white{ bold{ "IPOs are now for cashing out when you've manufactured a solid enough filing to convince normal people that you're worth what the 10 VCs who gave you money say you're worth." } } + white{ " No company IPOs if they don't absolutely have to. It's like conceding that you can't make enough profit privately to recoup your investment on any kind of reasonable timescale. " } + black{ bold{ " - @forthefuture" } }
 puts white{ bold{ "The factory of the future will have only two employees, a man and a dog." } } + white{ " The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment." } + black{ bold{ " - Warren G. Bennis" } }
+puts white{ "Pitch books have been banned in the Bay Area since 2005. Founders meet VCs for acrobatic yoga and a vegan lunch and close deals with a group hug." } + black{ bold{ " - Ari Paul (2017)" } }
+
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
