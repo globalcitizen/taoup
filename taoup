@@ -1029,6 +1029,7 @@ puts white{ bold{ "You never change things by fighting the existing reality." } 
 puts white{ "Replaceability is just system-level maintainability." } + black{ bold{ " - @andrewstuart2" } }
 puts white{ bold{ "I'm optimistic about people. I'm just pessimistic about human systems." } } + white{ " They don't seem particularly good at taking care of business long-term." } + black{ bold{ " - James Cameron, director of 'Terminator', 2017" } }
 puts white{ "By giving networks like Google and Facebook control of the present, we cede our freedom to choose our future." } + black{ bold{ " - Jonathan Taplin (2017)" } }
+puts white{ "Our success in being human has so far derived from our honoring deviance more than tradition." } + black{ bold{ " - John B. Calhoun" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
