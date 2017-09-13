@@ -1031,6 +1031,7 @@ puts white{ bold{ "I'm optimistic about people. I'm just pessimistic about human
 puts white{ "By giving networks like Google and Facebook control of the present, we cede our freedom to choose our future." } + black{ bold{ " - Jonathan Taplin (2017)" } }
 puts white{ "Our success in being human has so far derived from our honoring deviance more than tradition." } + black{ bold{ " - John B. Calhoun" } }
 puts white{ "I've seen Oracle implementations literally cause production employees of 20+ years walk off the job." } + black{ bold{ " - @froindt" } }
+puts white{ bold{ "It's not true that there's nothing new under the sun." } } + white{ " There are some domains where there's almost nothing new. But there's a big difference between nothing and almost nothing, when it's multiplied by the area under the sun." } + black{ bold{ " - Paul Graham (2017)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
