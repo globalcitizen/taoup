@@ -1032,6 +1032,7 @@ puts white{ "By giving networks like Google and Facebook control of the present,
 puts white{ "Our success in being human has so far derived from our honoring deviance more than tradition." } + black{ bold{ " - John B. Calhoun" } }
 puts white{ "I've seen Oracle implementations literally cause production employees of 20+ years walk off the job." } + black{ bold{ " - @froindt" } }
 puts white{ bold{ "It's not true that there's nothing new under the sun." } } + white{ " There are some domains where there's almost nothing new. But there's a big difference between nothing and almost nothing, when it's multiplied by the area under the sun." } + black{ bold{ " - Paul Graham (2017)" } }
+puts white{ "Unless " } + white{ bold{ "you are very rich and very eccentric" } } + white{ ", you will not enjoy the luxury of having a computer in your own home." } + black{ bold{ " - Ed Yourdon, 'Techniques of Program Structure and Design', 1975" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
