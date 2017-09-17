@@ -531,6 +531,7 @@ puts white{ bold{ "The factory of the future will have only two employees, a man
 puts white{ "Pitch books have been banned in the Bay Area since 2005. Founders meet VCs for acrobatic yoga and a vegan lunch and close deals with a group hug." } + black{ bold{ " - Ari Paul (2017)" } }
 puts white{ bold{ "Shannon's six secrets" } } + white{ ": Simplification. Analogy. Reframing. Abstraction. Division. Inversion." } + black{ bold{ " - Claude Shannon (1954), a modern summary." } }
 puts white{ "People have become slaves of probability." } + black{ bold{ " - Alphaville (1965)" } }
+puts white{ "Jeff Bezos is the Genghis Khan of the internet." } + black{ bold{ " - Andrew Clay Shafer" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
