@@ -1069,6 +1069,7 @@ puts white{ bold{ "The No Free Lunch theorem" } } + black{ bold{ ": " } } + whit
 puts white{ "It brings everything to a certainty, which before floated in the mind indefinitely." } + black{ bold{ " - Samuel Johnson, on counting" } }
 puts white{ "Great artists ship." } + black{ bold{ " - Steve Jobs" } }
 puts white{ bold{ "One cannot make an omelette without breaking eggs" } } + white{ ", but it is amazing how many eggs one can break without making a decent omelette." } + black{ bold{ " - Charles P. Issawi" } }
+puts white{ "It is easy to optimize a correct system, but hard to correct an optimized system" } + black{ bold{ " - Unknown" } }
 
 # steven levy
 puts '--- Steven Levy ---'
