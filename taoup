@@ -435,7 +435,7 @@ puts white{ "Asking a developer you've approached because of their work to do a 
 puts white{ "Give a man a fish and you feed him for a day, teach a man to fish and you feed him for a lifetime, " } + white{ bold{ "give a startup $$ and they'll waste it." } } + black{ bold{ ' - @iamdevloper' } }
 puts white{ "If your commit message is more than 15 words you should probably just write it down and read it to your therapist." } + black{ bold{ ' - @iamdevloper' } }
 puts white{ "What do we want?" } + white{ bold{ " ASYNCHRONICITY!" } } + white{ " When do we want it? " } + white{ bold{ "THAT'S IRRELEVANT." } } + black{ bold{ ' - @iamdevloper' } }
-puts white{ "What is 2+2? " } + black{ bold{ "Engineer: " } } + white{ "4.000000" } + black{ bold{ " Manager: " } } + white{ "around 4" } + black{ bold{ " Accountant:" } } + white{ "What do you want it to be?" } + black{ bold{ ' - @iamdevloper' } }
+puts white{ bold{ "What is 2+2? " } } + black{ bold{ "Engineer: " } } + white{ "4.000000" } + black{ bold{ " Manager: " } } + white{ "Around 4." } + black{ bold{ " Accountant:" } } + white{ " What do you want it to be?" } + black{ bold{ ' - @iamdevloper' } }
 puts white{ "QA teams represent the alienation of product teams from their labor." } + black{ bold{ " - Startup Marx" } }
 puts white{ "Values aren't achieved through specialization. " } + white{ bold{ "Imagine a VP of teamwork." } } + black{ bold{ " - Startup L. Jackson" } }
 puts white{ "Let's base our entire SDLC off of a product meant for tracking bugs." } + black{ bold{ " - David J. Bland" } }
