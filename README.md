@@ -33,3 +33,8 @@ taoup --fortune >taoup-fortunes
 strfile taoup-fortunes taoup-fortunes.dat
 fortune taoup-fortunes
 ```
+
+Praise for taoup
+----------------
+
+* "Taoup is in my zshrc startup, it’s consistently fun/intelligent/thoughtful. Thanks for the continued maintenance 👍, cheers." [@ronjouch](https://github.com/ronjouch)
