@@ -1035,6 +1035,8 @@ puts white{ "Our success in being human has so far derived from our honoring dev
 puts white{ "I've seen Oracle implementations literally cause production employees of 20+ years walk off the job." } + black{ bold{ " - @froindt" } }
 puts white{ bold{ "It's not true that there's nothing new under the sun." } } + white{ " There are some domains where there's almost nothing new. But there's a big difference between nothing and almost nothing, when it's multiplied by the area under the sun." } + black{ bold{ " - Paul Graham (2017)" } }
 puts white{ "Unless " } + white{ bold{ "you are very rich and very eccentric" } } + white{ ", you will not enjoy the luxury of having a computer in your own home." } + black{ bold{ " - Ed Yourdon, 'Techniques of Program Structure and Design', 1975" } }
+puts white{ "You never step in to the same river twice." } + black{ bold{ " - Heraclitus" } }
+puts white{ bold{ "Some may say that seeking a universal learner is the epitome of techno-hubris. But dreaming is not hubris." } } + white{ " Maybe the Master Algorithm will take its place among the great chimeras, alongside the philosopher's stone and the perpetual motion machine. Or perhaps it will be more like finding the longitude at sea, given up as too difficult until a lone genius solved it. More likely, it will be the work of generations, raised stone by stone like a cathedral. The only way to find out is to get up early one day and set out on the journey." } + black{ bold{ " - Pedro Domingos, 'The Master Algorithm' (2015)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
