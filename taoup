@@ -615,7 +615,7 @@ puts white{ 'What idiot called it "deep learning hype" and not "backpropaganda"?
 puts white{ bold{ "You threaten my startup with patents & debt?" } } + white { " I've chosen my models carefully. Perhaps you should have done the same." } + black{ bold{ ' - @ML_Hipster' } }
 puts white{ "Adverserial training = gradient dissent." } + black{ bold{ ' - @ylecun' } }
 puts white{ "A recent meta-analysis of empirical results in scientific papers showed 36% were 'lies', 27% 'damned lies', and 37% 'other'." } + black{ bold{ ' - @ML_Hipster' } }
-puts white{ "A good learner is forever walking the narrow path between blindness and hallucination." } + black{ bold{ ' - @sanderiam' } }
+puts white{ "A good learner is forever walking the narrow path between blindness and hallucination." } + black{ bold{ " - Pedro Domingos, 'The Master Algorithm' (2015)" } }
 puts white{ "He who controls the data controls the learner." } + black{ bold{ ' - @pmddomingos' } }
 puts white{ bold{ "Q" } } + white{ ": Why did the deep net cross the road? " } + white{ bold{ "A" } } + white{ ": We don't know. But look, it did it really well..." } + black{ bold{ ' - @cogconfluence' } }
 puts white{ "The Turing test is like saying planes don't fly unless they can fool birds into thinking they're birds." } + black{ bold{ " - Peter Norvig" } }
