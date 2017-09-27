@@ -629,6 +629,7 @@ puts white{ bold{ "Learning is forgetting the details" } } + white{ " as much as
 puts white{ bold{ "Data Mining" } } + black{ bold{ ": " } } + white{ "Torturing the data until it confesses." }
 puts white{ bold{ "Learning is a race between the amount of data you have and the number of hypotheses you consider." } } + white{ " More data exponentially reduce the number of hypotheses that survive." } + black{ bold{ " - Pedro Domingos, 'The Master Algorithm' (2015)" } }
 puts white{ "Probably approximately correct." } + black{ bold{ " - Leslie Valiant, Turing Award recipient in the field of machine learning" } }
+puts white{ "For machine learning, testing on unseen data is indispensable because it's the only way to tell whether the learner has overfit or not." } + black{ bold{ " - Pedro Domingos, 'The Master Algorithm' (2015)" } }
 
 # 5 ML tribes
 puts white{ bold{ "ML Tribe 1/5 - Symbolists" } } + black{ bold{ ": " } } + white{ "All intelligence can be reduced to manipulating symbols, in the same way that a mathematician solves equations by replacing expressions by other expressions. Incorporate preexisting knowledge into learning, and combine different pieces of knowledge on the fly in order to solve new problems. Master algorithm is inverse deduction, which figures out what knowledge is missing in order to make a deduction go through, and then make it as general as possible." } + black{ bold{ " - Pedro Domingos, 'The Master Algorithm' (2015)" } }
