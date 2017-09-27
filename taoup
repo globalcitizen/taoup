@@ -780,6 +780,9 @@ puts white{ bold{ "Hoare's Law of Large Problems" } } + white{ ": Inside every l
 # howe's law
 puts white{ bold{ "Howe's Law" } } + white{ ": Everyone has a scheme that will not work." }
 
+# hume's problem of induction
+puts white{ bold{ "Hume's Problem of Induction" } } + white{ ": How can we ever be justified in generalizing from what we've seen to what we haven't?" }
+
 # kinkler
 puts white{ bold{ "Kinkler's First Law" } } + white{ ": Responsibility always exceeds authority." }
 puts white{ bold{ "Kinkler's Second Law" } } + white{ ": All the easy problems have been solved." }
