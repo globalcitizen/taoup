@@ -156,6 +156,7 @@ puts white{ "Bring the computation to the data rather than bringing the data to 
 puts white{ "You can't have effective competition without density and an ability to start extremely small." } + black{ bold{ " - @phil21" } }
 puts white{ bold{ "The Internet is not about technology; it's about communication." } } + white{ " The Internet connects people who have shared interests, ideas and needs, regardless of geography." } + black{ bold{ " - Bob Taylor" } } # https://en.wikipedia.org/wiki/Robert_Taylor_(computer_scientist)
 puts white{ "I think that I shall never see; A graph more lovely than a tree. A tree whose crucial property; Is loop-free connectivity." } + black{ bold{ " - Radia Perlman, inventor of spanning tree" } }
+puts white{ bold{ "The 90/10 solution" } } + black{ bold{ ": " } } + white{ "Look for a way in which you can accomplish 90% of what you want with only 10% of the work/effort/time. If you search hard for it, there is almost always a 90/10 solution available." } + black{ bold{ " - Paul Buchheit" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
