@@ -1090,6 +1090,7 @@ puts white{ "It brings everything to a certainty, which before floated in the mi
 puts white{ "Great artists ship." } + black{ bold{ " - Steve Jobs" } }
 puts white{ bold{ "One cannot make an omelette without breaking eggs" } } + white{ ", but it is amazing how many eggs one can break without making a decent omelette." } + black{ bold{ " - Charles P. Issawi" } }
 puts white{ "It is easy to optimize a correct system, but hard to correct an optimized system." }
+puts white{ bold{ "Any sufficiently complex system acts as a black box when it becomes easier to experiment with than to understand." } } + white{ " Hence, black-box optimization has become increasingly important as systems become more complex." } + black{ bold{ " - Google Vizier: a service for black-box optimization Golovin et al., KDD'17" } }
 
 # steven levy
 puts '--- Steven Levy ---'
