@@ -751,6 +751,9 @@ puts white{ bold{ "Ducharm's Axiom" } } + white{ ": If you view your problem clo
 # dykstra's observation
 puts white{ bold{ "Dykstra's Observation" } } + white{ ": If debugging is the process of removing bugs, then programming must be the process of putting them in." }
 
+# entropy's edict - https://news.ycombinator.com/item?id=15576499
+puts white{ bold{ "Entropy's Edict" } } + white{ ": Quality is achieved at global maximum. A lot of engineering methodology is focused finding a local maximum." } + black{ bold{ " - @entropy_ai" } }
+
 # farber
 puts white{ bold{ "Farber's Rule" } } + white{ ": Necessity is the mother of strange bedfellows." }
 
