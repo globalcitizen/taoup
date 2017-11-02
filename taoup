@@ -814,6 +814,9 @@ puts white{ bold{ "Lazlo's Chinese Relativity Axiom" } } + white{ ": No matter h
 # maier's law
 puts white{ bold{ "Maier's Law" } } + white{ ": If the facts do not conform to the theory, they must be disposed of." }
 
+# mann's maxim - http://nautil.us/issue/53/monsters/what-boredom-does-to-you
+puts white{ bold{ "Mann's Maxim" } } + white{ ": People who are bored think more creatively than those who aren't." }
+
 # meskimen's law
 puts white{ bold{ "Meskimen's Law" } } + white{ ": There's never time to do it right, but there's always time to do it over." }
 
