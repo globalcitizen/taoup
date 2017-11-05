@@ -3,5 +3,12 @@
 #       If you don't yet have `cowsay`, stop reading right now and get it installed!
 #       Another interesting output modification tool is https://github.com/busyloop/lolcat
 dir=`dirname "${BASH_SOURCE[0]}"`
-$dir/taoup |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1 | /usr/local/bin/cowsay -f eyes -n |head -n 2 |tail -n 1
-echo '' | cowsay -f eyes |tail -n 10 |sed 's/^/[0;32;40m/'
+# handle all classes of society
+if [ `which cowsay` ]; then
+	# educated user execution path
+	$dir/taoup |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1 | /usr/local/bin/cowsay -f eyes -n |head -n 2 |tail -n 1
+	echo '' | cowsay -f eyes |tail -n 10 |sed 's/^/[0;32;40m/'
+else
+	# impoverished user execution path
+	$dir/taoup |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1
+fi
