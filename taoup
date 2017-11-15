@@ -533,6 +533,7 @@ puts white{ "Pitch books have been banned in the Bay Area since 2005. Founders m
 puts white{ bold{ "Shannon's six secrets" } } + white{ ": Simplification. Analogy. Reframing. Abstraction. Division. Inversion." } + black{ bold{ " - Claude Shannon (1954), a modern summary." } }
 puts white{ "People have become slaves of probability." } + black{ bold{ " - Alphaville (1965)" } }
 puts white{ "Jeff Bezos is the Genghis Khan of the internet." } + black{ bold{ " - Andrew Clay Shafer" } }
+puts white{ "Art without engineering is dreaming; Engineering without art is calculating." } + black{ bold{ " - Steven K. Roberts" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
