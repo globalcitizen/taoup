@@ -1,7 +1,10 @@
 #!/bin/bash
 # Note: The `while read line...done` stuff is an ugly hack for portable random `sort`, mostly for OSX users.
 #       If you don't yet have `cowsay`, stop reading right now and get it installed!
-#       Another interesting output modification tool is https://github.com/busyloop/lolcat
+#       Alternatively, try:
+#        - https://github.com/matheuss/parrotsay
+#        - https://github.com/busyloop/lolcat
+#        - https://github.com/sckott/cowsay (enhanced version)
 dir=`dirname "${BASH_SOURCE[0]}"`
 # handle all classes of society
 if [ `which cowsay` ]; then
