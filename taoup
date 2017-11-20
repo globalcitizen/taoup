@@ -534,6 +534,7 @@ puts white{ bold{ "Shannon's six secrets" } } + white{ ": Simplification. Analog
 puts white{ "People have become slaves of probability." } + black{ bold{ " - Alphaville (1965)" } }
 puts white{ "Jeff Bezos is the Genghis Khan of the internet." } + black{ bold{ " - Andrew Clay Shafer" } }
 puts white{ "Art without engineering is dreaming; Engineering without art is calculating." } + black{ bold{ " - Steven K. Roberts" } }
+puts white{ "The number of UNIX installations is now above 20, and many more are expected." } + black{ bold{ " - Unix Programmer's Manual (1973)" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
