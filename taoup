@@ -1065,6 +1065,7 @@ puts white{ "Unless " } + white{ bold{ "you are very rich and very eccentric" } 
 puts white{ "You never step in to the same river twice." } + black{ bold{ " - Heraclitus" } }
 puts white{ bold{ "Some may say that seeking a universal learner is the epitome of techno-hubris. But dreaming is not hubris." } } + white{ " Maybe the Master Algorithm will take its place among the great chimeras, alongside the philosopher's stone and the perpetual motion machine. Or perhaps it will be more like finding the longitude at sea, given up as too difficult until a lone genius solved it. More likely, it will be the work of generations, raised stone by stone like a cathedral. The only way to find out is to get up early one day and set out on the journey." } + black{ bold{ " - Pedro Domingos, 'The Master Algorithm' (2015)" } }
 puts white{ bold{ "Computers will die." } } + white{ " They're dying in their present form. They're just about dead as distinct units: a box, screen, keyboard. They're melting in to the texture of everyday life." } + black{ bold{ " - 'Cosmopolis: A Novel', Don DeLillo (2004)" } }
+puts white{ "Even the word computer sounds backward and dumb." } + black{ bold{ " - 'Cosmopolis: A Novel', Don DeLillo (2004)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
