@@ -538,6 +538,7 @@ puts white{ "Art without engineering is dreaming; Engineering without art is cal
 puts white{ "The number of UNIX installations is now above 20, and many more are expected." } + black{ bold{ " - Unix Programmer's Manual (1973)" } }
 puts white{ "Genius alters the terms of its habitat." } + black{ bold{ " - 'Cosmopolis: A Novel', Don DeLillo (2004)" } }
 puts white{ bold{ "Startups are (by necessity) filled with generalists; big companies are filled with specialists." } } + white{ " People underestimate how effective a generalist can be at things which are done by specialists. People underestimate how deep specialties can run. These are simultaneously true." } + black{ bold{ " - Patrick McKenzie" } }
+puts white{ bold{ "In Estonia, we don't have Big Brother; we have Little Brother." } } + white{ " You can tell him what to do and maybe also beat him up." } + black{ bold{ " - Anonymous local" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
