@@ -158,6 +158,7 @@ puts white{ bold{ "The Internet is not about technology; it's about communicatio
 puts white{ "I think that I shall never see; A graph more lovely than a tree. A tree whose crucial property; Is loop-free connectivity." } + black{ bold{ " - Radia Perlman, inventor of spanning tree" } }
 puts white{ bold{ "The 90/10 solution" } } + black{ bold{ ": " } } + white{ "Look for a way in which you can accomplish 90% of what you want with only 10% of the work/effort/time. If you search hard for it, there is almost always a 90/10 solution available." } + black{ bold{ " - Paul Buchheit" } }
 puts white{ bold{ "Fundamentally engineering is all about smart tradeoffs" } } + white{ ", including those involving working with limited data about the problem vs. gathering more data." } + black{ bold{ " - @mattnewport" } }
+puts white{ "Human problems remain human problems, and the higher work of computers doesn't erase that." } + black{ bold{ " - Andrew O'Hagan" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
@@ -543,6 +544,7 @@ puts white{ bold{ "Some decisions are consquential and irreversible or nearly ir
 puts white{ "If we knew what it was we were doing, it would not be called research." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "The principals of a technical consultancy do very well for themselves. I don't know if that is a secret but it certainly isn't well appreciated: " } + white{ bold{ "nobody says Occupy Boutique Rails Consultancies" } } + white{ ", but the principals of them do end up in the 1%." } + black{ bold{ " - @patio11" } }
 puts white{ "Discover these cave-dwelling secrets that your real estate developer doesn't want you to know!" } + black{ bold{ " - @yipopov" } }
+puts white{ "A man might see no correspondence between his social or economic position and his private mental life." } + black{ bold{ " - Andrew O'Hagan" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -1205,6 +1207,8 @@ puts white{ "Programmers and translators are doing similar things; they are both
 puts white{ "I am all for other authors being cads, but not me." } + black{ bold{ " - William Empson" } }
 puts white{ bold{ "The truth is like poetry" } } + white{ ", and most people fucking hate poetry." } + black{ bold{ " - Overheard in a bar in Washington DC" } }
 puts white{ "The writer is that person who, embarking upon her task, does not know what to do." } + black{ bold{ " - Donald Barthelme" } }
+puts white{ "Asked which of the arts was closest to writing, Norman Mailer once told me the answer was 'acting'." } + black{ bold{ " - Andrew O'Hagan" } }
+puts white{ "There can be no reliable biography of a writer, 'because a writer is too many people if he is any good'." } + black{ bold{ " - Andrew O'Hagan" } }
 
 # randoms - visual art and programming
 puts '--- randoms - visual art and programming ---'
