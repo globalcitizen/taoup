@@ -159,6 +159,9 @@ puts white{ "I think that I shall never see; A graph more lovely than a tree. A 
 puts white{ bold{ "The 90/10 solution" } } + black{ bold{ ": " } } + white{ "Look for a way in which you can accomplish 90% of what you want with only 10% of the work/effort/time. If you search hard for it, there is almost always a 90/10 solution available." } + black{ bold{ " - Paul Buchheit" } }
 puts white{ bold{ "Fundamentally engineering is all about smart tradeoffs" } } + white{ ", including those involving working with limited data about the problem vs. gathering more data." } + black{ bold{ " - @mattnewport" } }
 puts white{ "Human problems remain human problems, and the higher work of computers doesn't erase that." } + black{ bold{ " - Andrew O'Hagan" } }
+puts white{ "Isolation is the single most important property that a system must have." } + black{ bold{ " - Joe Armstrong" } }
+puts white{ "I don't trust security people to do sane things." } + black{ bold{ " - Linus Torvalds (2017)" } }
+
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
@@ -545,6 +548,7 @@ puts white{ "If we knew what it was we were doing, it would not be called resear
 puts white{ "The principals of a technical consultancy do very well for themselves. I don't know if that is a secret but it certainly isn't well appreciated: " } + white{ bold{ "nobody says Occupy Boutique Rails Consultancies" } } + white{ ", but the principals of them do end up in the 1%." } + black{ bold{ " - @patio11" } }
 puts white{ "Discover these cave-dwelling secrets that your real estate developer doesn't want you to know!" } + black{ bold{ " - @yipopov" } }
 puts white{ "A man might see no correspondence between his social or economic position and his private mental life." } + black{ bold{ " - Andrew O'Hagan" } }
+puts white{ bold{ "Anyone who is both clever and lazy is qualified for the highest leadership duties" } } + white{ ", because he possesses the intellectual clarity and the composure necessary for difficult decisions." } + black{ bold{ " - Kurt Freiherr von Hammersein-Equord" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
