@@ -119,7 +119,7 @@ puts white{ bold{ "Shannon's maxim" } } + black{ bold{ ": One ought to design sy
 puts white{ "If you want creativity, take a zero off your budget. If you want sustainability, take off two zeros." } + black{ bold { " - Jaime Lerner" } }
 puts white{ bold{ "Keep your code absolutely simple." } } + white{ " Keep looking at your functions and figure out how you simplify further." } + black{ bold{ " - John Romero, id Software" } }
 puts white{ bold{ "We are our own best testing team" } } + white{ " and should never allow anyone else to experience bugs [...] Don't waste others' time. Test thoroughly before checking in your code." } + black{ bold{ " - John Romero, id Software" } }
-puts white{ bold{ "As soon as you see a bug, you fix it." } } + white{ " Do not continue on. If you don’t fix your bugs your new code will be built on a buggy codebase and ensure an unstable foundation." } + black{ bold{ " - John Romero, id Software" } }
+puts white{ bold{ "As soon as you see a bug, you fix it." } } + white{ " Do not continue on. If you don't fix your bugs your new code will be built on a buggy codebase and ensure an unstable foundation." } + black{ bold{ " - John Romero, id Software" } }
 puts white{ bold{ "Encapsulate functionality to ensure design consistency." } } + white{ " This minimizes mistakes and saves design time." } + black{ bold{ " - John Romero, id Software" } }
 puts white{ "No worthy problem is ever solved in the plane of its original conception." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "New levels, new devils." }
