@@ -549,6 +549,7 @@ puts white{ "The principals of a technical consultancy do very well for themselv
 puts white{ "Discover these cave-dwelling secrets that your real estate developer doesn't want you to know!" } + black{ bold{ " - @yipopov" } }
 puts white{ "A man might see no correspondence between his social or economic position and his private mental life." } + black{ bold{ " - Andrew O'Hagan" } }
 puts white{ bold{ "Anyone who is both clever and lazy is qualified for the highest leadership duties" } } + white{ ", because he possesses the intellectual clarity and the composure necessary for difficult decisions." } + black{ bold{ " - Kurt Freiherr von Hammersein-Equord" } }
+puts white{ bold{ "The real task of debugging is not to make the program stop doing the wrong thing. It is to create in your mind an understanding of why the program as written necessarily behaves in the way it does." } } + white{ " Once you have that understanding, actually fixing the problem is straightforward." } + black{ bold{ " - @zaak" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
