@@ -1011,7 +1011,7 @@ puts white{ bold{ "Law of Probability Dispersal" } } + white{ ": Whatever it is 
 # bystander effect
 puts white{ bold{ "Bystander Effect" } } + white{ ": a social psychological phenomenon in which individuals do not offer any means of help to a victim when other people are present, and the probability of help is inversely related to the number of bystanders. In other words, the greater the number of bystanders, the less likely it is that any one of them will help." } + black{ bold{ " - Wikipedia" } }
 
-puts white{ "Less than 10 percent of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other hosuekeeping." } + black{ bold{ " - Mary Shaw, Carnegie-Mellon University" } }
+puts white{ bold{ "Less than 10 percent of the code has to do with the ostensible purpose of the system" } } + white{ "; the rest deals with input-output, data validation, data structure maintenance, and other hosuekeeping." } + black{ bold{ " - Mary Shaw, Carnegie-Mellon University" } }
 
 # randoms - change
 puts "------ randoms on change ------"
