@@ -1010,7 +1010,6 @@ puts white{ bold{ "Law of Probability Dispersal" } } + white{ ": Whatever it is 
 
 # bystander effect
 puts white{ bold{ "Bystander Effect" } } + white{ ": a social psychological phenomenon in which individuals do not offer any means of help to a victim when other people are present, and the probability of help is inversely related to the number of bystanders. In other words, the greater the number of bystanders, the less likely it is that any one of them will help." } + black{ bold{ " - Wikipedia" } }
-
 puts white{ bold{ "Less than 10 percent of the code has to do with the ostensible purpose of the system" } } + white{ "; the rest deals with input-output, data validation, data structure maintenance, and other hosuekeeping." } + black{ bold{ " - Mary Shaw, Carnegie-Mellon University" } }
 
 # randoms - change
@@ -1079,6 +1078,8 @@ puts white{ "You never step in to the same river twice." } + black{ bold{ " - He
 puts white{ bold{ "Some may say that seeking a universal learner is the epitome of techno-hubris. But dreaming is not hubris." } } + white{ " Maybe the Master Algorithm will take its place among the great chimeras, alongside the philosopher's stone and the perpetual motion machine. Or perhaps it will be more like finding the longitude at sea, given up as too difficult until a lone genius solved it. More likely, it will be the work of generations, raised stone by stone like a cathedral. The only way to find out is to get up early one day and set out on the journey." } + black{ bold{ " - Pedro Domingos, 'The Master Algorithm' (2015)" } }
 puts white{ bold{ "Computers will die." } } + white{ " They're dying in their present form. They're just about dead as distinct units: a box, screen, keyboard. They're melting in to the texture of everyday life." } + black{ bold{ " - 'Cosmopolis: A Novel', Don DeLillo (2004)" } }
 puts white{ "Even the word computer sounds backward and dumb." } + black{ bold{ " - 'Cosmopolis: A Novel', Don DeLillo (2004)" } }
+puts white{ bold{ "We thought computing would be artisanal." } } + white{ " We did not imagine great monopolies." } + black{ bold{ " - Ted Nelson, inventor of hypertext" } }
+puts white{ bold{ "The first time you build anything it's artisanal." } } + white{ " Look at the process of building the first doll, or the first car etc... of a multi million run of the same object." } + white{ bold{ " The difference in software is once you're done with the first one, there's nothing else to do." } } + black{ bold{ " - @luckydata" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
