@@ -1084,6 +1084,7 @@ puts white{ bold{ "We thought computing would be artisanal." } } + white{ " We d
 puts white{ "Like all the old timers, I haven't changed my vision at all." } + black{ bold{ " - Ted Nelson, inventor of hypertext" } }
 puts white{ "Early adopters never switch." } + black{ bold{ " - Ted Nelson, inventor of hypertext" } }
 puts white{ bold{ "The first time you build anything it's artisanal." } } + white{ " Look at the process of building the first doll, or the first car etc... of a multi million run of the same object." } + white{ bold{ " The difference in software is once you're done with the first one, there's nothing else to do." } } + black{ bold{ " - @luckydata" } }
+puts white{ "If you want to learn something new, read an old book." }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
