@@ -555,6 +555,7 @@ puts white{ "Efficiency is doing things right; effectiveness is doing the right 
 puts white{ "As soon as you saw people as things to be measured, they didn't measure up." } + black{ bold{ " - Vimes, Terry Pratchet's 'Discworld'" } }
 puts white{ "Two young fish are swimming along and happen to meet an older fish swimming the other way. He nods at them and says, " } + white{ bold{ "\"Morning, boys. How's the water?\"" } } + black{ bold{ " - David Foster Wallace" } }
 puts white{ bold{ "Here's to the crazy ones." } } + white{ " The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do." } + black{ bold{ " - Rob Siltanen" } }
+puts white{ "Doubt kill more dreams than failure." } + black{ bold{ " - Suzy Kassem" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
