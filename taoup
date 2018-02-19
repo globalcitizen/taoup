@@ -553,6 +553,7 @@ puts white{ bold{ "The real task of debugging is not to make the program stop do
 puts white{ "It has been recognized from the dawn of computer display that " } + white{ bold{ "the grandest and most important use of the computer display should be to aid decisions of creative thought." } } + black{ bold{ " - Theodor H. Nelson (1970)" } }
 puts white{ "Efficiency is doing things right; effectiveness is doing the right things." } + black{ bold{ " - Peter F. Drucker" } }
 puts white{ "As soon as you saw people as things to be measured, they didn't measure up." } + black{ bold{ " - Vimes, Terry Pratchet's 'Discworld'" } }
+puts white{ "Two young fish are swimming along and happen to meet an older fish swimming the other way. He nods at them and says, " } + white{ bold{ "\"Morning, boys. How's the water?\"" } } + black{ bold{ " - David Foster Wallace" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
