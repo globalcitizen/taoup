@@ -1096,6 +1096,7 @@ puts white{ bold{ "Only a fool learns from his own mistakes." } } + white{ " The
 puts white{ "Just as there is a best size for every animal, so the same is true for every human institution." } + black{ bold{ " - J. B. S. Haldane (1928)" } }
 puts white{ bold{ "We're talking about the future." } } + white{ " We're working in a market that doesn't even exist yet." } + black{ bold{ " - Steve Jobs' character, 'Jobs' (2013)" } }
 puts white{ "Philosophy is dead." } + black{ bold{ " - Stephen Hawking" } }
+puts white{ "When you change the way you look at things, the things you look at change." } + black{ bold{ " - Max Planck" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
