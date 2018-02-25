@@ -161,7 +161,7 @@ puts white{ bold{ "Fundamentally engineering is all about smart tradeoffs" } } +
 puts white{ "Human problems remain human problems, and the higher work of computers doesn't erase that." } + black{ bold{ " - Andrew O'Hagan" } }
 puts white{ "Isolation is the single most important property that a system must have." } + black{ bold{ " - Joe Armstrong" } }
 puts white{ "I don't trust security people to do sane things." } + black{ bold{ " - Linus Torvalds (2017)" } }
-
+puts white{ "If it is to be, it is up to me." } + black{ bold{ " - William H. Johnsen" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
