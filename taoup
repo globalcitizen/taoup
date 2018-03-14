@@ -165,6 +165,7 @@ puts white{ "If it is to be, it is up to me." } + black{ bold{ " - William H. Jo
 puts white{ "Delegate everything but genius." } + black{ bold{ " - Dan Sullivan" } }
 puts white{ "Stalin had bad taste in architecture." } + black{ bold{ " - History and Russian Studies" } }
 puts white{ "Sailboats go faster when there's more wind." } + black{ bold{ " - Naval Architecture and Marine Engineering, Webb Institute" } } # http://lolmythesis.com/post/88613861849/sailboats-go-faster-when-theres-more-wind
+puts white{ bold{ "Successful programming is all about managing complexity." } } + white{ " Managing complexity has many aspects. You can eliminate, avoid, simplify, hide or automate complexity, and so on." } + black{ bold{ " - Keith Bentley" } } # https://www.quora.com/Programming-is-all-about-managing-complexity-Do-you-agree-with-that-statement/answer/Keith-Bentley
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
