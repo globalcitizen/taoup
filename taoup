@@ -568,6 +568,7 @@ puts white{ "It's important to be able to talk to each other if you want to star
 puts white{ bold{ "You actually do learn something from school" } } + white{ "... but it doesn’t matter in the long run." } + black{ bold{ " - Anthropology, Carnegie Mellon University" } } # http://lolmythesis.com/post/92475268088/you-actually-do-learn-something-from-school-but
 puts white{ "Big fish swim faster than small fish." } + black{ bold{ " - School of Botany and Zoology, Australian National University" } } # http://lolmythesis.com/post/91305620105/big-fish-swim-faster-than-small-fish
 puts white{ bold{ "All men dream: but not equally." } } + white{ " Those who dream by night in the dusty recesses of their minds wake in the day to find that it was vanity: but the dreamers of the day are dangerous men, for they may act their dreams with open eyes, to make it possible." } + black{ bold{ " - T. E. Lawrence (1922)" } }
+puts white{ "Designer jeans guitar hero syndrome." } + black{ bold{ " - Alan Kay" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
