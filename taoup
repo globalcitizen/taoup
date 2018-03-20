@@ -1109,6 +1109,7 @@ puts white{ bold{ "We're talking about the future." } } + white{ " We're working
 puts white{ "Philosophy is dead." } + black{ bold{ " - Stephen Hawking" } }
 puts white{ "When you change the way you look at things, the things you look at change." } + black{ bold{ " - Max Planck" } }
 puts white{ "They always say time changes things, but you actually have to change them yourself." } + black{ bold{ " - Andy Warhol" } }
+puts white{ "You miss 100% of the shots you don't take." } + black{ bold{ " - Wayne Gretzsky" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
