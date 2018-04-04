@@ -22,13 +22,11 @@ To display `taoup` output at login, use the `taoup-fortune` example script or tr
 Special modes
 -------------
 
-There are two modes other than standard invocation, `--machine` which drops any
-ANSI colors from the output, and `--fortune` which converts the wisdom to an
-assumed imitation of the fortune format. To make the resulting fortune format
-file available to the classic `fortune` program (loses ANSI colors in output)
-you can run `strfile` as follows:
-
-```
+There are four modes other than standard invocation:
+ * `--help` or `--h` shows brief command line help on invocation syntax
+ * `--whitetrash` converts the otherwise attractive color scheme to be legible on light or white terminals
+ * `--machine` drops any ANSI colors from the output
+ * `--fortune` converts the wisdom to an assumed imitation of the fortune format. To make the resulting fortune format file available to the classic `fortune` program (loses ANSI colors in output) you can run `strfile` as follows: ```
 taoup --fortune >taoup-fortunes
 strfile taoup-fortunes taoup-fortunes.dat
 fortune taoup-fortunes
