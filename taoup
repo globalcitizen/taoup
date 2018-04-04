@@ -5,7 +5,18 @@ require 'ansi/code'
 
 include ANSI::Code
 
+# show help if requested
+if ARGV[0] == '--help' or ARGV[0] == '-h' then
+ puts "usage: " + $0 + " [arguments]"
+ puts "       " + $0 + "                    Display all fortunes and sections."
+ puts "       " + $0 + " < --help | -h >    This help."
+ puts "       " + $0 + " --whitetrash       Convert ANSI colors for light/white terminals."
+ puts "       " + $0 + " --machine          Remove ANSI colors."
+ puts "       " + $0 + " --fortune          Convert output to fortune format (and lose colors)."
+ exit(0)
+end
 # ... but optionally make sure ANSI escape sequences are filtered out
+whitetrash=false
 zero_colors=false
 fortunify=false
 if ARGV[0] == '--machine' then
@@ -21,6 +32,9 @@ else
    zero_colors = true
   end
  end
+end
+if ARGV[0] == '--whitetrash' then
+ whitetrash = true
 end
 if zero_colors then
  alias :puts_old :puts
@@ -52,6 +66,25 @@ if zero_colors then
    print_old(args)
   end
  end
+elsif whitetrash then
+ alias :puts_old :puts
+ alias :print_old :print
+ # implement color swaps for:
+ #  - white:		"grey"      => "\e[0;37m", "white"      => "\e[1;37m",
+ #  - black:		"black"     => "\e[0;30m"
+ #  - black+bold:	"darkgrey"   => "\e[1;30m",
+  def puts(*args)
+   args = args.join('')
+   args.gsub!(/(\x1b\[)1;37m/,'\1' + '0;30m') # ie. replace bold white with black
+   args.gsub!(/(\x1b\[)37m/,'\1' + '30m') # ie. replace non-bold grey with black
+   puts_old(args)
+  end
+  def print(*args)
+   args = args.join('')
+   args.gsub!(/(\x1b\[)1;37m/,'\1' + '0;30m') # ie. replace white with black
+   args.gsub!(/(\x1b\[)37m/,'\1' + '30m') # ie. replace non-bold grey with black
+   print_old(args)
+  end
 end
 
 # spatial / architectural
