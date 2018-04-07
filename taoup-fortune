@@ -9,9 +9,9 @@ dir=`dirname "${BASH_SOURCE[0]}"`
 # handle all classes of society
 if [ `which cowsay 2>/dev/null` ]; then
 	# educated user execution path
-	$dir/taoup |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1 | /usr/local/bin/cowsay -f eyes -n |head -n 2 |tail -n 1
+	$dir/taoup "$@" |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1 | /usr/local/bin/cowsay -f eyes -n |head -n 2 |tail -n 1
 	echo '' | cowsay -f eyes |tail -n 10 |sed 's/^/[0;32;40m/'
 else
 	# impoverished user execution path
-	$dir/taoup |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1
+	$dir/taoup "$@" |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1
 fi
