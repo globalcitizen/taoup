@@ -752,6 +752,7 @@ puts white{ "Upon arriving in the capital-F Future, we discover it, invariably, 
 puts white{ "Lean back under a tree, put your arms behind your head, wonder at the pass we've come to, smile and remember that " } + white{ bold{ "the beginnings and ends of man's every great enterprise are untidy" } } + white{ "." } + black{ bold{ " - Sebastian de Grazia, 'Of Time, Work and Leisure' (1962)" } }
 puts white{ "Even a broken clock is right twice a day." }
 puts white{ "Archiving is the new folk art." } + black{ bold{ " - Rick Prelinger" } }
+puts white{ "People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy." } + black{ bold{ " - Seneca" } }
 
 # re-sectionize
 puts "----- eponymous randoms -----"
