@@ -603,6 +603,7 @@ puts white{ "Big fish swim faster than small fish." } + black{ bold{ " - School 
 puts white{ bold{ "All men dream: but not equally." } } + white{ " Those who dream by night in the dusty recesses of their minds wake in the day to find that it was vanity: but the dreamers of the day are dangerous men, for they may act their dreams with open eyes, to make it possible." } + black{ bold{ " - T. E. Lawrence (1922)" } }
 puts white{ "Designer jeans guitar hero syndrome." } + black{ bold{ " - Alan Kay" } }
 puts white{ "Humanity knows nothing." } + black{ bold{ " - Masanobu Fukuoka" } }
+puts white{ bold{ "Everybody is a genius." } } + white{ " But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." } + black{ bold{ " - Albert Einstein" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
