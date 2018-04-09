@@ -606,6 +606,8 @@ puts white{ "Humanity knows nothing." } + black{ bold{ " - Masanobu Fukuoka" } }
 puts white{ bold{ "Everybody is a genius." } } + white{ " But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "They trust me - dumb fucks." } + black{ bold{ " - Mark Zuckerberg (2010)" } }
 puts white{ "It's kind of fun to do the impossible." } + black{ bold{ " - Walt Disney" } }
+puts white{ "We use administrative data at the U.S. Census Bureau to study the ages of founders of growth-oriented start-ups in the past decade. Our primary finding is that " } + white{ bold{ "successful entrepreneurs are middle-aged, not young" } } + white{ ". " } + white{ bold{ "The mean founder age for the 1 in 1,000 fastest growing new ventures is 45.0." } } + white{ " The findings are broadly similar when considering high-technology sectors, entrepreneurial hubs, and successful firm exits. Prior experience in the specific industry predicts much greater rates of entrepreneurial success. These findings strongly reject common hypotheses that emphasize youth as a key trait of successful entrepreneurs." } + black{ bold{ " - Azoulay et al., 'Age and High-Growth Entrepreneurship' (2018)" } }
+puts white{ "Past studies indicate a complex relationship between optimism and performance." } + black{ bold{ " - Azoulay et al., 'Age and High-Growth Entrepreneurship' (2018)" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
