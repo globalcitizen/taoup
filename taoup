@@ -605,6 +605,7 @@ puts white{ "Designer jeans guitar hero syndrome." } + black{ bold{ " - Alan Kay
 puts white{ "Humanity knows nothing." } + black{ bold{ " - Masanobu Fukuoka" } }
 puts white{ bold{ "Everybody is a genius." } } + white{ " But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "They trust me - dumb fucks." } + black{ bold{ " - Mark Zuckerberg (2010)" } }
+puts white{ "It's kind of fun to do the impossible." } + black{ bold{ " - Walt Disney" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
