@@ -1152,6 +1152,7 @@ puts white{ "When you change the way you look at things, the things you look at 
 puts white{ "They always say time changes things, but you actually have to change them yourself." } + black{ bold{ " - Andy Warhol" } }
 puts white{ "You miss 100% of the shots you don't take." } + black{ bold{ " - Wayne Gretzky" } }
 puts white{ "The truism these days is that " } + white{ bold{ "you are either taking care of people, making software, or being replaced by software" } } + white{ "." } + black{ bold{ " - 	jaggederest" } }
+puts white{ "It went as an unspoken, unquestionable assumption that telephony was the right model for data networking." } + black{ bold{ " - Van Jacobson" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
