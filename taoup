@@ -611,6 +611,7 @@ puts white{ "We use administrative data at the U.S. Census Bureau to study the a
 puts white{ "Past studies indicate a complex relationship between optimism and performance." } + black{ bold{ " - Azoulay et al., 'Age and High-Growth Entrepreneurship' (2018)" } }
 puts white{ "What civilization is is 6 billion people trying to make themselves happy by standing on each other's shoulders and kicking each other's teeth in. It's not a pleasant situation. And yet you can stand back and look at this planet and see that " } + white{ bold{ "we have the money, the power, the medical understanding, the scientific know-how, the love, and the community to produce a kind of human paradise" } } + white{ "." } + black{ bold{ " - Terence McKenna" } }
 puts white{ bold{ "AI lowers the cost of knowledge by orders of magnitude." } } + white{ " One good, effective machine learning system can do the work of a million people, whether it's for commercial purposes or for cyberespionage. Imagine a country that produces a thousand times more knowledge than another. This is the challenge we are facing." } + black{ bold{ " - Pedro Domingos" } }
+puts white{ "Just like Americans believe in lawyers, the Chinese believe in engineers." } + black{ bold{ " - Pedro Domingos" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
