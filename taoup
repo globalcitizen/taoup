@@ -1312,6 +1312,7 @@ puts white{ "The trouble with the world is that the stupid are cocksure and the 
 puts white{ "Ignorance more frequently begets confidence than does knowledge." } + black{ bold{ " - Charles Darwin" } }
 puts white{ "The fool doth think he is wise, but the wise man knows himself to be a fool." } + black{ bold{ " - William Shakespeare, 'As You Like It' (1559)" } }
 puts white{ bold{ "A good educational system should have three purposes" } } + white{ ": it should provide all who want to learn with access to available resources at any time in their lives; empower all who want to share what they know to find those who want to learn it from them; and, finally, furnish all who want to present an issue to the public with the opportunity to make their challenge known." } + black{ bold{ " - Ivan Illich, 'Deschooling Society' (1971)" } }
+puts white{ "The only true wisdom is in knowing you know nothing." } + black{ bold{ " - Socrates" } }
 
 # seven deadly sins of cloud computing research
 puts '--- 7 deadly sins of cloud computing research ---'
