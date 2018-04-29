@@ -764,6 +764,7 @@ puts white{ "Even a broken clock is right twice a day." }
 puts white{ "Archiving is the new folk art." } + black{ bold{ " - Rick Prelinger" } }
 puts white{ "People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy." } + black{ bold{ " - Seneca" } }
 puts white{ "The get rich slowly schemes are not big sellers on infommercials." } + black{ bold{ " - Jeff Bezos" } }
+puts white{ "I've noticed all overnight successes take about 10 years." } + black{ bold{ " - Jeff Bezos" } }
 
 # re-sectionize
 puts "----- eponymous randoms -----"
