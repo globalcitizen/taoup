@@ -616,6 +616,7 @@ puts white{ "Just like Americans believe in lawyers, the Chinese believe in engi
 puts white{ bold{ "The main job of a senior leader is to identify two or three important ideas and then to enforce great execution against those big ideas." } } + white{ " The good news is that the big ideas are usually incredibly easy to identify. You shouldn't need to think about them very much you already know what they are. For Amazon the big ideas are low prices, fast delivery and vast selection." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ bold{ "Many late-stage investments aren't really investments" } } + white{ ": they're just disguised forms of debt." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 puts white{ "Starting a business, founding a company is the hardest act in business." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
+puts white{ "There have been a few other people that have been extremely fortunate and lucky like I have. " } + white{ bold{ "You could have put a chimpanzee in the valley in 1986 and they would have been successful in the venture business." } } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
