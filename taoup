@@ -201,6 +201,7 @@ puts white{ "Sailboats go faster when there's more wind." } + black{ bold{ " - N
 puts white{ bold{ "Successful programming is all about managing complexity." } } + white{ " Managing complexity has many aspects. You can eliminate, avoid, simplify, hide or automate complexity, and so on." } + black{ bold{ " - Keith Bentley" } } # https://www.quora.com/Programming-is-all-about-managing-complexity-Do-you-agree-with-that-statement/answer/Keith-Bentley
 puts white{ "The only people who see the whole picture, are the ones who step out of the frame." } + black{ bold{ " - Salman Rushdie" } }
 puts white{ "We deliver things in little brown boxes." } + black{ bold{ " - Jeff Bezos" } }
+puts white{ "The idea that data is a corporate asset needs to die. Data is a corporate liability." } + black{ bold{ " - @jacquesm" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
