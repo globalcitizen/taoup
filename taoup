@@ -617,6 +617,7 @@ puts white{ bold{ "The main job of a senior leader is to identify two or three i
 puts white{ bold{ "Many late-stage investments aren't really investments" } } + white{ ": they're just disguised forms of debt." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 puts white{ "Starting a business, founding a company is the hardest act in business." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 puts white{ "There have been a few other people that have been extremely fortunate and lucky like I have. " } + white{ bold{ "You could have put a chimpanzee in the valley in 1986 and they would have been successful in the venture business." } } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
+puts white{ "What you cannot hire people to do is to have the wonderful spark and founding instinct and deep fascination and abiding passion for a particular topic." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
