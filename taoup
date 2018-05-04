@@ -772,6 +772,7 @@ puts white{ "People are frugal in guarding their personal property; but as soon 
 puts white{ "The get rich slowly schemes are not big sellers on infommercials." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ "I've noticed all overnight successes take about 10 years." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ "Forewarned, forearmed: " } + white{ bold{ "to be prepared is half the victory." } } + black{ bold{ " - Miguel de Cervantes" } }
+puts white{ bold{ "不怕慢就怕站" } } + white{ ": It doesn't matter how slowly you go, as long as you don't stop." } + black{ bold{ " - Confucius" } }
 
 # re-sectionize
 puts "----- eponymous randoms -----"
