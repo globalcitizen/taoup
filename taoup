@@ -204,12 +204,16 @@ puts white{ "We deliver things in little brown boxes." } + black{ bold{ " - Jeff
 puts white{ "The idea that data is a corporate asset needs to die. Data is a corporate liability." } + black{ bold{ " - @jacquesm" } }
 puts white{ bold{ "不可得兼" } } + black{ bold{ " (bù kě dé jiān)" } } + white{ ": You can't have both at the same time." } + black{ bold{ " - Chinese proverb" } }
 puts white{ bold{ "力不从心" } } + black{ bold{ " (lì bù cóng xīn)" } } + white{ ": Frustrated aspirations." } + black{ bold{ " - Chinese idiom" } }
-puts white{ bold{ "亦步亦趋" } } + black{ bold{ " (yì bù yì qū)" } } + white{ ": To blindly imitate someone." } + black{ bold{ " - Chinese idiom" } }
+puts white{ bold{ "亦步亦趋" } } + black{ bold{ " (yì bù yì qū)" } } + white{ ": To blindly imitate." } + black{ bold{ " - Chinese idiom" } }
 puts white{ bold{ "滔滔不绝" } } + black{ bold{ " (tāo tāo bù jué)" } } + white{ ": Without interruption." } + black{ bold{ " - Chinese idiom" } }
 puts white{ bold{ "婀娜多姿" } } + black{ bold{ " (ē nuó duō zī)" } } + white{ ": To be graceful." } + black{ bold{ " - Chinese idiom" } }
-puts white{ bold{ "海市蜃楼" } } + black{ bold{ " (hǎi shì shèn lóu)" } } + white{ ": Buildings upon the ocean (a mirage)." } + black{ bold{ " - Chinese idiom" } }
+puts white{ bold{ "海市蜃楼" } } + black{ bold{ " (hǎi shì shèn lóu)" } } + white{ ": 'Buildings upon the ocean' (a mirage)." } + black{ bold{ " - Chinese idiom" } }
 puts white{ bold{ "伶牙俐齿" } } + black{ bold{ " (líng yá lì chǐ)" } } + white{ ": To be clear and eloquent." } + black{ bold{ " - Chinese idiom" } }
 puts white{ bold{ "伶似懂非懂" } } + black{ bold{ " (sì dǒng fēi dǒng)" } } + white{ ": To not fully understand." } + black{ bold{ " - Chinese idiom" } }
+puts white{ bold{ "半途而废" } } + black{ bold{ " (bàn tú ér fèi)" } } + white{ ": To give up halfway." } + black{ bold{ " - Chinese idiom" } }
+puts white{ bold{ "抛砖引玉" } } + black{ bold{ " (pāo zhuān yǐn yù)" } } + white{ ": Just tossing an idea out there." } + black{ bold{ " - Chinese idiom" } }
+puts white{ bold{ "豁然开朗" } } + black{ bold{ " (huò rán kāi lǎng)" } } + white{ ": Eureka!" } + black{ bold{ " - Chinese idiom" } }
+puts white{ bold{ "乱七八糟" } } + black{ bold{ " (luàn qī bā zāo)" } } + white{ ": A total mess." } + black{ bold{ " - Chinese idiom" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
