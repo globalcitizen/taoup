@@ -447,7 +447,7 @@ puts white{ bold{ "Share early, share often" } }
 puts white{ bold{ "Avoid spherical cows" } } + white{ ": Understand the requirements, and anticipate change." }
 puts white{ bold{ "Reality is that which, when you stop believing in it, doesn't go away." } } + black{ bold{ " - Philip K. Dick" } }
 # opposite of moore's law, for pharma
-puts white{ bold{ "Eroom’s law" } } + white{ " the number of new drugs approved per billion US dollars spent on R&D has halved roughly every nine years since 1950." }
+puts white{ bold{ "Eroom's law" } } + white{ ": The number of new drugs approved per billion US dollars spent on R&D has halved roughly every nine years since 1950." }
 puts white{ bold{ "Get your data structures correct first" } } + white{ ", and the rest of the program will write itself." } + black{ bold{ " - David Jones" } }
 puts white{ "For 80 percent of all data sets, 95 percent of the information can be seen in a good graph." } + black{ bold{ " - William S. Cleveland, Bell Labs" } }
 puts white{ "The first step in fixing a broken program is getting it to fail repeatably." } + black{ bold{ " - Tom Duff, Bell Labs" } }
