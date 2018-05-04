@@ -219,6 +219,10 @@ puts white{ bold{ "七上八下" } } + black{ bold{ " (qī shàng bā xià)" } }
 puts white{ bold{ "九牛一毛" } } + black{ bold{ " (jiǔ niú yī máo)" } } + white{ ": A hair amongst nine oxen (insignificant)." } + black{ bold{ " - Chinese idiom" } }
 puts white{ bold{ "顺其自然" } } + black{ bold{ " (shùn qí zì rán)" } } + white{ ": Let nature take it's course." } + black{ bold{ " - Chinese idiom" } }
 puts white{ bold{ "亡羊补牢" } } + black{ bold{ " (wáng yáng bǔ láo)" } } + white{ ": Better late than never." } + black{ bold{ " - Chinese idiom" } }
+puts white{ bold{ "脚踏实地" } } + black{ bold{ " (jiǎo tà shí dì)" } } + white{ ": 'Tread on solid ground' (to build upon a solid foundation)" } + black{ bold{ " - Chinese idiom" } }
+puts white{ bold{ "莫名其妙" } } + black{ bold{ " (mò míng qí miào)" } } + white{ ": Baffling." } + black{ bold{ " - Chinese idiom" } }
+puts white{ bold{ "一窍不通" } } + black{ bold{ " (yī qiào bù tōng)" } } + white{ ": Total ignorance." } + black{ bold{ " - Chinese idiom" } }
+puts white{ bold{ "画蛇添足" } } + black{ bold{ " (huàshétiānzú)" } } + white{ ": To draw a snake and add legs (to overdo something)." } + black{ bold{ " - Chinese idiom" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
