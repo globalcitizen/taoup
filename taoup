@@ -1195,6 +1195,7 @@ puts white{ "It went as an unspoken, unquestionable assumption that telephony wa
 puts white{ "If you think about it, democracy is still in the 19th century. Your communication with your representatives and ministers amounts to a few bits per year. It's ridiculous." } + black{ bold{ " - Pedro Domingos" } }
 puts white{ bold{ "Technology always makes less progress than you expect in the short term and more progress in the long term, and AI is the ultimate example of this." } } + white{ " The AI systems that we use in everyday life today are still incredibly stupid. There's no intelligence in Alexa or Siri." } + black{ bold{ " - Pedro Domingos" } }
 puts white{ "There are no civilized people yet." } + black{ bold{ " - Jacque Fresco" } }
+puts white{ bold{ "All repetitious jobs will be phased out." } } + white{ " We feel that machines ought to do the filthy or the reptitious or the boring jobs, that man has to be free to pursue the higher things, the higher possibilities of man." } + black{ bold{ " - Jacque Fresco" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
