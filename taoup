@@ -1197,6 +1197,10 @@ puts white{ "If you think about it, democracy is still in the 19th century. Your
 puts white{ bold{ "Technology always makes less progress than you expect in the short term and more progress in the long term, and AI is the ultimate example of this." } } + white{ " The AI systems that we use in everyday life today are still incredibly stupid. There's no intelligence in Alexa or Siri." } + black{ bold{ " - Pedro Domingos" } }
 puts white{ "There are no civilized people yet." } + black{ bold{ " - Jacque Fresco" } }
 puts white{ bold{ "All repetitious jobs will be phased out." } } + white{ " We feel that machines ought to do the filthy or the reptitious or the boring jobs, that man has to be free to pursue the higher things, the higher possibilities of man." } + black{ bold{ " - Jacque Fresco" } }
+puts white{ "You're not really doing something very revolutionary if you're not running into some dead ends." } + black{ bold{ " - Andy Hertzfeld" } }
+puts white{ "You don't have a clear idea of what it's going to be when you start, you have an inkling and then, each step tells you what the next step is but you don't know what the next step is until you've gotten to a certain point." } + black{ bold{ " - Andy Hertzfeld" } }
+puts white{ "We thought we were making an exquisite product, the best possible thing at the time but then, we figured, in a few years we'd make something a lot better, completely different. We didn't realize the architecture we were putting in place could last five years, let alone 10, 20, 30 years." } + black{ bold{ " - Andy Hertzfeld" } }
+puts white{ "I think the essential way to do anything great, you have to have some incremental development philosophy because you're just going to be wrong with your grand design that you don't iterate on." } + black{ bold{ " - Andy Hertzfeld" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
