@@ -225,6 +225,10 @@ puts white{ bold{ "一窍不通" } } + black{ bold{ " (yī qiào bù tōng)" } }
 puts white{ bold{ "画蛇添足" } } + black{ bold{ " (huà shé tiān zú)" } } + white{ ": To draw a snake and add legs (to overdo something)." } + black{ bold{ " - Chinese idiom" } }
 puts white{ bold{ "塞翁失马" } } + black{ bold{ " (sài wēng shī mǎ)" } } + white{ ": The old man from the frontier lost his horse... but good came of it (a blessing in disguise!)" } + black{ bold{ " - Chinese idiom" } }
 puts white{ bold{ "对牛弹琴" } } + black{ bold{ " (duì niú tán qín)" } } + white{ ": To play a zither to a buffalo (to address the wrong audience)." } + black{ bold{ " - Chinese idiom" } }
+puts white{ "Programs must be written for people to read, and only incidentally for machines to execute." } + black{ bold{ " - Harold Abelson" } }
+puts white{ "It is easier to port a shell than a shell script." } + black{ bold{ " - Larry Wall" } }
+puts white{ "Talk is cheap. Show me the code." } + black{ bold{ " - Linus Torvalds" } }
+puts white{ bold{ "Any fool can write code that a computer can understand." } } + white{ " Good programmers write code that humans can understand." } + black{ bold{ " - Martin Golding" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
@@ -646,6 +650,13 @@ puts white{ "When engineers talk to each other, they don't say \"Believe me!\"" 
 puts white{ "I would say the majority of the people of the world today are un-sane. Not insane, un-sane meaning having been exposed to methods of evaluation that are long rendered obsolete." } + black{ bold{ " - Jacque Fresco" } }
 puts white{ "You have that problem with humans. Anything that happens beyond their comprehension they have to invent an excuse for." } + black{ bold{ " - Jacque Fresco" } }
 puts white{ bold{ "We must do away with the absolutely specious notion that everybody has to earn a living." } } + white{ " It is a fact today that one in ten thousand of us can make a technological breakthrough capable of supporting all the rest. The youth of today are absolutely right in recognizing this nonsense of earning a living. We keep inventing jobs because of this false idea that everybody has to be employed at some kind of drudgery because, according to Malthusian-Darwinian theory, he must justify his right to exist. So we have inspectors of inspectors and people making instruments for inspectors to inspect inspectors. The true business of people should be to go back to school and think about whatever it was they were thinking about before somebody came along and told them they had to earn a living." } + black{ bold{ " - Buckminster Fuller, 'New York Magazine' (1970)" } }
+puts white{ "Raise your quality standards as high as you can live with, avoid wasting your time on routine problems, and always try to work as closely as possible at the boundary of your abilities. Do this, because it is the only way of discovering how that boundary should be moved forward." } + black{ bold{ " - Edsger Dijkstra" } }
+puts white{ bold{ "One machine can do the work of fifty ordinary men." } } + white{ " No machine can do the work of one extraordinary man." } + black{ bold{ " - Elbert Hubbard" } }
+puts white{ bold{ "Failure is an option here." } } + white{ " If things are not failing, you are not innovating enough." } + black{ bold{ " - Elon Musk" } }
+puts white{ bold{ "If it's a good idea, go ahead and do it." } } + white{ " It's much easier to apologize than it is to get permission." } + black{ bold{ " - Grace Hopper" } }
+puts white{ "If we continue to develop our technology without wisdom or prudence, our servant may prove to be our executioner." } + black{ bold{ " - Omar Bradley" } }
+puts white{ "To iterate is human, to recurse divine." } + black{ bold{ " - Peter Deutsch" } }
+puts white{ "How can I improve the code so that this comment isn't needed?" } + black{ bold{ " - Steve McConnell" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -1052,6 +1063,8 @@ puts white{ bold{ 'The problems with most arguments is that they arguers assume 
 puts white{ bold{ 'A good heuristic for designing programming languages' } } + white{ ' is to try to take the largest most complicated kinds of things you want to do, work them out, and then see if there is a "language lurking". Most people make the big mistake of lovingly making small neat examples that are easy to learn - these often don\'t scale at all well. E.g. "data" in the small "seems natural" but the whole idea scales terribly. And so forth for most of the favorite paradigms around today.' } + black{ bold{ " - Alan Kay (2016)" } }
 puts white{ bold{ 'Try to avoid "growing old"!' } } + white{ ' A big problem with the general industry is the lack of subsidized "sabbatical years" - these are a good way to recharge and re-orient. Xerox, amazingly, used to have them for employees. But I haven\'t heard of any such thing recently. If you think about life as needing "renewables" then ' } + white{ bold{ 'you shouldn\'t allow yourself to be "stripmined"' } } + white{ ' (easier said than done).' } + black{ bold{ " - Alan Kay (2016)" } }
 puts white{ bold{ "Learn everything and then find a way of forgetting it, so you can have your own ideas." } } + white{ " What you forget is everything except the perfume, so you when you have an idea your nose will pick up the right scent and you will be able to make make use of all the stuff you've learned after you've had the idea." } + black{ bold{ " - Alan Kay (2017)" } }
+puts white{ "Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves." } + black{ bold{ " - Alan Kay" } }
+puts white{ "Technology is anything that wasn't around when you were born." } + black{ bold{ " - Alan Kay" } }
 
 # arthur c. clarke
 puts "----- Arthur C. Clarke -----"
