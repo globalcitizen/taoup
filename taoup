@@ -1350,6 +1350,7 @@ puts white{ bold{ "The truth is like poetry" } } + white{ ", and most people fuc
 puts white{ "The writer is that person who, embarking upon her task, does not know what to do." } + black{ bold{ " - Donald Barthelme" } }
 puts white{ "Asked which of the arts was closest to writing, Norman Mailer once told me the answer was 'acting'." } + black{ bold{ " - Andrew O'Hagan" } }
 puts white{ "There can be no reliable biography of a writer, 'because a writer is too many people if he is any good'." } + black{ bold{ " - Andrew O'Hagan" } }
+puts white{ "How does one design an electric motor? Would you attach a bathtub to it, simply because one was available? Would a bouquet of flowers help? A heap of rocks? No, you would use just those elements necessary to its purpose and make it no larger than needed -- and you would incorporate safety factors. Function controls design." } + black{ bold{ " - Prof. Bernardo de la Paz in 'The moon is a harsh Mistress' by Robert A. Heinlein" } }
 
 # randoms - visual art and programming
 puts '--- randoms - visual art and programming ---'
