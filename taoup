@@ -657,6 +657,7 @@ puts white{ bold{ "If it's a good idea, go ahead and do it." } } + white{ " It's
 puts white{ "If we continue to develop our technology without wisdom or prudence, our servant may prove to be our executioner." } + black{ bold{ " - Omar Bradley" } }
 puts white{ "To iterate is human, to recurse divine." } + black{ bold{ " - Peter Deutsch" } }
 puts white{ "How can I improve the code so that this comment isn't needed?" } + black{ bold{ " - Steve McConnell" } }
+puts white{ "The people who make great innovations are often people who are knowledgeable about a discipline, but who have not been trained in the mainstream of that discipline." } + black{ bold{ " - James C. Scott" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
