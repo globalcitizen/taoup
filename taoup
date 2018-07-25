@@ -1216,6 +1216,7 @@ puts white{ "You're not really doing something very revolutionary if you're not 
 puts white{ "You don't have a clear idea of what it's going to be when you start, you have an inkling and then, each step tells you what the next step is but you don't know what the next step is until you've gotten to a certain point." } + black{ bold{ " - Andy Hertzfeld" } }
 puts white{ "We thought we were making an exquisite product, the best possible thing at the time but then, we figured, in a few years we'd make something a lot better, completely different. We didn't realize the architecture we were putting in place could last five years, let alone 10, 20, 30 years." } + black{ bold{ " - Andy Hertzfeld" } }
 puts white{ "I think the essential way to do anything great, you have to have some incremental development philosophy because you're just going to be wrong with your grand design that you don't iterate on." } + black{ bold{ " - Andy Hertzfeld" } }
+puts white{ "The only way to make a wheeled vehicle move is to hitch it to a horse." } + black{ bold{ " - Pat Brown, Founder, Impossible Foods" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
