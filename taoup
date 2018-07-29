@@ -229,6 +229,7 @@ puts white{ "Programs must be written for people to read, and only incidentally 
 puts white{ "It is easier to port a shell than a shell script." } + black{ bold{ " - Larry Wall" } }
 puts white{ "Talk is cheap. Show me the code." } + black{ bold{ " - Linus Torvalds" } }
 puts white{ bold{ "Any fool can write code that a computer can understand." } } + white{ " Good programmers write code that humans can understand." } + black{ bold{ " - Martin Golding" } }
+puts white{ "A good way to think of assembly reliability is as an inverse function of the number of parts." } + black{ bold{ " - James A. Speck, 'Mechanical Fastening, Joining and Assembly' (2nd Ed.)" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
