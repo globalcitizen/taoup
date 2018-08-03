@@ -231,6 +231,7 @@ puts white{ "Talk is cheap. Show me the code." } + black{ bold{ " - Linus Torval
 puts white{ bold{ "Any fool can write code that a computer can understand." } } + white{ " Good programmers write code that humans can understand." } + black{ bold{ " - Martin Golding" } }
 puts white{ "A good way to think of assembly reliability is as an inverse function of the number of parts." } + black{ bold{ " - James A. Speck, 'Mechanical Fastening, Joining and Assembly' (2nd Ed.)" } }
 puts white{ bold{ "Poka-yoke (ポカヨケ)" } } + black{ bold{ ": " } } + white{ 'Japanese term that means "mistake-proofing". More broadly, any behavior-shaping constraint designed into a process to prevent error. ' }
+puts white{ bold{ "KISS" } } + black{ bold{ ": " } } + white{ "Keep it simple, stupid." } + black{ bold{ " - Kelly Johnson, Lockheed Martin, cold war period." } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
