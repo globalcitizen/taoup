@@ -232,6 +232,9 @@ puts white{ bold{ "Any fool can write code that a computer can understand." } } 
 puts white{ "A good way to think of assembly reliability is as an inverse function of the number of parts." } + black{ bold{ " - James A. Speck, 'Mechanical Fastening, Joining and Assembly' (2nd Ed.)" } }
 puts white{ bold{ "Poka-yoke (ポカヨケ)" } } + black{ bold{ ": " } } + white{ 'Japanese term that means "mistake-proofing". More broadly, any behavior-shaping constraint designed into a process to prevent error. ' }
 puts white{ bold{ "KISS" } } + black{ bold{ ": " } } + white{ "Keep it simple, stupid." } + black{ bold{ " - Kelly Johnson, Lockheed Martin, cold war period." } }
+puts white{ "Do more and more with less and less until eventually you can do everything with nothing." } + black{ bold{ " - Buckminster Fuller" } }
+puts white{ "It seems that perfection is reached not when there is nothing left to add, but when there is nothing left to take away." } + black{ bold{ " - Antoine de Saint Exupéry, a French poet and pioneering aviator" } }
+
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
