@@ -664,6 +664,8 @@ puts white{ "If we continue to develop our technology without wisdom or prudence
 puts white{ "To iterate is human, to recurse divine." } + black{ bold{ " - Peter Deutsch" } }
 puts white{ "How can I improve the code so that this comment isn't needed?" } + black{ bold{ " - Steve McConnell" } }
 puts white{ "The people who make great innovations are often people who are knowledgeable about a discipline, but who have not been trained in the mainstream of that discipline." } + black{ bold{ " - James C. Scott" } }
+puts white{ "Who is on a team matters less than how the team members interact, structure their work, and view their contributions." } + black{ bold{ " - Julia Rozovsky, Google People Operations (2015)" } }
+puts white{ "There are five key dynamics that set successful teams apart from other teams at Google. " } + white{ bold{ "Psychological safety" } } + black{ bold{ ": Can we take risks on this team without feeling insecure or embarrassed?" } } + white{ bold{ " Dependability" } } + black{ bold{ ": Can we count on each other to do high quality work on time?" } } + white{ bold{ " Structure & clarity" } } + black{ bold{ ": Are goals, roles, and execution plans on our team clear?" } } + white{ bold{ " Meaning of work" } } + black{ bold{ ": Are we working on something that is personally important for each of us?" } } + white{ bold{ " Impact of work" } } + black{ bold{ ": Do we fundamentally believe that the work we’re doing matters?" } } + black{ bold{ " - Julia Rozovsky, Google People Operations (2015)" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
