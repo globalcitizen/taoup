@@ -36,7 +36,7 @@ end
 if ARGV[0] == '--whitetrash' then
  whitetrash = true
 end
-if zero_colors then
+if zero_colors || ENV.has_key?('NO_COLOR') then
  alias :puts_old :puts
  alias :print_old :print
  if fortunify==false then
