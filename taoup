@@ -785,6 +785,9 @@ puts white{ "I'm more willing to risk imprisonment (or any other negative outcom
 puts white{ "I feel good in my human experience to know that I can contribute to the good of others." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 puts white{ "I have some strongly held views." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 puts white{ "The balance of power between the citizenry and the government is becoming that of the ruling and the ruled, as opposed to the elected and the electorate." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
+puts white{ bold{ "If you want to build a better future, you’re going to have to do it yourself." } } + white{ " Politics will take us only so far and if history is any guide, they are the least reliable means of achieving effective change... they're not gonna jump up and protect your rights." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
+puts white{ "Technology works differently than law. Technology knows no jurisdiction." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
+puts white{ bold{ "Politics" } } + black{ bold{ ":" } } + white{ " the art of convincing people to forget the lesser of two evils is also evil." } + black{ bold{ " - Edward Snowden, NSA whistleblower" } }
 
 # paul graham
 puts "----- paul graham -----"
