@@ -1270,6 +1270,10 @@ puts white{ "It is easy to optimize a correct system, but hard to correct an opt
 puts white{ bold{ "Any sufficiently complex system acts as a black box when it becomes easier to experiment with than to understand." } } + white{ " Hence, black-box optimization has become increasingly important as systems become more complex." } + black{ bold{ " - Google Vizier: a service for black-box optimization Golovin et al., KDD'17" } }
 puts white{ "Not everything that can be counted counts, and not everything that counts can be counted." } + black{ bold{ " - Albert Einstein" } }
 
+# randoms - maintenance
+puts "------ randoms on maintenance ------"
+puts white{ bold{ "Maintenance lacks the glamour of innovation." } } + white{ " It is mostly noticed in its absence - the tear in a shirt, the mould on a ceiling, the spluttering of an engine." } + black{ bold{ " - The Economist, 2018-10-20" } }
+
 # steven levy
 puts '--- Steven Levy ---'
 puts white{ bold{ 'Access to computers - and anything which might teach you something about the way the world works - should be unlimited and total.' } } + white{ ' Always yield to the Hands-On Imperative!' } + black{ bold{ ' - Steven Levy, Hackers: Heroes of the Computer Revolution (1984)' } }
