@@ -1276,6 +1276,7 @@ puts white{ bold{ "Maintenance lacks the glamour of innovation." } } + white{ " 
 puts white{ "Some [assets] are like light bulbs, which work well until they stop altogether. [Others] are assumed to wear out in a 'straight line', deteriorating by the same amount each year. Others lose a steady percentage of their diminishing worth." } + black{ bold{ " - The Economist, 2018-10-20" } }
 puts white{ "How much do economies spend fighting decay? No one knows, partly because most maintenance is performed in-house, not purchased on the market. The best numbers are collected by Canada, where firms spent 3.3% of GDP on repairs in 2016, more than twice as much as the country spends on research and development." } + black{ bold{ " - The Economist, 2018-10-20" } }
 puts white{ "In a disposable society, to repair is to rebel." } + black{ bold{ " - The Economist, 2018-10-20" } }
+puts white{ "There is no trash with LEGO, and there is no trash in a forest." } black{ bold{ " - Neil Gershenfeld" } }
 
 # steven levy
 puts '--- Steven Levy ---'
