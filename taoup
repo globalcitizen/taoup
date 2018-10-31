@@ -669,6 +669,7 @@ puts white{ "There are five key dynamics that set successful teams apart from ot
 puts white{ "We view a behavior as correct in a given situation to the degree that we see others performing it." } + black{ bold{ " - Robert Cialdini" } }
 puts white{ bold{ "Sharot's persuasive factors" } } + black{ bold{ ": " } } + white{ "prior beliefs, emotion, incentives, agency, curiosity, state of mind, and other people." } # https://www.businessinsider.com/how-to-be-more-persuasive-according-to-neuroscience-2018-10
 puts white{ "It's no longer about giving the user the tools required to get the best value out of their computer, but rather giving the computer the tools required to get the best value out of the user." } + black{ bold{ " - @fit2rule" } }
+puts white{ "Stress, burn out and overwork are more likely to kill your startup than not having your customer acquisition funnel fully optimized." } + black{ bold{ " - Earnest Capital" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
