@@ -671,6 +671,8 @@ puts white{ bold{ "Sharot's persuasive factors" } } + black{ bold{ ": " } } + wh
 puts white{ "It's no longer about giving the user the tools required to get the best value out of their computer, but rather giving the computer the tools required to get the best value out of the user." } + black{ bold{ " - @fit2rule" } }
 puts white{ "Stress, burn out and overwork are more likely to kill your startup than not having your customer acquisition funnel fully optimized." } + black{ bold{ " - Earnest Capital" } }
 puts white{ bold{ "For 250 years mycologists have tried to reconcile fungal diversity with the Linnean fantasy of divine order throughout nature" } } + white{ " that included unambiguous species. This effort has failed and today's taxonomy rests on an unstable philosophical foundation." } + black{ bold{ " - Nicholas P. Money, 'Against the naming of fungi', Fungal Biology, 2013." } }
+puts white{ bold{ "The thing that's important when running a business is making money." } } + white{ " Having happy repeat customers is one way to do this, but there are many others: having unhappy customers and crushing the competition, having a steady stream of new customers (MLM schemes), selling a product where customers cannot meaningfully evaluate quality (Facebook video marketing)..." } + black{ bold{ " - @geofft" } }
+puts white{ "The reason they call it the American Dream is because you have to be asleep to believe it." } + black{ bold{ " - George Carlin" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
