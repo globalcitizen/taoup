@@ -200,7 +200,6 @@ puts white{ "Stalin had bad taste in architecture." } + black{ bold{ " - History
 puts white{ "Sailboats go faster when there's more wind." } + black{ bold{ " - Naval Architecture and Marine Engineering, Webb Institute" } } # http://lolmythesis.com/post/88613861849/sailboats-go-faster-when-theres-more-wind
 puts white{ bold{ "Successful programming is all about managing complexity." } } + white{ " Managing complexity has many aspects. You can eliminate, avoid, simplify, hide or automate complexity, and so on." } + black{ bold{ " - Keith Bentley" } } # https://www.quora.com/Programming-is-all-about-managing-complexity-Do-you-agree-with-that-statement/answer/Keith-Bentley
 puts white{ "The only people who see the whole picture, are the ones who step out of the frame." } + black{ bold{ " - Salman Rushdie" } }
-puts white{ "We deliver things in little brown boxes." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ "The idea that data is a corporate asset needs to die. Data is a corporate liability." } + black{ bold{ " - @jacquesm" } }
 puts white{ bold{ "不可得兼" } } + black{ bold{ " (bù kě dé jiān)" } } + white{ ": You can't have both at the same time." } + black{ bold{ " - Chinese proverb" } }
 puts white{ bold{ "力不从心" } } + black{ bold{ " (lì bù cóng xīn)" } } + white{ ": Frustrated aspirations." } + black{ bold{ " - Chinese idiom" } }
@@ -573,14 +572,12 @@ puts white{ bold{ "Banking has always orientated towards cartel structures with 
 puts white{ bold{ "Why don't computers crash at the same time?" } } + white{ " Because network connections aren't fast enough." } + black{ bold{ " - 1980s computing joke" } }
 puts white{ bold{ "Robot" } } + white{ ", n. A machine that doesn't work yet." } + black{ bold{ " (Because if it worked you'd name it after what it does, like a dishwasher or a vacuum cleaner)." } }
 puts white{ bold{ "Never underestimate the power of being one of the few people to have a particular set of individually-common skills." } } + white{ " If you know molecular biology and group theory, or chemical engineering and architecture, or web design and sign language, or whatever and whatever, there's special opportunities open to you and almost noone else." } + black{ bold{ " - @maxander" } }
-puts white{ "Your margin is my opportunity." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ bold{ "I am enough of the artist to draw freely upon my imagination." } } + white{ " Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." } + black{ bold{ " - Albert Einstein (1929)" } } # http://quoteinvestigator.com/2013/01/01/einstein-imagination/
 puts white{ "The practical genius is not someone who knows everything but knows where to find it." }
 puts white{ "Inside every utopia is a dystopia striving to get out." } # http://bostonreview.net/literature-culture/john-crowley-inside-every-utopia-dystopia
 puts white{ "We are faced with an insurmountable opportunity." } + black{ bold{ " - Walter Crawford Kelly, Jr., American animator and cartoonist" } }
 puts white{ "An engineer is a man who can do for a dime what any fool can do for a dollar." }
 puts white{ bold{ "We didn't quite invent everything." } } + white{ " We didn't invent spreadsheets, and there's actually a good lesson in that. I think the reason we didn't invent spreadsheets is that we didn't have any use for them, since we didn't do accounting." } + black{ bold{ " - Dr. Butler Lampson, on Xerox PARC (2016)" } }
-puts white{ "Experiment patiently, accept failures, plant seeds, protect saplings, and double down when you see customer delight." } + black{ bold{ " - Jeff Bezos (2017)" } }
 puts white{ "Talent is hitting a target that nobody else can hit, genius is hitting a target that nobody else can see." } + black{ bold{ " - Schopenhauer" } }
 puts white{ "6,000 years of history in 640k." } + black{ bold{ " - Sid Meier on Civilization" } }
 puts white{ bold{ "The purpose of computation is insight" } } + white{ ", not numbers." } + black{ bold{ " - Richard Hamming" } }
@@ -616,7 +613,6 @@ puts white{ "The number of UNIX installations is now above 20, and many more are
 puts white{ "Genius alters the terms of its habitat." } + black{ bold{ " - 'Cosmopolis: A Novel', Don DeLillo (2004)" } }
 puts white{ bold{ "Startups are (by necessity) filled with generalists; big companies are filled with specialists." } } + white{ " People underestimate how effective a generalist can be at things which are done by specialists. People underestimate how deep specialties can run. These are simultaneously true." } + black{ bold{ " - Patrick McKenzie" } }
 puts white{ bold{ "In Estonia, we don't have Big Brother; we have Little Brother." } } + white{ " You can tell him what to do and maybe also beat him up." } + black{ bold{ " - Anonymous local" } }
-puts white{ bold{ "Some decisions are consequential and irreversible or nearly irreversible - one-way doors - and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation." } } + white{ " If you walk through and don't like what you see on the other side, you can't get back to where you were before. We can call these Type 1 decisions. But most decisions aren't like that - they are changeable, reversible - they're two-way doors. If you've made a suboptimal Type 2 decision, you don't have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgement individuals or small groups." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ "If we knew what it was we were doing, it would not be called research." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "The principals of a technical consultancy do very well for themselves. I don't know if that is a secret but it certainly isn't well appreciated: " } + white{ bold{ "nobody says Occupy Boutique Rails Consultancies" } } + white{ ", but the principals of them do end up in the 1%." } + black{ bold{ " - @patio11" } }
 puts white{ "Discover these cave-dwelling secrets that your real estate developer doesn't want you to know!" } + black{ bold{ " - @yipopov" } }
@@ -647,7 +643,6 @@ puts white{ "Past studies indicate a complex relationship between optimism and p
 puts white{ "What civilization is is 6 billion people trying to make themselves happy by standing on each other's shoulders and kicking each other's teeth in. It's not a pleasant situation. And yet you can stand back and look at this planet and see that " } + white{ bold{ "we have the money, the power, the medical understanding, the scientific know-how, the love, and the community to produce a kind of human paradise" } } + white{ "." } + black{ bold{ " - Terence McKenna" } }
 puts white{ bold{ "AI lowers the cost of knowledge by orders of magnitude." } } + white{ " One good, effective machine learning system can do the work of a million people, whether it's for commercial purposes or for cyberespionage. Imagine a country that produces a thousand times more knowledge than another. This is the challenge we are facing." } + black{ bold{ " - Pedro Domingos" } }
 puts white{ "Just like Americans believe in lawyers, the Chinese believe in engineers." } + black{ bold{ " - Pedro Domingos" } }
-puts white{ bold{ "The main job of a senior leader is to identify two or three important ideas and then to enforce great execution against those big ideas." } } + white{ " The good news is that the big ideas are usually incredibly easy to identify. You shouldn't need to think about them very much you already know what they are. For Amazon the big ideas are low prices, fast delivery and vast selection." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ bold{ "Many late-stage investments aren't really investments" } } + white{ ": they're just disguised forms of debt." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 puts white{ "Starting a business, founding a company is the hardest act in business." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 puts white{ "There have been a few other people that have been extremely fortunate and lucky like I have. " } + white{ bold{ "You could have put a chimpanzee in the valley in 1986 and they would have been successful in the venture business." } } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
@@ -829,8 +824,6 @@ puts white{ "Lean back under a tree, put your arms behind your head, wonder at t
 puts white{ "Even a broken clock is right twice a day." }
 puts white{ "Archiving is the new folk art." } + black{ bold{ " - Rick Prelinger" } }
 puts white{ "People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy." } + black{ bold{ " - Seneca" } }
-puts white{ "The get rich slowly schemes are not big sellers on infomercials." } + black{ bold{ " - Jeff Bezos" } }
-puts white{ "I've noticed all overnight successes take about 10 years." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ "Forewarned, forearmed: " } + white{ bold{ "to be prepared is half the victory." } } + black{ bold{ " - Miguel de Cervantes" } }
 puts white{ bold{ "不怕慢就怕站" } } + white{ ": It doesn't matter how slowly you go, as long as you don't stop." } + black{ bold{ " - Confucius" } }
 
@@ -1465,3 +1458,12 @@ puts white{ "Speak with domain experts (people who use, provide, and repair the 
 puts white{ "Fail often in order to succeed sooner." } + black{ bold{ " - IDEO" } }
 puts white{ bold{ "Recipe for Innovation" } } + white{ " = time + open mind + leader who demands fresh ideas be corky + teamwork + belief chaos can be constructive" } + black{ bold{ " - IDEO" } }
 
+# jeff bezos
+puts "------- jeff bezos --------"
+puts white{ "We deliver things in little brown boxes." } + black{ bold{ " - Jeff Bezos" } }
+puts white{ "Your margin is my opportunity." } + black{ bold{ " - Jeff Bezos" } }
+puts white{ "Experiment patiently, accept failures, plant seeds, protect saplings, and double down when you see customer delight." } + black{ bold{ " - Jeff Bezos (2017)" } }
+puts white{ bold{ "Some decisions are consequential and irreversible or nearly irreversible - one-way doors - and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation." } } + white{ " If you walk through and don't like what you see on the other side, you can't get back to where you were before. We can call these Type 1 decisions. But most decisions aren't like that - they are changeable, reversible - they're two-way doors. If you've made a suboptimal Type 2 decision, you don't have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgement individuals or small groups." } + black{ bold{ " - Jeff Bezos" } }
+puts white{ bold{ "The main job of a senior leader is to identify two or three important ideas and then to enforce great execution against those big ideas." } } + white{ " The good news is that the big ideas are usually incredibly easy to identify. You shouldn't need to think about them very much you already know what they are. For Amazon the big ideas are low prices, fast delivery and vast selection." } + black{ bold{ " - Jeff Bezos" } }
+puts white{ "The get rich slowly schemes are not big sellers on infomercials." } + black{ bold{ " - Jeff Bezos" } }
+puts white{ "I've noticed all overnight successes take about 10 years." } + black{ bold{ " - Jeff Bezos" } }
