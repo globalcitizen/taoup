@@ -670,6 +670,7 @@ puts white{ bold{ "The thing that's important when running a business is making 
 puts white{ "The reason they call it the American Dream is because you have to be asleep to believe it." } + black{ bold{ " - George Carlin" } }
 puts white{ "I think of first mover advantages all the time when I invest, but I also think of last mover advantages." } + black{ bold{ " - Tony Fadell" } }
 puts white{ bold{ "Silicon Valley companies like to pretend they're special in some sort of moral, ethical, or existential way." } } + white{ " It turns out they're just companies." } + black{ bold{ " - Adam Lashinsky, Fortune (2018)" } }
+puts white{ bold{ "Constant application of force." } } + black{ bold{ " - Michael Moritz, on what separates successful companies from their peers." } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
