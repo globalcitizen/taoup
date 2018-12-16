@@ -673,6 +673,7 @@ puts white{ bold{ "Silicon Valley companies like to pretend they're special in s
 puts white{ bold{ "Constant application of force." } } + black{ bold{ " - Michael Moritz, on what separates successful companies from their peers." } }
 puts white{ "We live in worlds our questions create." } + black{ bold{ " - David Cooperider" } }
 puts white{ bold{ "ThomPete's travail" } } + black{ bold{ ": " } } + white{ "Wicked problems are by definition either political or ideological." }
+puts white{ "Intellectuals solve problems, geniuses prevent them." } + black{ bold{ " - Einstein" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
