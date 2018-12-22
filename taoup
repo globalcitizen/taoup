@@ -1089,6 +1089,7 @@ puts white{ bold{ "Whatever's going on right now is just crap, by definition" } 
 puts white{ bold{ "Living in the present" } } + white{ ": man, you're just out of it." } + black{ bold{ " - Alan Kay (2017)" } }
 puts white{ bold{ "The notion of object oriented programming is completely misunderstood." } } + white{ " It's not about objects and classes, it's all about messages." } + black{ bold{ " - Alan Kay" } }
 puts white{ "Designer jeans guitar hero syndrome." } + black{ bold{ " - Alan Kay" } }
+puts white{ bold{ "Adults think that the best thing you can do for a child is to turn the child out like them." } } + white{ " Think about that, that's got to be one of the dumbest ideas ever." } + black{ bold{ " - Alan Kay" } }
 
 # arthur c. clarke
 puts "----- Arthur C. Clarke -----"
