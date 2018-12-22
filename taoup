@@ -1092,6 +1092,7 @@ puts white{ "Designer jeans guitar hero syndrome." } + black{ bold{ " - Alan Kay
 puts white{ bold{ "Adults think that the best thing you can do for a child is to turn the child out like them." } } + white{ " Think about that, that's got to be one of the dumbest ideas ever." } + black{ bold{ " - Alan Kay" } }
 puts white{ "By far the best way to invent a healthy future is to invent the children who will invent it." } + black{ bold{ " - Alan Kay" } }
 puts white{ "I made up these slogans because I discovered most adults couldn't deal with paragraphs." } + black{ bold{ " - Alan Kay" } }
+puts white{ "Adults are dangerous. Really dangerous." } + black{ bold{ " - Alan Kay" } }
 
 # arthur c. clarke
 puts "----- Arthur C. Clarke -----"
