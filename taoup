@@ -584,7 +584,6 @@ puts white{ bold{ "The purpose of computation is insight" } } + white{ ", not nu
 puts white{ bold{ "I admire the elegance of your method of computation" } } + white{ "; it must be nice to ride through these fields upon the horse of true mathematics while the like of us have to make our way laboriously on foot." } + black{ bold{ " - Albert Einstein to Tullio Levi-Civita, on tensor analysis (1915)" } }
 puts white{ bold{ "Everyone struggles." } } + white{ " This is what it means to be human." }
 puts white{ "The only normal people are the ones you don't know very well." }
-puts white{ bold{ "PARC only happened because of the Vietnam War." } } + white{ " Nobody wanted to try to do this stuff inside of a company, the company quarterly cycles and everything else are really antithetical to long-range thinking." } + black{ bold{ " - Alan Kay on the emergence of the personal computer (2017)" } }
 puts white{ "Procrastination is a vice when it comes to productivity, but it can be a virtue for creativity." } + black{ bold{ " - Adam Grant" } }
 puts white{ bold{ "To be original you don't have to be first" } } + white{ " - you just have to be different and better." } + black{ bold{ " - Adam Grant" } }
 puts white{ bold{ "Prestige is a sucker's game" } } + white{ "; it's a way of inducing people to do things that aren't much fun and they wouldn't really want to do on their own, by lauding them with accolades from people they don't really care about." } + black{ bold{ " - @nostrademons" } }
@@ -633,7 +632,6 @@ puts white{ "It's important to be able to talk to each other if you want to star
 puts white{ bold{ "You actually do learn something from school" } } + white{ "... but it doesn’t matter in the long run." } + black{ bold{ " - Anthropology, Carnegie Mellon University" } } # http://lolmythesis.com/post/92475268088/you-actually-do-learn-something-from-school-but
 puts white{ "Big fish swim faster than small fish." } + black{ bold{ " - School of Botany and Zoology, Australian National University" } } # http://lolmythesis.com/post/91305620105/big-fish-swim-faster-than-small-fish
 puts white{ bold{ "All men dream: but not equally." } } + white{ " Those who dream by night in the dusty recesses of their minds wake in the day to find that it was vanity: but the dreamers of the day are dangerous men, for they may act their dreams with open eyes, to make it possible." } + black{ bold{ " - T. E. Lawrence (1922)" } }
-puts white{ "Designer jeans guitar hero syndrome." } + black{ bold{ " - Alan Kay" } }
 puts white{ "Humanity knows nothing." } + black{ bold{ " - Masanobu Fukuoka" } }
 puts white{ bold{ "Everybody is a genius." } } + white{ " But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "They trust me - dumb fucks." } + black{ bold{ " - Mark Zuckerberg (2010)" } }
@@ -1084,6 +1082,13 @@ puts white{ bold{ 'Try to avoid "growing old"!' } } + white{ ' A big problem wit
 puts white{ bold{ "Learn everything and then find a way of forgetting it, so you can have your own ideas." } } + white{ " What you forget is everything except the perfume, so you when you have an idea your nose will pick up the right scent and you will be able to make make use of all the stuff you've learned after you've had the idea." } + black{ bold{ " - Alan Kay (2017)" } }
 puts white{ "Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves." } + black{ bold{ " - Alan Kay" } }
 puts white{ "Technology is anything that wasn't around when you were born." } + black{ bold{ " - Alan Kay" } }
+puts white{ bold{ "Inverse vandalism" } } + black{ bold{ ": " } } + white{ "Making things just because you can." } + black{ bold{ " - Alan Kay" } }
+puts white{ bold{ "PARC only happened because of the Vietnam War." } } + white{ " Nobody wanted to try to do this stuff inside of a company, the company quarterly cycles and everything else are really antithetical to long-range thinking." } + black{ bold{ " - Alan Kay on the emergence of the personal computer (2017)" } }
+puts white{ bold{ "The real job of upper management in the 20th and 21st century is to learn things" } } + white{ ", because change is the constant thing that's going on." } + black{ bold{ " - Alan Kay (2017)" } }
+puts white{ bold{ "Whatever's going on right now is just crap, by definition" } } + black{ bold{ " [...] " } } + white{ "it's gotten mundane, and part of it is just the bell curve of normality in humans. Whatever it is, it gets converted to something like normal." } + black{ bold{ " - Alan Kay (2017)" } }
+puts white{ bold{ "Living in the present" } } + white{ ": man, you're just out of it." } + black{ bold{ " - Alan Kay (2017)" } }
+puts white{ bold{ "The notion of object oriented programming is completely misunderstood." } } + white{ " It's not about objects and classes, it's all about messages." } + black{ bold{ " - Alan Kay" } }
+puts white{ "Designer jeans guitar hero syndrome." } + black{ bold{ " - Alan Kay" } }
 
 # arthur c. clarke
 puts "----- Arthur C. Clarke -----"
@@ -1192,12 +1197,9 @@ puts white{ bold{ "Keep a place to stand if you do have to change interfaces." }
 puts white{ bold{ "Rather bear those ills we have" } } + white{ "; Than fly to others that we know not of." } + black{ bold{ " - William Shakespeare, 'Hamlet', Polonius' advice to Laertes (~1600)" } }
 puts white{ bold{ "The California Roll Rule" } } + white{ ": People don't want something truly new, they want the familiar done differently." }
 puts white{ "The best way to predict the future is to invent it." }
-puts white{ bold{ "The real job of upper management in the 20th and 21st century is to learn things" } } + white{ ", because change is the constant thing that's going on." } + black{ bold{ " - Alan Kay (2017)" } }
 puts white{ "The future ain't what it used to be." } + black{ bold{ " - Yogi Berra" } }
 puts white{ bold{ "Features common to the telegraph networks of the 19th century and the internet of today" } } + white{ ": hype, scepticism, hackers, on-line romances and weddings, chat-rooms, flame wars, information overload, predictions of imminent world peace, and so on." } + black{ bold{ " - Tom Standage, author of 'The Victorian Internet'" } }
 puts white{ "The telegraph in its day was much more revolutionary than the Internet is in our day." } + black{ bold{ " - Jimmy Wales, founder of Wikipedia" } }
-puts white{ bold{ "Whatever's going on right now is just crap, by definition" } } + black{ bold{ " [...] " } } + white{ "it's gotten mundane, and part of it is just the bell curve of normality in humans. Whatever it is, it gets converted to something like normal." } + black{ bold{ " - Alan Kay (2017)" } }
-puts white{ bold{ "Living in the present" } } + white{ ": man, you're just out of it." } + black{ bold{ " - Alan Kay (2017)" } }
 puts white{ "Most people want to stay 'asleep' in The Swamp of Familiarity." } + black{ bold{ " - @da02" } }
 puts white{ bold{ '"The internet is broken. It has been for a while"' } } + white{ " are the first words of the article you cannot read because of Javascriptosis. Quite ironic." } + black{ bold{ " - @astrobe_ on 'The Blockstack Browser: A Gateway to a New, Decentralized Internet' (2017)" } }
 puts white{ bold{ "You never change things by fighting the existing reality." } } + white{ " To change something, build a new model that makes the existing model obsolete." } + black{ bold{ " - Buckminster Fuller" } }
@@ -1437,7 +1439,6 @@ puts white{ bold{ "Sometimes, the elegant implementation is just a function." } 
 puts white{ "The problem with object-oriented languages is they've got all this implicit environment that they carry around with them. " } + white{ bold{ "You wanted a banana but what you got was a gorilla holding the banana and the entire jungle." } } + black{ bold{ " - Joe Armstrong" } }
 puts white{ bold{ "I used to be enamored of object-oriented programming." } } + white{ " I’m now finding myself leaning toward believing that it is a plot designed to destroy joy." } + black{ bold{ " - Eric Allman" } }
 puts white{ bold{ "OO is the 'structured programming' snake oil of the 90's" } } + white{ ": useful at times, but hardly the 'end all' programing paradigm some like to make out of it." } + black{ bold{ " - ESR" } }
-puts white{ bold{ "The notion of object oriented programming is completely misunderstood." } } + white{ " It's not about objects and classes, it's all about messages." } + black{ bold{ " - Alan Kay" } }
 
 # hardware
 puts '------- hardware --------'
