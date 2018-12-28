@@ -674,6 +674,7 @@ puts white{ bold{ "ThomPete's travail" } } + black{ bold{ ": " } } + white{ "Wic
 puts white{ "Intellectuals solve problems, geniuses prevent them." } + black{ bold{ " - Einstein" } }
 puts white{ "A comment is a failure to express yourself in code. If you fail, then write a comment; but try not to fail." } + black{ bold{ " - @UncleBobMartin" } }
 puts white{ bold{ "Programming is like cooking" } } + white{ ": in Python, you use pre-made bolognese sauce; in C++, you start from fresh tomatoes and minced meat; in Assembly, you have a farm where you grow your tomatoes and raise your cow." } + black{ bold{ " - @gv_barroso" } }
+puts white{ bold{ "Programming computers was so fascinating." } } + white{ " You create your own little universe, and then it does what you tell it to do." } + black{ bold{ " - Vint Cerf" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
