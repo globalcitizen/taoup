@@ -832,6 +832,7 @@ puts white{ "Archiving is the new folk art." } + black{ bold{ " - Rick Prelinger
 puts white{ "People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy." } + black{ bold{ " - Seneca" } }
 puts white{ "Forewarned, forearmed: " } + white{ bold{ "to be prepared is half the victory." } } + black{ bold{ " - Miguel de Cervantes" } }
 puts white{ bold{ "不怕慢就怕站" } } + white{ ": It doesn't matter how slowly you go, as long as you don't stop." } + black{ bold{ " - Confucius" } }
+puts white{ bold{ "In carpentry you measure twice and cut once." } } + white{ " In software development you never measure and make cuts until you run out of time." } + black{ bold{ " - Adam Morse" } }
 
 # re-sectionize
 puts "----- eponymous randoms -----"
