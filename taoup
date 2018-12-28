@@ -233,7 +233,7 @@ puts white{ bold{ "Poka-yoke (ポカヨケ)" } } + black{ bold{ ": " } } + white
 puts white{ bold{ "KISS" } } + black{ bold{ ": " } } + white{ "Keep it simple, stupid." } + black{ bold{ " - Kelly Johnson, Lockheed Martin, cold war period." } }
 puts white{ "Do more and more with less and less until eventually you can do everything with nothing." } + black{ bold{ " - Buckminster Fuller" } }
 puts white{ "It seems that perfection is reached not when there is nothing left to add, but when there is nothing left to take away." } + black{ bold{ " - Antoine de Saint Exupéry, a French poet and pioneering aviator" } }
-
+puts white{ "The most important single aspect of software development is to be clear about what you are trying to build." } + black{ bold{ " - Bjarne Stroustrup" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
@@ -672,6 +672,8 @@ puts white{ bold{ "Constant application of force." } } + black{ bold{ " - Michae
 puts white{ "We live in worlds our questions create." } + black{ bold{ " - David Cooperider" } }
 puts white{ bold{ "ThomPete's travail" } } + black{ bold{ ": " } } + white{ "Wicked problems are by definition either political or ideological." }
 puts white{ "Intellectuals solve problems, geniuses prevent them." } + black{ bold{ " - Einstein" } }
+puts white{ "A comment is a failure to express yourself in code. If you fail, then write a comment; but try not to fail." } + black{ bold{ " - @UncleBobMartin" } }
+puts white{ bold{ "Programming is like cooking" } } + white{ ": in Python, you use pre-made bolognese sauce; in C++, you start from fresh tomatoes and minced meat; in Assembly, you have a farm where you grow your tomatoes and raise your cow." } + black{ bold{ " - @gv_barroso" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -805,6 +807,7 @@ puts white{ bold{ "Great hackers also generally insist on using open source soft
 puts white{ "We now have several examples to prove that amateurs can surpass professionals, when they have the right kind of system to channel their efforts. Wikipedia may be the most famous. " } + white{ bold{ "Experts have given Wikipedia middling reviews, but they miss the critical point: it's good enough. And it’s free, which means people actually read it." } } + white{ " On the web, articles you have to pay for might as well not exist. Even if you were willing to pay to read them yourself, you can’t link to them. They're not part of the conversation." } + black{ bold{ " - Paul Graham (2005) " } } # http://www.paulgraham.com/web20.html
 puts white{ bold{ "Computer science is a grab bag of tenuously related areas thrown together by an accident of history, like Yugoslavia." } } + white{ " At one end you have people who are really mathematicians, but call what they're doing computer science so they can get DARPA grants. In the middle you have people working on something like the natural history of computers - studying the behavior of algorithms for routing data through networks, for example. And then at the other extreme you have the hackers, who are trying to write interesting software, and for whom computers are just a medium of expression, as concrete is for architects or paint for painters. It's as if mathematicians, physicists, and architects all had to be in the same department." } + black{ bold{ " - Paul Graham (2003) " } } # http://www.paulgraham.com/hp.html
 puts white{ "If you try to ban the future, it will just happen elsewhere." } + black{ bold{ " - Paul Graham (2017) " } } 
+puts white{ "In programming, the hard part isn't solving problems, but deciding what problems to solve." } + black{ bold{ " - Paul Graham" } }
 
 # peter thiel on tech/business/society
 puts "----- peter thiel -----"
@@ -848,6 +851,10 @@ puts white{ bold{ "Arnold's Law of Documentation" } } + white{ ": If it should e
 # atwood's law
 puts white{ bold{ "Atwood's Law" } } + white{ ": Any software that can be written in JavaScript will eventually be written in JavaScript." } + black{ bold{ " - Jeff Atwood" } }
 
+
+# buchheit's beholding
+puts white{ bold{ "Buchheit's Beholding" } } + white{ ": Every system has two sets of rules: the rules as they are intended or commonly perceived, and the actual rules ('reality')." } + black{ bold{ " - Paul Buchheit" } }
+
 # bombeck's law
 puts white{ bold{ "Erma Bombeck's Law" } } + white{ ": The other line always moves faster." }
 
@@ -870,6 +877,9 @@ puts white{ bold{ "CAP Theorem (Brewer's Theorem) - Clarification 3" } } + white
 puts white{ bold{ "Adding manpower to a late software project makes it later." } } + white{ " Nine women can't make a baby in one month." } + black{ bold{ " - Fred Brooks, 'The Mythical Man-Month' (1975)" } }
 # snarky restatement
 puts white{ "What one programmer can do in one month, two programmers can do in two months." } + black{ bold{ " - Fred Brooks" } }
+
+# carlson's conundrum
+puts white{ bold{ "Carlson's Conundrum" } } + white{ ": The sooner you start to code, the longer the program will take." }
 
 # celine's laws @ https://en.wikipedia.org/wiki/Celine%27s_laws
 puts white{ bold{ "Celine's first law" } } + white{ ": National Security is the chief cause of national insecurity." }
@@ -958,6 +968,9 @@ puts white{ bold{ "Lampson's Law - Corollary of the Client" } } + white{ ": " } 
 # lazlo
 puts white{ bold{ "Lazlo's Chinese Relativity Axiom" } } + white{ ": No matter how great your triumphs or how tragic your defeats - approximately one billion Chinese couldn't care less." }
 
+# le blanc's law
+puts white{ bold{ "Le Blanc's Law" } } + white{ ": Later equals never." }
+
 # maier's law
 puts white{ bold{ "Maier's Law" } } + white{ ": If the facts do not conform to the theory, they must be disposed of." }
 
@@ -982,8 +995,6 @@ puts white{ bold{ "Mosher's Law of Software Engineering" } } + white{ ": Don't w
 # ogden's law
 puts white{ bold{ "Ogden's Law" } } + white{ ": The sooner you fall behind, the more time you have to catch up." }
 
-# carlson's conundrum
-puts white{ bold{ "Carlson's Conundrum" } } + white{ ": The sooner you start to code, the longer the program will take." }
 
 # parkinson's law
 puts white{ bold{ "Parkinson's Law" } } + white{ ": Work expands so as to fill the time available for its completion." } + 
@@ -996,6 +1007,9 @@ puts white{ bold{ "Parkinson's Conjecture" } } + white{ ": Committees with a mem
 
 # peter's law
 puts white{ bold{ "Peter's Law of Substitution" } } + white{ ": Look after the molehills, and the mountains will look after themselves." }
+
+# pine's ponderance
+puts white{ bold{ "Pine's Ponderance" } } + white{ ": Programming isn't about what you know; it's about what you can figure out." }
 
 # planck's principle
 puts white{ bold{ "Planck's Principle of Increasing Effort" } } + white{ ": With every advance [in science] the difficulty of the task is increased." }
@@ -1241,6 +1255,8 @@ puts white{ "You don't have a clear idea of what it's going to be when you start
 puts white{ "We thought we were making an exquisite product, the best possible thing at the time but then, we figured, in a few years we'd make something a lot better, completely different. We didn't realize the architecture we were putting in place could last five years, let alone 10, 20, 30 years." } + black{ bold{ " - Andy Hertzfeld" } }
 puts white{ "I think the essential way to do anything great, you have to have some incremental development philosophy because you're just going to be wrong with your grand design that you don't iterate on." } + black{ bold{ " - Andy Hertzfeld" } }
 puts white{ "The only way to make a wheeled vehicle move is to hitch it to a horse." } + black{ bold{ " - Pat Brown, Founder, Impossible Foods" } }
+puts white{ "When debugging, novices insert corrective code; experts remove defective code." } + black{ bold{ " - Richard Pattis" } }
+puts white{ "An evolving system increases its complexity unless work is done to reduce it." } + black{ bold{ " - Meir Lehman" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
