@@ -1259,7 +1259,7 @@ puts white{ "I think the essential way to do anything great, you have to have so
 puts white{ "The only way to make a wheeled vehicle move is to hitch it to a horse." } + black{ bold{ " - Pat Brown, Founder, Impossible Foods" } }
 puts white{ "When debugging, novices insert corrective code; experts remove defective code." } + black{ bold{ " - Richard Pattis" } }
 puts white{ "An evolving system increases its complexity unless work is done to reduce it." } + black{ bold{ " - Meir Lehman" } }
-puts white{ "A little bit of history, repeating..." } + black{ bold{ " - Alex Gifford" } }
+puts white{ "There is fashion, there is fad. Some is good, some is bad. And the joke, is rather sad. That it's all just a little bit of history repeating..." } + black{ bold{ " - Alex Gifford" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
