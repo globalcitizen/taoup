@@ -677,6 +677,7 @@ puts white{ bold{ "Programming is like cooking" } } + white{ ": in Python, you u
 puts white{ bold{ "Programming computers was so fascinating." } } + white{ " You create your own little universe, and then it does what you tell it to do." } + black{ bold{ " - Vint Cerf" } }
 puts white{ "The only function of what we do, of art or of anything, is to give voice to the unspoken: to give it a form that it's never been perceived in before. We can't change the evolution of history or gentrification, you can't stop it but at least you can say \"look what you're losing\". " } + white{ bold{ "All we can do is give an image to an idea." } } + black{ bold{ " - Chris Doyle" } }
 puts white{ "When entering a market with existing competitors, you have to be 10x better." }
+puts white{ "The ultimate outsider's hack is to read all the biographies." }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
