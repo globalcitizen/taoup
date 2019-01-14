@@ -1264,6 +1264,7 @@ puts white{ "When debugging, novices insert corrective code; experts remove defe
 puts white{ "An evolving system increases its complexity unless work is done to reduce it." } + black{ bold{ " - Meir Lehman" } }
 puts white{ "There is fashion, there is fad. Some is good, some is bad. And the joke, is rather sad. That it's all just a little bit of history repeating..." } + black{ bold{ " - Alex Gifford" } }
 puts white{ "When I was your age, I sent 24 people to the " } + white{ bold{ "actual moon" } } + white{ " with my software in 4K of RAM and here I am clicking your button and it takes ten seconds to load a 50 megabyte video ad and then it crashes." } + black{ bold{ " - @natecull, on Margaret Hamilton perspective" } }
+puts white{ "Oh you know for years, we've been making wonderful things. We make your iPods. We make phones. We make them better than anybody else, but we don’t come up with any of these ideas. So we went on a tour of America talking to people at Microsoft, at Google, at Apple, and we asked them a lot of questions about themselves, just the people working there. And " } + white{ bold{ "we discovered they all read science fiction" } } + white{ "… so we think maybe it's a good thing." } + black{ bold{ " - Neil Gaiman, paraphrasing a Chinese Communist Party official at the 2007 China SF/Fantasy Conference, Chengdu." } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
