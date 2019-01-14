@@ -679,6 +679,7 @@ puts white{ "The only function of what we do, of art or of anything, is to give 
 puts white{ "When entering a market with existing competitors, you have to be 10x better." }
 puts white{ "The ultimate outsider's hack is to read all the biographies." }
 puts white{ "90% of investors add no value, 70% of investors add negative value to a company." } + black{ bold{ " - Vinod Khosla" } }
+puts white{ "Most people in business reduce the risk of failure to the point where the consequences of success are inconsequential on society." } + black{ bold{ " - Vinod Khosla" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -1269,6 +1270,7 @@ puts white{ "Oh you know for years, we've been making wonderful things. We make 
 puts white{ "Experience doesn't matter. The rate of learning matters. First principles thinking matters." } + black{ bold{ " - Vinod Khosla" } }
 puts white{ bold{ "A business plan is completely irrelevant" } } + white{ ", other than to judge how someone's thought about a problem... not what they're going to do." } + black{ bold{ " - Vinod Khosla" } }
 puts white{ "The future is not knowable, but it is 'inventable' and inevitable and discoverable through iterative learning and trial and error. Therefore, great entrepreneurs and technologists, please invent the future you want!" } + black{ bold{ " - Vinod Khosla" } }
+puts white{ "Few large innovations will come out of any institutional player." } + black{ bold{ " - Vinod Khosla" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
