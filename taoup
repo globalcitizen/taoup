@@ -1271,6 +1271,7 @@ puts white{ "Experience doesn't matter. The rate of learning matters. First prin
 puts white{ bold{ "A business plan is completely irrelevant" } } + white{ ", other than to judge how someone's thought about a problem... not what they're going to do." } + black{ bold{ " - Vinod Khosla" } }
 puts white{ "The future is not knowable, but it is 'inventable' and inevitable and discoverable through iterative learning and trial and error. Therefore, great entrepreneurs and technologists, please invent the future you want!" } + black{ bold{ " - Vinod Khosla" } }
 puts white{ "Few large innovations will come out of any institutional player." } + black{ bold{ " - Vinod Khosla" } }
+puts white{ "First they ignore you, then they laugh at you, then they fight you, then you win." } + black{ bold{ " - Mahatma Gandhi" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
