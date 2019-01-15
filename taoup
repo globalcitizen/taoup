@@ -236,6 +236,9 @@ puts white{ "It seems that perfection is reached not when there is nothing left 
 puts white{ "The most important single aspect of software development is to be clear about what you are trying to build." } + black{ bold{ " - Bjarne Stroustrup" } }
 puts white{ "Even trivialities may be essential." } + black{ bold{ " - Tamil saying" } }
 puts white{ "Essentials never lose their value." } + black{ bold{ " - Tamil saying" } }
+puts white{ "Bend the twig and you bend the tree." } + black{ bold{ " - Tamil saying" } }
+puts white{ "Beware of what is beyond your control." } + black{ bold{ " - Tamil saying" } }
+puts white{ "It is easy to criticize." } + black{ bold{ " - Tamil saying" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
@@ -683,6 +686,7 @@ puts white{ "The ultimate outsider's hack is to read all the biographies." }
 puts white{ "90% of investors add no value, 70% of investors add negative value to a company." } + black{ bold{ " - Vinod Khosla" } }
 puts white{ "Most people in business reduce the risk of failure to the point where the consequences of success are inconsequential on society." } + black{ bold{ " - Vinod Khosla" } }
 puts white{ "Sunrise brings fresh care to the destitute." } + black{ bold{ " - Tamil saying" } }
+puts white{ "Haste makes waste." }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -1276,6 +1280,7 @@ puts white{ "The future is not knowable, but it is 'inventable' and inevitable a
 puts white{ "Few large innovations will come out of any institutional player." } + black{ bold{ " - Vinod Khosla" } }
 puts white{ "First they ignore you, then they laugh at you, then they fight you, then you win." } + black{ bold{ " - Mahatma Gandhi" } }
 puts white{ "Effect lasts only as long as its cause." } + black{ bold{ " - Tamil saying" } }
+puts white{ "The effect lasts longer than its cause." } + black{ bold{ " - Tamil saying" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
