@@ -1281,6 +1281,7 @@ puts white{ "Few large innovations will come out of any institutional player." }
 puts white{ "First they ignore you, then they laugh at you, then they fight you, then you win." } + black{ bold{ " - Mahatma Gandhi" } }
 puts white{ "Effect lasts only as long as its cause." } + black{ bold{ " - Tamil saying" } }
 puts white{ "The effect lasts longer than its cause." } + black{ bold{ " - Tamil saying" } }
+puts white{ "A dystopian technology future overran our lives before we were ready." } + black{ bold{ " - Roger McNamee, early Facebook investor" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
