@@ -687,6 +687,7 @@ puts white{ "90% of investors add no value, 70% of investors add negative value 
 puts white{ "Most people in business reduce the risk of failure to the point where the consequences of success are inconsequential on society." } + black{ bold{ " - Vinod Khosla" } }
 puts white{ "Sunrise brings fresh care to the destitute." } + black{ bold{ " - Tamil saying" } }
 puts white{ "Haste makes waste." }
+puts white{ "All models are wrong, some are useful." }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
