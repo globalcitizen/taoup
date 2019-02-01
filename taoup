@@ -1282,6 +1282,8 @@ puts white{ "First they ignore you, then they laugh at you, then they fight you,
 puts white{ "Effect lasts only as long as its cause." } + black{ bold{ " - Tamil saying" } }
 puts white{ "The effect lasts longer than its cause." } + black{ bold{ " - Tamil saying" } }
 puts white{ "A dystopian technology future overran our lives before we were ready." } + black{ bold{ " - Roger McNamee, early Facebook investor" } }
+puts white{ "Our brains evolved for millions of years to operate in groups of less than 100. " } + white{ bold{ "Social media is basically high fructose corn syrup for our dopamine system." } } + white{ " Within a span of roughly 20 years the way we live our lives and communicate with other humans changed massively." }
+puts white{ "Insanity is doing the same thing over and over and expecting different results." }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
