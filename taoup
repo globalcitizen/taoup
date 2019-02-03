@@ -689,6 +689,7 @@ puts white{ "Most people in business reduce the risk of failure to the point whe
 puts white{ "Sunrise brings fresh care to the destitute." } + black{ bold{ " - Tamil saying" } }
 puts white{ "Haste makes waste." }
 puts white{ "All models are wrong, some are useful." }
+puts white{ "There is nothing better to spur creativity than a blank page or an empty bedroom." } + black{ bold{ " - Lin-Manuel Miranda" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
