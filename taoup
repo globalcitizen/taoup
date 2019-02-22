@@ -1289,6 +1289,7 @@ puts white{ "A dystopian technology future overran our lives before we were read
 puts white{ "Our brains evolved for millions of years to operate in groups of less than 100. " } + white{ bold{ "Social media is basically high fructose corn syrup for our dopamine system." } } + white{ " Within a span of roughly 20 years the way we live our lives and communicate with other humans changed massively." }
 puts white{ "Insanity is doing the same thing over and over and expecting different results." }
 puts white{ "Origin of man now proved... he who understands baboon would do more towards metaphysics than Locke." } + black{ bold{ " - Charles Darwin (1838)" } }
+puts white{ bold{ "Bamboo law" } } + black{ bold{ ": " } } + white{ "A bamboo plant grew only a few centimeters per day for 5 years. At 5 years, it suddenly began to grow 30 centimeters per day, and reached 15 meters height in just six weeks. It was discovered that it was working underground, building a large root network to facilitate future growth." }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
