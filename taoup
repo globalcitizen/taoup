@@ -1290,6 +1290,7 @@ puts white{ "Our brains evolved for millions of years to operate in groups of le
 puts white{ "Insanity is doing the same thing over and over and expecting different results." }
 puts white{ "Origin of man now proved... he who understands baboon would do more towards metaphysics than Locke." } + black{ bold{ " - Charles Darwin (1838)" } }
 puts white{ bold{ "Bamboo law" } } + black{ bold{ ": " } } + white{ "A bamboo plant grew only a few centimeters per day for 5 years. At 5 years, it suddenly began to grow 30 centimeters per day, and reached 15 meters height in just six weeks. It was discovered that it was working underground, building a large root network to facilitate future growth." }
+puts white{ bold{ "I visualize a time when we will be to robots what dogs are to humans." } } + white{ " And I am rooting for the machines." } + black{ bold{ " - Claude Shannon" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
