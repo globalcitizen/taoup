@@ -693,6 +693,11 @@ puts white{ "There is nothing better to spur creativity than a blank page or an 
 puts white{ bold{ "Un train peut cacher un autre!" } } + white{ " (\"One train can hide another!\")" } + black{ bold{ " - French saying" } }
 puts white{ "At the core of all well-founded belief, lies belief that is unfounded." } + black{ bold{ " - Wittgenstein, 'On Certainty' (1969)" } }
 puts white{ "The visionary lies to himself, the liar only to others." } + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ "Morality is: the mediocre are worth more than the exceptions." } + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ "You must have chaos within you to give birth to a dancing star." } + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ "In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule." } + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ bold{ "All things are subject to interpretation." } } + white{ " Whichever interpretation prevails at a given time is a function of power and not truth." } + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ "Winged insects and honey gatherers of the mind." } + black{ bold{ " - Friedrich Nietzsche, on humans" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
