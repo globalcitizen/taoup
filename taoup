@@ -698,6 +698,12 @@ puts white{ "You must have chaos within you to give birth to a dancing star." } 
 puts white{ "In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule." } + black{ bold{ " - Friedrich Nietzsche" } }
 puts white{ bold{ "All things are subject to interpretation." } } + white{ " Whichever interpretation prevails at a given time is a function of power and not truth." } + black{ bold{ " - Friedrich Nietzsche" } }
 puts white{ "Winged insects and honey gatherers of the mind." } + black{ bold{ " - Friedrich Nietzsche, on humans" } }
+puts white{ "Live dangerously."} + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ "The press, the machine, the railway, the telegraph are premises whose thousand-year conclusion no one has yet dared to draw."} + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ "Truths are illusions which we have forgotten are illusions." } + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ "Art raises its head where creeds relax." } + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ "Blessed are the forgetful: for they get the better even of their blunders." } + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ "Necessity is not an established fact, but an interpretation." } + black{ bold{ " - Friedrich Nietzsche" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
