@@ -240,6 +240,7 @@ puts white{ "Bend the twig and you bend the tree." } + black{ bold{ " - Tamil sa
 puts white{ "Beware of what is beyond your control." } + black{ bold{ " - Tamil saying" } }
 puts white{ "It is easy to criticize." } + black{ bold{ " - Tamil saying" } }
 puts white{ "Engineering isn't about imagining the minimum theoretical requirements, it's about building stuff that works with what is available." } + black{ bold{ " - @twtw" } }
+puts white{ "Rough consensus and running code." } + black{ bold{ " - David Clark (1992)" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
