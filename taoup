@@ -1305,7 +1305,7 @@ puts white{ "Insanity is doing the same thing over and over and expecting differ
 puts white{ "Origin of man now proved... he who understands baboon would do more towards metaphysics than Locke." } + black{ bold{ " - Charles Darwin (1838)" } }
 puts white{ bold{ "Bamboo law" } } + black{ bold{ ": " } } + white{ "A bamboo plant grew only a few centimeters per day for 5 years. At 5 years, it suddenly began to grow 30 centimeters per day, and reached 15 meters height in just six weeks. It was discovered that it was working underground, building a large root network to facilitate future growth." }
 puts white{ bold{ "I visualize a time when we will be to robots what dogs are to humans." } } + white{ " And I am rooting for the machines." } + black{ bold{ " - Claude Shannon" } }
-puts white{ bold{ "The Hipster Effect"} } + black{ bold{ ": " } } + white{ "Hipsters initially act randomly but then undergo a phase transition into a synchronized state." } # https://www.technologyreview.com/s/613034/the-hipster-effect-why-anti-conformists-always-end-up-looking-the-same/
+puts white{ bold{ "Hipster Effect"} } + black{ bold{ ": " } } + white{ "Hipsters initially act randomly but then undergo a phase transition into a synchronized state." } # https://www.technologyreview.com/s/613034/the-hipster-effect-why-anti-conformists-always-end-up-looking-the-same/
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
