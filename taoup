@@ -840,6 +840,8 @@ puts white{ "We now have several examples to prove that amateurs can surpass pro
 puts white{ bold{ "Computer science is a grab bag of tenuously related areas thrown together by an accident of history, like Yugoslavia." } } + white{ " At one end you have people who are really mathematicians, but call what they're doing computer science so they can get DARPA grants. In the middle you have people working on something like the natural history of computers - studying the behavior of algorithms for routing data through networks, for example. And then at the other extreme you have the hackers, who are trying to write interesting software, and for whom computers are just a medium of expression, as concrete is for architects or paint for painters. It's as if mathematicians, physicists, and architects all had to be in the same department." } + black{ bold{ " - Paul Graham (2003) " } } # http://www.paulgraham.com/hp.html
 puts white{ "If you try to ban the future, it will just happen elsewhere." } + black{ bold{ " - Paul Graham (2017) " } } 
 puts white{ "In programming, the hard part isn't solving problems, but deciding what problems to solve." } + black{ bold{ " - Paul Graham" } }
+puts white{ bold{ "Great minds discuss ideas" } } + white{ ", average minds discuss events, small minds discuss people." } + black{ bold{ " - Eleanor Roosevelt" } }
+
 
 # peter thiel on tech/business/society
 puts "----- peter thiel -----"
