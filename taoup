@@ -706,6 +706,7 @@ puts white{ "Art raises its head where creeds relax." } + black{ bold{ " - Fried
 puts white{ "Blessed are the forgetful: for they get the better even of their blunders." } + black{ bold{ " - Friedrich Nietzsche" } }
 puts white{ "Necessity is not an established fact, but an interpretation." } + black{ bold{ " - Friedrich Nietzsche" } }
 puts white{ bold{ "Bad programmers worry about the code." } } + white{ " Good programmers worry about data structures and their relationships." } + black{ bold{ " - Linus Torvalds" } }
+puts white{ "Explaining what you want done to a computer is much harder than telling a competent adult." } + black{ bold{ " - @dsr_" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -1309,6 +1310,7 @@ puts white{ "Origin of man now proved... he who understands baboon would do more
 puts white{ bold{ "Bamboo law" } } + black{ bold{ ": " } } + white{ "A bamboo plant grew only a few centimeters per day for 5 years. At 5 years, it suddenly began to grow 30 centimeters per day, and reached 15 meters height in just six weeks. It was discovered that it was working underground, building a large root network to facilitate future growth." }
 puts white{ bold{ "I visualize a time when we will be to robots what dogs are to humans." } } + white{ " And I am rooting for the machines." } + black{ bold{ " - Claude Shannon" } }
 puts white{ bold{ "Hipster Effect"} } + black{ bold{ ": " } } + white{ "Hipsters initially act randomly but then undergo a phase transition into a synchronized state." } # https://www.technologyreview.com/s/613034/the-hipster-effect-why-anti-conformists-always-end-up-looking-the-same/
+puts white{ "In many cases, it's easier to automate a white collar job these days with software than it is to automate a blue collar job requiring flexible physical tasks with robotics." } + black{ bold{ " - @mdorazio" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
