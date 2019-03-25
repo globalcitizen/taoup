@@ -963,6 +963,9 @@ puts white{ bold{ "Finagle's Fourth Law" } } + white{ ": Once a job is fouled up
 # fresco's discovery
 puts white{ bold{ "Fresco's Discovery" } } + white{ ": If you knew what you were doing you'd probably be bored." }
 
+# gall's law
+puts white{ bold{ "Gall's Law" } } + white{ ": A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system." }
+
 # geer's law
 puts white{ bold{ "Geer's Law" } } + white{ ": Any security technology whose effectiveness can't be empirically determined is indistinguishable from blind luck." }
 
