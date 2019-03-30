@@ -708,6 +708,7 @@ puts white{ "Necessity is not an established fact, but an interpretation." } + b
 puts white{ bold{ "Bad programmers worry about the code." } } + white{ " Good programmers worry about data structures and their relationships." } + black{ bold{ " - Linus Torvalds" } }
 puts white{ "Explaining what you want done to a computer is much harder than telling a competent adult." } + black{ bold{ " - @dsr_" } }
 puts white{ "The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble." } + black{ bold{ " - Ralph Waldo Emerson" } }
+puts white{ "The only people who win the lottery are those that are stupid enough to play." } + black{ bold{ " - @crimsonalucard" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
