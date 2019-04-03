@@ -585,7 +585,7 @@ puts white{ "Inside every utopia is a dystopia striving to get out." } # http://
 puts white{ "We are faced with an insurmountable opportunity." } + black{ bold{ " - Walter Crawford Kelly, Jr., American animator and cartoonist" } }
 puts white{ "An engineer is a man who can do for a dime what any fool can do for a dollar." }
 puts white{ bold{ "We didn't quite invent everything." } } + white{ " We didn't invent spreadsheets, and there's actually a good lesson in that. I think the reason we didn't invent spreadsheets is that we didn't have any use for them, since we didn't do accounting." } + black{ bold{ " - Dr. Butler Lampson, on Xerox PARC (2016)" } }
-puts white{ "Talent is hitting a target that nobody else can hit, genius is hitting a target that nobody else can see." } + black{ bold{ " - Schopenhauer" } }
+puts white{ bold{ "Talent" } } + white{ " is hitting a target that nobody else can hit, " } + white{ bold{ "genius" } } + white{ " is hitting a target that nobody else can see." } + black{ bold{ " - Schopenhauer" } }
 puts white{ "6,000 years of history in 640k." } + black{ bold{ " - Sid Meier on Civilization" } }
 puts white{ bold{ "The purpose of computation is insight" } } + white{ ", not numbers." } + black{ bold{ " - Richard Hamming" } }
 puts white{ bold{ "I admire the elegance of your method of computation" } } + white{ "; it must be nice to ride through these fields upon the horse of true mathematics while the like of us have to make our way laboriously on foot." } + black{ bold{ " - Albert Einstein to Tullio Levi-Civita, on tensor analysis (1915)" } }
