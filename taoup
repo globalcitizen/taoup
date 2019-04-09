@@ -712,6 +712,7 @@ puts white{ "The man who grasps principles can successfully select his own metho
 puts white{ "The only people who win the lottery are those that are stupid enough to play." } + black{ bold{ " - @crimsonalucard" } }
 puts white{ "That is quite a lot of words to say '" } + white{ bold{ "think a few steps ahead" } } + white{ "'." } + black{ bold{ " - @evrydayhustling" } }
 puts white{ "Paralysis by analysis." }
+puts white{ "What really matters is the machine that builds the machine: " } + white{ bold{ "the factory" } } + white{ ", and that is at least two orders of magnitude harder." } + black{ bold{ " - Elon Musk" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
