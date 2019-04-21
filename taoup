@@ -713,6 +713,8 @@ puts white{ "The only people who win the lottery are those that are stupid enoug
 puts white{ "That is quite a lot of words to say '" } + white{ bold{ "think a few steps ahead" } } + white{ "'." } + black{ bold{ " - @evrydayhustling" } }
 puts white{ "Paralysis by analysis." }
 puts white{ "What really matters is the machine that builds the machine: " } + white{ bold{ "the factory" } } + white{ ", and that is at least two orders of magnitude harder." } + black{ bold{ " - Elon Musk" } }
+# https://freeolabini.org/en/statement-from-ola/
+puts white{ bold{ "The leaders of the world are waging a war against knowledge." } } + white{ " The case against me is based on the books I've read and the technology I have." } + black{ bold{ " - Ola Bini, statement from Ecuadorean prison (2019)" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -873,6 +875,7 @@ puts white{ "People are frugal in guarding their personal property; but as soon 
 puts white{ "Forewarned, forearmed: " } + white{ bold{ "to be prepared is half the victory." } } + black{ bold{ " - Miguel de Cervantes" } }
 puts white{ bold{ "不怕慢就怕站" } } + white{ ": It doesn't matter how slowly you go, as long as you don't stop." } + black{ bold{ " - Confucius" } }
 puts white{ bold{ "In carpentry you measure twice and cut once." } } + white{ " In software development you never measure and make cuts until you run out of time." } + black{ bold{ " - Adam Morse" } }
+puts white{ "One, one coco full basket." } + black{ bold{ " - Jamaican saying" } }
 
 # re-sectionize
 puts "----- eponymous randoms -----"
