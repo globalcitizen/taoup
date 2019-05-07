@@ -1,7 +1,7 @@
 TAO (The Art) of Unix Programming (and related systemic epiphanies)
 ===================================================================
 
-This is a ruby-powered, ANSI-enabled, `fortune`-like program to espouse wisdom at
+This is a ruby-powered, ANSI colored, `fortune`-like program to espouse wisdom at
 opportune moments, such as when you log in.
 
 It's mostly a personal collection, but contributions are welcome.
