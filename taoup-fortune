@@ -34,7 +34,9 @@ fi
 # handle all classes of society
 if [ `which cowsay 2>/dev/null` ]; then
 	# educated user execution path
-	if [ `echo test|sort -R` ]; then
+	if [ `shuf -e 2>/dev/null` ]; then
+	  cat ${cachefile} |grep -v '^---' | shuf | head -n 1 | cowsay -f eyes -n |head -n 2 |tail -n 1
+	elif [ `echo test|sort -R` ]; then
 	  cat ${cachefile} |grep -v '^---' | sort -R | head -n 1 | cowsay -f eyes -n |head -n 2 |tail -n 1
         else
 	  cat ${cachefile} |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d'|' -f2- |head -n 2 |tail -n 1
@@ -42,7 +44,9 @@ if [ `which cowsay 2>/dev/null` ]; then
 	echo '' | cowsay -f eyes |tail -n 10 |sed 's/^/[0;32;40m/'
 else
 	# impoverished user execution path
-	if [ `echo test |sort -R` ]; then
+	if [ `shuf -e 2>/dev/null` ]; then
+	  cat ${cachefile} |grep -v '^---' | shuf | head -n 1
+	elif [ `echo test |sort -R` ]; then
 	  cat ${cachefile} |grep -v '^---' | sort -R | head -n 1
 	else
 	  cat ${cachefile} |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d'|' -f2- |head -n 2 |tail -n 1
