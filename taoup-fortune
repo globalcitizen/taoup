@@ -6,12 +6,45 @@
 #        - https://github.com/busyloop/lolcat
 #        - https://github.com/sckott/cowsay (enhanced version)
 dir=`dirname "${BASH_SOURCE[0]}"`
+
+# USER ALERT!!! @ronjouch complained about execution speed at https://github.com/globalcitizen/taoup/issues/11 
+#  ... therefore we add caching ... therefore first ensure we have an up to date cache via one of ...
+# md5sum
+if [ `which md5sum 2>/dev/null` ]; then
+ MD5SUM=`md5sum ${dir}/taoup | cut -d ' ' -f1`
+# md5
+elif [ `which md5 2>/dev/null` ]; then
+ MD5SUM=`md5 ${dir}/taoup | cut -d ' ' -f1`
+# openssl
+elif [ `which openssl 2>/dev/null` ]; then
+ MD5SUM=`cat ${dir}/taoup | openssl md5 | grep -o '[[:xdigit:]][[:xdigit:]]*$' |cut -d '=' -f2- |cut -c 2-`
+# ruby
+elif [ `which ruby 2>/dev/null` ]; then
+ MD5SUM=`ruby -rdigest/md5 -e"puts Digest::MD5.file'${dir}/taoup'"`
+fi
+
+# determine cachefile name
+cachefile=${dir}/.taoup-fortune.cache.${MD5SUM}
+
+# create if necessary
+if [ ! -r $cachefile ]; then
+ ${dir}/taoup $@ >${cachefile}
+fi
+
 # handle all classes of society
 if [ `which cowsay 2>/dev/null` ]; then
 	# educated user execution path
-	$dir/taoup "$@" |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1 | cowsay -f eyes -n |head -n 2 |tail -n 1
+	if [ `echo test|sort -R` ]; then
+	  cat ${cachefile} |grep -v '^---' | sort -R | head -n 1 | cowsay -f eyes -n |head -n 2 |tail -n 1
+        else
+	  cat ${cachefile} |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d'|' -f2- |head -n 2 |tail -n 1
+        fi
 	echo '' | cowsay -f eyes |tail -n 10 |sed 's/^/[0;32;40m/'
 else
 	# impoverished user execution path
-	$dir/taoup "$@" |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d"|" -f2- | head -n 1
+	if [ `echo test |sort -R` ]; then
+	  cat ${cachefile} |grep -v '^---' | sort -R | head -n 1
+	else
+	  cat ${cachefile} |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d'|' -f2- |head -n 2 |tail -n 1
+	fi
 fi
