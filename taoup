@@ -716,6 +716,7 @@ puts white{ "What really matters is the machine that builds the machine: " } + w
 # https://freeolabini.org/en/statement-from-ola/
 puts white{ bold{ "The leaders of the world are waging a war against knowledge." } } + white{ " The case against me is based on the books I've read and the technology I have." } + black{ bold{ " - Ola Bini, statement from Ecuadorean prison (2019)" } }
 puts white{ "You are in a maze of twisty little passages, all alike." } + black{ bold{ " - Colossal Cave Adventure (1976)" } }
+puts white{ "Our VP of Sales has an interesting reaction to every large deal won: " } + white{ bold{ "we could have asked for more" } } + white{ "." } + black{ bold{ " - @extragood" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
