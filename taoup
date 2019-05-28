@@ -1581,4 +1581,4 @@ puts white{ bold{ "We're determined to offer both world-leading customer experie
 puts white{ bold{ "The current online shopping experience is the worst it will ever be." } } + white { " We have a market-size unconstrained opportunity in an area where the underlying foundational technology we employ improves every day. That is not normal." } + black{ bold{ " - Jeff Bezos (1999)" } }
 puts white{ "Because of our emphasis on the long term, we may make decisions and weigh tradeoffs differently than some companies." } + black{ bold{ " - Jeff Bezos (1997)" } }
 puts white{ "Still Day 1." } + black{ bold{ " - Jeff Bezos" } }
-puts white{ "Whatever you do there's going t o be risk in your life, and risk is a necessary component of progress." } + black{ bold{ " - Jeff Bezos" } }
+puts white{ "Whatever you do there's going t o be risk in your life, and risk is a necessary component of progress." } + black{ bold{ " - Jeff Bezos (2001)" } }
