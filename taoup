@@ -717,6 +717,7 @@ puts white{ "What really matters is the machine that builds the machine: " } + w
 puts white{ bold{ "The leaders of the world are waging a war against knowledge." } } + white{ " The case against me is based on the books I've read and the technology I have." } + black{ bold{ " - Ola Bini, statement from Ecuadorean prison (2019)" } }
 puts white{ "You are in a maze of twisty little passages, all alike." } + black{ bold{ " - Colossal Cave Adventure (1976)" } }
 puts white{ "Our VP of Sales has an interesting reaction to every large deal won: " } + white{ bold{ "we could have asked for more" } } + white{ "." } + black{ bold{ " - @extragood" } }
+puts white{ "Perfectionism is a dangerous state of mind in an imperfect world." } + black{ bold{ " - Robert Hillyer" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -1567,7 +1568,7 @@ puts white{ "The get rich slowly schemes are not big sellers on infomercials." }
 puts white{ "I've noticed all overnight successes take about 10 years." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ "Every once in a while, when you step up to the plate, you can score 1,000 runs." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ "A dreamy business product has at least four characteristics: customers love it, it can grow to very large size, it has strong returns on capital, and it’s durable in time—with the potential to endure for decades. When you find one of these, don’t just swipe right, get married." } + black{ bold{ " - Jeff Bezos (2014)" } }
-puts white{ "When we’re at our best, we don’t wait for external pressures. We are internally driven to improve our services, adding benefits and features, before we have to. We lower prices and increase value for customers before we have to. We invent before we have to." } + black{ bold{ " - Jeff Bezos (2012)" } }
+puts white{ "When we're at our best, we don't wait for external pressures. We are internally driven to improve our services, adding benefits and features, before we have to. We lower prices and increase value for customers before we have to. We invent before we have to." } + black{ bold{ " - Jeff Bezos (2012)" } }
 puts white{ "I am emphasizing the self-service nature of these platforms because it’s important for a reason I think is somewhat non-obvious: even well-meaning gatekeepers slow innovation. When a platform is self-service, even the improbable ideas can get tried." } + black{ bold{ " - Jeff Bezos (2011)" } }
 puts white{ "Many of the problems we face have no textbook solutions, and so we — happily — invent new approaches." } + black{ bold{ " - Jeff Bezos (2010)" } }
 puts white{ bold{ "Working backwards from customer needs" } } + white{ " can be contrasted with a ‘skills-forward’ approach where existing skills and competencies are used to drive business opportunities. The skills-forward approach says, ‘We are really good at X. What else can we do with X?’ That’s a useful and rewarding business approach. However, if used exclusively, the company employing it will never be driven to develop fresh skills." } + black{ bold{ " - Jeff Bezos (2008)" } }
@@ -1580,3 +1581,4 @@ puts white{ bold{ "We're determined to offer both world-leading customer experie
 puts white{ bold{ "The current online shopping experience is the worst it will ever be." } } + white { " We have a market-size unconstrained opportunity in an area where the underlying foundational technology we employ improves every day. That is not normal." } + black{ bold{ " - Jeff Bezos (1999)" } }
 puts white{ "Because of our emphasis on the long term, we may make decisions and weigh tradeoffs differently than some companies." } + black{ bold{ " - Jeff Bezos (1997)" } }
 puts white{ "Still Day 1." } + black{ bold{ " - Jeff Bezos" } }
+puts white{ "Whatever you do there's going t o be risk in your life, and risk is a necessary component of progress." } + black{ bold{ " - Jeff Bezos" } }
