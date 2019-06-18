@@ -1332,6 +1332,7 @@ puts white{ "Something that can be helpful is fatalism, to some degree. If you j
 puts white{ "Every generation, everywhere, shall have an equal right to the enjoyment of natural wealth." } + black{ bold{ " - George Monbiot (2019): proposed replacement of 'all human beings are born free and equal in dignity and rights' in the UN Universal Declaration of Human Rights to account for inter-generational theft through environmental destruction." } }
 puts white{ "Computers in the future may have only 1,000 vacuum tubes and perhaps weigh 1.5 tons." } + black{ bold{ " - Popular Mechanics (1949)" } }
 puts white{ "Almost everyone involved in the personal computer revolution was a child of the sixties. We arrived on the scene with a mission to change the world..." } + black{ bold{ " - Peter R. Jennings, co-founder of 'VisiCalc' publisher VisiCorp, author of 'MicroChess'" } }
+puts white{ "Management problems and principles are rooted in time. The critical task for management in each revolutionary period is to find a new set of organizational practices that will become the basis for managing the next period of evolutionary growth." } + black{ bold{ " - Larry E. Greiner, 'Evolution and Revolution as Organizations Grow' (1972)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
