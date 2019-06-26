@@ -718,6 +718,7 @@ puts white{ bold{ "The leaders of the world are waging a war against knowledge."
 puts white{ "You are in a maze of twisty little passages, all alike." } + black{ bold{ " - Colossal Cave Adventure (1976)" } }
 puts white{ "Our VP of Sales has an interesting reaction to every large deal won: " } + white{ bold{ "we could have asked for more" } } + white{ "." } + black{ bold{ " - @extragood" } }
 puts white{ "Perfectionism is a dangerous state of mind in an imperfect world." } + black{ bold{ " - Robert Hillyer" } }
+puts white{ "Don't take advice from people who don't have to live with the consequences." } + black{ bold{ " - Mark Cuban" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
