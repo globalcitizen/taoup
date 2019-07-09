@@ -52,3 +52,4 @@ else
 	  cat ${cachefile} |grep -v '^---' | while read line;do echo $RANDOM'|'$line;done |sort|cut -d'|' -f2- |head -n 2 |tail -n 1
 	fi
 fi
+echo "(B[m"
