@@ -242,6 +242,9 @@ puts white{ "Beware of what is beyond your control." } + black{ bold{ " - Tamil 
 puts white{ "It is easy to criticize." } + black{ bold{ " - Tamil saying" } }
 puts white{ "Engineering isn't about imagining the minimum theoretical requirements, it's about building stuff that works with what is available." } + black{ bold{ " - @twtw" } }
 puts white{ "Rough consensus and running code." } + black{ bold{ " - David Clark (1992)" } }
+puts white{ "Design is the art of arranging code to work today, and be changeable forever." } + black{ bold{ " - Sandi Metz" } }
+puts white{ "A picture may be worth a thousand words, a formula is worth a thousand pictures." } + black{ bold{ " - Edsger Dijkstra" } }
+puts white{ "Elegance is not a dispensable luxury but a quality that decides between success and failure." } + black{ bold{ " - Edsger Dijkstra" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
@@ -719,6 +722,12 @@ puts white{ "You are in a maze of twisty little passages, all alike." } + black{
 puts white{ "Our VP of Sales has an interesting reaction to every large deal won: " } + white{ bold{ "we could have asked for more" } } + white{ "." } + black{ bold{ " - @extragood" } }
 puts white{ "Perfectionism is a dangerous state of mind in an imperfect world." } + black{ bold{ " - Robert Hillyer" } }
 puts white{ "Don't take advice from people who don't have to live with the consequences." } + black{ bold{ " - Mark Cuban" } }
+puts white{ "The most important skill for a programmer is the ability to effectively communicate ideas." } + black{ bold{ " - Gastón Jorquera" } }
+puts white{ "The ability to simplify means to eliminate the unnecessary so that the necessary may speak." } + black{ bold{ " - Hans Hofmann" } }
+puts white{ "Teaching yourself is discovering what is teachable." } + black{ bold{ " - Edsger Dijkstra (1979)" } }
+puts white{ "The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer." } + black{ bold{ " - Edsger Dijkstra (1972)" } }
+puts white{ "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better." } + black{ bold{ " - Dijkstra, 'On the nature of Computing Science' (1984)" } }
+puts white{ "It is time to unmask the computing community as a Secret Society for the Creation and Preservation of Artificial Complexity." } + black{ bold{ " - Edsger Dijkstra" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -1336,6 +1345,8 @@ puts white{ "Almost everyone involved in the personal computer revolution was a 
 puts white{ "Management problems and principles are rooted in time. The critical task for management in each revolutionary period is to find a new set of organizational practices that will become the basis for managing the next period of evolutionary growth." } + black{ bold{ " - Larry E. Greiner, 'Evolution and Revolution as Organizations Grow' (1972)" } }
 puts white{ "I think there's a risk of sending a lot of bright, productive people off to tilt at technological/interface/regulatory windmills in a way that leaves fundamental trust issues out of scope." } + black{ bold{ " - @abathur" } }
 puts white{ "Old man yells at cloud." } + black{ bold{ " - @moonbug" } }
+puts white{ "The topic became – primarily in the USA – prematurely known as 'computer science' – which, actually, is like referring to surgery as 'knife science' – and it was firmly implanted in people's minds that computing science is about machines and their peripheral equipment." } + black{ bold{ " - Edsger Dijkstra (1986)" } }
+puts white{ "The problems of the real world are primarily those you are left with when you refuse to apply their effective solutions." } + black{ bold{ " - Edsger Dijkstra (1988)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
