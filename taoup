@@ -728,7 +728,7 @@ puts white{ "Teaching yourself is discovering what is teachable." } + black{ bol
 puts white{ "The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer." } + black{ bold{ " - Edsger Dijkstra (1972)" } }
 puts white{ "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better." } + black{ bold{ " - Dijkstra, 'On the nature of Computing Science' (1984)" } }
 puts white{ "It is time to unmask the computing community as a Secret Society for the Creation and Preservation of Artificial Complexity." } + black{ bold{ " - Edsger Dijkstra" } }
-puts white{ "It seems that by learning a new language, you suddenly become attuned to perceptual dimensions that you weren't aware of before." } + black{ bold{ " - Panos Athanasopoulos, summarizing linguistic/psycho-spatial research (2019)" } }
+puts white{ "It seems that by learning a new language, you suddenly become attuned to perceptual dimensions that you weren't aware of before." } + black{ bold{ " - Panos Athanasopoulos, summarizing linguistic/psycho-spatial research (2018)" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
