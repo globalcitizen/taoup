@@ -1600,7 +1600,7 @@ puts white{ "Because of our emphasis on the long term, we may make decisions and
 puts white{ "Still Day 1." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ "Whatever you do there's going to be risk in your life, and risk is a necessary component of progress." } + black{ bold{ " - Jeff Bezos (2001)" } }
 
-# Newstrom's summary of the socratic method @ https://matthewstrom.com/writing/doubt/
+# Ström's summary of the Socratic method @ https://matthewstrom.com/writing/doubt/
 puts white{ bold{ "Unclear Ideas or Expression" } } + black{ bold{ ": " } } + white{ "Can you put that another way? Can you provide an example?" }
 puts white{ bold{ "Unaligned Purpose" } } + black{ bold{ ": " } } + white{ "What are our goals? What do you want to happen?" }
 puts white{ bold{ "Implicit or Faulty Assumptions" } } + black{ bold{ ": " } } + white{ "What are we assuming here? Is that assumption well founded?" }
