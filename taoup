@@ -1598,4 +1598,15 @@ puts white{ bold{ "We're determined to offer both world-leading customer experie
 puts white{ bold{ "The current online shopping experience is the worst it will ever be." } } + white { " We have a market-size unconstrained opportunity in an area where the underlying foundational technology we employ improves every day. That is not normal." } + black{ bold{ " - Jeff Bezos (1999)" } }
 puts white{ "Because of our emphasis on the long term, we may make decisions and weigh tradeoffs differently than some companies." } + black{ bold{ " - Jeff Bezos (1997)" } }
 puts white{ "Still Day 1." } + black{ bold{ " - Jeff Bezos" } }
-puts white{ "Whatever you do there's going t o be risk in your life, and risk is a necessary component of progress." } + black{ bold{ " - Jeff Bezos (2001)" } }
+puts white{ "Whatever you do there's going to be risk in your life, and risk is a necessary component of progress." } + black{ bold{ " - Jeff Bezos (2001)" } }
+
+# Newstrom's summary of the socratic method @ https://matthewstrom.com/writing/doubt/
+puts white{ bold{ "Unclear Ideas or Expression" } } + black{ bold{ ": " } } + white{ "Can you put that another way? Can you provide an example?" }
+puts white{ bold{ "Unaligned Purpose" } } + black{ bold{ ": " } } + white{ "What are our goals? What do you want to happen?" }
+puts white{ bold{ "Implicit or Faulty Assumptions" } } + black{ bold{ ": " } } + white{ "What are we assuming here? Is that assumption well founded?" }
+puts white{ bold{ "Uncertain Factual Basis" } } + black{ bold{ ": " } } + white{ "What it the evidence for this? What is the evidence against this?" }
+puts white{ bold{ "Narrow Viewpoint or Perspective" } } + black{ bold{ ": " } } + white{ "What additional viewpoints should we consider? Who would disagree?" }
+puts white{ bold{ "Unexplored Implications" } } + black{ bold{ ": " } } + white{ "What is the worst that could happen? What is the best we can expect to happen?" }
+puts white{ bold{ "Unanswered Questions" } } + black{ bold{ ": " } } + white{ "How can we find out? Can we break this into simpler questions?" }
+puts white{ bold{ "Unclear Concepts" } } + black{ bold{ ": " } } + white{ "What is the main idea we are exploring? How would you define … ?" }
+puts white{ bold{ "Unexplored Inferences" } } + black{ bold{ ": " } } + white{ "What ambiguities do you see? How can we resolve those ambiguities?" }
