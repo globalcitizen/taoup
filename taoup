@@ -1356,6 +1356,7 @@ puts white{ "It is far easier to shorten or expedite travel than to find a new c
 puts white{ "One may almost say that every labor-saving device is also a material-saving device. Its effect in stimulating demand for the articles which it produces and for those which are used in it is largely off-set by its effect in destroying demand for other articles." } + black{ bold{ " - W. H. Babcock, 'The Future of Invention' (1879)" } }
 puts white{ "Even the more complicated operations, such as the manufacture of brooms, are performed automatically and rapidly by a single machine, with very little human aid." } + black{ bold{ " - W. H. Babcock, 'The Future of Invention' (1879)" } }
 puts white{ "Conservatism is giving way every day before the demonstration of increased utility, convenience, and cheapness." } + black{ bold{ " - W. H. Babcock, 'The Future of Invention' (1879)" } }
+puts white{ "The chief revolution will be the general substitution of unintelligent matter for human bodies in nearly all subordinate work, and the greater liberation of the human mind and will." } + black{ bold{ " - W. H. Babcock, 'The Future of Invention' (1879)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
