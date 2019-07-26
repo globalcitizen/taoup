@@ -1348,6 +1348,14 @@ puts white{ "I think there's a risk of sending a lot of bright, productive peopl
 puts white{ "Old man yells at cloud." } + black{ bold{ " - @moonbug" } }
 puts white{ "The topic became – primarily in the USA – prematurely known as 'computer science' – which, actually, is like referring to surgery as 'knife science' – and it was firmly implanted in people's minds that computing science is about machines and their peripheral equipment." } + black{ bold{ " - Edsger Dijkstra (1986)" } }
 puts white{ "The problems of the real world are primarily those you are left with when you refuse to apply their effective solutions." } + black{ bold{ " - Edsger Dijkstra (1988)" } }
+puts white{ bold{ "All inventions have their origin either in the desire to get something new, or in the desire to get something more cheaply." } } + white{ " The former class would of course preponderate at first, since the tendency to acquire is generally greater than the tendency to save; and primitive man feels first of all the instinctive impulse to expand his powers. " } + black{ bold{ " - W. H. Babcock, 'The Future of Invention' (1879)" } }
+puts white{ "As we draw nearer and nearer to our own times, we find the cheapening devices gaining ground more and more in number and prominence." } + black{ bold{ " - W. H. Babcock, 'The Future of Invention' (1879)" } }
+puts white{ "At first, outlets for superfluous workmen were readily found." } + black{ bold{ " - W. H. Babcock, 'The Future of Invention' (1879)" } }
+puts white{ "Improvements crowd fast upon one another, and each means a few more men out of the way." } + black{ bold{ " - W. H. Babcock, 'The Future of Invention' (1879)" } }
+puts white{ "It is far easier to shorten or expedite travel than to find a new country; it is far easier to simplify the manufacture of old things than to devise radically new ones." } + black{ bold{ " - W. H. Babcock, 'The Future of Invention' (1879)" } }
+puts white{ "One may almost say that every labor-saving device is also a material-saving device. Its effect in stimulating demand for the articles which it produces and for those which are used in it is largely off-set by its effect in destroying demand for other articles." } + black{ bold{ " - W. H. Babcock, 'The Future of Invention' (1879)" } }
+puts white{ "Even the more complicated operations, such as the manufacture of brooms, are performed automatically and rapidly by a single machine, with very little human aid." } + black{ bold{ " - W. H. Babcock, 'The Future of Invention' (1879)" } }
+puts white{ "Conservatism is giving way every day before the demonstration of increased utility, convenience, and cheapness." } + black{ bold{ " - W. H. Babcock, 'The Future of Invention' (1879)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
