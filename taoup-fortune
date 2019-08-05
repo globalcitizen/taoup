@@ -14,7 +14,7 @@ if [ `which md5sum 2>/dev/null` ]; then
  MD5SUM=`md5sum ${dir}/taoup | cut -d ' ' -f1`
 # md5
 elif [ `which md5 2>/dev/null` ]; then
- MD5SUM=`md5 ${dir}/taoup | cut -d ' ' -f1`
+ MD5SUM=`md5 -q ${dir}/taoup | cut -d ' ' -f1`
 # openssl
 elif [ `which openssl 2>/dev/null` ]; then
  MD5SUM=`cat ${dir}/taoup | openssl md5 | grep -o '[[:xdigit:]][[:xdigit:]]*$' |cut -d '=' -f2- |cut -c 2-`
