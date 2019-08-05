@@ -730,6 +730,7 @@ puts white{ "Simplicity is a great virtue but it requires hard work to achieve i
 puts white{ "It is time to unmask the computing community as a Secret Society for the Creation and Preservation of Artificial Complexity." } + black{ bold{ " - Edsger Dijkstra" } }
 puts white{ "It seems that by learning a new language, you suddenly become attuned to perceptual dimensions that you weren't aware of before." } + black{ bold{ " - Panos Athanasopoulos, summarizing linguistic/psycho-spatial research (2018)" } }
 puts white{ bold{ "If you have a machine that needs to be cared about, stick googly eyes to it." } } + white{ " Works every time. Where there is a face, there is a name, where there is a name, there is care and maintenance." } + black{ bold{ " - @LifeLiverTransp" } }
+puts white{ "Thinking is also work." }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
