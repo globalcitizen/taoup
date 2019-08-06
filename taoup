@@ -731,6 +731,37 @@ puts white{ "It is time to unmask the computing community as a Secret Society fo
 puts white{ "It seems that by learning a new language, you suddenly become attuned to perceptual dimensions that you weren't aware of before." } + black{ bold{ " - Panos Athanasopoulos, summarizing linguistic/psycho-spatial research (2018)" } }
 puts white{ bold{ "If you have a machine that needs to be cared about, stick googly eyes to it." } } + white{ " Works every time. Where there is a face, there is a name, where there is a name, there is care and maintenance." } + black{ bold{ " - @LifeLiverTransp" } }
 puts white{ "Thinking is also work." }
+puts white{ "I have noticed that the more people glorify the entrepreneur as an abstraction, the more they will scorn an actual one they meet." } + black{ bold{ " - Jean-Louis Rheault" } }
+puts white{ bold{ "artificia docuit fames" } } + black{ bold{ " - " } } + white{ "sophistication is born out of hunger." }
+puts white{ "You have to work hard to get your thinking clean to make it simple." } + black{ bold{ " - Steve Jobs" } }
+
+# Nassim Taleb ('Antifragility', pp1-91)
+puts white{ bold{ "Techne" } } + black{ bold{ " (crafts and knowhow) " } } + white{ "not " } + white{ bold{ "episteme" } } + black{ bold{ " (book knowledge; know what). - Nassim Taleb" } } 
+puts white{ "A " } + white{ bold{ "collection of small units with semi-independent variations" } } + white{ " produces vastly different risk characteristics than a " } + white{ bold{ "single large unit" } } + white{ "." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "Avoidance of small mistakes makes the large ones more severe." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "This is " } + white{ bold{ "the central illusion in life" } } + white{ ": that randomness is risky, that it is a bad thing - and that eliminating randomness is done by eliminating randomness." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "Where simplifications fail, causing the most damage, is when something nonlinear is simplified with the linear as a substitute." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "What Erasmus called " } + white{ bold{ "ingraditudo vulgi" } } + white{ ", the ingratitude of the masses, is increasing in the age of globalization and the internet." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "The restaurant business is wonderfully efficient precisely because restaurants, being vulnerable, go bankrupt every minute, and entrepreneurs ignore such a possibility." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "If every plane crash makes the next one less likely, then every bank crash makes the next one more likely." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "While " } + white{ bold{ "hormesis" } } + white{ " corresponds to situations by which the individual organism benefits from direct harm to itself, " } + white{ bold{ "evolution" } } + white{ " occurs when harm makes the individual organism perish and the benefits are transferred to others." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "If nature ran the economy, it would not continuously bail out its living members to make them live forever." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "What the author is bored writing bores the reader." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "Randomness is necessary for true life." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ bold{ "In the complex world, the notion of 'cause' itself is suspect" } } + white{ "; it is either nearly impossible to detect or not really defined - another reason to ignore newspapers, with their constant supply of causes for things." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "Just as in matters of seduction, " } + white{ bold{ "people lend the most to those who need them the least" } } + white{ "." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "Those from whom we have benefited the most aren't those who have tried to help us (say with 'advice') but rather those who have actively tried - but eventually failed - to harm us." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "With few exceptions, those who dress outrageously are robust or even antifragile in reputation; those clean-shaven types who dress in suits and ties are fragile to information about them." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "To estimate the quality of research, take the caliber of the highest detractor, or the caliber of the lowest detractor whom the author answers in print - whichever is lower." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ bold{ "The Lucretius problem" } } + black{ bold{ ": " } } + white{ "The fool believes that the tallest mountain in the world will be equal to the tallest one he has observed." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "We know more than we think we do; a lot more than we can articulate." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "Our formal systems of thought denigrate the natural." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "Modernity has replaced ethics with legalese; and the law can be gamed with a good lawyer." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "We have the illusion that the world functions thanks to programmed design, university research, and bureaucratic funding, but there is compelling - very compelling - evidence to show that this is an illusion, the illusion I call " } + white{ bold{ "lecturing birds how to fly" } } + white{ "." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "The modern world may be increasing in technological knowledge, but, paradoxically, it is making things a lot more unpredictable." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "It is hard to see how things work by looking at single parts." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ bold{ "Complex systems" } } + white{ " are full of " } + white{ bold{ "interdependencies" } } + white{ " - hard to detect - and " } + white{ bold{ "nonlinear responses" } } + white{ "." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "At no point in history have so many non-risk takers, that is, those with no personal exposure, exerted so much control." } + black{ bold{ " - Nassim Taleb" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -1502,6 +1533,7 @@ puts white{ bold{ "The truth is like poetry" } } + white{ ", and most people fuc
 puts white{ "The writer is that person who, embarking upon her task, does not know what to do." } + black{ bold{ " - Donald Barthelme" } }
 puts white{ "Asked which of the arts was closest to writing, Norman Mailer once told me the answer was 'acting'." } + black{ bold{ " - Andrew O'Hagan" } }
 puts white{ "There can be no reliable biography of a writer, 'because a writer is too many people if he is any good'." } + black{ bold{ " - Andrew O'Hagan" } }
+puts white{ bold{ "No skill to understand it; mastery to write it." } } + black{ bold{ " - Arabic summary of good writing" } }
 
 # randoms - visual art and programming
 puts '--- randoms - visual art and programming ---'
