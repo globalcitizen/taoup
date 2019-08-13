@@ -762,6 +762,7 @@ puts white{ "The modern world may be increasing in technological knowledge, but,
 puts white{ "It is hard to see how things work by looking at single parts." } + black{ bold{ " - Nassim Taleb" } }
 puts white{ bold{ "Complex systems" } } + white{ " are full of " } + white{ bold{ "interdependencies" } } + white{ " - hard to detect - and " } + white{ bold{ "nonlinear responses" } } + white{ "." } + black{ bold{ " - Nassim Taleb" } }
 puts white{ "At no point in history have so many non-risk takers, that is, those with no personal exposure, exerted so much control." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ "Personality disorders are a terrible thing to waste." } + black{ bold{ " - John Waters" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
