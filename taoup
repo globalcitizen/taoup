@@ -245,6 +245,7 @@ puts white{ "Rough consensus and running code." } + black{ bold{ " - David Clark
 puts white{ "Design is the art of arranging code to work today, and be changeable forever." } + black{ bold{ " - Sandi Metz" } }
 puts white{ "A picture may be worth a thousand words, a formula is worth a thousand pictures." } + black{ bold{ " - Edsger Dijkstra" } }
 puts white{ "Elegance is not a dispensable luxury but a quality that decides between success and failure." } + black{ bold{ " - Edsger Dijkstra" } }
+puts white{ bold{ "Head closer to the rocks of chaos rather than suffocating control." } } + white{ " But being on that side of the channel still means we have to avoid the rocks, and a way to maximize local decision making in a way that minimizes the real costs involved." } + black{ bold{ " - Martin Fowler" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
