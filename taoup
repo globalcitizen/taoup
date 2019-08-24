@@ -1661,4 +1661,5 @@ puts white{ bold{ "Failure is an option here." } } + white{ " If things are not 
 puts white{ "What really matters is the machine that builds the machine: " } + white{ bold{ "the factory" } } + white{ ", and that is at least two orders of magnitude harder." } + black{ bold{ " - Elon Musk" } }
 puts white{ "It feels as though I think technology just automatically gets better every year; but actually it doesn't, " } + white{ bold{ "it only gets better if smart people work like crazy to make it better" } } + white{ ". That's how any technology actually gets better, and " } + white{ bold{ "by itself - if people don't work on it - it will actually decline" } } + white{ ". Look at this history of civilizations, many civilizations." } + black{ bold{ " - Elon Musk" } }
 puts white{ "Something that can be helpful is fatalism, to some degree. If you just accept the probabilities then that diminishes fear." } + black{ bold{ " - Elon Musk" } }
+puts white{ bold{ "As much as possible, avoid hiring MBAs." } } + white{ " MBA programs don't teach people how to create companies." } + black{ bold{ " - Elon Musk" } }
 
