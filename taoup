@@ -662,7 +662,6 @@ puts white{ "You have that problem with humans. Anything that happens beyond the
 puts white{ bold{ "We must do away with the absolutely specious notion that everybody has to earn a living." } } + white{ " It is a fact today that one in ten thousand of us can make a technological breakthrough capable of supporting all the rest. The youth of today are absolutely right in recognizing this nonsense of earning a living. We keep inventing jobs because of this false idea that everybody has to be employed at some kind of drudgery because, according to Malthusian-Darwinian theory, he must justify his right to exist. So we have inspectors of inspectors and people making instruments for inspectors to inspect inspectors. The true business of people should be to go back to school and think about whatever it was they were thinking about before somebody came along and told them they had to earn a living." } + black{ bold{ " - Buckminster Fuller, 'New York Magazine' (1970)" } }
 puts white{ "Raise your quality standards as high as you can live with, avoid wasting your time on routine problems, and always try to work as closely as possible at the boundary of your abilities. Do this, because it is the only way of discovering how that boundary should be moved forward." } + black{ bold{ " - Edsger Dijkstra" } }
 puts white{ bold{ "One machine can do the work of fifty ordinary men." } } + white{ " No machine can do the work of one extraordinary man." } + black{ bold{ " - Elbert Hubbard" } }
-puts white{ bold{ "Failure is an option here." } } + white{ " If things are not failing, you are not innovating enough." } + black{ bold{ " - Elon Musk" } }
 puts white{ bold{ "If it's a good idea, go ahead and do it." } } + white{ " It's much easier to apologize than it is to get permission." } + black{ bold{ " - Grace Hopper" } }
 puts white{ "If we continue to develop our technology without wisdom or prudence, our servant may prove to be our executioner." } + black{ bold{ " - Omar Bradley" } }
 puts white{ "To iterate is human, to recurse divine." } + black{ bold{ " - Peter Deutsch" } }
@@ -715,7 +714,6 @@ puts white{ "The man who grasps principles can successfully select his own metho
 puts white{ "The only people who win the lottery are those that are stupid enough to play." } + black{ bold{ " - @crimsonalucard" } }
 puts white{ "That is quite a lot of words to say '" } + white{ bold{ "think a few steps ahead" } } + white{ "'." } + black{ bold{ " - @evrydayhustling" } }
 puts white{ "Paralysis by analysis." }
-puts white{ "What really matters is the machine that builds the machine: " } + white{ bold{ "the factory" } } + white{ ", and that is at least two orders of magnitude harder." } + black{ bold{ " - Elon Musk" } }
 # https://freeolabini.org/en/statement-from-ola/
 puts white{ bold{ "The leaders of the world are waging a war against knowledge." } } + white{ " The case against me is based on the books I've read and the technology I have." } + black{ bold{ " - Ola Bini, statement from Ecuadorean prison (2019)" } }
 puts white{ "You are in a maze of twisty little passages, all alike." } + black{ bold{ " - Colossal Cave Adventure (1976)" } }
@@ -1372,8 +1370,6 @@ puts white{ bold{ "Bamboo law" } } + black{ bold{ ": " } } + white{ "A bamboo pl
 puts white{ bold{ "I visualize a time when we will be to robots what dogs are to humans." } } + white{ " And I am rooting for the machines." } + black{ bold{ " - Claude Shannon" } }
 puts white{ bold{ "Hipster Effect"} } + black{ bold{ ": " } } + white{ "Hipsters initially act randomly but then undergo a phase transition into a synchronized state." } # https://www.technologyreview.com/s/613034/the-hipster-effect-why-anti-conformists-always-end-up-looking-the-same/
 puts white{ "In many cases, it's easier to automate a white collar job these days with software than it is to automate a blue collar job requiring flexible physical tasks with robotics." } + black{ bold{ " - @mdorazio" } }
-puts white{ "It feels as though I think technology just automatically gets better every year; but actually it doesn't, " } + white{ bold{ "it only gets better if smart people work like crazy to make it better" } } + white{ ". That's how any technology actually gets better, and " } + white{ bold{ "by itself - if people don't work on it - it will actually decline" } } + white{ ". Look at this history of civilizations, many civilizations." } + black{ bold{ " - Elon Musk" } }
-puts white{ "Something that can be helpful is fatalism, to some degree. If you just accept the probabilities then that diminishes fear." } + black{ bold{ " - Elon Musk" } }
 # https://www.theguardian.com/commentisfree/2019/mar/15/capitalism-destroying-earth-human-right-climate-strike-children
 puts white{ "Every generation, everywhere, shall have an equal right to the enjoyment of natural wealth." } + black{ bold{ " - George Monbiot (2019): proposed replacement of 'all human beings are born free and equal in dignity and rights' in the UN Universal Declaration of Human Rights to account for inter-generational theft through environmental destruction." } }
 puts white{ "Computers in the future may have only 1,000 vacuum tubes and perhaps weigh 1.5 tons." } + black{ bold{ " - Popular Mechanics (1949)" } }
@@ -1648,6 +1644,7 @@ puts white{ "Still Day 1." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ "Whatever you do there's going to be risk in your life, and risk is a necessary component of progress." } + black{ bold{ " - Jeff Bezos (2001)" } }
 
 # Ström's summary of the Socratic method @ https://matthewstrom.com/writing/doubt/
+puts white{ "---- Ström's summary of the Socratic method ----" }
 puts white{ bold{ "Unclear Ideas or Expression" } } + black{ bold{ ": " } } + white{ "Can you put that another way? Can you provide an example?" }
 puts white{ bold{ "Unaligned Purpose" } } + black{ bold{ ": " } } + white{ "What are our goals? What do you want to happen?" }
 puts white{ bold{ "Implicit or Faulty Assumptions" } } + black{ bold{ ": " } } + white{ "What are we assuming here? Is that assumption well founded?" }
@@ -1657,3 +1654,11 @@ puts white{ bold{ "Unexplored Implications" } } + black{ bold{ ": " } } + white{
 puts white{ bold{ "Unanswered Questions" } } + black{ bold{ ": " } } + white{ "How can we find out? Can we break this into simpler questions?" }
 puts white{ bold{ "Unclear Concepts" } } + black{ bold{ ": " } } + white{ "What is the main idea we are exploring? How would you define … ?" }
 puts white{ bold{ "Unexplored Inferences" } } + black{ bold{ ": " } } + white{ "What ambiguities do you see? How can we resolve those ambiguities?" }
+
+# Musk
+puts white{ "---- Elon Musk ----" }
+puts white{ bold{ "Failure is an option here." } } + white{ " If things are not failing, you are not innovating enough." } + black{ bold{ " - Elon Musk" } }
+puts white{ "What really matters is the machine that builds the machine: " } + white{ bold{ "the factory" } } + white{ ", and that is at least two orders of magnitude harder." } + black{ bold{ " - Elon Musk" } }
+puts white{ "It feels as though I think technology just automatically gets better every year; but actually it doesn't, " } + white{ bold{ "it only gets better if smart people work like crazy to make it better" } } + white{ ". That's how any technology actually gets better, and " } + white{ bold{ "by itself - if people don't work on it - it will actually decline" } } + white{ ". Look at this history of civilizations, many civilizations." } + black{ bold{ " - Elon Musk" } }
+puts white{ "Something that can be helpful is fatalism, to some degree. If you just accept the probabilities then that diminishes fear." } + black{ bold{ " - Elon Musk" } }
+
