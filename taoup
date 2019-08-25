@@ -764,6 +764,7 @@ puts white{ bold{ "Complex systems" } } + white{ " are full of " } + white{ bold
 puts white{ "At no point in history have so many non-risk takers, that is, those with no personal exposure, exerted so much control." } + black{ bold{ " - Nassim Taleb" } }
 puts white{ "Personality disorders are a terrible thing to waste." } + black{ bold{ " - John Waters" } }
 puts white{ bold{ "Elements of thinking considered crucial to wisdom" } } + white{ ": intellectual humility, taking the perspective of others, recognising uncertainty, and having the capacity to search for a compromise." }
+puts white{ bold{ "kala pani" } } + white{ ": black waters." } + black{ bold{ " - Hindu taboo on ocean voyages" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
