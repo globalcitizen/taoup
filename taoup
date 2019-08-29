@@ -1661,6 +1661,7 @@ puts white{ bold{ "Unexplored Inferences" } } + black{ bold{ ": " } } + white{ "
 
 # Musk
 puts white{ "---- Elon Musk ----" }
+puts white{ bold{ "Human speech, to a computer, will sound like very slow tonal wheezing." } } + white{ " It's kinda like whale sounds, 'cause what's our bandwidth? Like a few hundred bits per second basically, maybe a few kilobits per second if you're going to be generous. Whereas a computer can easily communicate at a terabit level. It'd be like talking to a tree: that's humans." } + black{ bold{ " - Elon Musk" } }
 puts white{ bold{ "Failure is an option here." } } + white{ " If things are not failing, you are not innovating enough." } + black{ bold{ " - Elon Musk" } }
 puts white{ "What really matters is the machine that builds the machine: " } + white{ bold{ "the factory" } } + white{ ", and that is at least two orders of magnitude harder." } + black{ bold{ " - Elon Musk" } }
 puts white{ "It feels as though I think technology just automatically gets better every year; but actually it doesn't, " } + white{ bold{ "it only gets better if smart people work like crazy to make it better" } } + white{ ". That's how any technology actually gets better, and " } + white{ bold{ "by itself - if people don't work on it - it will actually decline" } } + white{ ". Look at this history of civilizations, many civilizations." } + black{ bold{ " - Elon Musk" } }
