@@ -1661,6 +1661,7 @@ puts white{ bold{ "Unexplored Inferences" } } + black{ bold{ ": " } } + white{ "
 
 # Musk
 puts white{ "---- Elon Musk ----" }
+puts white{ bold{ "If there was a topological map of technology awareness, it's mostly flat." } } + white{ " But with a few short buildings and then some very tall spires, very tall spires. And unless you're on that very tall spire, it's not obvious what the topology is." } + black{ bold{ " - Elon Musk" } }
 puts white{ "I really think " } + bold{ white{ "China is the future" } } + white{ ", very impressive." } + black{ bold{ " - Elon Musk" } }
 puts white{ bold{ "Human speech, to a computer, will sound like very slow tonal wheezing." } } + white{ " It's kinda like whale sounds, 'cause what's our bandwidth? Like a few hundred bits per second basically, maybe a few kilobits per second if you're going to be generous. Whereas a computer can easily communicate at a terabit level. It'd be like talking to a tree: that's humans." } + black{ bold{ " - Elon Musk" } }
 puts white{ bold{ "Failure is an option here." } } + white{ " If things are not failing, you are not innovating enough." } + black{ bold{ " - Elon Musk" } }
