@@ -767,6 +767,7 @@ puts white{ bold{ "Elements of thinking considered crucial to wisdom" } } + whit
 puts white{ bold{ "kala pani" } } + white{ ": black waters." } + black{ bold{ " - Hindu taboo on ocean voyages" } }
 puts white{ bold{ "Peer to Peer Communism vs the Client-Server State" } } + white{ ": The Political Economy of Network Topologies." } + black{ bold{ " - Presentation title, SIGINT10, Dmytri Kleiner" } }
 puts white{ "My sympathies were with people who struggled. There was also my mistrust of people who made the rules." } + black{ bold{ " - Robert Frank" } }
+puts white{ "Grinder and paint makes me the welder I ain't." }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
