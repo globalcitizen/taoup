@@ -772,6 +772,7 @@ puts white{ "You cannot study a system by stopping it." } + black{ bold{ " - Fra
 puts white{ "The people must learn how well I govern them. How would they know if I did not tell them?" } + black{ bold{ " - Frank Herbert, 'Dune'" } }
 puts white{ "Is that some kind of game you're playing?" }
 puts white{ "Telling rocks what to think." } + black{ bold{ " - Erin Spice's summary of programming in 5 words" } }
+puts white{ "Knowledge work." } + black{ bold{ " - Peter Drucker (1959)" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
