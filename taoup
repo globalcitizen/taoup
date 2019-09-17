@@ -770,6 +770,7 @@ puts white{ "My sympathies were with people who struggled. There was also my mis
 puts white{ "Grinder and paint makes me the welder I ain't." }
 puts white{ "You cannot study a system by stopping it." } + black{ bold{ " - Frank Herbert, 'Dune'" } }
 puts white{ "Is that some kind of game you're playing?" }
+puts white{ "Telling rocks what to think." } + black{ bold{ " - Erin Spice's summary of programming in 5 words" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
