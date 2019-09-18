@@ -773,6 +773,7 @@ puts white{ "The people must learn how well I govern them. How would they know i
 puts white{ "Is that some kind of game you're playing?" }
 puts white{ "Telling rocks what to think." } + black{ bold{ " - Erin Spice's summary of programming in 5 words" } }
 puts white{ "Knowledge work." } + black{ bold{ " - Peter Drucker (1959)" } }
+puts white{ bold{ "Ein nagel behalt ein îſen." } } + white{ " For wont of a nail." } + black{ bold{ " - Freidank, 'Bescheidenheit' (1230)" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
