@@ -1104,6 +1104,8 @@ puts white{ bold{ "Mosher's Law of Software Engineering" } } + white{ ": Don't w
 # ogden's law
 puts white{ bold{ "Ogden's Law" } } + white{ ": The sooner you fall behind, the more time you have to catch up." }
 
+# ovsiankina effect
+puts white{ bold{ "Ovsiankina effect" } } + white{ ": The tendency to resume an interrupted action." }
 
 # parkinson's law
 puts white{ bold{ "Parkinson's Law" } } + white{ ": Work expands so as to fill the time available for its completion." } + 
@@ -1164,6 +1166,9 @@ puts white{ bold{ "Hofstadter's Law" } } + white{ ": It always takes longer than
 
 # zawinski
 puts white{ bold{ "Zawinski's Law" } } + white{ ": Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can." }
+
+# zeigarnik
+puts white{ bold{ "Zeigarnik effect" } } + white{ ": people remember uncompleted or interrupted tasks better than completed tasks." }
 
 # zymurgy
 puts white{ bold{ "Zymurgy's First Law of Evolving Systems Dynamics" } } + white{ ": Once you open a can of worms, the only way to recan them is to use a larger can." }
