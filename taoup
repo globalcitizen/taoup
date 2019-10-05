@@ -960,7 +960,6 @@ puts white{ bold{ "Arnold's Law of Documentation" } } + white{ ": If it should e
 # atwood's law
 puts white{ bold{ "Atwood's Law" } } + white{ ": Any software that can be written in JavaScript will eventually be written in JavaScript." } + black{ bold{ " - Jeff Atwood" } }
 
-
 # buchheit's beholding
 puts white{ bold{ "Buchheit's Beholding" } } + white{ ": Every system has two sets of rules: the rules as they are intended or commonly perceived, and the actual rules ('reality')." } + black{ bold{ " - Paul Buchheit" } }
 
@@ -1061,6 +1060,9 @@ puts white{ bold{ "Howe's Law" } } + white{ ": Everyone has a scheme that will n
 
 # hume's problem of induction
 puts white{ bold{ "Hume's Problem of Induction" } } + white{ ": How can we ever be justified in generalizing from what we've seen to what we haven't?" }
+
+# kasparov's law
+puts white{ bold{ "Kasparov's Law" } } + white{ ": Weak human + machine + better process is superior to a strong computer alone and, more remarkably, superior to a strong human + machine + inferior process." }
 
 # kinkler
 puts white{ bold{ "Kinkler's First Law" } } + white{ ": Responsibility always exceeds authority." }
