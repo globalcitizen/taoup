@@ -657,10 +657,6 @@ puts white{ "Past studies indicate a complex relationship between optimism and p
 puts white{ "What civilization is is 6 billion people trying to make themselves happy by standing on each other's shoulders and kicking each other's teeth in. It's not a pleasant situation. And yet you can stand back and look at this planet and see that " } + white{ bold{ "we have the money, the power, the medical understanding, the scientific know-how, the love, and the community to produce a kind of human paradise" } } + white{ "." } + black{ bold{ " - Terence McKenna" } }
 puts white{ bold{ "AI lowers the cost of knowledge by orders of magnitude." } } + white{ " One good, effective machine learning system can do the work of a million people, whether it's for commercial purposes or for cyberespionage. Imagine a country that produces a thousand times more knowledge than another. This is the challenge we are facing." } + black{ bold{ " - Pedro Domingos" } }
 puts white{ "Just like Americans believe in lawyers, the Chinese believe in engineers." } + black{ bold{ " - Pedro Domingos" } }
-puts white{ bold{ "Many late-stage investments aren't really investments" } } + white{ ": they're just disguised forms of debt." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
-puts white{ "Starting a business, founding a company is the hardest act in business." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
-puts white{ "There have been a few other people that have been extremely fortunate and lucky like I have. " } + white{ bold{ "You could have put a chimpanzee in the valley in 1986 and they would have been successful in the venture business." } } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
-puts white{ "What you cannot hire people to do is to have the wonderful spark and founding instinct and deep fascination and abiding passion for a particular topic." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 puts white{ "When engineers talk to each other, they don't say \"Believe me!\"" } + black{ bold{ " - Jacque Fresco" } }
 puts white{ "I would say the majority of the people of the world today are un-sane. Not insane, un-sane meaning having been exposed to methods of evaluation that are long rendered obsolete." } + black{ bold{ " - Jacque Fresco" } }
 puts white{ "You have that problem with humans. Anything that happens beyond their comprehension they have to invent an excuse for." } + black{ bold{ " - Jacque Fresco" } }
@@ -1691,3 +1687,12 @@ puts white{ "It feels as though I think technology just automatically gets bette
 puts white{ "Something that can be helpful is fatalism, to some degree. If you just accept the probabilities then that diminishes fear." } + black{ bold{ " - Elon Musk" } }
 puts white{ bold{ "As much as possible, avoid hiring MBAs." } } + white{ " MBA programs don't teach people how to create companies." } + black{ bold{ " - Elon Musk" } }
 puts white{ "Any product that needs a manual to work is broken" } + black{ bold{ " - Elon Musk" } }
+
+# Michael Moritz
+puts white{ "---- Michael Moritz ----" }
+puts white{ bold{ "Few markets are as ferociously competitive as the technology business in China." } } + white{ " People there simply work a lot harder. And when you ally that with talent, creativity and a hunger to succeed, it's a formidable concoction." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
+puts white{ bold{ "Many late-stage investments aren't really investments" } } + white{ ": they're just disguised forms of debt." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
+puts white{ "Starting a business, founding a company is the hardest act in business." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
+puts white{ "There have been a few other people that have been extremely fortunate and lucky like I have. " } + white{ bold{ "You could have put a chimpanzee in the valley in 1986 and they would have been successful in the venture business." } } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
+puts white{ "What you cannot hire people to do is to have the wonderful spark and founding instinct and deep fascination and abiding passion for a particular topic." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
+puts white{ bold{ "In China these days, there are probably four Silicon Valleys." } } + white{ " In the US, there's one." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
