@@ -1696,3 +1696,10 @@ puts white{ "Starting a business, founding a company is the hardest act in busin
 puts white{ "There have been a few other people that have been extremely fortunate and lucky like I have. " } + white{ bold{ "You could have put a chimpanzee in the valley in 1986 and they would have been successful in the venture business." } } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 puts white{ "What you cannot hire people to do is to have the wonderful spark and founding instinct and deep fascination and abiding passion for a particular topic." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 puts white{ bold{ "In China these days, there are probably four Silicon Valleys." } } + white{ " In the US, there's one." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
+
+# Warren Buffett
+puts white{ "---- Warren Buffett ----" }
+puts white{ "Price is what you pay, value is what you get." } + black{ bold{ " - Warren Buffett (2008)" } }
+puts white{ "For investors as a whole, returns decrease as motion increases." } + black{ bold{ " - Warren Buffett (2005)" } }
+puts white{ "Be fearful when others are greedy and greedy only when others are fearful." } + black{ bold{ " - Warren Buffett (2004)" } }
+puts white{ "You only find out who is swimming naked when the tide goes out." } + black{ bold{ " - Warren Buffett (2001)" } }
