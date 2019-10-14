@@ -250,6 +250,7 @@ puts white{ "Architecture is strategy." }
 puts white{ bold{ "TMTOWTDI" } } + black{ bold{ ": " } } + white{ " There's more than one way to do it." }
 puts white{ bold{ "Inner-platform effect" } } + white{ ": The tendency of software architects to create a system so customizable as to become a replica, and often a poor replica, of the software development platform they are using." }
 puts white{ bold{ "Second system effect" } } + white{ ": The tendency of small, elegant, and successful systems to be succeeded by over-engineered, bloated systems due to inflated expectations and overconfidence." }
+puts white{ "Always consider your design a subsystem." } + black{ bold{ " - Jabe Bloom" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
