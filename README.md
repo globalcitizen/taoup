@@ -6,12 +6,15 @@ opportune moments, such as when you log in.
 
 It's mostly a personal collection, but contributions are welcome.
 
-To get it running, make sure you have `ruby` and `gem` installed, then run:
- `gem install ansi`
+Installation
+------------
 
-After that, it should work fine, as long as you use a black terminal (who doesn't?).
+ * [Arch Linux](https://aur.archlinux.org/packages/taoup/): `pacman -S taoup` (thanks to @JoshH100)
+ * Other unix-like: Make sure you have `ruby` and `gem` installed, run `gem install ansi` then `./taoup`.
 
 ![screenshot](https://raw.githubusercontent.com/globalcitizen/taoup/master/screenshot.png "Behold, wisdom!")
+
+By default `taoup` assumes good taste and a black/dark terminal, for edge cases and lost causes use `--whitetrash`.
 
 
 Getting wisdom at login
