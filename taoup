@@ -251,6 +251,7 @@ puts white{ bold{ "TMTOWTDI" } } + black{ bold{ ": " } } + white{ " There's more
 puts white{ bold{ "Inner-platform effect" } } + white{ ": The tendency of software architects to create a system so customizable as to become a replica, and often a poor replica, of the software development platform they are using." }
 puts white{ bold{ "Second system effect" } } + white{ ": The tendency of small, elegant, and successful systems to be succeeded by over-engineered, bloated systems due to inflated expectations and overconfidence." }
 puts white{ "Always consider your design a subsystem." } + black{ bold{ " - Jabe Bloom" } }
+puts white{ "Algorithms + Data Structures = Programs" } + black{ bold{ " - Niklaus Wirth (1976)" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
@@ -776,6 +777,7 @@ puts white{ "Knowledge work." } + black{ bold{ " - Peter Drucker (1959)" } }
 puts white{ bold{ "Ein nagel behalt ein îſen." } } + white{ " For wont of a nail." } + black{ bold{ " - Freidank, 'Bescheidenheit' (1230)" } }
 puts white{ "Has Black Mirror taught us nothing?" } + black{ bold{ " - @rejectedstone" } }
 puts white{ "The next big thing will be giving power to users through protocols, not platforms. Through live environments and powerful conversation tools rather than consumption tools." } + black{ bold{ " - @angleofrepose (2019)" } }
+puts white{ "First, catch your rabbit." } + black { bold{ " - Old recipe for rabbit stew." } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
