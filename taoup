@@ -778,6 +778,7 @@ puts white{ bold{ "Ein nagel behalt ein îſen." } } + white{ " For wont of a na
 puts white{ "Has Black Mirror taught us nothing?" } + black{ bold{ " - @rejectedstone" } }
 puts white{ "The next big thing will be giving power to users through protocols, not platforms. Through live environments and powerful conversation tools rather than consumption tools." } + black{ bold{ " - @angleofrepose (2019)" } }
 puts white{ "First, catch your rabbit." } + black { bold{ " - Old recipe for rabbit stew." } }
+puts white{ "You've got a choice: you can lead, you can follow, or you can get out of the way. Understand?" } + black{ bold{ " - 'Wind' (1992)" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
