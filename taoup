@@ -779,6 +779,8 @@ puts white{ "Has Black Mirror taught us nothing?" } + black{ bold{ " - @rejected
 puts white{ "The next big thing will be giving power to users through protocols, not platforms. Through live environments and powerful conversation tools rather than consumption tools." } + black{ bold{ " - @angleofrepose (2019)" } }
 puts white{ "First, catch your rabbit." } + black { bold{ " - Old recipe for rabbit stew." } }
 puts white{ "You've got a choice: you can lead, you can follow, or you can get out of the way. Understand?" } + black{ bold{ " - 'Wind' (1992)" } }
+puts white{ "An artist can be good at going off into the private world they create, and maybe not be so good at finding the way out again." } + black{ bold{ " - Ursula K. Le Guin" } }
+puts white{ "We'll need writers who can remember freedom - poets, visionaries - realistis of a larger reality." } + black{ bold{ " - Ursula K. Le Guin" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
