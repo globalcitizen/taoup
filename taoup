@@ -781,6 +781,10 @@ puts white{ "First, catch your rabbit." } + black { bold{ " - Old recipe for rab
 puts white{ "You've got a choice: you can lead, you can follow, or you can get out of the way. Understand?" } + black{ bold{ " - 'Wind' (1992)" } }
 puts white{ "An artist can be good at going off into the private world they create, and maybe not be so good at finding the way out again." } + black{ bold{ " - Ursula K. Le Guin" } }
 puts white{ "We'll need writers who can remember freedom - poets, visionaries - realistis of a larger reality." } + black{ bold{ " - Ursula K. Le Guin" } }
+puts white{ "Information is alienated experience." } + black{ bold{ " - Jaron Lanier" } }
+puts white{ "It is impossible to work in information technology without also engaging in social engineering. " } + black{ bold{ " - Jaron Lanier" } }
+puts white{ "Style used to be an interaction between the human soul and tools that were limiting. In the digital era, it will have to come from the soul alone." } + black{ bold{ " - Jaron Lanier" } }
+puts white{ "If there's any object in human experience that's a precedent for what a computer should be like, it's a musical instrument: a device where you can explore a huge range of possibilities through an interface that connects your mind and your body, allowing you to be emotionally authentic and expressive." } + black{ bold{ " - Jaron Lanier" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
