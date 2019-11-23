@@ -787,6 +787,7 @@ puts white{ "Style used to be an interaction between the human soul and tools th
 puts white{ "If there's any object in human experience that's a precedent for what a computer should be like, it's a musical instrument: a device where you can explore a huge range of possibilities through an interface that connects your mind and your body, allowing you to be emotionally authentic and expressive." } + black{ bold{ " - Jaron Lanier" } }
 puts white{ bold{ "PEBKAC" } } + white{ ": problem exists between keyboard and chair." }
 puts white{ "New territory, new product, new team." } + black{ bold{ " - Combination of circumstances under which not to build a product." } }
+puts white{ "Code is liability." }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
