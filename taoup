@@ -789,6 +789,7 @@ puts white{ bold{ "PEBKAC" } } + white{ ": problem exists between keyboard and c
 puts white{ "New territory, new product, new team." } + black{ bold{ " - Combination of circumstances under which not to build a product." } }
 puts white{ "Code is liability." }
 puts white{ "The Tools Make The Rules" } + black{ bold{ " - Tom Kremenek (on software development workflow)" } }
+puts white{ "Command is getting people to do something. Control is stopping them from doing something else." }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
