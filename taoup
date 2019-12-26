@@ -780,7 +780,7 @@ puts white{ "The next big thing will be giving power to users through protocols,
 puts white{ "First, catch your rabbit." } + black { bold{ " - Old recipe for rabbit stew." } }
 puts white{ "You've got a choice: you can lead, you can follow, or you can get out of the way. Understand?" } + black{ bold{ " - 'Wind' (1992)" } }
 puts white{ "An artist can be good at going off into the private world they create, and maybe not be so good at finding the way out again." } + black{ bold{ " - Ursula K. Le Guin" } }
-puts white{ "We'll need writers who can remember freedom - poets, visionaries - realistis of a larger reality." } + black{ bold{ " - Ursula K. Le Guin" } }
+puts white{ "We'll need writers who can remember freedom - poets, visionaries - realists of a larger reality." } + black{ bold{ " - Ursula K. Le Guin" } }
 puts white{ "Information is alienated experience." } + black{ bold{ " - Jaron Lanier" } }
 puts white{ "It is impossible to work in information technology without also engaging in social engineering. " } + black{ bold{ " - Jaron Lanier" } }
 puts white{ "Style used to be an interaction between the human soul and tools that were limiting. In the digital era, it will have to come from the soul alone." } + black{ bold{ " - Jaron Lanier" } }
