@@ -792,6 +792,7 @@ puts white{ "The Tools Make The Rules" } + black{ bold{ " - Tom Kremenek (on sof
 puts white{ "Command is getting people to do something. Control is stopping them from doing something else." }
 puts white{ "The secret of getting ahead is getting started." } + black{ bold{ " - Mark Twain" } }
 puts white{ "It is an unfortunate fact that the bulk of humanity is too limited in its mental vision to weigh with patience and intelligence those isolated phenomena, seen and felt only by a psychologically sensitive few, which lie outside its common experience. " } + white{ bold{ "Men of broader intellect know that there is no sharp distinction betwixt the real and the unreal" } } + white{ "; that all things appear as they do only by virtue of the delicate individual physical and metntal media through which we are made conscious of them; but " } + white{ bold{ "the prosaic materialism of the majority condemns as madness the flashes of super-sight which penetrate the common veil of obvious empiricism." } } + black{ bold{ " - H. P. Lovecraft, 'The Tomb' (1917)" } }
+puts white{ bold{ "in vino veritas" } } + white{ ": In wine, truth." }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
