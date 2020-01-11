@@ -1432,6 +1432,7 @@ puts white{ "Species of the most nauseating cake … covered over with slices of
 puts white{ "Ignorance may be bliss, but only if you can remain ignorant until the absolute end." } + black{ bold{ " - @nugget" } }
 puts white{ "When I was a sperm I had a lot to learn." }
 puts white{ bold{ "sic transit gloria mundi" } } + white{ ": Thus passes the glory of the world." }
+puts white{ bold{ "Experiencing new things" } } + white { " is the best way to keep the mind young, pliable and growing." } + black{ bold{ " - Daniel J. Levitin, neuroscientist" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
