@@ -795,6 +795,7 @@ puts white{ "It is an unfortunate fact that the bulk of humanity is too limited 
 puts white{ bold{ "in vino veritas" } } + white{ ": In wine, truth." }
 puts white{ "We went through that stage at Apple where we went out and we thought \"Oh, we're gonna be a big company, let's hire professional management.\" We went out and hired a bunch of professional management - it didn't work at all. Most of them were bozos. They knew how to manage, but they didn't know how to do anything! And so, if you're a great person why do you want to work for somebody you can't learn anything from? And you know what's interesting, you know who the best managers are? They're the great individual contributors, who never ever want to be a manager, but decide they have to be a manager because no one else is going to be able to do as good a job as them." } + black{ bold{ " - Steve Jobs" } }
 puts white{ bold{ "The most powerful person in the world is the storyteller." } } + white{ " The storyteller sets the vision, values and agenda of an entire generation to come." } + black{ bold{ " - Steve Jobs" } }
+puts white{ "I was actually able to write Neuromancer because I didn't know anything about computers." } + black{ bold{ " - William Gibson" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
