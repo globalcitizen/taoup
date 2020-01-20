@@ -799,6 +799,7 @@ puts white{ bold{ "The most powerful person in the world is the storyteller." } 
 puts white{ "I was actually able to write Neuromancer because I didn't know anything about computers." } + black{ bold{ " - William Gibson" } }
 puts white{ "The most challenging and important problems to solve in an engineering organisation are rarely technical in nature." } + black{ bold{ " - @darkr" } }
 puts white{ "If it's a core business function - do it yourself, no matter what." } + black{ bold{ " - Joel Spolsky" } }
+puts white{ "All models are wrong, but some are useful." } + black{ bold{ " - George E. P. Box" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
