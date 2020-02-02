@@ -802,6 +802,7 @@ puts white{ "If it's a core business function - do it yourself, no matter what."
 puts white{ "All models are wrong, but some are useful." } + black{ bold{ " - George E. P. Box" } }
 puts white{ "I am convinced that we are in serious danger of losing press freedoms. It's already happening." } + black{ bold{ " - Nils Melzer, UN Special Rapporteur on Torture" } }
 puts white{ "Assange published proof of systematic torture. But instead of those responsible for the torture, it is Assange who is being persecuted. Second, he himself has been ill-treated to the point that he is now exhibiting symptoms of psychological torture. And third, he is to be extradited to a country that holds people like him in prison conditions that Amnesty International has described as torture. In summary: Julian Assange uncovered torture, has been tortured himself and could be tortured to death in the United States. And a case like that isn't supposed to be part of my area of responsibility? Beyond that, the case is of symbolic importance and affects every citizen of a democratic country." } + black{ bold{ " - Nils Melzer, UN Special Rapporteur on Torture" } }
+puts white{ "Thinking is one of the greatest pleasures of the human race."} + black{ bold{ " - Bertolt Brecht" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
