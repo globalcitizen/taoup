@@ -1741,6 +1741,7 @@ puts white{ "Price is what you pay, value is what you get." } + black{ bold{ " -
 puts white{ "For investors as a whole, returns decrease as motion increases." } + black{ bold{ " - Warren Buffett (2005)" } }
 puts white{ "Be fearful when others are greedy and greedy only when others are fearful." } + black{ bold{ " - Warren Buffett (2004)" } }
 puts white{ "You only find out who is swimming naked when the tide goes out." } + black{ bold{ " - Warren Buffett (2001)" } }
+puts white{ bold{ "The Three I's" } } + white{ ": First come the innovators, then come the imitators, then come the idiots." } + black{ bold{ " - Warren Buffett (2008)" } }
 
 # Amazon Leadership Principles from https://www.amazon.jobs/en/principles
 puts white{ bold{ "Customer Obsession" } } + white{ ": Start with the customer and work backwards. Work vigorously to earn and keep customer trust. Pay attention to competitors, but obsess over customers." } + black{ bold{ " - Amazon leadership principle" } }
