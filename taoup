@@ -682,7 +682,6 @@ puts white{ bold{ "The thing that's important when running a business is making 
 puts white{ "The reason they call it the American Dream is because you have to be asleep to believe it." } + black{ bold{ " - George Carlin" } }
 puts white{ "I think of first mover advantages all the time when I invest, but I also think of last mover advantages." } + black{ bold{ " - Tony Fadell" } }
 puts white{ bold{ "Silicon Valley companies like to pretend they're special in some sort of moral, ethical, or existential way." } } + white{ " It turns out they're just companies." } + black{ bold{ " - Adam Lashinsky, Fortune (2018)" } }
-puts white{ bold{ "Constant application of force." } } + black{ bold{ " - Michael Moritz, on what separates successful companies from their peers." } }
 puts white{ "We live in worlds our questions create." } + black{ bold{ " - David Cooperider" } }
 puts white{ bold{ "ThomPete's travail" } } + black{ bold{ ": " } } + white{ "Wicked problems are by definition either political or ideological." }
 puts white{ "Intellectuals solve problems, geniuses prevent them." } + black{ bold{ " - Einstein" } }
@@ -1698,7 +1697,7 @@ puts white{ "Still Day 1." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ "Whatever you do there's going to be risk in your life, and risk is a necessary component of progress." } + black{ bold{ " - Jeff Bezos (2001)" } }
 
 # Ström's summary of the Socratic method @ https://matthewstrom.com/writing/doubt/
-puts white{ "---- Ström's summary of the Socratic method ----" }
+puts "---- Ström's summary of the Socratic method ----"
 puts white{ bold{ "Unclear Ideas or Expression" } } + black{ bold{ ": " } } + white{ "Can you put that another way? Can you provide an example?" }
 puts white{ bold{ "Unaligned Purpose" } } + black{ bold{ ": " } } + white{ "What are our goals? What do you want to happen?" }
 puts white{ bold{ "Implicit or Faulty Assumptions" } } + black{ bold{ ": " } } + white{ "What are we assuming here? Is that assumption well founded?" }
@@ -1710,7 +1709,7 @@ puts white{ bold{ "Unclear Concepts" } } + black{ bold{ ": " } } + white{ "What 
 puts white{ bold{ "Unexplored Inferences" } } + black{ bold{ ": " } } + white{ "What ambiguities do you see? How can we resolve those ambiguities?" }
 
 # Musk
-puts white{ "---- Elon Musk ----" }
+puts "---- Elon Musk ----"
 puts white{ "Most people think we have too many people on the planet, but this is an outdated view. Assuming that AI is fine, that there's a benevolent future with AI, I think the biggest problem the world will face in 20 years is " } + white{ bold{ "population collapse" } } + white{ ". The biggest issue in 20 years will be population collapse. It's very easy to see what the world will look like in 20 years because humans have a 20 year boot sequence." } + black{ bold{ " - Elon Musk (2019)" } }
 puts white{ bold{ "If there was a topological map of technology awareness, it's mostly flat." } } + white{ " But with a few short buildings and then some very tall spires, very tall spires. And unless you're on that very tall spire, it's not obvious what the topology is." } + black{ bold{ " - Elon Musk (2019)" } }
 puts white{ "I really think " } + bold{ white{ "China is the future" } } + white{ ", very impressive." } + black{ bold{ " - Elon Musk (2019)" } }
@@ -1727,7 +1726,8 @@ puts white{ "Anything which is significantly innovative is gonna come with a sig
 puts white{ "Vacation will kill you." } + black{ bold{ " - Elon Musk, after contracting cerebral malaria while on holiday" } }
 
 # Michael Moritz
-puts white{ "---- Michael Moritz ----" }
+puts "---- Michael Moritz ----"
+puts white{ bold{ "Constant application of force." } } + black{ bold{ " - Michael Moritz, on what separates successful companies from their peers." } }
 puts white{ bold{ "Few markets are as ferociously competitive as the technology business in China." } } + white{ " People there simply work a lot harder. And when you ally that with talent, creativity and a hunger to succeed, it's a formidable concoction." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 puts white{ bold{ "Many late-stage investments aren't really investments" } } + white{ ": they're just disguised forms of debt." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 puts white{ "Starting a business, founding a company is the hardest act in business." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
@@ -1736,7 +1736,7 @@ puts white{ "What you cannot hire people to do is to have the wonderful spark an
 puts white{ bold{ "In China these days, there are probably four Silicon Valleys." } } + white{ " In the US, there's one." } + black{ bold{ " - Michael Moritz, Chairman, Sequoia Capital" } }
 
 # Warren Buffett
-puts white{ "---- Warren Buffett ----" }
+puts "---- Warren Buffett ----"
 puts white{ "Price is what you pay, value is what you get." } + black{ bold{ " - Warren Buffett (2008)" } }
 puts white{ "For investors as a whole, returns decrease as motion increases." } + black{ bold{ " - Warren Buffett (2005)" } }
 puts white{ "Be fearful when others are greedy and greedy only when others are fearful." } + black{ bold{ " - Warren Buffett (2004)" } }
