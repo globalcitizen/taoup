@@ -1292,7 +1292,7 @@ puts white{ bold{ "Niven's Sixth Law of Writing" } } + white{ ": Everybody talks
 puts "----- richard stallman -----"
 puts white{ "With software, " } + white{ bold{ "either the users control the program, or the program controls the users." } } + black{ bold{ " - Richard Stallman" } }
 puts white{ bold{ "Americans have shown that they are politically naïve." } } + white{ " If you look at how successful plutocratic candidates are in the U.S. - you can get Americans to vote to give their money to the rich. You have to just say certain predictable, silly things to them, and most of them will be fooled." } + black{ bold{ " - Richard Stallman" } }
-puts white{ "Even though it’s sad to see people being foolish, there's no use giving up." } + white{ bold{ " Nothing good can come of giving up. That just means you lose completely, right away." } } + black{ bold{ " - Richard Stallman" } }
+puts white{ "Even though it's sad to see people being foolish, there's no use giving up." } + white{ bold{ " Nothing good can come of giving up. That just means you lose completely, right away." } } + black{ bold{ " - Richard Stallman" } }
 
 puts "----- randoms on distribution -----"
 # 90/90 aka. 'Rule of Credibility'
