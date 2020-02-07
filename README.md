@@ -4,7 +4,7 @@ TAO (The Art) of Unix Programming (and related systemic epiphanies)
 This is a ruby-powered, ANSI colored, `fortune`-like program to espouse wisdom at
 opportune moments, such as when you log in.
 
-__*In every culture, I come across a chapter headed Wisdom. And then 
+*__In every culture, I come across a chapter headed Wisdom. And then 
 I know exactly what is going to follow: Vanity of vanities, all is 
 vanity.__ - Wittgenstein*
 
