@@ -699,7 +699,6 @@ puts white{ "Haste makes waste." }
 puts white{ "All models are wrong, some are useful." }
 puts white{ "There is nothing better to spur creativity than a blank page or an empty bedroom." } + black{ bold{ " - Lin-Manuel Miranda" } }
 puts white{ bold{ "Un train peut en cacher un autre!" } } + white{ " (\"One train can hide another!\")" } + black{ bold{ " - French saying" } }
-puts white{ "At the core of all well-founded belief, lies belief that is unfounded." } + black{ bold{ " - Wittgenstein, 'On Certainty' (1969)" } }
 puts white{ "The visionary lies to himself, the liar only to others." } + black{ bold{ " - Friedrich Nietzsche" } }
 puts white{ "Morality is: the mediocre are worth more than the exceptions." } + black{ bold{ " - Friedrich Nietzsche" } }
 puts white{ "You must have chaos within you to give birth to a dancing star." } + black{ bold{ " - Friedrich Nietzsche" } }
@@ -1759,3 +1758,35 @@ puts white{ bold{ "Earn Trust" } } + white{ ": Listen attentively, speak candidl
 puts white{ bold{ "Dive Deep" } } + white{ ": Operate at all levels, stay connected to the details, audit frequently, and be skeptical when metrics and anecdote differ. No task is beneath you." } + black{ bold{ " - Amazon leadership principle" } }
 puts white{ bold{ "Have Backbone; Disagree and Commit" } } + white{ ": Respectfully challenge decisions when you disagree, even when doing so is uncomfortable or exhausting. Have conviction and be tenacious. Do not compromise for the sake of social cohesion. Once a decision is determined, commit wholly." } + black{ bold{ " - Amazon leadership principle" } }
 puts white{ bold{ "Deliver Results" } } + white{ ": Focus on key inputs and deliver them with quality and timeliness. Despite setbacks, rise to the occasion and never settle." } + black{ bold{ " - Amazon leadership principle" } }
+
+# Wittgenstein
+puts white{ "At the core of all well-founded belief, lies belief that is unfounded." } + black{ bold{ " - Wittgenstein, 'On Certainty' (1969)" } }
+puts white{ "If people never did silly things nothing intelligent would ever get done." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "Philosophy is a battle against the bewitchment of our intelligence by means of language." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "Don't get involved in partial problems, but always take flight to where there is a free view over the whole single great problem, even if this view is still not a clear one." } + black{ bold{ " - Wittgenstein" } }
+puts white{ bold{ "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt." } } + white{ " The limits of my language means the limits of my world." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "Logic takes care of itself; all we have to do is to look and see how it does it." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "I am my world." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "It is clear that the causal nexus is not a nexus at all." } + black{ bold{ " - Wittgenstein" } }
+puts white{ bold{ "Was sich überhaupt sagen lässt, lässt sich klar sagen." } } + white{ " What can be said at all can be said clearly." } + black{ bold{ " - Wittgenstein" } }
+puts white{ bold{ "Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge." } } + white{ " The world is the totality of facts, not things." } + black{ bold{ " - Wittgenstein" } }
+puts white{ bold{ "Die Logik erfüllt die Welt; die Grenzen der Welt sind auch ihre Grenzen." } } + white{ " Logic pervades the world: the limits of the world are also its limits." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "In general we don't use language according to strict rules - it hasn't been taught us by means of strict rules, either." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "To convince someone of the truth, it is not enough to state it, but rather one must find the path from error to truth." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "Plunge into the water of doubt again and again." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "Every explanation is after all an hypothesis." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "An entire mythology is stored within our language." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "Uttering a word is like striking a note on the keyboard of the imagination." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "Don't think, but look!" } + black{ bold{ " - Wittgenstein" } }
+puts white{ "One gets to the point where one would like just to emit an inarticulate sound." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "We do sometimes think because it has been found to pay." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "If you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty." } + black{ bold{ " - Wittgenstein" } }
+puts white{ bold{ "Genie ist Mut im Talent." } } + white{ " Genius is talent exercised with courage." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "Aim at being loved without being admired." } + black{ bold{ " - Wittgenstein" } }
+puts white{ bold{ "Worte sind Taten." } } + white{ " Words are deeds." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "Wisdom is passionless." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "The mood of receptivity to nature and one in which one's thoughts seem as vivid as nature itself." } + black{ bold{ " - Wittgenstein, personal restatement of Schiller's 'poetic mood'" } }
+puts white{ "Never stay up on the barren heights of cleverness, but come down into the green valleys of silliness." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "Ambition is the death of thought." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "One age misunderstands another." } + black{ bold{ " - Wittgenstein" } }
+puts white{ "Do we have to see progress? Is it not genuine scratching otherwise, or genuine itching?" } + black{ bold{ " - Wittgenstein" } }
