@@ -252,6 +252,7 @@ puts white{ bold{ "Inner-platform effect" } } + white{ ": The tendency of softwa
 puts white{ bold{ "Second system effect" } } + white{ ": The tendency of small, elegant, and successful systems to be succeeded by over-engineered, bloated systems due to inflated expectations and overconfidence." }
 puts white{ "Always consider your design a subsystem." } + black{ bold{ " - Jabe Bloom" } }
 puts white{ "Algorithms + Data Structures = Programs" } + black{ bold{ " - Niklaus Wirth (1976)" } }
+puts white{ "Software is non-linear." }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
