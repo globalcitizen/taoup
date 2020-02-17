@@ -808,6 +808,7 @@ puts white{ "The only normal people are the ones you don't know very well." } + 
 puts white{ bold{ "Piękno niewiele kosztuje." } } + white{ " Beauty doesn't cost much." } + black{ bold{ " - Motto of Zakopane artists, Poland" } }
 puts white{ bold{ "Our greatest weakness lies in giving up." } } + white{ " The most certain way to succeed is always to try just one more time." } + black{ bold{ " - Thomas Edison" } }
 puts white{ "The sign of a great cook is being able to fix dishes that someone else screwed up." }
+puts white{ "Quantity is something you count. Quality is something you count on." }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
