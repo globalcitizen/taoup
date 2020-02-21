@@ -143,7 +143,7 @@ puts white{ "Scissors, paste, images, and genius in effect superseded brushes, p
 puts white{ "I leave to others the business of causing anxiety and terror and mixing everything up." } + black{ bold{ " - René Magritte, surrealist" } }
 puts white{ "Our secret desire is for a change in the order of things." } + black{ bold{ " - René Magritte, surrealist" } }
 puts white{ bold{ "Ship of Theseus" } } + white{ ": All of the parts are new, and yet it is the same ship." }
-puts white{ "I came to the conclusion that the designer of a new system must not only be the implementor and the first large-scale user; the designer should also write the first user manual." } + black{ bold{ " - Donald E. Knuth, 'The Errors of TeX' (1989)" } }
+puts white{ "I came to the conclusion that the designer of a new system must not only be the implementor and the first large-scale user; the designer should also write the first user manual." } + black{ bold{ " - Donald Knuth, 'The Errors of TeX' (1989)" } }
 puts white{ "The height of cleverness is to be able to conceal it." } + black{ bold{ " - Francois de la Rochefoucauld (1613-1680)" } } 
 puts white{ bold{ "It from Bit." } } + white{ " [Information gives rise to] every it - every particle, every field of force, even the spacetime continuum itself." } + black{ bold{ " - 'Oracular monosyllables' of Archibald Wheeler, last surviving collaborator of Einstein and Bohr" } }
 puts white{ "What we call reality arises in the last analysis from the posing of yes-no questions." } + black{ bold{ " - Archibald Wheeler" } }
@@ -809,6 +809,7 @@ puts white{ bold{ "Piękno niewiele kosztuje." } } + white{ " Beauty doesn't cos
 puts white{ bold{ "Our greatest weakness lies in giving up." } } + white{ " The most certain way to succeed is always to try just one more time." } + black{ bold{ " - Thomas Edison" } }
 puts white{ "The sign of a great cook is being able to fix dishes that someone else screwed up." }
 puts white{ "Quantity is something you count. Quality is something you count on." }
+puts white{ bold{ "Writing software was much more difficult than anything else I had done in my life." } } + white{ " I had to keep so many things in my head at once, I couldn't just put them down and start something else." } + black{ bold{ " - Donald Knuth" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -1458,7 +1459,7 @@ puts white{ bold{ "Jevons Paradox" } } + white{ ": As technology progresses, the
 puts white{ bold{ "The First Rule of Program Optimization" } } + white{ ": Don't do it." } + black{ bold{ " - Michael Jackson" } }
 puts white{ bold{ "The Second Rule of Program Optimization" } } + white{ " (for experts only): Don't do it yet." } + black{ bold{ " - Michael Jackson" } }
 puts white{ "The fastest algorithm can frequently be replaced by one that is almost as fast and much easier to understand." } + black{ bold{ " - Douglas W. Jones" } }
-puts white{ "In non I/O-bound programs, a few percent of the source code typically accounts for over half the run time." } + black{ bold{ " - Don Knuth" } }
+puts white{ "In non I/O-bound programs, a few percent of the source code typically accounts for over half the run time." } + black{ bold{ " - Donald Knuth" } }
 puts white{ "Before optimizing, using a profiler." } + black{ bold{ " - Mike Morton" } }
 puts white{ "To speed up an I/O-bound program, begin by accounting for all I/O. Eliminate that which is unnecessary or redundant, and make the remaining as fast as possible." } + black{ bold{ " - David Martin" } }
 puts white{ "The fastest I/O is no I/O." } + black{ bold{ " - Nils-Peter Nelson" } }
