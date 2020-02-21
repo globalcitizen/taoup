@@ -224,7 +224,7 @@ puts white{ bold{ "一窍不通" } } + black{ bold{ " (yī qiào bù tōng)" } }
 puts white{ bold{ "画蛇添足" } } + black{ bold{ " (huà shé tiān zú)" } } + white{ ": To draw a snake and add legs (to overdo something)." } + black{ bold{ " - Chinese idiom" } }
 puts white{ bold{ "塞翁失马" } } + black{ bold{ " (sài wēng shī mǎ)" } } + white{ ": The old man from the frontier lost his horse... but good came of it (a blessing in disguise!)" } + black{ bold{ " - Chinese idiom" } }
 puts white{ bold{ "对牛弹琴" } } + black{ bold{ " (duì niú tán qín)" } } + white{ ": To play a zither to a buffalo (to address the wrong audience)." } + black{ bold{ " - Chinese idiom" } }
-puts white{ bold{ "πάντα ῥεῖ" } } + black{ bold{ " (panta rhei)" } } + white{ ": Everything flows." } + black{ bold{ " - Heraclitus of Ephesus c. 535 – c. 475 BC" } }
+puts white{ bold{ "πάντα ῥεῖ" } } + black{ bold{ " (panta rhei)" } } + white{ ": Everything flows." } + black{ bold{ " - Heraclitus of Ephesus (~535–475BC)" } }
 puts white{ "Programs must be written for people to read, and only incidentally for machines to execute." } + black{ bold{ " - Harold Abelson" } }
 puts white{ "It is easier to port a shell than a shell script." } + black{ bold{ " - Larry Wall" } }
 puts white{ "Talk is cheap. Show me the code." } + black{ bold{ " - Linus Torvalds" } }
