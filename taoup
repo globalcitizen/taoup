@@ -810,6 +810,7 @@ puts white{ bold{ "Our greatest weakness lies in giving up." } } + white{ " The 
 puts white{ "The sign of a great cook is being able to fix dishes that someone else screwed up." }
 puts white{ "Quantity is something you count. Quality is something you count on." }
 puts white{ bold{ "Writing software was much more difficult than anything else I had done in my life." } } + white{ " I had to keep so many things in my head at once, I couldn't just put them down and start something else." } + black{ bold{ " - Donald Knuth" } }
+puts white{ "The tales supplied what the real country lacked, when villagers were telling them." } + black{ bold{ " - Francis Spufford, 'Red Plenty'" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
