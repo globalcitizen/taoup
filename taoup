@@ -814,7 +814,8 @@ puts white{ "The tales supplied what the real country lacked, when villagers wer
 puts white{ "Seek out and encourage the rare individualists who do not fit into the prevailing pattern." } + black{ bold{ " - Freeman J. Dyson" } }
 puts white{ bold{ "Give greater attention and greater support to unfashionable research." } } + white{ " At any particular moment in the history of science, the most important and fruitful ideas are often lying dormant merely because they are unfashionable." } + black{ bold{ " - Freeman J. Dyson" } }
 puts white{ "Wherever you look in the realm of ideas, you find " } + white{ bold{ "hints of revelations still to come, whispers of hidden connections" } } + white{ "." } + black{ bold{ " - Freeman J. Dyson" } }
-pust white{ "Unfashionable people and unfashionable ideas have often been of decisive importance to the progress of science." } + black{ bold{ " - Freeman J. Dyson" } }
+puts white{ "Unfashionable people and unfashionable ideas have often been of decisive importance to the progress of science." } + black{ bold{ " - Freeman J. Dyson" } }
+puts white{ "There is no excellent beauty that hath not some strangeness in the proportion." } + black{ bold{ " - Harry Woolf" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
