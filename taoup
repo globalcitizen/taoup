@@ -811,6 +811,9 @@ puts white{ "The sign of a great cook is being able to fix dishes that someone e
 puts white{ "Quantity is something you count. Quality is something you count on." }
 puts white{ bold{ "Writing software was much more difficult than anything else I had done in my life." } } + white{ " I had to keep so many things in my head at once, I couldn't just put them down and start something else." } + black{ bold{ " - Donald Knuth" } }
 puts white{ "The tales supplied what the real country lacked, when villagers were telling them." } + black{ bold{ " - Francis Spufford, 'Red Plenty'" } }
+puts white{ "Seek out and encourage the rare individualists who do not fit into the prevailing pattern." } + black{ bold{ " - Freeman J. Dyson" } }
+puts white{ bold{ "Give greater attention and greater support to unfashionable research." } } + white{ " At any particular moment in the history of science, the most important and fruitful ideas are often lying dormant merely because they are unfashionable." } + black{ bold{ " - Freeman J. Dyson" } }
+puts white{ "Wherever you look in the realm of ideas, you find " } + white{ bold{ "hints of revelations still to come, whispers of hidden connections" } } + white{ "." } + black{ bold{ " - Freeman J. Dyson" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
