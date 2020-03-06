@@ -812,6 +812,7 @@ puts white{ "Quantity is something you count. Quality is something you count on.
 puts white{ bold{ "Writing software was much more difficult than anything else I had done in my life." } } + white{ " I had to keep so many things in my head at once, I couldn't just put them down and start something else." } + black{ bold{ " - Donald Knuth" } }
 puts white{ "The tales supplied what the real country lacked, when villagers were telling them." } + black{ bold{ " - Francis Spufford, 'Red Plenty'" } }
 puts white{ "There is no excellent beauty that hath not some strangeness in the proportion." } + black{ bold{ " - Harry Woolf" } }
+puts white{ bold{ "The most striking and satisfying visual pleasure comes from the repetition or the massing of one simple element." } } + white{ " Imagine the Parthenon with each column a different kind of marble!" } + black{ bold{ " - Montague Russell Page" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
