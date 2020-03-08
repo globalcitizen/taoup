@@ -813,6 +813,7 @@ puts white{ bold{ "Writing software was much more difficult than anything else I
 puts white{ "The tales supplied what the real country lacked, when villagers were telling them." } + black{ bold{ " - Francis Spufford, 'Red Plenty'" } }
 puts white{ "There is no excellent beauty that hath not some strangeness in the proportion." } + black{ bold{ " - Harry Woolf" } }
 puts white{ bold{ "The most striking and satisfying visual pleasure comes from the repetition or the massing of one simple element." } } + white{ " Imagine the Parthenon with each column a different kind of marble!" } + black{ bold{ " - Montague Russell Page" } }
+puts white{ "Out of intense complexities intense simplicities emerge." } + black{ bold{ " - Winston Churchill" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
