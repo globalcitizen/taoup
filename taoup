@@ -1470,11 +1470,15 @@ puts white{ bold{ "sic transit gloria mundi" } } + white{ ": Thus passes the glo
 puts white{ bold{ "Experiencing new things" } } + white { " is the best way to keep the mind young, pliable and growing." } + black{ bold{ " - Daniel J. Levitin, neuroscientist" } }
 puts white{ "A dynamic system has at least the chance to reverse or repair damage done to it due to entropy, a static one has not." } + black{ bold{ " - @ravingraven" } }
 puts white{ bold{ "I have read with dismay your presentation \"Draft Ethernet Overview\"." } } + white{ " I find your analysis of the proposed interconnection lacking technical credibility. Quantitative statistical analysis would show that your proposed system would be a failure." } + black{ bold{ " - Robert Z. Bachrach, Xerox PARC (1974)" } }
+# The following quotes from videos on https://clp.bbcrewind.co.uk/
 puts white{ "It takes man-years of work to prepare even simple software programs." } + white{ bold{ " Software is now a major cost in computers, often as much as 40% of any new application." } } + black{ bold{ " - BBC Horizon (1978)" } }
 puts white{ bold{ "Some people believe that we must change from hardware to software" } } + white{ ": that we should stake our future on the chips - not by making them, but by programming them - and that we should use our software skills to develop high technology industries around them." } + black{ bold{ " - BBC Horizon (1978)" } }
 puts white{ "What will happen then to the men in today's jobs? " } + white{ bold{ "Can we all live on the wealth of automatic factories and the earnings of an elite band of 60,000 software engineers?" } } + white{ " It's time to think about the future..." } + black{ bold{ " - BBC Horizon (1978)" } }
 puts white{ "Undoubtedly, I think we're already in to a second industrial revolution." } + black{ bold{ " - BBC Horizon (1978)" } }
 puts white{ "Silicon Valley, I am told, is filled with British experts." } + black{ bold{ " - BBC Horizon (1978)" } }
+puts white{ "Until recently, changing the design of a biscuit-cutting mold has involved a whole series of handcrafted steps." } + black{ bold{ " - BBC (1981)" } }
+puts white{ "Some white collar staffs, particularly clerks, will be very substantially affected by new technology." } + black{ bold{ " - BBC (1981)" } }
+puts white{ "Distributed computer networks are beginning to have an effect in the high street." } + black{ bold{ " - BBC (1981)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
