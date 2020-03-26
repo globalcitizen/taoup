@@ -1479,6 +1479,8 @@ puts white{ "Silicon Valley, I am told, is filled with British experts." } + bla
 puts white{ "Until recently, changing the design of a biscuit-cutting mold has involved a whole series of handcrafted steps." } + black{ bold{ " - BBC (1981)" } }
 puts white{ "Some white collar staffs, particularly clerks, will be very substantially affected by new technology." } + black{ bold{ " - BBC (1981)" } }
 puts white{ "Distributed computer networks are beginning to have an effect in the high street." } + black{ bold{ " - BBC (1981)" } }
+puts white{ "We're already being seduced by the glossy image of life with microcomputers." } + black{ bold{ " - BBC (1982)" } }
+puts white{ bold{ "And now, irony of ironies, the information is finally fed in to a computer." } } + white{ " The computer which is kept in the heart of the very clearing center in which all those people were shuffling paper." } + black{ bold{ " - BBC (1982)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
