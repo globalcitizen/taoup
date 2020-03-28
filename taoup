@@ -817,6 +817,7 @@ puts white{ "Out of intense complexities intense simplicities emerge." } + black
 puts white{ "One of the main goals of science is to find principles that unify apparently diverse phenomena." } + black{ bold{ " - Algorithmic Botany, University of Calgary, Canada" } }
 puts white{ bold{ "VCs would rather a $1b business with a 90% margin than a $5b business with a 50% margin" } } + white{ ", even if capital requirements and growth were the same." } + black{ bold{ " - Stefan Seltz-Axmacher, Founder of Starsky Robots (2015-2020)" } }
 puts white{ "A beautiful and disturbing tangle, that would be diminished if it was unravelled." } + black{ bold{ " - Monty Don, on Bomarzo" } }
+puts white{ "Hope is a shitty hedge." } + black{ bold{ " - Goldman Sachs" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
