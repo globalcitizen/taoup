@@ -818,6 +818,7 @@ puts white{ "One of the main goals of science is to find principles that unify a
 puts white{ bold{ "VCs would rather a $1b business with a 90% margin than a $5b business with a 50% margin" } } + white{ ", even if capital requirements and growth were the same." } + black{ bold{ " - Stefan Seltz-Axmacher, Founder of Starsky Robots (2015-2020)" } }
 puts white{ "A beautiful and disturbing tangle, that would be diminished if it was unravelled." } + black{ bold{ " - Monty Don, on Bomarzo" } }
 puts white{ "Hope is a shitty hedge." } + black{ bold{ " - Goldman Sachs" } }
+puts white{ "The web was supposed to forcefully challenge our opinions and push back, like a personal trainer who doesn't care how tired you say you are. Instead, Google has become like the pampering robots in WALL-E, giving us what we want at the expense of what we need. But, " } + white{ bold{ "it's not our bodies that are turning into mush: It’s our minds." } } + black{ bold{ " - @superhighway98" } } # https://www.superhighway98.com/google
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
