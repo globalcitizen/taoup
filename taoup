@@ -819,6 +819,7 @@ puts white{ bold{ "VCs would rather a $1b business with a 90% margin than a $5b 
 puts white{ "A beautiful and disturbing tangle, that would be diminished if it was unravelled." } + black{ bold{ " - Monty Don, on Bomarzo" } }
 puts white{ "Hope is a shitty hedge." } + black{ bold{ " - Goldman Sachs" } }
 puts white{ "The web was supposed to forcefully challenge our opinions and push back, like a personal trainer who doesn't care how tired you say you are. Instead, Google has become like the pampering robots in WALL-E, giving us what we want at the expense of what we need. But, " } + white{ bold{ "it's not our bodies that are turning into mush: It’s our minds." } } + black{ bold{ " - @superhighway98" } } # https://www.superhighway98.com/google
+puts white{ "You are not a drop in the ocean. You are the entire ocean in one drop." } + black{ bold{ " - Rumi" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
