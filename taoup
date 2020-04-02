@@ -423,6 +423,7 @@ puts white{ bold{ "Wiener's Fifth Law" } } + white{ ": Some problems have no sol
 puts white{ bold{ "Wiener's Sixth Law" } } + white{ ": It takes an airplane to bring out the worst in a pilot." } + black{ bold{ " - Earl Wiener, Professor of Engineering, University of Miami (1980)" } }
 puts white{ bold{ "Wiener's Seventh Law" } } + white{ ": Whenever you solve a problem, you usually create one. You can only hope that the one you created is less critical than the one you eliminated." } + black{ bold{ " - Earl Wiener, Professor of Engineering, University of Miami (1980)" } }
 puts white{ bold{ "Wiener's Eighth and Final Law" } } + white{ ": You can never be too careful about what you put into a digital flight-guidance system." } + black{ bold{ " - Earl Wiener, Professor of Engineering, University of Miami (1980)" } }
+puts white{ "Humanity is OK, but 99% of people are boring idiots." } + black{ bold{ " - Slavoj Žižek" } }
 
 # randoms
 puts '--- randoms ----'
