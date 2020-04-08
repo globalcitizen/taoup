@@ -18,6 +18,12 @@ Installation
 
 ![screenshot](https://raw.githubusercontent.com/globalcitizen/taoup/master/screenshot.png "Behold, wisdom!")
 
+Regular terminal (iTerm2).
+
+![screenshot](https://raw.githubusercontent.com/globalcitizen/taoup/master/screenshot2.jpg "brew cask install cool-retro-term")
+
+Oldschool terminal ([cool-retro-term](https://github.com/Swordfish90/cool-retro-term), or via [homebrew](https://brew.sh/): *brew cask install cool-retro-term*)
+
 By default `taoup` assumes good taste and a black/dark terminal, for edge cases and lost causes use `--whitetrash`.
 
 
