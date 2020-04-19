@@ -1487,6 +1487,8 @@ puts white{ "Some white collar staffs, particularly clerks, will be very substan
 puts white{ "Distributed computer networks are beginning to have an effect in the high street." } + black{ bold{ " - BBC (1981)" } }
 puts white{ "We're already being seduced by the glossy image of life with microcomputers." } + black{ bold{ " - BBC (1982)" } }
 puts white{ bold{ "And now, irony of ironies, the information is finally fed in to a computer." } } + white{ " The computer which is kept in the heart of the very clearing center in which all those people were shuffling paper." } + black{ bold{ " - BBC (1982)" } }
+puts white{ "Incompatible machines represent an old problem in the computer field." } + black{ bold{ " - Marill & Roberts, 'Toward a cooperative network of time-shared computers' (1966)" } }
+puts white{ "The establishment of a network may lead to a certain amount of specialization among the cooperating installations." } + black{ bold{ " - Marill & Roberts, 'Toward a cooperative network of time-shared computers' (1966)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
