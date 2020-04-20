@@ -823,6 +823,7 @@ puts white{ "The web was supposed to forcefully challenge our opinions and push 
 puts white{ "You are not a drop in the ocean. You are the entire ocean in one drop." } + black{ bold{ " - Rumi" } }
 puts white{ "Silence is the language of God. All else is poor translation." } + black{ bold{ " - Rumi"} }
 puts white{ "Hope is not a strategy." } + black{ bold{ " - Site reliability engineers' motto." } }
+puts white{ "Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing." } + black{ bold{ " - Dick Brandon" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
