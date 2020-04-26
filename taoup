@@ -827,6 +827,7 @@ puts white{ "Documentation is like sex: when it is good, it is very, very good; 
 puts white{ "Be brief, be brilliant or be gone." } + black{ bold{ " - Advice on speaking" } }
 puts white{ "Listen to understand, not to respond." }
 puts white{ "Don't dig a well where you can divert a river." }
+puts white{ "Innovation is first and foremost a bifurcation." } + black{ bold{ " - Michel Serres" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
