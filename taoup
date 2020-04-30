@@ -828,6 +828,8 @@ puts white{ "Be brief, be brilliant or be gone." } + black{ bold{ " - Advice on 
 puts white{ "Listen to understand, not to respond." }
 puts white{ "Don't dig a well where you can divert a river." }
 puts white{ "Innovation is first and foremost a bifurcation." } + black{ bold{ " - Michel Serres" } }
+puts white{ "As human beings we have limited brainpower, and so our brains encode the everyday things in to habits so we can free up space to learn new things. It's a process called " } + white{ bold{ "habituation" } } + white{ "." } + black{ bold{ " - Tony Fadell" } }
+puts white{ "Compliance is a terrible goal... the law is the minimum standard for society, it's not best practice." } + black{ bold{ " - Luke Anear" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
