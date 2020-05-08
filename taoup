@@ -831,6 +831,9 @@ puts white{ "Innovation is first and foremost a bifurcation." } + black{ bold{ "
 puts white{ "As human beings we have limited brainpower, and so our brains encode the everyday things in to habits so we can free up space to learn new things. It's a process called " } + white{ bold{ "habituation" } } + white{ "." } + black{ bold{ " - Tony Fadell" } }
 puts white{ "Compliance is a terrible goal... the law is the minimum standard for society, it's not best practice." } + black{ bold{ " - Luke Anear" } }
 puts white{ "One entrepreneur conference I attended, a speaker stressed that " } + white{ bold{ "novelty was not an advantage, it was a risk" } } + white{ ". It had to be very important to justify that risk. A totally new product/IP, a new customer, a new marketing channel, were all risks and not advantages. " } + white{ bold{ "The ideal startup from that point of view, would be 'a better mousetrap'." } } + black{ bold{ " - @JoeAltmaier" } } 
+puts white{ bold{ "Division of labor is a tragedy." } } + white{ " In the long run, it destroys the soul." } + black{ bold{ " - @MrBuddyCasino" } }
+puts white{ "We're all guinea pigs living in self-enforced captivity." } + black{ bold{ " - @zozbot234" } }
+puts white{ bold{ "Castles in the air" } } + white{ ", from air." } + black{ bold{ " - Fred Brooks, on programming" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
