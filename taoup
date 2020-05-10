@@ -834,6 +834,7 @@ puts white{ "One entrepreneur conference I attended, a speaker stressed that " }
 puts white{ bold{ "Division of labor is a tragedy." } } + white{ " In the long run, it destroys the soul." } + black{ bold{ " - @MrBuddyCasino" } }
 puts white{ "We're all guinea pigs living in self-enforced captivity." } + black{ bold{ " - @zozbot234" } }
 puts white{ bold{ "Castles in the air" } } + white{ ", from air." } + black{ bold{ " - Fred Brooks, on programming" } }
+puts white{ bold{ "Quantitative security risk models serve mainly as a corporate laundering system to obfuscate risk" } } + white{ ", and do not have any meaningful predictive power. " } + white{ bold{ "Security compliance has become a make-work field for the unskilled" } } + white{ ", whose role is to be both an easy mark and a scapegoat for reckless corporate behaviour." } + black{ bold{ " - @motohagiography" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
