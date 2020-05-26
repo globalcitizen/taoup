@@ -841,6 +841,11 @@ puts white{ "Everything before our eyes is ridiculous." } + black{ bold{ " - Éd
 puts white{ "There is at least one consolation in our misfortunes: that we're not politicians and have no desire to be elected as deputies." } + black{ bold{ " - Édouard Manet" } }
 puts white{ "They've never stopped telling me I'm inconsistent; they couldn't have said anything more flattering." } + black{ bold{ " - Édouard Manet" } }
 puts white{ "Conciseness is both a necessity and a luxury; a concise man provokes thought, a wordy man provokes boredom; always move towards conciseness." } + black{ bold{ " - Édouard Manet" } }
+puts white{ "The nation-state alone does not have a future." } + black{ bold{ " - Angela Merkel" } }
+puts white{ "Growing obsolescence of three core systems that have shaped civilization for the past 350 years: " } + white{ bold{ "capitalism" } } + white{ ", fueled by carbon since the dawn of the Industrial Age and increasingly driven by global financialization; " } + white{ bold{ "the nation-state system" } } + white{ ", formalized by the Treaty of Westphalia in 1648; and " } + white{ bold{ "representative democracy" } } + white{ ", a system of self-rule based on Enlightenment ideals of freedom, fairness, justice and equality." } + black{ bold{ " - Stephen Heintz" } }
+puts white{ "Our practice of capitalism is both putting the planetary ecosystem at risk and generating vast economic inequality." } + black{ bold{ " - Stephen Heintz" } }
+puts white{ "The nation state is inadequate for managing transnational challenges like global warming." } + black{ bold{ " - Stephen Heintz" } }
+puts white{ "Representative democracy is neither truly representative nor very democratic as citizens feel that self-rule has given way to rule by corporations, special interests and the wealthy." } + black{ bold{ " - Stephen Heintz" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
