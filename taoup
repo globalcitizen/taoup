@@ -846,6 +846,7 @@ puts white{ "Growing obsolescence of three core systems that have shaped civiliz
 puts white{ "Our practice of capitalism is both putting the planetary ecosystem at risk and generating vast economic inequality." } + black{ bold{ " - Stephen Heintz" } }
 puts white{ "The nation state is inadequate for managing transnational challenges like global warming." } + black{ bold{ " - Stephen Heintz" } }
 puts white{ "Representative democracy is neither truly representative nor very democratic as citizens feel that self-rule has given way to rule by corporations, special interests and the wealthy." } + black{ bold{ " - Stephen Heintz" } }
+puts white{ "The entire industry is largely based on making investment decisions based on talking." } + black{ bold{ " - Elizabeth Yin, on VC" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
