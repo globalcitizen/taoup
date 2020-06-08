@@ -847,6 +847,7 @@ puts white{ "Our practice of capitalism is both putting the planetary ecosystem 
 puts white{ "The nation state is inadequate for managing transnational challenges like global warming." } + black{ bold{ " - Stephen Heintz" } }
 puts white{ "Representative democracy is neither truly representative nor very democratic as citizens feel that self-rule has given way to rule by corporations, special interests and the wealthy." } + black{ bold{ " - Stephen Heintz" } }
 puts white{ "The entire industry is largely based on making investment decisions based on talking." } + black{ bold{ " - Elizabeth Yin, on VC" } }
+puts white{ "We expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers." } + black{ bold{ " - Sergey Brin and Larry Page" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
