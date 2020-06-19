@@ -852,6 +852,7 @@ puts white{ "Representative democracy is neither truly representative nor very d
 puts white{ "The entire industry is largely based on making investment decisions based on talking." } + black{ bold{ " - Elizabeth Yin, on VC" } }
 puts white{ "We expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers." } + black{ bold{ " - Sergey Brin and Larry Page" } }
 puts white{ "Somehow contemporary art people are always the biggest squares." } + black{ bold{ " - Simon Sarris on art, fees and copyright" } }
+puts white{ "What are the most important problems in your field, and why aren't you working on them?" } + black{ bold{ " - Richard Hamming" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
