@@ -854,7 +854,7 @@ puts white{ "We expect that advertising funded search engines will be inherently
 puts white{ "Somehow contemporary art people are always the biggest squares." } + black{ bold{ " - Simon Sarris on art, fees and copyright" } }
 puts white{ "What are the most important problems in your field, and why aren't you working on them?" } + black{ bold{ " - Richard Hamming" } }
 puts white{ "Genius is composed almost, but not quite entirely of crazy." } + black{ bold{ " - @noonespecial" } }
-puts white{ "Everything you need to know about mechanics is f=ma and you can't push on a rope." } + black{ bold{ " - Engineering professor" } }
+puts white{ "Everything you need to know about mechanics is F=ma and you can't push on a rope." } + black{ bold{ " - Engineering professor" } }
 puts white{ "There is nothing more practical than a good theory." } + black{ bold{ " - Kurt Lewin" } }
 
 # Freeman J. Dyson
