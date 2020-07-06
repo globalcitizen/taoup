@@ -856,6 +856,7 @@ puts white{ "What are the most important problems in your field, and why aren't 
 puts white{ "Genius is composed almost, but not quite entirely of crazy." } + black{ bold{ " - @noonespecial" } }
 puts white{ "Everything you need to know about mechanics is F=ma and you can't push on a rope." } + black{ bold{ " - Engineering professor" } }
 puts white{ "There is nothing more practical than a good theory." } + black{ bold{ " - Kurt Lewin" } }
+puts white{ "The best way of keeping a secret is to pretend there isn't one." } + black{ bold{ " - Margaret Atwood" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
