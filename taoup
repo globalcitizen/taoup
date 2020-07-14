@@ -858,6 +858,7 @@ puts white{ "Everything you need to know about mechanics is F=ma and you can't p
 puts white{ "There is nothing more practical than a good theory." } + black{ bold{ " - Kurt Lewin" } }
 puts white{ "The best way of keeping a secret is to pretend there isn't one." } + black{ bold{ " - Margaret Atwood" } }
 puts white{ "Classical economics is based on a false analogy with Newtonian physics." } + black{ bold{ " - George Soros (paraphrased)" } }
+puts white{ "I apologize for dwelling so long in the rarefied realm of abstractions." } + black{ bold{ " - George Soros, billionaire" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
