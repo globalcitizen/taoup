@@ -857,6 +857,7 @@ puts white{ "Genius is composed almost, but not quite entirely of crazy." } + bl
 puts white{ "Everything you need to know about mechanics is F=ma and you can't push on a rope." } + black{ bold{ " - Engineering professor" } }
 puts white{ "There is nothing more practical than a good theory." } + black{ bold{ " - Kurt Lewin" } }
 puts white{ "The best way of keeping a secret is to pretend there isn't one." } + black{ bold{ " - Margaret Atwood" } }
+puts white{ "Classical economics is based on a false analogy with Newtonian physics." } + black{ bold{ " - George Soros (paraphrased)" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
