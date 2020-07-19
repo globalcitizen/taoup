@@ -861,15 +861,17 @@ puts white{ "Classical economics is based on a false analogy with Newtonian phys
 puts white{ "I apologize for dwelling so long in the rarefied realm of abstractions." } + black{ bold{ " - George Soros, billionaire" } }
 puts white{ "I test in production." }
 
-# Harvard Business Review on managing innovation
+# Harvard Business Review on managing innovation @ https://hbr.org/2008/10/creativity-and-the-role-of-the-leader
 puts "------- harvard business review on managing innovation ------"
-puts white{ bold{ "Manage the commercialization handoff." } } + white{ " Few people have equal capabilities in idea generation and idea commercialization." } + black{ bold{ " - Harvard Business Review" } }
-puts white{ bold{ "Provide paths through bureaucracy." } } + white{ " Bureaucracy stifles creativity." } + black{ bold{ " - Harvard Business Review" } }
-puts white{ bold{ "Create a filtering mechanism." } } + white{ " Kill off the stuff that holds no potential. For every idea with real commercial promise, there are dozens that aren't worth pursuing." } + black{ bold{ " - Harvard Business Review" } }
-puts white{ bold{ "Provide independent intellectual challenge." } } + white{ " Early-stage researchers motivated by intellectual challenge and a desire for independence tend to be more productive." } + black{ bold{ " - Harvard Business Review" } }
-puts white{ bold{ "Be an appreciative audience." } } + white{ " Cultivate correct tone and provide sincere public recognition." } + black{ bold{ " - Harvard Business Review" } }
-puts white{ bold{ "Decrease fear of failure." } } + white{ " Experiment constantly, fail early and often, remember and document those failures, and learn as much as possible in the process." } + black{ bold{ " - Harvard Business Review" } }
-puts white{ bold{ "Cultivate psychological safety." } } + white{ " Never humiliate or punish people who make mistakes or speak up with ideas, questions or concerns." } + black{ bold{ " - Harvard Business Review" } }
+puts white{ bold{ "Manage the commercialization handoff." } } + white{ " Few people have equal capabilities in idea generation and idea commercialization." }
+puts white{ bold{ "Provide paths through bureaucracy." } } + white{ " Bureaucracy stifles creativity." }
+puts white{ bold{ "Create a filtering mechanism." } } + white{ " Kill off the stuff that holds no potential. For every idea with real commercial promise, there are dozens that aren't worth pursuing." }
+puts white{ bold{ "Provide independent intellectual challenge." } } + white{ " Early-stage researchers motivated by intellectual challenge and a desire for independence tend to be more productive." }
+puts white{ bold{ "Be an appreciative audience." } } + white{ " Cultivate correct tone and provide sincere public recognition." }
+puts white{ bold{ "Decrease fear of failure." } } + white{ " Experiment constantly, fail early and often, remember and document those failures, and learn as much as possible in the process." }
+puts white{ bold{ "Cultivate psychological safety." } } + white{ " Never humiliate or punish people who make mistakes or speak up with ideas, questions or concerns." }
+puts white{ bold{ "The three types of organizational failure:" } } + white{ " unsuccessful trials, system breakdowns, and process deviations. Of these, unsuccessful trials offer the richest potential for creative learning but require overcoming deeply ingrained norms that may stigmatize failure and inhibit experimentation." }
+puts white{ bold{ "Preconditions for novelty: " } } + white{ " slack, hubris, and optimism." } + black{ bold{ " - Jim March" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
