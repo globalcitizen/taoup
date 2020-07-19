@@ -860,7 +860,16 @@ puts white{ "The best way of keeping a secret is to pretend there isn't one." } 
 puts white{ "Classical economics is based on a false analogy with Newtonian physics." } + black{ bold{ " - George Soros (paraphrased)" } }
 puts white{ "I apologize for dwelling so long in the rarefied realm of abstractions." } + black{ bold{ " - George Soros, billionaire" } }
 puts white{ "I test in production." }
-puts white{ "Few people have equal capabilities in idea generation and idea commercialization." } + black{ bold{ " - Harvard Business Review" } }
+
+# Harvard Business Review on managing innovation
+puts "------- harvard business review on managing innovation ------"
+puts white{ bold{ "Manage the commercialization handoff." } } + white{ " Few people have equal capabilities in idea generation and idea commercialization." } + black{ bold{ " - Harvard Business Review" } }
+puts white{ bold{ "Provide paths through bureaucracy." } } + white{ " Bureaucracy stifles creativity." } + black{ bold{ " - Harvard Business Review" } }
+puts white{ bold{ "Create a filtering mechanism." } } + white{ " Kill off the stuff that holds no potential. For every idea with real commercial promise, there are dozens that aren't worth pursuing." } + black{ bold{ " - Harvard Business Review" } }
+puts white{ bold{ "Provide independent intellectual challenge." } } + white{ " Early-stage researchers motivated by intellectual challenge and a desire for independence tend to be more productive." } + black{ bold{ " - Harvard Business Review" } }
+puts white{ bold{ "Be an appreciative audience." } } + white{ " Cultivate correct tone and provide sincere public recognition." } + black{ bold{ " - Harvard Business Review" } }
+puts white{ bold{ "Decrease fear of failure." } } + white{ " Experiment constantly, fail early and often, remember and document those failures, and learn as much as possible in the process." } + black{ bold{ " - Harvard Business Review" } }
+puts white{ bold{ "Cultivate psychological safety." } } + white{ " Never humiliate or punish people who make mistakes or speak up with ideas, questions or concerns." } + black{ bold{ " - Harvard Business Review" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
