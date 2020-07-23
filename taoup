@@ -1824,6 +1824,7 @@ puts white{ "You should take the approach that you're wrong. Your goal is to be 
 puts white{ "When you first start a company, there's lots of optimism and things are great. Happiness, at first, is high. Then, you encounter all sorts of issues and happiness will steadily decline and you'll go through a whole world of hurt. Eventually, if you succeed ... you will finally get back to happiness." } + black{ bold{ " - Elon Musk" } }
 puts white{ "Anything which is significantly innovative is gonna come with a significant risk of failure." } + black{ bold{ " - Elon Musk" } }
 puts white{ "Vacation will kill you." } + black{ bold{ " - Elon Musk, after contracting cerebral malaria while on holiday" } }
+puts white{ "Excessive automation at Tesla was a mistake." } + black{ bold{ " - Elon Musk" } }
 
 # Michael Moritz
 puts "---- Michael Moritz ----"
