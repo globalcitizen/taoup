@@ -742,7 +742,7 @@ puts white{ "I have noticed that the more people glorify the entrepreneur as an 
 puts white{ bold{ "artificia docuit fames" } } + black{ bold{ " - " } } + white{ "sophistication is born out of hunger." }
 puts white{ "You have to work hard to get your thinking clean to make it simple." } + black{ bold{ " - Steve Jobs" } }
 
-# Nassim Taleb ('Antifragility', pp1-91)
+# Nassim Taleb (eg. 'Antifragility', pp1-91)
 puts white{ bold{ "Techne" } } + black{ bold{ " (crafts and knowhow) " } } + white{ "not " } + white{ bold{ "episteme" } } + black{ bold{ " (book knowledge; know what). - Nassim Taleb" } } 
 puts white{ "A " } + white{ bold{ "collection of small units with semi-independent variations" } } + white{ " produces vastly different risk characteristics than a " } + white{ bold{ "single large unit" } } + white{ "." } + black{ bold{ " - Nassim Taleb" } }
 puts white{ "Avoidance of small mistakes makes the large ones more severe." } + black{ bold{ " - Nassim Taleb" } }
@@ -769,6 +769,9 @@ puts white{ "The modern world may be increasing in technological knowledge, but,
 puts white{ "It is hard to see how things work by looking at single parts." } + black{ bold{ " - Nassim Taleb" } }
 puts white{ bold{ "Complex systems" } } + white{ " are full of " } + white{ bold{ "interdependencies" } } + white{ " - hard to detect - and " } + white{ bold{ "nonlinear responses" } } + white{ "." } + black{ bold{ " - Nassim Taleb" } }
 puts white{ "At no point in history have so many non-risk takers, that is, those with no personal exposure, exerted so much control." } + black{ bold{ " - Nassim Taleb" } }
+puts white{ bold{ "Ludic fallacy" } } + white{ ": The misuse of games to model real-life situations." } + black{ bold{ " - Nassim Taleb" } }
+
+# .. other
 puts white{ "Personality disorders are a terrible thing to waste." } + black{ bold{ " - John Waters" } }
 puts white{ bold{ "Elements of thinking considered crucial to wisdom" } } + white{ ": intellectual humility, taking the perspective of others, recognising uncertainty, and having the capacity to search for a compromise." }
 puts white{ bold{ "kala pani" } } + white{ ": black waters." } + black{ bold{ " - Hindu taboo on ocean voyages" } }
