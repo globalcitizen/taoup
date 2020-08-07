@@ -112,8 +112,6 @@ puts white{ "Software Architecture Paradox #2: " } + white{ bold{ "Reuse complic
 puts white{ "Software Architecture Paradox #3: " } + white{ bold{ "Evolution impedes survival." } } + white{ " We design a software system that can evolve, but in doing so hasten its death." } + black{ bold{ " - Kirk Knoernschild (2012)" } }
 # https://news.ycombinator.com/item?id=8558942
 puts white{ "Design up front for reuse is, in essence, premature optimization." } + black{ bold{ " - AnimalMuppet" } }
-# https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
-puts white{ bold{ "S-Programs" } } + white{ " are programs whose function is formally defined by and derivable from a specification. " } + white{ bold{ "P-Programs" } } + white{ " [are problems] that can be precisely formulated but whose solution must inevitably reflect an approximation of the real world. " } + white{ bold{ "E-Programs" } } + white{ " are inherently even more change prone. They are programs that mechanize a human or societal activity." } + black{ bold{ " - Meir M. Lehman, Proceedings of the IEEE, Vol. 68, No. 9, September 1980." } }
 # this one aka 'fundamental theorem of software engineering'
 puts white{ bold{ "All problems in computer science can be solved by another level of indirection" } } + white{ ", except of course for the problem of too many indirections." } + black{ bold{ " - David Wheeler" } }
 puts white{ "If you have too many special cases, you're doing it wrong." } + black{ bold{ " - Craig Zerouni" } }
@@ -864,6 +862,13 @@ puts white{ "Classical economics is based on a false analogy with Newtonian phys
 puts white{ "I apologize for dwelling so long in the rarefied realm of abstractions." } + black{ bold{ " - George Soros, billionaire" } }
 puts white{ "I test in production." }
 
+# Meir M. Lehman
+# https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
+puts "----- meir m. lehman -------"
+puts white{ bold{ "S-Programs" } } + white{ " are programs whose function is formally defined by and derivable from a specification. " } + white{ bold{ "P-Programs" } } + white{ " [are problems] that can be precisely formulated but whose solution must inevitably reflect an approximation of the real world. " } + white{ bold{ "E-Programs" } } + white{ " are inherently even more change prone. They are programs that mechanize a human or societal activity." } + black{ bold{ " - Meir M. Lehman (1980)" } }
+puts white{ bold{ "The Programmer's Task" } } + black{ bold{ ": " } } + white{ "State an algorithm that correctly and unambiguously defines a mechanical procedure for obtaining a solution to a given problem." } + black{ bold{ " - Meir M. Lehman (1980)" } }
+puts white{ "An evolving system increases its complexity unless work is done to reduce it." } + black{ bold{ " - Meir M. Lehman (1980)" } }
+
 # Harvard Business Review on managing innovation @ https://hbr.org/2008/10/creativity-and-the-role-of-the-leader
 puts "------- harvard business review on managing innovation ------"
 puts white{ bold{ "Manage the commercialization handoff." } } + white{ " Few people have equal capabilities in idea generation and idea commercialization." }
@@ -1485,7 +1490,6 @@ puts white{ "We thought we were making an exquisite product, the best possible t
 puts white{ "I think the essential way to do anything great, you have to have some incremental development philosophy because you're just going to be wrong with your grand design that you don't iterate on." } + black{ bold{ " - Andy Hertzfeld" } }
 puts white{ "The only way to make a wheeled vehicle move is to hitch it to a horse." } + black{ bold{ " - Pat Brown, Founder, Impossible Foods" } }
 puts white{ "When debugging, novices insert corrective code; experts remove defective code." } + black{ bold{ " - Richard Pattis" } }
-puts white{ "An evolving system increases its complexity unless work is done to reduce it." } + black{ bold{ " - Meir Lehman" } }
 puts white{ "There is fashion, there is fad. Some is good, some is bad. And the joke, is rather sad. That it's all just a little bit of history repeating..." } + black{ bold{ " - Alex Gifford" } }
 puts white{ "When I was your age, I sent 24 people to the " } + white{ bold{ "actual moon" } } + white{ " with my software in 4K of RAM and here I am clicking your button and it takes ten seconds to load a 50 megabyte video ad and then it crashes." } + black{ bold{ " - @natecull, on Margaret Hamilton perspective" } }
 puts white{ "Oh you know for years, we've been making wonderful things. We make your iPods. We make phones. We make them better than anybody else, but we don’t come up with any of these ideas. So we went on a tour of America talking to people at Microsoft, at Google, at Apple, and we asked them a lot of questions about themselves, just the people working there. And " } + white{ bold{ "we discovered they all read science fiction" } } + white{ "… so we think maybe it's a good thing." } + black{ bold{ " - Neil Gaiman, paraphrasing a Chinese Communist Party official at the 2007 China SF/Fantasy Conference, Chengdu." } }
