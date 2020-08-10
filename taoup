@@ -257,6 +257,7 @@ puts white{ "Naturalness with order." }
 puts white{ "That kind of intellectual activity which creates a whole from its diverse parts may be called the design of a system." } + black{ bold{ " - Melvin E. Conway (1968)" } }
 puts white{ "There's never enough time to do something right, but there's always enough time to do it over." } + black{ bold{ " - Melvin E. Conway (1968)" } }
 puts white{ "Design organisation structure doesn't just direct the design, but actually constrains the set of designs that can be contemplated. " } + white{ bold{ "Every person you add reduces your design options." } } + black{ bold{ " - Adrian Colyer's restatement of Melvin E. Conway's 'How do committees invent?'" } }
+puts white{ bold{ "Avoid dividing systems into modules on the basis of flowcharts." } } + white{ " Instead, begin with a list of difficult design decisions or design decisions which are likely to change. Each module is then designed to hide such a decision from the others." } + black{ bold{ " - David L. Parnas (1971) (paraphrased)" } }
 
 puts '------------ Terry Crowley ------------'
 puts white{ "The most robust programs isolate complexity in a way that lets significant parts of the system appear simple and straightforward and interact in simple ways with other components in the system." } + black{ bold{ " - Terry Crowley" } }
