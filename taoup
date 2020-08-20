@@ -865,6 +865,7 @@ puts white{ "The best way of keeping a secret is to pretend there isn't one." } 
 puts white{ "Classical economics is based on a false analogy with Newtonian physics." } + black{ bold{ " - George Soros (paraphrased)" } }
 puts white{ "I apologize for dwelling so long in the rarefied realm of abstractions." } + black{ bold{ " - George Soros, billionaire" } }
 puts white{ "I test in production." }
+puts white{ "Above product-market fit is " } + white{ bold{ "founder-product-market fit" } } + white{ "." } + black{ bold{ " - @naval" } }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
