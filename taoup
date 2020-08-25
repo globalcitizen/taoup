@@ -1086,6 +1086,9 @@ puts white{ bold{ "Atwood's Law" } } + white{ ": Any software that can be writte
 # buchheit's beholding
 puts white{ bold{ "Buchheit's Beholding" } } + white{ ": Every system has two sets of rules: the rules as they are intended or commonly perceived, and the actual rules ('reality')." } + black{ bold{ " - Paul Buchheit" } }
 
+# buckbee's law
+puts white{ bold{ "Buckbee's Law" } } + white{ ": The value of a robot is proportional to the degree it does not look like a robot." }
+
 # bombeck's law
 puts white{ bold{ "Erma Bombeck's Law" } } + white{ ": The other line always moves faster." }
 
