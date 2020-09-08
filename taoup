@@ -1559,6 +1559,7 @@ puts white{ "Incompatible machines represent an old problem in the computer fiel
 puts white{ "The establishment of a network may lead to a certain amount of specialization among the cooperating installations." } + black{ bold{ " - Marill & Roberts, 'Toward a cooperative network of time-shared computers' (1966)" } }
 puts white{ "In a few years, men will be able to communicate more effectively through a machine than face to face." } + black{ bold{ " - J.C.R. Licklider and R. W. Taylor (1968)" } }
 puts white{ "Our emphasis on people is deliberate." } + black{ bold{ " - J.C.R. Licklider and R. W. Taylor (1968), describing the first online meeting" } }
+puts white{ "Nothing can now be believed which is seen in a newspaper." } + black{ bold{ " - Thomas Jefferson (1807)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
