@@ -16,21 +16,26 @@ Installation
  * [Arch Linux](https://aur.archlinux.org/packages/taoup/): `pacman -S taoup` (thanks to @JoshH100)
  * Other unix-like: Make sure you have `ruby` and `gem` installed, run `gem install ansi` then `./taoup`.
 
+Screenshots
+-----------
+
+### Regular terminal (iTerm2).
+
 ![screenshot](https://raw.githubusercontent.com/globalcitizen/taoup/master/screenshot.png "Behold, wisdom!")
 
-Regular terminal (iTerm2).
+### Oldschool terminal
 
 ![screenshot](https://raw.githubusercontent.com/globalcitizen/taoup/master/screenshot2.jpg "brew cask install cool-retro-term")
 
-Oldschool terminal ([cool-retro-term](https://github.com/Swordfish90/cool-retro-term), or via [homebrew](https://brew.sh/): *brew cask install cool-retro-term*)
-
-By default `taoup` assumes good taste and a black/dark terminal, for edge cases and lost causes use `--whitetrash`.
+([cool-retro-term](https://github.com/Swordfish90/cool-retro-term), or via [homebrew](https://brew.sh/): *brew cask install cool-retro-term*)
 
 
 Getting wisdom at login
 -----------------------
 
 To display `taoup` output at login, use the `taoup-fortune` example script or try adding something similar in your `.profile`.
+
+By default `taoup` assumes good taste and a black/dark terminal, for edge cases and lost causes use `--whitetrash`.
 
 Special modes
 -------------
