@@ -869,6 +869,7 @@ puts white{ "Above product-market fit is " } + white{ bold{ "founder-product-mar
 puts white{ "Writing appears to be necessary for the centralized, stratified state to reproduce itself... writing is a strange thing... the one phenomenon which has invariably accompanied it is the formation of cities and empires: the integration into a political system, that is to say, of a considerable number of individuals... into a hierarchy of castes and classes... it seems to favor rather the exploitation than the enlightenment of mankind." } + black{ bold{ " - Claude Levi-Strauss" } }
 puts white{ "Buy for parity, build for competitive advantage." } + black{ bold{ " - @cratermoon" } }
 puts white{ "I could see the frame, but I still couldn't see the picture." } + black{ bold{ " - Robert Mitchum" } }
+puts white{ "It turns out 'Hey Alexa' is short for 'Hey Keith Alexander'." } + black{ bold{ " - Edward Snowden, after Amazon hired NSA chief (2020)" } }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
