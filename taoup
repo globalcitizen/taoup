@@ -871,6 +871,8 @@ puts white{ "Buy for parity, build for competitive advantage." } + black{ bold{ 
 puts white{ "I could see the frame, but I still couldn't see the picture." } + black{ bold{ " - Robert Mitchum" } }
 puts white{ "It turns out 'Hey Alexa' is short for 'Hey Keith Alexander'." } + black{ bold{ " - Edward Snowden, after Amazon hired NSA chief (2020)" } }
 puts white{ "If at first, the idea is not absurd, there is no hope for it." } + black{ bold{ " - Albert Einstein" } }
+puts white{ "Acidic environments: swamps and blogs." }
+puts white{ "Circular, like most arguments on the internet." }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
