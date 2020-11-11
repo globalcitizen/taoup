@@ -873,6 +873,8 @@ puts white{ "It turns out 'Hey Alexa' is short for 'Hey Keith Alexander'." } + b
 puts white{ "If at first, the idea is not absurd, there is no hope for it." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "Acidic environments: swamps and blogs." }
 puts white{ "Circular, like most arguments on the internet." }
+puts white{ "It is always hard to see the purpose of wilderness wanderings until after they are over." } + black{ bold{ " - John Bunyan" } }
+puts white{ "People have been conditioned to seek moral causes rather than structural ones." } + black{ bold{ " - 'Interreflections' (2020)" } }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
