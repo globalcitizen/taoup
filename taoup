@@ -875,6 +875,7 @@ puts white{ "Acidic environments: swamps and blogs." }
 puts white{ "Circular, like most arguments on the internet." }
 puts white{ "It is always hard to see the purpose of wilderness wanderings until after they are over." } + black{ bold{ " - John Bunyan" } }
 puts white{ "People have been conditioned to seek moral causes rather than structural ones." } + black{ bold{ " - 'Interreflections' (2020)" } }
+puts white{ "Not all who wander are lost." } + black{ bold{ " - Tolkien" }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
