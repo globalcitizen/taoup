@@ -877,6 +877,7 @@ puts white{ "It is always hard to see the purpose of wilderness wanderings until
 puts white{ "People have been conditioned to seek moral causes rather than structural ones." } + black{ bold{ " - 'Interreflections' (2020)" } }
 puts white{ "Not all who wander are lost." } + black{ bold{ " - Tolkien" } }
 puts white{ "The busy man is never wise and the wise man is never busy." } + black{ bold{ " - Lin Yutang" } }
+puts white{ "The Accounting department is usually backwards facing. The Finance department is usually forwards facing." } + black{ bold{ " - @brixon" } }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
