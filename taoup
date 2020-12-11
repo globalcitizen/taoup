@@ -1933,3 +1933,15 @@ puts white{ "When manual take-over is needed there is likely to be something wro
 puts white{ "Efficient retrieval of knowledge from long-term memory depends on frequency of use." } + black{ bold{ " - Lisanne Bainbridge (1983)" } }
 puts white{ "Knowledge develops only through use and feedback about its effectiveness." } + black{ bold{ " - Lisanne Bainbridge (1983)" } }
 
+# Characteristics of Innovative People @ https://dobetter.esade.edu/en/innovative-person
+puts white{ bold{ "Continuous reflection" } } + black{ bold{ ": " } } + white{ "Be open to questioning your initial ideas and notice new information." }
+puts white{ bold{ "Unattached exploration" } } + black{ bold{ ": " } } + white{ "Postpone fixation, stay open to exploring different possibilities." }
+puts white{ "Iterate between abstract and concrete thinking." }
+puts white{ "Plan and execute." }
+puts white{ "Promote innovation in unexpected situations." }
+puts white{ "Adapt to adversity." }
+puts white{ "Acknowledge the limits of your knowledge." }
+puts white{ "Step out of your comfort zone." }
+puts white{ "Be sensitive to uncertainty." }
+puts white{ "Focus on the outcome." }
+puts white{ "Extract learning." }
