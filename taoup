@@ -879,6 +879,7 @@ puts white{ "Not all who wander are lost." } + black{ bold{ " - Tolkien" } }
 puts white{ "The busy man is never wise and the wise man is never busy." } + black{ bold{ " - Lin Yutang" } }
 puts white{ "The Accounting department is usually backwards facing. The Finance department is usually forwards facing." } + black{ bold{ " - @brixon" } }
 puts white{ "If you're like me, you probably have a knack for underestimating the depth of rabbit holes." } + black{ bold{ " - Samuel Pinches" } }
+puts white{ "Everyone has a plan until they get punched in the face." } + black{ bold{ " - Mike Tyson" } }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
