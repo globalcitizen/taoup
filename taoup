@@ -882,6 +882,7 @@ puts white{ "If you're like me, you probably have a knack for underestimating th
 puts white{ "Everyone has a plan until they get punched in the face." } + black{ bold{ " - Mike Tyson" } }
 puts white{ "People Google to find out why they're right and that's the end of it." } + black{ bold{ " - @saas_sam" } }
 puts white{ "Throw it all away and start again." } + black{ bold{ " - Geoff Hinton, on deep learning" } }
+puts white{ bold{ "Curse of knowledge" } } + black{ bold{ ": " } } + white{ "Cognitive bias that occurs when an individual, communicating with other individuals, unknowingly assumes that the others have the background to understand." }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
