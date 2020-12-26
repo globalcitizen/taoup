@@ -885,6 +885,7 @@ puts white{ "Throw it all away and start again." } + black{ bold{ " - Geoff Hint
 puts white{ bold{ "Curse of knowledge" } } + black{ bold{ ": " } } + white{ "Cognitive bias that occurs when an individual, communicating with other individuals, unknowingly assumes that the others have the background to understand." }
 puts white{ "Who was I, a man whose proudest ancestor had led a life in a Moslem community, to identify myself exclusively with West against East?" } + black{ bold{ " - Norbert Weiner, MIT maths professor and philosopher, an American of Prussian Jewish extraction, founder of cybernetics and seminal work in control theory, referring to a philosopher/rabbi ancestor born in Cordova and domiciled in Cairo as physician to the Vizier of Egypt" } }
 puts white{ "That's not a bug, it's Germany!" } + black{ bold{ " - @pheelicks, referring to the edge of an Austrian dataset" } }
+puts white{ "Give a man an 0day and he'll have access for a day, teach a man to phish and he'll have access for life." } + black{ bold{ " - @grugq" } }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
