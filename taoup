@@ -886,6 +886,7 @@ puts white{ bold{ "Curse of knowledge" } } + black{ bold{ ": " } } + white{ "Cog
 puts white{ "Who was I, a man whose proudest ancestor had led a life in a Moslem community, to identify myself exclusively with West against East?" } + black{ bold{ " - Norbert Weiner, MIT maths professor and philosopher, an American of Prussian Jewish extraction, founder of cybernetics and seminal work in control theory, referring to a philosopher/rabbi ancestor born in Cordova and domiciled in Cairo as physician to the Vizier of Egypt" } }
 puts white{ "That's not a bug, it's Germany!" } + black{ bold{ " - @pheelicks, referring to the edge of an Austrian dataset" } }
 puts white{ "Give a man an 0day and he'll have access for a day, teach a man to phish and he'll have access for life." } + black{ bold{ " - @grugq" } }
+puts white{ "Life has become immeasurably better since I have been forced to stop taking it seriously." } + black{ bold{ " - Hunter S. Thompson" } }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
