@@ -1374,6 +1374,7 @@ puts white{ "By far the best way to invent a healthy future is to invent the chi
 puts white{ "I made up these slogans because I discovered most adults couldn't deal with paragraphs." } + black{ bold{ " - Alan Kay" } }
 puts white{ "Adults are dangerous. Really dangerous." } + black{ bold{ " - Alan Kay" } }
 puts white{ "People who are really serious about software should make their own hardware." } + black{ bold{ " - Alan Kay" } }
+puts white{ bold{ "Computing is pop culture." } } + white{ " Pop culture holds a disdain for history. Pop culture is all about identity and feeling like you're participating, It has nothing to do with cooperation, the past or the future — it's living in the present. I think the same is true of most people who write code for money. They have no idea where [their culture came from]." } + black{ bold{ " - Alan Kay" } }
 
 # arthur c. clarke
 puts "----- Arthur C. Clarke -----"
