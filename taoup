@@ -891,6 +891,7 @@ puts white{ "Give a man an 0day and he'll have access for a day, teach a man to 
 puts white{ "Life has become immeasurably better since I have been forced to stop taking it seriously." } + black{ bold{ " - Hunter S. Thompson" } }
 puts white{ "The best thing is to be a very bad estimator of how much time it's going to take." } + black{ bold{ " - Donald Knuth (2020), on starting broadly scoped projects" } }
 puts white{ "A story is worth 1000 spreadsheets." } + black{ bold{ " - Political rule of thumb" } }
+puts white{ "There are two ways to make money. You can bundle, or you can unbundle." } + black{ bold{ " - Jim Barksdale" } } # https://www.ben-evans.com/presentations
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
