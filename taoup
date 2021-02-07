@@ -1587,6 +1587,7 @@ puts white{ "In a few years, men will be able to communicate more effectively th
 puts white{ "Our emphasis on people is deliberate." } + black{ bold{ " - J.C.R. Licklider and R. W. Taylor (1968), describing the first online meeting" } }
 puts white{ "Nothing can now be believed which is seen in a newspaper." } + black{ bold{ " - Thomas Jefferson (1807)" } }
 puts white{ "You don't have to like it, but you need to understand it if you're proposing to replace it." } + black{ bold{ " - John Levine (2020)" } }
+puts white{ "The invention of the wheel was a huge job killer." } + black{ bold{ " - @dfilppi" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
