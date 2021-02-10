@@ -890,6 +890,7 @@ puts white{ "The moment a man begins to talk about technique that's proof he is 
 puts white{ "Good men don't need rules." } + black{ bold{ " - Doctor Who" } }
 
 # Einstein
+puts "----- einstein -------"
 puts white{ "If at first, the idea is not absurd, there is no hope for it." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "Intellectuals solve problems, geniuses prevent them." } + black{ bold{ " - Einstein" } }
 puts white{ bold{ "Everybody is a genius." } } + white{ " But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." } + black{ bold{ " - Albert Einstein" } }
