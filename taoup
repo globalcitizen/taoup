@@ -152,7 +152,6 @@ puts white{ bold{ "Keep your code absolutely simple." } } + white{ " Keep lookin
 puts white{ bold{ "We are our own best testing team" } } + white{ " and should never allow anyone else to experience bugs [...] Don't waste others' time. Test thoroughly before checking in your code." } + black{ bold{ " - John Romero, id Software" } }
 puts white{ bold{ "As soon as you see a bug, you fix it." } } + white{ " Do not continue on. If you don't fix your bugs your new code will be built on a buggy codebase and ensure an unstable foundation." } + black{ bold{ " - John Romero, id Software" } }
 puts white{ bold{ "Encapsulate functionality to ensure design consistency." } } + white{ " This minimizes mistakes and saves design time." } + black{ bold{ " - John Romero, id Software" } }
-puts white{ "No worthy problem is ever solved in the plane of its original conception." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "New levels, new devils." }
 puts white{ "Little fleas have lesser fleas... and so on ad infinitum." }
 puts white{ bold{ "In the time that bandwidth doubles, latency improves by no more than a factor of 1.2 to 1.4" } } + white{ " (and capacity improves faster than bandwidth)" } + black{ bold{ " - David Patterson, U.C. Berkeley (2004)" } }
@@ -166,7 +165,6 @@ puts white{ bold{ "When an interface undertakes to do too much its implementatio
 puts white{ bold{ "Service must have a fairly predictable cost, and the interface must not promise more than the implementer knows how to deliver." } } + white{ " Especially, it should not promise features needed by only a few clients, unless the implementer knows how to provide them without penalizing others. A better implementer, or one who comes along ten years later when the problem is better understood, might be able to deliver, but unless the one you have can do so, it is wise to reduce your aspirations." } + black{ bold{ " - Butler W. Lampson (1983)" } }
 puts white{ "If in doubt, leave it out." }
 puts white{ "Exterminate features." } + black{ bold{ " - Charles P. Thacker" } }
-puts white{ "Everything should be made as simple as possible, but no simpler." } + black{ bold{ " - Albert Einstein" } }
 puts white{ bold{ "Perfection must be reached by degrees" } } + white{ "; she requires the slow hand of time." } + black{ bold{ " - Voltaire" } }
 puts white{ bold{ "Keep secrets of the implementation." } } + white{ " Secrets are assumptions about an implementation that client programs are not allowed to make. In other words, they are things that can change; the interface defines the things that cannot change (without simultaneous changes to both implementation and client). Obviously, it is easier to program and modify a system if its parts make fewer assumptions about each other. On the other hand, the system may not be easier to design - it's hard to design a good interface. And there is a tension with the desire not to hide power." } + black{ bold{ " - Butler W. Lampson (1983)" } }
 puts white{ bold{ "One way to improve performance is to increase the number of assumptions that one part of a system makes about another" } } + white{ "; the additional assumptions often allow less work to be done, sometimes a lot less. For instance, if a set of size " } + white{ bold{ "n" } } + white{ " is known to be sorted, a membership test takes time " } + white{ bold{ "log n" } } + white{ " rather than " } + white{ bold{ "n" } } + white{ ". This technique is very important in the design of algorithms and the tuning of small modules. In a large system the ability to improve each part separately is usually more important. Striking the right balance remains an art." } + black{ bold{ " - Butler W. Lampson (1983)" } }
@@ -602,7 +600,6 @@ puts white{ bold{ "Banking has always orientated towards cartel structures with 
 puts white{ bold{ "Why don't computers crash at the same time?" } } + white{ " Because network connections aren't fast enough." } + black{ bold{ " - 1980s computing joke" } }
 puts white{ bold{ "Robot" } } + white{ ", n. A machine that doesn't work yet." } + black{ bold{ " (Because if it worked you'd name it after what it does, like a dishwasher or a vacuum cleaner)." } }
 puts white{ bold{ "Never underestimate the power of being one of the few people to have a particular set of individually-common skills." } } + white{ " If you know molecular biology and group theory, or chemical engineering and architecture, or web design and sign language, or whatever and whatever, there's special opportunities open to you and almost noone else." } + black{ bold{ " - @maxander" } }
-puts white{ bold{ "I am enough of the artist to draw freely upon my imagination." } } + white{ " Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." } + black{ bold{ " - Albert Einstein (1929)" } } # http://quoteinvestigator.com/2013/01/01/einstein-imagination/
 puts white{ "The practical genius is not someone who knows everything but knows where to find it." }
 puts white{ "Inside every utopia is a dystopia striving to get out." } # http://bostonreview.net/literature-culture/john-crowley-inside-every-utopia-dystopia
 puts white{ "We are faced with an insurmountable opportunity." } + black{ bold{ " - Walter Crawford Kelly, Jr., American animator and cartoonist" } }
@@ -611,7 +608,6 @@ puts white{ bold{ "We didn't quite invent everything." } } + white{ " We didn't 
 puts white{ bold{ "Talent" } } + white{ " is hitting a target that nobody else can hit, " } + white{ bold{ "genius" } } + white{ " is hitting a target that nobody else can see." } + black{ bold{ " - Schopenhauer" } }
 puts white{ "6,000 years of history in 640k." } + black{ bold{ " - Sid Meier on Civilization" } }
 puts white{ bold{ "The purpose of computation is insight" } } + white{ ", not numbers." } + black{ bold{ " - Richard Hamming" } }
-puts white{ bold{ "I admire the elegance of your method of computation" } } + white{ "; it must be nice to ride through these fields upon the horse of true mathematics while the like of us have to make our way laboriously on foot." } + black{ bold{ " - Albert Einstein to Tullio Levi-Civita, on tensor analysis (1915)" } }
 puts white{ bold{ "Everyone struggles." } } + white{ " This is what it means to be human." }
 puts white{ "The only normal people are the ones you don't know very well." }
 puts white{ "Procrastination is a vice when it comes to productivity, but it can be a virtue for creativity." } + black{ bold{ " - Adam Grant" } }
@@ -642,7 +638,6 @@ puts white{ "The number of UNIX installations is now above 20, and many more are
 puts white{ "Genius alters the terms of its habitat." } + black{ bold{ " - 'Cosmopolis: A Novel', Don DeLillo (2004)" } }
 puts white{ bold{ "Startups are (by necessity) filled with generalists; big companies are filled with specialists." } } + white{ " People underestimate how effective a generalist can be at things which are done by specialists. People underestimate how deep specialties can run. These are simultaneously true." } + black{ bold{ " - Patrick McKenzie" } }
 puts white{ bold{ "In Estonia, we don't have Big Brother; we have Little Brother." } } + white{ " You can tell him what to do and maybe also beat him up." } + black{ bold{ " - Anonymous local" } }
-puts white{ "If we knew what it was we were doing, it would not be called research." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "The principals of a technical consultancy do very well for themselves. I don't know if that is a secret but it certainly isn't well appreciated: " } + white{ bold{ "nobody says Occupy Boutique Rails Consultancies" } } + white{ ", but the principals of them do end up in the 1%." } + black{ bold{ " - @patio11" } }
 puts white{ "Discover these cave-dwelling secrets that your real estate developer doesn't want you to know!" } + black{ bold{ " - @yipopov" } }
 puts white{ "A man might see no correspondence between his social or economic position and his private mental life." } + black{ bold{ " - Andrew O'Hagan" } }
@@ -663,7 +658,6 @@ puts white{ bold{ "You actually do learn something from school" } } + white{ "..
 puts white{ "Big fish swim faster than small fish." } + black{ bold{ " - School of Botany and Zoology, Australian National University" } } # http://lolmythesis.com/post/91305620105/big-fish-swim-faster-than-small-fish
 puts white{ bold{ "All men dream: but not equally." } } + white{ " Those who dream by night in the dusty recesses of their minds wake in the day to find that it was vanity: but the dreamers of the day are dangerous men, for they may act their dreams with open eyes, to make it possible." } + black{ bold{ " - T. E. Lawrence (1922)" } }
 puts white{ "Humanity knows nothing." } + black{ bold{ " - Masanobu Fukuoka" } }
-puts white{ bold{ "Everybody is a genius." } } + white{ " But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "They trust me - dumb fucks." } + black{ bold{ " - Mark Zuckerberg (2010)" } }
 puts white{ "It's kind of fun to do the impossible." } + black{ bold{ " - Walt Disney" } }
 puts white{ "We use administrative data at the U.S. Census Bureau to study the ages of founders of growth-oriented start-ups in the past decade. Our primary finding is that " } + white{ bold{ "successful entrepreneurs are middle-aged, not young" } } + white{ ". " } + white{ bold{ "The mean founder age for the 1 in 1,000 fastest growing new ventures is 45.0." } } + white{ " The findings are broadly similar when considering high-technology sectors, entrepreneurial hubs, and successful firm exits. Prior experience in the specific industry predicts much greater rates of entrepreneurial success. These findings strongly reject common hypotheses that emphasize youth as a key trait of successful entrepreneurs." } + black{ bold{ " - Azoulay et al., 'Age and High-Growth Entrepreneurship' (2018)" } }
@@ -695,7 +689,6 @@ puts white{ "I think of first mover advantages all the time when I invest, but I
 puts white{ bold{ "Silicon Valley companies like to pretend they're special in some sort of moral, ethical, or existential way." } } + white{ " It turns out they're just companies." } + black{ bold{ " - Adam Lashinsky, Fortune (2018)" } }
 puts white{ "We live in worlds our questions create." } + black{ bold{ " - David Cooperider" } }
 puts white{ bold{ "ThomPete's travail" } } + black{ bold{ ": " } } + white{ "Wicked problems are by definition either political or ideological." }
-puts white{ "Intellectuals solve problems, geniuses prevent them." } + black{ bold{ " - Einstein" } }
 puts white{ "A comment is a failure to express yourself in code. If you fail, then write a comment; but try not to fail." } + black{ bold{ " - @UncleBobMartin" } }
 puts white{ bold{ "Programming is like cooking" } } + white{ ": in Python, you use pre-made bolognese sauce; in C++, you start from fresh tomatoes and minced meat; in Assembly, you have a farm where you grow your tomatoes and raise your cow." } + black{ bold{ " - @gv_barroso" } }
 puts white{ bold{ "Programming computers was so fascinating." } } + white{ " You create your own little universe, and then it does what you tell it to do." } + black{ bold{ " - Vint Cerf" } }
@@ -872,7 +865,6 @@ puts white{ "Writing appears to be necessary for the centralized, stratified sta
 puts white{ "Buy for parity, build for competitive advantage." } + black{ bold{ " - @cratermoon" } }
 puts white{ "I could see the frame, but I still couldn't see the picture." } + black{ bold{ " - Robert Mitchum" } }
 puts white{ "It turns out 'Hey Alexa' is short for 'Hey Keith Alexander'." } + black{ bold{ " - Edward Snowden, after Amazon hired NSA chief (2020)" } }
-puts white{ "If at first, the idea is not absurd, there is no hope for it." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "Acidic environments: swamps and blogs." }
 puts white{ "Circular, like most arguments on the internet." }
 puts white{ "It is always hard to see the purpose of wilderness wanderings until after they are over." } + black{ bold{ " - John Bunyan" } }
@@ -896,7 +888,19 @@ puts white{ bold{ "Old school geeks used to be innovative, libertarians and pro 
 puts white{ "The world will reveal itself to those who travel on foot." } + black{ bold{ " - Werner Herzog" } }
 puts white{ "The moment a man begins to talk about technique that's proof he is fresh out of ideas." } + black{ bold{ " - Raymond Chandler" } }
 puts white{ "Good men don't need rules." } + black{ bold{ " - Doctor Who" } }
+
+# Einstein
+puts white{ "If at first, the idea is not absurd, there is no hope for it." } + black{ bold{ " - Albert Einstein" } }
+puts white{ "Intellectuals solve problems, geniuses prevent them." } + black{ bold{ " - Einstein" } }
+puts white{ bold{ "Everybody is a genius." } } + white{ " But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." } + black{ bold{ " - Albert Einstein" } }
+puts white{ "If we knew what it was we were doing, it would not be called research." } + black{ bold{ " - Albert Einstein" } }
+puts white{ bold{ "I admire the elegance of your method of computation" } } + white{ "; it must be nice to ride through these fields upon the horse of true mathematics while the like of us have to make our way laboriously on foot." } + black{ bold{ " - Albert Einstein to Tullio Levi-Civita, on tensor analysis (1915)" } }
+puts white{ bold{ "I am enough of the artist to draw freely upon my imagination." } } + white{ " Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." } + black{ bold{ " - Albert Einstein (1929)" } } # http://quoteinvestigator.com/2013/01/01/einstein-imagination/
+puts white{ "Everything should be made as simple as possible, but no simpler." } + black{ bold{ " - Albert Einstein" } }
+puts white{ "No worthy problem is ever solved in the plane of its original conception." } + black{ bold{ " - Albert Einstein" } }
+puts white{ "Not everything that can be counted counts, and not everything that counts can be counted." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "I have always found repulsive the undignified addiction to conformity of many of my peers. At times like this one realises what a sorry species one belongs to." } + black{ bold{ " - Einstein" } }
+puts white{ "Nationalism is an infantile disease. It is the measles of mankind." } + black{ bold{ " - Einstein" } }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
@@ -1629,7 +1633,6 @@ puts white{ "Great artists ship." } + black{ bold{ " - Steve Jobs" } }
 puts white{ bold{ "One cannot make an omelette without breaking eggs" } } + white{ ", but it is amazing how many eggs one can break without making a decent omelette." } + black{ bold{ " - Charles P. Issawi" } }
 puts white{ "It is easy to optimize a correct system, but hard to correct an optimized system." }
 puts white{ bold{ "Any sufficiently complex system acts as a black box when it becomes easier to experiment with than to understand." } } + white{ " Hence, black-box optimization has become increasingly important as systems become more complex." } + black{ bold{ " - Google Vizier: a service for black-box optimization Golovin et al., KDD'17" } }
-puts white{ "Not everything that can be counted counts, and not everything that counts can be counted." } + black{ bold{ " - Albert Einstein" } }
 
 # randoms - maintenance
 puts "------ randoms on maintenance ------"
