@@ -896,6 +896,7 @@ puts white{ bold{ "Old school geeks used to be innovative, libertarians and pro 
 puts white{ "The world will reveal itself to those who travel on foot." } + black{ bold{ " - Werner Herzog" } }
 puts white{ "The moment a man begins to talk about technique that's proof he is fresh out of ideas." } + black{ bold{ " - Raymond Chandler" } }
 puts white{ "Good men don't need rules." } + black{ bold{ " - Doctor Who" } }
+puts white{ "I have always found repulsive the undignified addiction to conformity of many of my peers. At times like this one realises what a sorry species one belongs to." } + black{ bold{ " - Einstein" } }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
