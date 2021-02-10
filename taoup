@@ -894,6 +894,8 @@ puts white{ "A story is worth 1000 spreadsheets." } + black{ bold{ " - Political
 puts white{ "There are two ways to make money. You can bundle, or you can unbundle." } + black{ bold{ " - Jim Barksdale" } } # https://www.ben-evans.com/presentations
 puts white{ bold{ "Old school geeks used to be innovative, libertarians and pro freedom." } } + white{ " In 2020, now that they're at the top of the food chain thanks to selling online ads, they are mostly concerned by enforcing societal norms and praising the status quo, while creating the perfect surveillance apparatus for the big government. Of course they must bow their heads to their corporate masters - they don't want to bite the hand that feeds them! A lost generation." } + black{ bold{ " - @1996" } }
 puts white{ "The world will reveal itself to those who travel on foot." } + black{ bold{ " - Werner Herzog" } }
+puts white{ "The moment a man begins to talk about technique that's proof he is fresh out of ideas." } + black{ bold{ " - Raymond Chandler" } }
+puts white{ "Good men don't need rules." } + black{ bold{ " - Doctor Who" } }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
