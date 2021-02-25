@@ -888,6 +888,7 @@ puts white{ bold{ "Old school geeks used to be innovative, libertarians and pro 
 puts white{ "The world will reveal itself to those who travel on foot." } + black{ bold{ " - Werner Herzog" } }
 puts white{ "The moment a man begins to talk about technique that's proof he is fresh out of ideas." } + black{ bold{ " - Raymond Chandler" } }
 puts white{ "Good men don't need rules." } + black{ bold{ " - Doctor Who" } }
+puts white{ "Manufacturing is not a sector. It is a capability." } + black{ bold{ " - Jens Goennemann" } }
 
 # Einstein
 puts "----- einstein -------"
