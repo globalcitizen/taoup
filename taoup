@@ -889,6 +889,7 @@ puts white{ "The world will reveal itself to those who travel on foot." } + blac
 puts white{ "The moment a man begins to talk about technique that's proof he is fresh out of ideas." } + black{ bold{ " - Raymond Chandler" } }
 puts white{ "Good men don't need rules." } + black{ bold{ " - Doctor Who" } }
 puts white{ "Manufacturing is not a sector. It is a capability." } + black{ bold{ " - Jens Goennemann" } }
+puts white{ bold{ "The customer is a human with irrational ideas" } } + white{ ": just like every other human." } + black{ bold{ " - Noam Bardin" } }
 
 # Einstein
 puts "----- einstein -------"
