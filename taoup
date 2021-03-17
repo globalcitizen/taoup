@@ -892,6 +892,7 @@ puts white{ "Good men don't need rules." } + black{ bold{ " - Doctor Who" } }
 puts white{ "Manufacturing is not a sector. It is a capability." } + black{ bold{ " - Jens Goennemann" } }
 puts white{ bold{ "The customer is a human with irrational ideas" } } + white{ ": just like every other human." } + black{ bold{ " - Noam Bardin" } }
 puts white{ "Crudely, the young brain works faster because it takes into account less information, fewer contingencies, while the older brain does the opposite." } + black{ bold{ " - @marmaduke" } }
+puts white{ bold{ "The superpower of software" } } + white{ ": your ability to listen to a customer and quickly iterate your way towards a better and better customer experience or product or solution for that customer." } + black{ bold{ " - Pete Flint" } }
 
 # Einstein
 puts "----- einstein -------"
