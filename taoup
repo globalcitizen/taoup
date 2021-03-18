@@ -893,6 +893,7 @@ puts white{ "Manufacturing is not a sector. It is a capability." } + black{ bold
 puts white{ bold{ "The customer is a human with irrational ideas" } } + white{ ": just like every other human." } + black{ bold{ " - Noam Bardin" } }
 puts white{ "Crudely, the young brain works faster because it takes into account less information, fewer contingencies, while the older brain does the opposite." } + black{ bold{ " - @marmaduke" } }
 puts white{ bold{ "The superpower of software" } } + white{ ": your ability to listen to a customer and quickly iterate your way towards a better and better customer experience or product or solution for that customer." } + black{ bold{ " - Pete Flint" } }
+puts white{ "A global poll in 2019 found that only 52% of people in Latin America and the Caribbean thought a neighbour would return a wallet; just 41% thought a cop would. That is the lowest share of any region." } + black{ bold{ " - Economist" } }
 
 # Einstein
 puts "----- einstein -------"
