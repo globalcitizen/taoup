@@ -1887,6 +1887,15 @@ puts white{ "When you first start a company, there's lots of optimism and things
 puts white{ "Anything which is significantly innovative is gonna come with a significant risk of failure." } + black{ bold{ " - Elon Musk" } }
 puts white{ "Vacation will kill you." } + black{ bold{ " - Elon Musk, after contracting cerebral malaria while on holiday" } }
 puts white{ "Excessive automation at Tesla was a mistake." } + black{ bold{ " - Elon Musk" } }
+puts white{ bold{ "Wishful thinking is innate in the human brain." } } + white{ " You want things to be the way you wish them to be and you tend to filter information that you shouldn't filter. That's the most common flaw that I see." } + black{ bold{ " - Elon Musk" } }
+puts white{ "People instead of reasoning from first principles will do things because others are doing them, which is sometimes correct but sometimes you are going to run off a cliff or something. It's much better to think of things, as we say in physics, from a first principles standpoint. What are the fundamental truths in an arena, and conclusions logic that you arrive to must be derived from those fundamental truths." } + black{ bold{ " - Elon Musk" } }
+puts white{ "Persistence is extremely important. You should not give up unless you are forced to give up." } + black{ bold{ " - Elon Musk" } }
+puts white{ "Starting companies is like eating glass and staring in to the abyss of death - if that sounds appealing, be an entrepreneur." } + black{ bold{ " - Friend of Elon Musk" } }
+puts white{ "Try to get to a useful prototype as soon as possible with the least amount of money. I think that's usually a good idea." } + black{ bold{ " - Elon Musk" } }
+puts white{ "What's the difference between believing in your ideals and sticking to them versus pursuing some unrealistic dream that doesn't actually have merit? That is a really difficult thing. You have to be very rigorous in your self-analysis." } + black{ bold{ " - Elon Musk" } }
+puts white{ "Reason from first principles rather than by analogy." } + black{ bold{ " - Elon Musk" } }
+puts white{ "Always questions whether you're wrong and try to invalidate your own theories." } + black{ bold{ " - Elon Musk" } }
+puts white{ "People have too much fear of failure." } + black{ bold{ " - Elon Musk" } }
 
 # Michael Moritz
 puts "---- Michael Moritz ----"
