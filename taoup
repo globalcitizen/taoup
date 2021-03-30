@@ -1975,6 +1975,7 @@ puts white{ "Efficient retrieval of knowledge from long-term memory depends on f
 puts white{ "Knowledge develops only through use and feedback about its effectiveness." } + black{ bold{ " - Lisanne Bainbridge (1983)" } }
 
 # Characteristics of Innovative People @ https://dobetter.esade.edu/en/innovative-person
+puts white{ "---- Characteristics of Innovative People ----" }
 puts white{ bold{ "Continuous reflection" } } + black{ bold{ ": " } } + white{ "Be open to questioning your initial ideas and notice new information." }
 puts white{ bold{ "Unattached exploration" } } + black{ bold{ ": " } } + white{ "Postpone fixation, stay open to exploring different possibilities." }
 puts white{ "Iterate between abstract and concrete thinking." }
