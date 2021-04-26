@@ -13,7 +13,7 @@ It's mostly a personal collection, but contributions are welcome.
 Installation
 ------------
 
- * [Arch Linux](https://aur.archlinux.org/packages/taoup/): `pacman -S taoup` (thanks to @JoshH100)
+ * [Arch Linux](https://aur.archlinux.org/packages/taoup-git/): `yay -S taoup-git` (replace `yay` with your favorite AUR helper)
  * Other unix-like: Make sure you have `ruby` and `gem` installed, run `gem install ansi` then `./taoup`.
 
 Screenshots
