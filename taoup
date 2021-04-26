@@ -908,6 +908,7 @@ puts white{ "No worthy problem is ever solved in the plane of its original conce
 puts white{ "Not everything that can be counted counts, and not everything that counts can be counted." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "I have always found repulsive the undignified addiction to conformity of many of my peers. At times like this one realises what a sorry species one belongs to." } + black{ bold{ " - Einstein" } }
 puts white{ "Nationalism is an infantile disease. It is the measles of mankind." } + black{ bold{ " - Einstein" } }
+puts white{ "We can not solve our problems with the same level of thinking that created them." } + black{ bold{ " - Einstein" } }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
