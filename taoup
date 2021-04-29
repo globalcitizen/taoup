@@ -1935,7 +1935,7 @@ puts white{ bold{ "Have Backbone; Disagree and Commit" } } + white{ ": Respectfu
 puts white{ bold{ "Deliver Results" } } + white{ ": Focus on key inputs and deliver them with quality and timeliness. Despite setbacks, rise to the occasion and never settle." } + black{ bold{ " - Amazon leadership principle" } }
 
 # Wittgenstein
-puts white{ "---- wittgenstein ----" }
+puts "---- wittgenstein ----"
 puts white{ "At the core of all well-founded belief, lies belief that is unfounded." } + black{ bold{ " - Wittgenstein, 'On Certainty' (1969)" } }
 puts white{ "If people never did silly things nothing intelligent would ever get done." } + black{ bold{ " - Wittgenstein" } }
 puts white{ "Philosophy is a battle against the bewitchment of our intelligence by means of language." } + black{ bold{ " - Wittgenstein" } }
@@ -1968,7 +1968,7 @@ puts white{ "One age misunderstands another." } + black{ bold{ " - Wittgenstein"
 puts white{ "Do we have to see progress? Is it not genuine scratching otherwise, or genuine itching?" } + black{ bold{ " - Wittgenstein" } }
 
 # Ironies of Automation / https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
-puts white{ "---- ironies of automation ----" }
+puts "---- ironies of automation ----"
 puts white{ "The designer who tries to eliminate the operator still leaves the operator to do the tasks which the designer cannot think how to automate." } + black{ bold{ " - Lisanne Bainbridge (1983)" } }
 puts white{ "The experienced operator makes the minimum number of actions, and the process output moves smoothly and quickly to the new level, while with an inexperienced operator it oscillates round the target value." } + black{ bold{ " - Lisanne Bainbridge (1983)" } }
 puts white{ "When manual take-over is needed there is likely to be something wrong with the process, so that unusual actions will be needed to control it, and one can argue that the operator needs to be more rather than less skilled, and less rather than more loaded, than average." } + black{ bold{ " - Lisanne Bainbridge (1983)" } }
@@ -1976,7 +1976,7 @@ puts white{ "Efficient retrieval of knowledge from long-term memory depends on f
 puts white{ "Knowledge develops only through use and feedback about its effectiveness." } + black{ bold{ " - Lisanne Bainbridge (1983)" } }
 
 # Characteristics of Innovative People @ https://dobetter.esade.edu/en/innovative-person
-puts white{ "---- Characteristics of Innovative People ----" }
+puts "---- Characteristics of Innovative People ----"
 puts white{ bold{ "Continuous reflection" } } + black{ bold{ ": " } } + white{ "Be open to questioning your initial ideas and notice new information." }
 puts white{ bold{ "Unattached exploration" } } + black{ bold{ ": " } } + white{ "Postpone fixation, stay open to exploring different possibilities." }
 puts white{ "Iterate between abstract and concrete thinking." }
