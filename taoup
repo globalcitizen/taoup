@@ -895,6 +895,7 @@ puts white{ "Crudely, the young brain works faster because it takes into account
 puts white{ bold{ "The superpower of software" } } + white{ ": your ability to listen to a customer and quickly iterate your way towards a better and better customer experience or product or solution for that customer." } + black{ bold{ " - Pete Flint" } }
 puts white{ "A global poll in 2019 found that only 52% of people in Latin America and the Caribbean thought a neighbour would return a wallet; just 41% thought a cop would. That is the lowest share of any region." } + black{ bold{ " - Economist" } }
 puts white{ "Amateurs talk about strategy and tactics. Professionals talk about logistics." } + black{ bold{ " - Robert Hilliard Barrow (1922-2008), USMC four-star general" } }
+puts white{ "Don't write ferraris, write minivans." } + black{ bold{ " - David Williams" } }
 
 # Einstein
 puts "----- einstein -------"
