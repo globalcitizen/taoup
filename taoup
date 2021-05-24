@@ -739,6 +739,7 @@ puts white{ "Thinking is also work." }
 puts white{ "I have noticed that the more people glorify the entrepreneur as an abstraction, the more they will scorn an actual one they meet." } + black{ bold{ " - Jean-Louis Rheault" } }
 puts white{ bold{ "artificia docuit fames" } } + black{ bold{ " - " } } + white{ "sophistication is born out of hunger." }
 puts white{ "You have to work hard to get your thinking clean to make it simple." } + black{ bold{ " - Steve Jobs" } }
+puts white{ "The objectivity of science is [...] " } + bold{ "the social result of mutual criticism, of the friendly-hostile division of labour among scientists, of their co-operation and also of their competition" } + white{ "... Objectivity can only be explained in terms of social ideas such as competition (both of individual scientists and of various schools of thoughts); tradition (that is the critical tradition); social institutions (for instance, publications in various competing journals and by various competing publishers; discussions at congresses); the power of the state (that is, its political tolerance of free discussion)." } + black{ bold{ " - Karl Popper, The logic of the social sciences (1976)" } }
 
 # Nassim Taleb (eg. 'Antifragility', pp1-91)
 puts white{ bold{ "Techne" } } + black{ bold{ " (crafts and knowhow) " } } + white{ "not " } + white{ bold{ "episteme" } } + black{ bold{ " (book knowledge; know what). - Nassim Taleb" } } 
