@@ -896,6 +896,7 @@ puts white{ bold{ "The superpower of software" } } + white{ ": your ability to l
 puts white{ "A global poll in 2019 found that only 52% of people in Latin America and the Caribbean thought a neighbour would return a wallet; just 41% thought a cop would. That is the lowest share of any region." } + black{ bold{ " - Economist" } }
 puts white{ "Amateurs talk about strategy and tactics. Professionals talk about logistics." } + black{ bold{ " - Robert Hilliard Barrow (1922-2008), USMC four-star general" } }
 puts white{ "Don't write ferraris, write minivans." } + black{ bold{ " - David Williams" } }
+puts white{ "Chance favours the prepared mind." } + black{ bold{ " - Louis Pasteur" } }
 
 # Einstein
 puts "----- einstein -------"
