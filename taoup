@@ -899,6 +899,14 @@ puts white{ "Amateurs talk about strategy and tactics. Professionals talk about 
 puts white{ "Don't write ferraris, write minivans." } + black{ bold{ " - David Williams" } }
 puts white{ "Chance favours the prepared mind." } + black{ bold{ " - Louis Pasteur" } }
 
+# Ackoff
+puts "----- russell l. ackoff -------"
+puts white{ "Most large social systems are pursuing objectives other than the ones they proclaim, and the ones they pursue are wrong." } + black{ bold{ " - Russell L. Ackoff" } }
+puts white{ bold{ "The principal function of most corporations is not to maximize shareholder value, but to maximize the standard of living and quality of work life of those who manage the corporation." } } + white{ " Providing the shareholders with a return on their investments is a requirement, not an objective." } + black{ bold{ " - Russell L. Ackoff" } }
+puts white{ bold{ "The most valuable and least replaceable resource is time." } } + black{ bold{ " - Russell L. Ackoff" } }
+puts white{ bold{ "Hierarchy of mental content" } } + white{ " (in order of increasing value):" } + white{ bold{ " data, information, knowledge, understanding, and wisdom" } } + white{ "." } + black{ bold { " - Russell L. Ackoff" } }
+puts white{ "The best thing that can be done to a problem is not to solve it but to dissolve it." } + black{ bold{ " - Russell L. Ackoff" } }
+
 # Einstein
 puts "----- einstein -------"
 puts white{ "If at first, the idea is not absurd, there is no hope for it." } + black{ bold{ " - Albert Einstein" } }
