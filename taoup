@@ -898,6 +898,7 @@ puts white{ "A global poll in 2019 found that only 52% of people in Latin Americ
 puts white{ "Amateurs talk about strategy and tactics. Professionals talk about logistics." } + black{ bold{ " - Robert Hilliard Barrow (1922-2008), USMC four-star general" } }
 puts white{ "Don't write ferraris, write minivans." } + black{ bold{ " - David Williams" } }
 puts white{ "Chance favours the prepared mind." } + black{ bold{ " - Louis Pasteur" } }
+puts white{ bold{ "Naivete is an asset." } } + white{ " That's why entrepreneurs can come in and disrupt a huge business full of incumbents with billions of dollars in market value. Look at Kodak. Kodak knew of the digital camera in the 70s. But they wouldn't acknowledge it and they wouldn't touch it, because of all these other systems built up around it." } + black{ bold{ " - Tony Fadell (2021)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
