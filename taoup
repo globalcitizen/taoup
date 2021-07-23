@@ -901,6 +901,7 @@ puts white{ "Chance favours the prepared mind." } + black{ bold{ " - Louis Paste
 puts white{ bold{ "Naivete is an asset." } } + white{ " That's why entrepreneurs can come in and disrupt a huge business full of incumbents with billions of dollars in market value. Look at Kodak. Kodak knew of the digital camera in the 70s. But they wouldn't acknowledge it and they wouldn't touch it, because of all these other systems built up around it." } + black{ bold{ " - Tony Fadell (2021)" } }
 puts white{ "Would you tacitly support genocide if your employer bought you lunch?" } + black{ bold{ " - @ALittleLight, on the moral fiber of Google employees following the 2021 deletion of Youtube videos regarding Xinjiang" } }
 puts white{ "An expert is a person who has made most of the possible mistakes in a given field." }
+puts white{ "Cut twice and it's still too short." } + black{ bold{ " - Machinist's saying" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
