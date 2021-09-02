@@ -1918,6 +1918,12 @@ puts white{ "What's the difference between believing in your ideals and sticking
 puts white{ "Reason from first principles rather than by analogy." } + black{ bold{ " - Elon Musk" } }
 puts white{ "Always questions whether you're wrong and try to invalidate your own theories." } + black{ bold{ " - Elon Musk" } }
 puts white{ "People have too much fear of failure." } + black{ bold{ " - Elon Musk" } }
+puts black{ bold{ "Musk's 1st rule of manufacturing" } } + black{ bold{ ": " } } + white{ bold{ "Make requirements less dumb" } } + white{ ". Document who is responsible for the requirement or constraint, why it exists, and how to contact them." }
+puts black{ bold{ "Musk's 2nd rule of manufacturing" } } + black{ bold{ ": " } } + white{ bold{ "Delete the part or process" } } + white{ ". If you're not occasionally adding things back in, you're not deleting enough." }
+puts black{ bold{ "Musk's 3rd rule of manufacturing" } } + black{ bold{ ": " } } + white{ bold{ "Simplify or optimize" } } + white{ ". But do not optimize things that should not exist." }
+puts black{ bold{ "Musk's 4th rule of manufacturing" } } + black{ bold{ ": " } } + white{ bold{ "Accelerate cycle times" } } + white{ ". You're moving too slowly, go faster. But if you're digging your grave, don't dig it faster." }
+puts black{ bold{ "Musk's 5th rule of manufacturing" } } + black{ bold{ ": " } } + white{ bold{ "Automate" } } + white{ ". But never do this first." }
+
 
 # Michael Moritz
 puts "---- Michael Moritz ----"
