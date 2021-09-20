@@ -907,6 +907,7 @@ puts white{ bold{ "middlewared" } } + black{ bold{ ": " } } + white{ "to be encu
 puts white{ "I love what I do, and I know how to use my willpower to get anything that might divert me out of my way. I lead a simple and happy life. " } + white{ bold{ "Everything around me converges, and indeed must converge, to promote the task I have set myself" } } + white{ "." } + black{ bold{ " - Marcel Dassault" } }
 puts white{ "No one pays extra for perfect; always engineer for adequate!" }
 puts white{ bold{ "En casa de herrero, cuchillo de palo" } } + black{ bold{": " } } + white{ "In the blacksmith's house, wooden knife." } + black{ bold{ " - Spanish saying" } }
+puts white{ "Another week, another impressive technological display of amoral mass-douchebaggery." } + black{ bold{ " - PedroBatista" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
