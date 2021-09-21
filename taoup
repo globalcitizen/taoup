@@ -908,6 +908,7 @@ puts white{ "I love what I do, and I know how to use my willpower to get anythin
 puts white{ "No one pays extra for perfect; always engineer for adequate!" }
 puts white{ bold{ "En casa de herrero, cuchillo de palo" } } + black{ bold{": " } } + white{ "In the blacksmith's house, wooden knife." } + black{ bold{ " - Spanish saying" } }
 puts white{ "Another week, another impressive technological display of amoral mass-douchebaggery." } + black{ bold{ " - PedroBatista" } }
+puts white{ "Remember that all is opinion." } + black{ bold{ " - Marcus Aurelius" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
