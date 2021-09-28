@@ -14,6 +14,7 @@ Installation
 ------------
 
  * [Arch Linux](https://aur.archlinux.org/packages/taoup-git/): `yay -S taoup-git` (replace `yay` with your favorite AUR helper)
+ * [Nix](https://nixos.org/): `nix-env -iA nixos.taoup` (or `nix-env -iA nixpkgs.taoup` with nixpkgs on a non-Nix OS)
  * Other unix-like: Make sure you have `ruby` and `gem` installed, run `gem install ansi` then `./taoup`.
 
 Screenshots
