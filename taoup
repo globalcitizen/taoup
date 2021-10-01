@@ -910,6 +910,7 @@ puts white{ bold{ "En casa de herrero, cuchillo de palo" } } + black{ bold{": " 
 puts white{ "Another week, another impressive technological display of amoral mass-douchebaggery." } + black{ bold{ " - PedroBatista" } }
 puts white{ "Remember that all is opinion." } + black{ bold{ " - Marcus Aurelius" } }
 puts white{ "The wheel is rounder when we re-invent it in JS." } + black{ bold{ " - @analognoise" } }
+puts white{ "If you can't handle the heat get out of the Anthropocene." } + black{ bold{ " - @RobLach" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
