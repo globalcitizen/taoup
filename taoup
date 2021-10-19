@@ -912,6 +912,7 @@ puts white{ "Remember that all is opinion." } + black{ bold{ " - Marcus Aurelius
 puts white{ "The wheel is rounder when we re-invent it in JS." } + black{ bold{ " - @analognoise" } }
 puts white{ "If you can't handle the heat get out of the Anthropocene." } + black{ bold{ " - @RobLach" } }
 puts white{ "My Mom said it to me with simpler terms when I was little... " } + white{ bold{ "we only have laws because of the assholes" } } + white{ "." } + black{ bold{ " - @taf2" } }
+puts white{ "You call a library, but a framework calls you." }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
