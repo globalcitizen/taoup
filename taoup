@@ -1636,6 +1636,8 @@ puts white{ "Our emphasis on people is deliberate." } + black{ bold{ " - J.C.R. 
 puts white{ "Nothing can now be believed which is seen in a newspaper." } + black{ bold{ " - Thomas Jefferson (1807)" } }
 puts white{ "You don't have to like it, but you need to understand it if you're proposing to replace it." } + black{ bold{ " - John Levine (2020)" } }
 puts white{ "The invention of the wheel was a huge job killer." } + black{ bold{ " - @dfilppi" } }
+puts white{ "The product of the human brain has escaped the control of human hands. This is the comedy of science."} + black{ bold{ " - Karel Čapek (1921), inventor of the term 'robot'" } }
+puts white{ bold{ "The modern scientist" } } + white{ ", untroubled by metaphysical ideas; scientific experiment is to him the road to industrial production. He is not concerned to prove, but to manufacture." } + black{ bold{ " - Karel Čapek (1921), inventor of the term 'robot'" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
