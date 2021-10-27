@@ -915,6 +915,7 @@ puts white{ "My Mom said it to me with simpler terms when I was little... " } + 
 puts white{ "You call a library, but a framework calls you." }
 puts white{ "I am an explorer of structures." } + black{ bold{ " - Buckminster Fuller" } }
 puts white{ "Money is a 'first derivative' of success and a lagging indicator." } + black{ bold{ " - @ChuckMcM" } }
+puts white{ "Let us not confuse the loyalties of free men with mere obedience to authority." } + black{ bold{ " - C. Wright Mills" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
