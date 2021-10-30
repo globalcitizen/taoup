@@ -1639,6 +1639,7 @@ puts white{ "You don't have to like it, but you need to understand it if you're 
 puts white{ "The invention of the wheel was a huge job killer." } + black{ bold{ " - @dfilppi" } }
 puts white{ "The product of the human brain has escaped the control of human hands. This is the comedy of science."} + black{ bold{ " - Karel Čapek (1921), inventor of the term 'robot'" } }
 puts white{ bold{ "The modern scientist" } } + white{ ", untroubled by metaphysical ideas; scientific experiment is to him the road to industrial production. He is not concerned to prove, but to manufacture." } + black{ bold{ " - Karel Čapek (1921), inventor of the term 'robot'" } }
+puts white{ "If I had asked people what they had wanted, they would have said faster horses." } + black{ bold{ " - Henry Ford" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
