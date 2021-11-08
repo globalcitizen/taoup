@@ -917,6 +917,7 @@ puts white{ "I am an explorer of structures." } + black{ bold{ " - Buckminster F
 puts white{ "Money is a 'first derivative' of success and a lagging indicator." } + black{ bold{ " - @ChuckMcM" } }
 puts white{ "Let us not confuse the loyalties of free men with mere obedience to authority." } + black{ bold{ " - C. Wright Mills" } }
 puts white{ bold{ "True decentralization is a natural but ephemeral quality of networks with relatively few nodes." } } + white{ " That is, scales where each individual node has enough internal resources to accurately represent the entire network. Human networks are parameterized very roughly by Dunbar's Number (100-250), while modern computer networks are much more capable." } + black{ bold{ " - @pphysch" } }
+puts white{ "No wonder they disagreed so endlessly; they were talking about different things." } + black{ bold{ " - Robert L. Heilbroner" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
