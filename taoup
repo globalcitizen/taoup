@@ -1431,6 +1431,12 @@ puts white{ "I made up these slogans because I discovered most adults couldn't d
 puts white{ "Adults are dangerous. Really dangerous." } + black{ bold{ " - Alan Kay" } }
 puts white{ "People who are really serious about software should make their own hardware." } + black{ bold{ " - Alan Kay" } }
 puts white{ bold{ "Computing is pop culture." } } + white{ " Pop culture holds a disdain for history. Pop culture is all about identity and feeling like you're participating. It has nothing to do with cooperation, the past or the future — it's living in the present. I think the same is true of most people who write code for money. They have no idea where [their culture came from]." } + black{ bold{ " - Alan Kay" } }
+puts white{ "The biggest problem with computing today is that almost nobody is really dissatisfied with it." } + black{ bold{ " - Alan Kay" } }
+puts white{ "Human beings hardly did anything differently for several hundred thousand years." } + black{ bold{ " - Alan Kay" } }
+puts white{ bold{ "Almost no computer people can design a good user interface to save their life" } } + white{ ": nor do they want to, because their world is learning whatever it takes to deal with an arbitrarily complicated system." } + black{ bold{ " - Alan Kay" } }
+puts white{ "It was not manly to write in a high-level language." } + black{ bold{ " - Alan Kay, on the 15-year backlash against FORTRAN" } }
+puts white{ bold{ "The truth is we're terrible at multitasking." } } + white{ " It's very difficult for us to hold multiple things in our heads at one time. We are tremendously resource-limited." } + black{ bold{ " - Alan Kay" } }
+puts white{ bold{ "Unlike squids and octopi, we have very poorly designed eyes" } } + white{ "... in case you ever have an argument with a creationist." } + black{ bold{ " - Alan Kay" } }
 
 # arthur c. clarke
 puts "----- Arthur C. Clarke -----"
