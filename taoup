@@ -920,6 +920,7 @@ puts white{ bold{ "True decentralization is a natural but ephemeral quality of n
 puts white{ "No wonder they disagreed so endlessly; they were talking about different things." } + black{ bold{ " - Robert L. Heilbroner" } }
 puts white{ "Scientific progress on a broad front results from the free play of free intellects, working on subjects of their own choice, in the manner dictated by their curiosity." } + black{ bold{ " - Vannevar Bush" } }
 puts white{ "We are living in what the Greeks called the " } + white{ bold{ "καιρóς (Kairos)" } } + white{ " – the right time – for a \"metamorphosis of the gods,\" i.e. of the fundamental principles and symbols." } + black{ bold{ " - C. G. Jung, The Undiscovered Self (1958)" } }
+puts white{ bold{ "Automation is no longer just a problem for those working in manufacturing." } } + white{ " Physical labor was replaced by robots; mental labor is going to be replaced by AI and software." } + black{ bold{ " - Andrew Yang" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
