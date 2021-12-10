@@ -1651,6 +1651,7 @@ puts white{ "The invention of the wheel was a huge job killer." } + black{ bold{
 puts white{ "The product of the human brain has escaped the control of human hands. This is the comedy of science."} + black{ bold{ " - Karel Čapek (1921), inventor of the term 'robot'" } }
 puts white{ bold{ "The modern scientist" } } + white{ ", untroubled by metaphysical ideas; scientific experiment is to him the road to industrial production. He is not concerned to prove, but to manufacture." } + black{ bold{ " - Karel Čapek (1921), inventor of the term 'robot'" } }
 puts white{ "If I had asked people what they had wanted, they would have said faster horses." } + black{ bold{ " - Henry Ford" } }
+puts white{ bold{ "1970" } } + black{ bold{ ": " } } + white{ "We're going to build a global network that can withstand a nuclear war. " } + white{ bold{ "2021" } } + black{ bold{ ": " } } + white{ "AWS is down an my coffee machine doesn't work." } + black{ bold{ " - @VessOnSecurity" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
