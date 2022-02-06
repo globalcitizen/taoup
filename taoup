@@ -922,6 +922,9 @@ puts white{ "Scientific progress on a broad front results from the free play of 
 puts white{ "We are living in what the Greeks called the " } + white{ bold{ "καιρóς (Kairos)" } } + white{ " – the right time – for a \"metamorphosis of the gods,\" i.e. of the fundamental principles and symbols." } + black{ bold{ " - C. G. Jung, The Undiscovered Self (1958)" } }
 puts white{ bold{ "Automation is no longer just a problem for those working in manufacturing." } } + white{ " Physical labor was replaced by robots; mental labor is going to be replaced by AI and software." } + black{ bold{ " - Andrew Yang" } }
 puts white{ "Complexity is not a sign of intelligence; simplify." } + black{ bold{ " - Peter Bevelacqua" } }
+puts white{ "Silence is gold, talking is silver." } + black{ bold{ " - Arabic proverb" } }
+puts white{ bold{ "What we need is the opposite of Big Tech." } } + white{ " We need Small Tech – everyday tools for everyday people designed to increase human welfare, not corporate profits." } + black{ bold{ " - Aral Balkan" } }
+puts white{ bold{ "Teaching programming to kids is important." } } + white{ " Nothing teaches you the fundamentals of something like having to explain it to a computer." } + black{ bold{ " - @apricot" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
@@ -1653,6 +1656,7 @@ puts white{ "The product of the human brain has escaped the control of human han
 puts white{ bold{ "The modern scientist" } } + white{ ", untroubled by metaphysical ideas; scientific experiment is to him the road to industrial production. He is not concerned to prove, but to manufacture." } + black{ bold{ " - Karel Čapek (1921), inventor of the term 'robot'" } }
 puts white{ "If I had asked people what they had wanted, they would have said faster horses." } + black{ bold{ " - Henry Ford" } }
 puts white{ bold{ "1970" } } + black{ bold{ ": " } } + white{ "We're going to build a global network that can withstand a nuclear war. " } + white{ bold{ "2021" } } + black{ bold{ ": " } } + white{ "AWS is down and my coffee machine doesn't work." } + black{ bold{ " - @VessOnSecurity" } }
+puts white{ "The finest candlemakers in the world couldn't even think of electric lights." } + black{ bold{ " - Allan Savory" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
