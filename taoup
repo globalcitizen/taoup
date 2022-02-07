@@ -1290,6 +1290,9 @@ puts white{ bold{ "Lampson's Law - Corollary of the Client" } } + white{ ": " } 
 # lazlo
 puts white{ bold{ "Lazlo's Chinese Relativity Axiom" } } + white{ ": No matter how great your triumphs or how tragic your defeats - approximately one billion Chinese couldn't care less." }
 
+# learc
+puts white{ bold{ "Learc's Lamentation" } } + black{ bold{ ": " } } + white{ "A single square inch of lawn could provide material for multiple PhDs." }
+
 # le blanc's law
 puts white{ bold{ "Le Blanc's Law" } } + white{ ": Later equals never." }
 
