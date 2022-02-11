@@ -1661,6 +1661,7 @@ puts white{ bold{ "The modern scientist" } } + white{ ", untroubled by metaphysi
 puts white{ "If I had asked people what they had wanted, they would have said faster horses." } + black{ bold{ " - Henry Ford" } }
 puts white{ bold{ "1970" } } + black{ bold{ ": " } } + white{ "We're going to build a global network that can withstand a nuclear war. " } + white{ bold{ "2021" } } + black{ bold{ ": " } } + white{ "AWS is down and my coffee machine doesn't work." } + black{ bold{ " - @VessOnSecurity" } }
 puts white{ "The finest candlemakers in the world couldn't even think of electric lights." } + black{ bold{ " - Allan Savory" } }
+puts white{ "Who would not have been laughed at if he had said in 1800 that metals could be extracted from their ores by electricity or that portraits could be drawn by chemistry." } + black{ bold{ " - Michael Faraday" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
