@@ -959,6 +959,7 @@ puts white{ "We can not solve our problems with the same level of thinking that 
 puts white{ "I never see a newspaper and don't give a damn for what is called the world." } + black{ bold{ " - Einstein" } }
 puts white{ bold{ "I am happy because I want nothing from anyone." } } + white{ " I do not care about money. Decorations, titles or distinctions mean nothing to me. I do not crave praise. The only thing that gives me pleasure, apart from my work, my violin, and my sailboat, is the appreciation of my fellow workers." } + black{ bold{ " - Einstein" } }
 puts white{ "Unthinking respect for authority is the greatest enemy of truth." } + black{ bold{ " - Albert Einstein" } }
+puts white{ "To punish me for my contempt of authority, Fate has made me an authority myself." } + black{ bold{ " - Albert Einstein" } }
 
 # Richard Feynman
 puts "----- richard feynman -----"
