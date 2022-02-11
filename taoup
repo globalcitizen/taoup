@@ -928,6 +928,7 @@ puts white{ bold{ "Teaching programming to kids is important." } } + white{ " No
 puts white{ "It seems necessary to me, then, that all people at a session be willing to sound foolish and listen to others sound foolish." } + black{ bold{ " - Isaac Asimov" } }
 puts white{ bold{ "Courage, or confidence, is a property to develop in yourself." } } + white{ " Look at your successes, and pay less attention to failures than you are usually advised to do in the expression \"Learn from your mistakes.\"" } + black{ bold{ " - Richard Hamming" } }
 puts white{ "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible." } + black{ bold{ " - Richard Feynman" } }
+puts white{ bold{ "Have no respect whatsoever for authority" } } + white{ "; forget who said it and instead look what he starts with, where he ends up, and ask yourself, \"Is it reasonable?\"" } + black{ bold { " - Richard Feynman" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
