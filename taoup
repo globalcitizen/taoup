@@ -927,6 +927,7 @@ puts white{ bold{ "What we need is the opposite of Big Tech." } } + white{ " We 
 puts white{ bold{ "Teaching programming to kids is important." } } + white{ " Nothing teaches you the fundamentals of something like having to explain it to a computer." } + black{ bold{ " - @apricot" } }
 puts white{ "It seems necessary to me, then, that all people at a session be willing to sound foolish and listen to others sound foolish." } + black{ bold{ " - Isaac Asimov" } }
 puts white{ bold{ "Courage, or confidence, is a property to develop in yourself." } } + white{ " Look at your successes, and pay less attention to failures than you are usually advised to do in the expression \"Learn from your mistakes.\"" } + black{ bold{ " - Richard Hamming" } }
+puts white{ "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible." } + black{ bold{ " - Richard Feynman" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
@@ -950,6 +951,7 @@ puts white{ "Not everything that can be counted counts, and not everything that 
 puts white{ "I have always found repulsive the undignified addiction to conformity of many of my peers. At times like this one realises what a sorry species one belongs to." } + black{ bold{ " - Einstein" } }
 puts white{ "Nationalism is an infantile disease. It is the measles of mankind." } + black{ bold{ " - Einstein" } }
 puts white{ "We can not solve our problems with the same level of thinking that created them." } + black{ bold{ " - Einstein" } }
+puts white{ "I never see a newspaper and don't give a damn for what is called the world." } + black{ bold{ " - Einstein" } }
 
 # Meir M. Lehman
 # https://cs.uwaterloo.ca/~a78khan/cs446/additional-material/scribe/27-refactoring/Lehman-LawsOfSoftwareEvolution.pdf
@@ -1663,6 +1665,7 @@ puts white{ "If I had asked people what they had wanted, they would have said fa
 puts white{ bold{ "1970" } } + black{ bold{ ": " } } + white{ "We're going to build a global network that can withstand a nuclear war. " } + white{ bold{ "2021" } } + black{ bold{ ": " } } + white{ "AWS is down and my coffee machine doesn't work." } + black{ bold{ " - @VessOnSecurity" } }
 puts white{ "The finest candlemakers in the world couldn't even think of electric lights." } + black{ bold{ " - Allan Savory" } }
 puts white{ "Who would not have been laughed at if he had said in 1800 that metals could be extracted from their ores by electricity or that portraits could be drawn by chemistry." } + black{ bold{ " - Michael Faraday" } }
+puts white{ "Why should we hesitate to toss the old views overboard?" } + black{ bold{ " - Alfred Wegener" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
