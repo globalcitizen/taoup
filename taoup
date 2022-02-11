@@ -995,6 +995,7 @@ puts white{ "We should set aside a certain fraction of our resources, perhaps a 
 puts white{ "We should not be afraid of looking foolish or even crazy." } + black{ bold{ " - Freeman J. Dyson" } }
 puts white{ "We should not be afraid of supporting risky ventures which may fail totally." } + black{ bold{ " - Freeman J. Dyson" } }
 puts white{ "We have strong evidence that the creator of the universe loves symmetry." } + black{ bold{ " - Freeman J. Dyson" } }
+puts white{ bold{ "Science as subversion has a long history." } } + white{ " If science ceases to be a rebellion against authority, then it does not deserve the talents of our brightest children. We should try to introduce our children to science today as a rebellion against poverty and ugliness and militarism and economic injustice." } + black{ bold{ " - Freeman J. Dyson" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
