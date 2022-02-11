@@ -925,7 +925,6 @@ puts white{ "Complexity is not a sign of intelligence; simplify." } + black{ bol
 puts white{ "Silence is gold, talking is silver." } + black{ bold{ " - Arabic proverb" } }
 puts white{ bold{ "What we need is the opposite of Big Tech." } } + white{ " We need Small Tech – everyday tools for everyday people designed to increase human welfare, not corporate profits." } + black{ bold{ " - Aral Balkan" } }
 puts white{ bold{ "Teaching programming to kids is important." } } + white{ " Nothing teaches you the fundamentals of something like having to explain it to a computer." } + black{ bold{ " - @apricot" } }
-puts white{ "It seems necessary to me, then, that all people at a session be willing to sound foolish and listen to others sound foolish." } + black{ bold{ " - Isaac Asimov" } }
 puts white{ bold{ "Courage, or confidence, is a property to develop in yourself." } } + white{ " Look at your successes, and pay less attention to failures than you are usually advised to do in the expression \"Learn from your mistakes.\"" } + black{ bold{ " - Richard Hamming" } }
 puts white{ "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible." } + black{ bold{ " - Richard Feynman" } }
 puts white{ bold{ "Have no respect whatsoever for authority" } } + white{ "; forget who said it and instead look what he starts with, where he ends up, and ask yourself, \"Is it reasonable?\"" } + black{ bold { " - Richard Feynman" } }
@@ -939,6 +938,11 @@ puts white{ bold{ "The principal function of most corporations is not to maximiz
 puts white{ bold{ "The most valuable and least replaceable resource is time." } } + black{ bold{ " - Russell L. Ackoff" } }
 puts white{ bold{ "Hierarchy of mental content" } } + white{ " (in order of increasing value):" } + white{ bold{ " data, information, knowledge, understanding, and wisdom" } } + white{ "." } + black{ bold { " - Russell L. Ackoff" } }
 puts white{ "The best thing that can be done to a problem is not to solve it but to dissolve it." } + black{ bold{ " - Russell L. Ackoff" } }
+
+# Asimov
+puts "----- isaac asimov -----"
+puts white{ "It seems necessary to me, then, that all people at a session be willing to sound foolish and listen to others sound foolish." } + black{ bold{ " - Isaac Asimov" } }
+puts white{ "The world in general disapproves of creativity, and to be creative in public is particularly bad. Even to speculate in public is rather worrisome." } + black{ bold{ " - Isaac Asimov" } }
 
 # Einstein
 puts "----- einstein -------"
