@@ -1601,7 +1601,7 @@ puts white{ "Philosophy is dead." } + black{ bold{ " - Stephen Hawking" } }
 puts white{ "When you change the way you look at things, the things you look at change." } + black{ bold{ " - Max Planck" } }
 puts white{ "They always say time changes things, but you actually have to change them yourself." } + black{ bold{ " - Andy Warhol" } }
 puts white{ "You miss 100% of the shots you don't take." } + black{ bold{ " - Wayne Gretzky" } }
-puts white{ "The truism these days is that " } + white{ bold{ "you are either taking care of people, making software, or being replaced by software" } } + white{ "." } + black{ bold{ " - 	jaggederest" } }
+puts white{ "The truism these days is that " } + white{ bold{ "you are either taking care of people, making software, or being replaced by software" } } + white{ "." } + black{ bold{ " - jaggederest" } }
 puts white{ "It went as an unspoken, unquestionable assumption that telephony was the right model for data networking." } + black{ bold{ " - Van Jacobson" } }
 puts white{ "If you think about it, democracy is still in the 19th century. Your communication with your representatives and ministers amounts to a few bits per year. It's ridiculous." } + black{ bold{ " - Pedro Domingos" } }
 puts white{ bold{ "Technology always makes less progress than you expect in the short term and more progress in the long term, and AI is the ultimate example of this." } } + white{ " The AI systems that we use in everyday life today are still incredibly stupid. There's no intelligence in Alexa or Siri." } + black{ bold{ " - Pedro Domingos" } }
