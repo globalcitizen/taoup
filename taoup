@@ -1977,7 +1977,7 @@ puts white{ "Starting companies is like eating glass and staring in to the abyss
 puts white{ "Try to get to a useful prototype as soon as possible with the least amount of money. I think that's usually a good idea." } + black{ bold{ " - Elon Musk" } }
 puts white{ "What's the difference between believing in your ideals and sticking to them versus pursuing some unrealistic dream that doesn't actually have merit? That is a really difficult thing. You have to be very rigorous in your self-analysis." } + black{ bold{ " - Elon Musk" } }
 puts white{ "Reason from first principles rather than by analogy." } + black{ bold{ " - Elon Musk" } }
-puts white{ "Always questions whether you're wrong and try to invalidate your own theories." } + black{ bold{ " - Elon Musk" } }
+puts white{ "Always question whether you're wrong and try to invalidate your own theories." } + black{ bold{ " - Elon Musk" } }
 puts white{ "People have too much fear of failure." } + black{ bold{ " - Elon Musk" } }
 puts black{ bold{ "Musk's 1st rule of manufacturing" } } + black{ bold{ ": " } } + white{ bold{ "Make requirements less dumb" } } + white{ ". Document who is responsible for the requirement or constraint, why it exists, and how to contact them." }
 puts black{ bold{ "Musk's 2nd rule of manufacturing" } } + black{ bold{ ": " } } + white{ bold{ "Delete the part or process" } } + white{ ". If you're not occasionally adding things back in, you're not deleting enough." }
