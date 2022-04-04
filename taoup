@@ -933,6 +933,8 @@ puts white{ "You don't get to be a kernel hacker simply by looking good in Speed
 puts white{ "AI is short for advertising industry at this point." } + black{ bold{ " - @u2077 (2022)" } }
 puts white{ "Among the innumerable mortifications which waylay human arrogance on every side may well be reckoned our ignorance of the most common objects and effects, a defect of which we become more sensible by every attempt to supply it. " } + white{ bold{ "Vulgar and inactive minds confound familiarity with knowledge" } } + white{ " and conceive themselves informed of the whole nature of things when they are shown their form or told their use; but " } + white{ bold{ "the speculatist, who is not content with superficial views, harasses himself with fruitless curiosity, and still, as he inquires more, perceives only that he knows less." } } + black{ bold{ " - Samuel Johnson, 'The Idler' (1758-11-25)" } }
 puts white{ "We're drowning in so much software that sometimes being a master class engineer all it takes is not using it." } + black{ bold{ " - @jart" } }
+puts white{ "Today I will be cosplaying as a functional adult who has their shit together." } + black{ bold{ " - @iamdevloper" } }
+
 
 # Ackoff
 puts "----- russell l. ackoff -------"
