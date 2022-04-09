@@ -936,6 +936,7 @@ puts white{ "We're drowning in so much software that sometimes to be a master cl
 puts white{ "Today I will be cosplaying as a functional adult who has their shit together." } + black{ bold{ " - @iamdevloper" } }
 puts white{ "Always keep in mind " } + white{ bold{ "your three biggest enemies" } } + white{ ": The mimetic reflex of " } + white{ bold{ "wanting to follow the herd" } } + white{ " and get approval from others. The seductive " } + white{ bold{ "illusion of superiority" } } + white{ " or infallibility. And the general tendency of " } + white{ bold{ "wanting to be right" } } + white{ ", and of fooling yourself." } + black{ bold{ " - @leobg" } }
 puts white{ "Citizens are suspects, and tourists are terrorists." } + black{ bold{ " - @lizardactivist (on state border searches)" } }
+puts white{ bold{ "People have automation backwards. Automation doesn't solve problems. In order to automate, you have to solve all the problems." } } + white{ " The machine has to know how to detect and handle any variation it encounters - or summon human help. If it has to summon human help too often, or fails to detect a problem too often, it is simply not worth it to automate." } + black{ bold{ " - @csours" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
