@@ -2034,7 +2034,7 @@ puts "---- wittgenstein ----"
 puts white{ "At the core of all well-founded belief, lies belief that is unfounded." } + black{ bold{ " - Wittgenstein, 'On Certainty' (1969)" } }
 puts white{ "If people never did silly things nothing intelligent would ever get done." } + black{ bold{ " - Wittgenstein" } }
 puts white{ "Philosophy is a battle against the bewitchment of our intelligence by means of language." } + black{ bold{ " - Wittgenstein" } }
-puts white{ "Don't get involved in partial problems, but always take flight to where there is a free view over the whole single great problem, even if this view is still not a clear one." } + black{ bold{ " - Wittgenstein" } }
+puts white{ bold{ "Don't get involved in partial problems" } } + white{ ", but always take flight to where there is a free view over the whole single great problem, even if this view is still not a clear one." } + black{ bold{ " - Wittgenstein" } }
 puts white{ bold{ "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt." } } + white{ " The limits of my language means the limits of my world." } + black{ bold{ " - Wittgenstein" } }
 puts white{ "Logic takes care of itself; all we have to do is to look and see how it does it." } + black{ bold{ " - Wittgenstein" } }
 puts white{ "I am my world." } + black{ bold{ " - Wittgenstein" } }
