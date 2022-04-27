@@ -939,6 +939,7 @@ puts white{ "Citizens are suspects, and tourists are terrorists." } + black{ bol
 puts white{ "People have automation backwards. Automation doesn't solve problems. " } + white{ bold{ "In order to automate, you have to solve all the problems." } } + white{ " The machine has to know how to detect and handle any variation it encounters - or summon human help. If it has to summon human help too often, or fails to detect a problem too often, it is simply not worth it to automate." } + black{ bold{ " - @csours" } }
 puts white{ "You know, " } + white{ bold{ "life is always right; it is the architect who is wrong." } } + black{ bold{ " - Le Corbusier, on the garden gnomes of Pessac" } }
 puts white{ "The curse of systems thinkers is to be correct, but never valued." } + black{ bold{ " - Niall Murphy" } }
+puts white{ "Ultimately, " } + white{ bold{ "time is finite, attention is rivalrous, and information is not infinitely actionable" } } + white { "." } + black{ bold{ " - @dredmorbius, summarising Toffler's 'Future Shock'" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
