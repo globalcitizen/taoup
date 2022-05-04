@@ -1693,6 +1693,7 @@ puts white{ bold{ "1970" } } + black{ bold{ ": " } } + white{ "We're going to bu
 puts white{ "The finest candlemakers in the world couldn't even think of electric lights." } + black{ bold{ " - Allan Savory" } }
 puts white{ "Who would not have been laughed at if he had said in 1800 that metals could be extracted from their ores by electricity or that portraits could be drawn by chemistry." } + black{ bold{ " - Michael Faraday" } }
 puts white{ "Why should we hesitate to toss the old views overboard?" } + black{ bold{ " - Alfred Wegener" } }
+puts white{ bold{ "There's a lot of value in dead things." } } + white{ " They're tasty and they don't fight back." } + black{ bold{ " - Dave Vandenbout" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
