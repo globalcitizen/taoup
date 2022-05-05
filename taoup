@@ -1336,6 +1336,9 @@ puts white{ bold{ "Mann's Maxim" } } + white{ ": People who are bored think more
 # meskimen's law
 puts white{ bold{ "Meskimen's Law" } } + white{ ": There's never time to do it right, but there's always time to do it over." }
 
+# metcalfe's law
+puts white{ bold{ "Metcalfe's Law" } } + white{ ": The value of a network is the square of the nodecount." }
+
 # miller's law
 puts white{ bold{ "Miller's Law" } } + white{ ": All discussions of incremental updates will eventually trend towards proposals for large scale redesigns, feature additions or replacements." } + black{ bold{ " - Mike Beltzner (after Dave Miller of Bugzilla)" } }
 
