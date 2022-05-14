@@ -941,6 +941,7 @@ puts white{ "You know, " } + white{ bold{ "life is always right; it is the archi
 puts white{ "The curse of systems thinkers is to be correct, but never valued." } + black{ bold{ " - Niall Murphy" } }
 puts white{ "Ultimately, " } + white{ bold{ "time is finite, attention is rivalrous, and information is not infinitely actionable" } } + white { "." } + black{ bold{ " - @dredmorbius, summarising Toffler's 'Future Shock'" } }
 puts white{ "Elon is the logical endpoint of what happens when you have zero pressure to socially accommodate." } + black{ bold{ " - @kortex" } }
+puts white{ bold{ "The bigger the ambition, the slower you need to go." } } + white{ " Patience is the real key component to success." } + black{ bold{ " - Gary Vaynerchuk" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
