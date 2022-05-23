@@ -141,7 +141,6 @@ puts white{ "Scissors, paste, images, and genius in effect superseded brushes, p
 puts white{ "I leave to others the business of causing anxiety and terror and mixing everything up." } + black{ bold{ " - René Magritte, surrealist" } }
 puts white{ "Our secret desire is for a change in the order of things." } + black{ bold{ " - René Magritte, surrealist" } }
 puts white{ bold{ "Ship of Theseus" } } + white{ ": All of the parts are new, and yet it is the same ship." }
-puts white{ "I came to the conclusion that the designer of a new system must not only be the implementor and the first large-scale user; the designer should also write the first user manual." } + black{ bold{ " - Donald Knuth, 'The Errors of TeX' (1989)" } }
 puts white{ "The height of cleverness is to be able to conceal it." } + black{ bold{ " - Francois de la Rochefoucauld (1613-1680)" } } 
 puts white{ bold{ "It from Bit." } } + white{ " [Information gives rise to] every it - every particle, every field of force, even the spacetime continuum itself." } + black{ bold{ " - 'Oracular monosyllables' of Archibald Wheeler, last surviving collaborator of Einstein and Bohr" } }
 puts white{ "What we call reality arises in the last analysis from the posing of yes-no questions." } + black{ bold{ " - Archibald Wheeler" } }
@@ -815,7 +814,6 @@ puts white{ bold{ "Piękno niewiele kosztuje." } } + white{ " Beauty doesn't cos
 puts white{ bold{ "Our greatest weakness lies in giving up." } } + white{ " The most certain way to succeed is always to try just one more time." } + black{ bold{ " - Thomas Edison" } }
 puts white{ "The sign of a great cook is being able to fix dishes that someone else screwed up." }
 puts white{ "Quantity is something you count. Quality is something you count on." }
-puts white{ bold{ "Writing software was much more difficult than anything else I had done in my life." } } + white{ " I had to keep so many things in my head at once, I couldn't just put them down and start something else." } + black{ bold{ " - Donald Knuth" } }
 puts white{ "The tales supplied what the real country lacked, when villagers were telling them." } + black{ bold{ " - Francis Spufford, 'Red Plenty'" } }
 puts white{ "There is no excellent beauty that hath not some strangeness in the proportion." } + black{ bold{ " - Harry Woolf" } }
 puts white{ bold{ "The most striking and satisfying visual pleasure comes from the repetition or the massing of one simple element." } } + white{ " Imagine the Parthenon with each column a different kind of marble!" } + black{ bold{ " - Montague Russell Page" } }
@@ -883,7 +881,6 @@ puts white{ "Who was I, a man whose proudest ancestor had led a life in a Moslem
 puts white{ "That's not a bug, it's Germany!" } + black{ bold{ " - @pheelicks, referring to the edge of an Austrian dataset" } }
 puts white{ "Give a man an 0day and he'll have access for a day, teach a man to phish and he'll have access for life." } + black{ bold{ " - @grugq" } }
 puts white{ "Life has become immeasurably better since I have been forced to stop taking it seriously." } + black{ bold{ " - Hunter S. Thompson" } }
-puts white{ "The best thing is to be a very bad estimator of how much time it's going to take." } + black{ bold{ " - Donald Knuth (2020), on starting broadly scoped projects" } }
 puts white{ "A story is worth 1000 spreadsheets." } + black{ bold{ " - Political rule of thumb" } }
 puts white{ "There are two ways to make money. You can bundle, or you can unbundle." } + black{ bold{ " - Jim Barksdale" } } # https://www.ben-evans.com/presentations
 puts white{ bold{ "Old school geeks used to be innovative, libertarians and pro freedom." } } + white{ " In 2020, now that they're at the top of the food chain thanks to selling online ads, they are mostly concerned by enforcing societal norms and praising the status quo, while creating the perfect surveillance apparatus for the big government. Of course they must bow their heads to their corporate masters - they don't want to bite the hand that feeds them! A lost generation." } + black{ bold{ " - @1996" } }
@@ -1013,6 +1010,18 @@ puts white{ "We should not be afraid of looking foolish or even crazy." } + blac
 puts white{ "We should not be afraid of supporting risky ventures which may fail totally." } + black{ bold{ " - Freeman J. Dyson" } }
 puts white{ "We have strong evidence that the creator of the universe loves symmetry." } + black{ bold{ " - Freeman J. Dyson" } }
 puts white{ bold{ "Science as subversion has a long history." } } + white{ " If science ceases to be a rebellion against authority, then it does not deserve the talents of our brightest children. We should try to introduce our children to science today as a rebellion against poverty and ugliness and militarism and economic injustice." } + black{ bold{ " - Freeman J. Dyson" } }
+
+# Donald Knuth
+puts "-------- donald knuth --------";
+puts white{ "Suppose you want to solve a complicated problem whose solution is unknown; in essence you're an explorer entering into a new world." } + black{ bold{ " - Donald Knuth" } }
+puts white{ "I came to the conclusion that the designer of a new system must not only be the implementor and the first large-scale user; the designer should also write the first user manual." } + black{ bold{ " - Donald Knuth, 'The Errors of TeX' (1989)" } }
+puts white{ bold{ "Writing software was much more difficult than anything else I had done in my life." } } + white{ " I had to keep so many things in my head at once, I couldn't just put them down and start something else." } + black{ bold{ " - Donald Knuth" } }
+puts white{ "In non I/O-bound programs, a few percent of the source code typically accounts for over half the run time." } + black{ bold{ " - Donald Knuth" } }
+puts white{ "The best thing is to be a very bad estimator of how much time it's going to take." } + black{ bold{ " - Donald Knuth (2020), on starting broadly scoped projects" } }
+puts white{ bold{ "When I start to investigate some topic, during the first days I fill up scratch paper like mad." } } + white{ " I mean, I have a huge pile of paper at home, paper that's half-used, used on only one side; I've kept a lot of partially printed sheets instead of throwing them away, so that I can write on the back sides. And I'll use up 20 sheets or more per hour when I'm exploring a problem, especially at the beginning. For the first hour I'm trying all kinds of stuff and looking for patterns. Later, after internalizing those calculations or drawings or whatever they are, I don't have to write quite so much down, and I'm getting closer to a solution. " } + white{ bold{ "The best test of when I'm about ready to solve a problem is whether or not I can think about it sensibly while swimming" } } + white{ ", without any paper or notes to help out. Because my mind is getting accustomed to the territory, and finally I can see what might possibly lead to the end." } + black{ bold{ " - Donald Knuth" } }
+puts white{ "It's extremely misleading to rank people on an IQ scale with the idea that the smarter they are, the more suitable they are for a PhD degree; that's not it at all. People have talents in different dimensions, and a talent for research might even have a negative correlation with the ability to tie your own shoes." } + black{ bold{ " - Donald Knuth" } }
+puts white{ bold{ "I can't do technical stuff all the time. I've found that I can write only a certain number of pages a day before running out of steam." } } + white{ " When I reach this maximum number, I have no more ideas that day. So certainly within a 24-hour period, not all of it is going to be equally creative. Working in the garden, pulling weeds and so on, is a good respite." } + black{ bold{ " - Donald Knuth" } }
+puts white{ "Go with your own aesthetics, what you think is important. Don't do what you think other people think you want to do, but what you really want to do yourself." } + black{ bold{ " - Donald Knuth" } }
 
 # Ashwin Parameswaran (2012) @ http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley/
 puts "------ ashwin parameswaran -------"
@@ -1712,7 +1721,6 @@ puts white{ bold{ "Jevons Paradox" } } + white{ ": As technology progresses, the
 puts white{ bold{ "The First Rule of Program Optimization" } } + white{ ": Don't do it." } + black{ bold{ " - Michael Jackson" } }
 puts white{ bold{ "The Second Rule of Program Optimization" } } + white{ " (for experts only): Don't do it yet." } + black{ bold{ " - Michael Jackson" } }
 puts white{ "The fastest algorithm can frequently be replaced by one that is almost as fast and much easier to understand." } + black{ bold{ " - Douglas W. Jones" } }
-puts white{ "In non I/O-bound programs, a few percent of the source code typically accounts for over half the run time." } + black{ bold{ " - Donald Knuth" } }
 puts white{ "Before optimizing, using a profiler." } + black{ bold{ " - Mike Morton" } }
 puts white{ "To speed up an I/O-bound program, begin by accounting for all I/O. Eliminate that which is unnecessary or redundant, and make the remaining as fast as possible." } + black{ bold{ " - David Martin" } }
 puts white{ "The fastest I/O is no I/O." } + black{ bold{ " - Nils-Peter Nelson" } }
