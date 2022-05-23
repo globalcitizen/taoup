@@ -943,6 +943,7 @@ puts white{ "Ultimately, " } + white{ bold{ "time is finite, attention is rivalr
 puts white{ "Elon is the logical endpoint of what happens when you have zero pressure to socially accommodate." } + black{ bold{ " - @kortex" } }
 puts white{ bold{ "The bigger the ambition, the slower you need to go." } } + white{ " Patience is the real key component to success." } + black{ bold{ " - Gary Vaynerchuk" } }
 puts white{ "IQ tests a great measure of intelligence - if you believe in them, you're an idiot." } + black{ bold{ " - @jjgreen" } }
+puts white{ "Postmodernism is what postmodernism does." } + black{ bold{ " - @pxmpxm" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
