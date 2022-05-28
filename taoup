@@ -942,6 +942,7 @@ puts white{ bold{ "The bigger the ambition, the slower you need to go." } } + wh
 puts white{ "IQ tests a great measure of intelligence - if you believe in them, you're an idiot." } + black{ bold{ " - @jjgreen" } }
 puts white{ "Postmodernism is what postmodernism does." } + black{ bold{ " - @pxmpxm" } }
 puts white{ "What do you call an engineer who splits a ground plane?" } + white{ bold{ " A customer." } } + black{ bold{ " - James Pawson, EMI Consultant" } }
+puts white{ "Communicating badly and then acting smug when you're misunderstood is not cleverness." } + black{ bold{ " - XKCD on postmodernists" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
