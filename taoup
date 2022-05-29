@@ -944,6 +944,7 @@ puts white{ "Postmodernism is what postmodernism does." } + black{ bold{ " - @px
 puts white{ "What do you call an engineer who splits a ground plane?" } + white{ bold{ " A customer." } } + black{ bold{ " - James Pawson, EMI Consultant" } }
 puts white{ "Communicating badly and then acting smug when you're misunderstood is not cleverness." } + black{ bold{ " - XKCD on postmodernists" } }
 puts white{ "Application Notes produced by IC companies should be assumed wrong until proven right." } + black{ bold{ " - Lee Ritchey" } }
+puts white{ bold{ "Whoever designed USB is an absolute idiot." } } + white{ " The person that designed USB doesn't have a clue how energy travels in circuits. USB is almost impossible to set up correctly to prevent problems." } + black{ bold{ " - Robert Hartley, distinguished EE" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
