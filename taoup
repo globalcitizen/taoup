@@ -1921,7 +1921,8 @@ puts white{ "Implementation inheritance causes the same intertwining and brittle
 puts white{ bold{ "Sometimes, the elegant implementation is just a function." } } + white{ " Not a method. Not a class. Not a framework. Just a function." } + black{ bold{ " - John Carmack" } }
 puts white{ "The problem with object-oriented languages is they've got all this implicit environment that they carry around with them. " } + white{ bold{ "You wanted a banana but what you got was a gorilla holding the banana and the entire jungle." } } + black{ bold{ " - Joe Armstrong" } }
 puts white{ bold{ "I used to be enamored of object-oriented programming." } } + white{ " I’m now finding myself leaning toward believing that it is a plot designed to destroy joy." } + black{ bold{ " - Eric Allman" } }
-puts white{ bold{ "OO is the 'structured programming' snake oil of the 90's" } } + white{ ": useful at times, but hardly the 'end all' programing paradigm some like to make out of it." } + black{ bold{ " - ESR" } }
+puts white{ bold{ "OO is the 'structured programming' snake oil of the 90's" } } + white{ ": useful at times, but hardly the 'end all' programing paradigm some like to make out of it." } + black{ bold{ " - Eric S. Raymond" } }
+puts white{ "Alchemists turned into chemists when they stopped keeping secrets." } + black{ bold{ " - Eric S. Raymond" } }
 
 # hardware
 puts '------- hardware --------'
