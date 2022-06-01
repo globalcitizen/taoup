@@ -1540,7 +1540,7 @@ puts white{ bold{ "Niven's Sixth Law of Writing" } } + white{ ": Everybody talks
 
 # Henry Poincaré
 puts "----- poincaré ------"
-puts white{ "By logic we prove, by intuition we discover." } + black{ bold{ " - Henry Poincaré" } }
+puts white{ bold{ "C'est avec l'intuition qu'on trouve, c'est avec la logique qu'on prouve." } } + white{ " By logic we prove, by intuition we discover." } + black{ bold{ " - Henry Poincaré" } }
 puts white{ "To know how to criticize is good, to know how to create is better." } + black{ bold{ " - Henry Poincaré" } }
 puts white{ bold{ "Deviner avant de démontrer!" } } + white{ " Guessing before proving." } + black{ bold{ " - Henry Poincaré" } }
 puts white{ "To doubt everything and to believe everything are two equally convenient solutions; each saves us from thinking." } + black{ bold{ " - Henry Poincaré" } }
