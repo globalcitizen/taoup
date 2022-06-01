@@ -1538,6 +1538,16 @@ puts white{ bold{ "Niven's Fourth Law of Writing" } } + white{ ": It is a sin to
 puts white{ bold{ "Niven's Fifth Law of Writing" } } + white{ ": If you've nothing to say, say it any way you like. Stylistic innovations, contorted story lines or none, exotic or genderless pronouns, internal inconsistencies, the recipe for preparing your lover as a cannibal banquet: feel free. If what you have to say is important and/or difficult to follow, use the simplest language possible. If the reader doesn't get it then, let it not be your fault." } + black{ bold{ " - Larry Niven, science fiction author (1989)" } }
 puts white{ bold{ "Niven's Sixth Law of Writing" } } + white{ ": Everybody talks first draft." } + black{ bold{ " - Larry Niven, science fiction author (1989)" } }
 
+# Henry Poincaré
+puits "----- poincaré ------"
+puts white{ "By logic we prove, by intuition we discover." } + black{ bold{ " - Henry Poincaré" } }
+puts white{ "To know how to criticize is good, to know how to create is better." } + black{ bold{ " - Henry Poincaré" } }
+puts white{ bold{ "Deviner avant de démontrer!" } } + white{ " Guessing before proving." } + black{ bold{ " - Henry Poincaré" } }
+puts white{ "To doubt everything and to believe everything are two equally convenient solutions; each saves us from thinking." } + black{ bold{ " - Henry Poincaré" } }
+puts white{ "Mathematics is the art of giving the same name to different things." } + black{ bold{ " - Henry Poincaré" } }
+puts white{ "Mathematicians do not deal in objects, but in relations between objects; thus, they are free to replace some objects by others so lone as the relations remain unchanged. Content to them is irrelevant; they are interested in form only." } + black{ bold{ " - Henry Poincaré" } }
+puts white{ "Experiment is the sole source of truth. It alone can teach us something new; it alone can give us certainty." } + black{ bold{ " - Henry Poincaré" } }
+
 puts "----- richard stallman -----"
 puts white{ "With software, " } + white{ bold{ "either the users control the program, or the program controls the users." } } + black{ bold{ " - Richard Stallman" } }
 puts white{ bold{ "Americans have shown that they are politically naïve." } } + white{ " If you look at how successful plutocratic candidates are in the U.S. - you can get Americans to vote to give their money to the rich. You have to just say certain predictable, silly things to them, and most of them will be fooled." } + black{ bold{ " - Richard Stallman" } }
