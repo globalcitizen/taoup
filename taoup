@@ -1539,7 +1539,7 @@ puts white{ bold{ "Niven's Fifth Law of Writing" } } + white{ ": If you've nothi
 puts white{ bold{ "Niven's Sixth Law of Writing" } } + white{ ": Everybody talks first draft." } + black{ bold{ " - Larry Niven, science fiction author (1989)" } }
 
 # Henry Poincaré
-puits "----- poincaré ------"
+puts "----- poincaré ------"
 puts white{ "By logic we prove, by intuition we discover." } + black{ bold{ " - Henry Poincaré" } }
 puts white{ "To know how to criticize is good, to know how to create is better." } + black{ bold{ " - Henry Poincaré" } }
 puts white{ bold{ "Deviner avant de démontrer!" } } + white{ " Guessing before proving." } + black{ bold{ " - Henry Poincaré" } }
