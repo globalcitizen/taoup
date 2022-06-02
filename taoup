@@ -946,6 +946,7 @@ puts white{ "Communicating badly and then acting smug when you're misunderstood 
 puts white{ "Application Notes produced by IC companies should be assumed wrong until proven right." } + black{ bold{ " - Lee Ritchey" } }
 puts white{ bold{ "Whoever designed USB is an absolute idiot." } } + white{ " The person that designed USB doesn't have a clue how energy travels in circuits. USB is almost impossible to set up correctly to prevent problems." } + black{ bold{ " - Rick Hartley, distinguished EE" } }
 puts white{ "Intelligence is the faculty of making artificial objects, especially tools to make tools." } + black{ bold{ " - Henry Bergson" } }
+puts white{ "It depends." } + black{ bold{ " - Motto of the Engineer" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
