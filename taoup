@@ -948,6 +948,7 @@ puts white{ bold{ "Whoever designed USB is an absolute idiot." } } + white{ " Th
 puts white{ "Intelligence is the faculty of making artificial objects, especially tools to make tools." } + black{ bold{ " - Henry Bergson" } }
 puts white{ "It depends." } + black{ bold{ " - Motto of the Engineer" } }
 puts white{ "Such simple things, and we make of them something so complex it defeats us, almost." } + black{ bold{ " - John Ashbery" } }
+puts white{ "Mistakes are the portals of discovery." } + black{ bold{ " - James Joyce" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
