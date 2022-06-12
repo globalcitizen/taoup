@@ -951,6 +951,7 @@ puts white{ "Such simple things, and we make of them something so complex it def
 puts white{ "Mistakes are the portals of discovery." } + black{ bold{ " - James Joyce" } }
 puts white{ "Users don't even venture out of their bubbles anymore because they don't know how." } + black{ bold{ " - @GekkePrutser" } }
 puts white{ "People don't buy platforms. People buy products." } + black{ bold{ " - Tony Fadell" } }
+puts white{ bold{ "Born disrupters, truly great artists and entrepreneurs are modernists" } } + white{ ", creating demand where none previously existed, conjuring something out of their imagination and courage. Unlike the critic, " } + white{ bold{ "the artist and entrepreneur are eternally optimistic" } } + white{ ". They must believe in the future. The optimism of their will overcomes the pessimism of their intellect. Originality is their currency and constant adaptation their tool." } + black{ bold{ " - David McWilliams" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
