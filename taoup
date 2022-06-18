@@ -1735,6 +1735,7 @@ puts white{ "Why should we hesitate to toss the old views overboard?" } + black{
 puts white{ bold{ "There's a lot of value in dead things." } } + white{ " They're tasty and they don't fight back." } + black{ bold{ " - Dave Vandenbout" } }
 puts white{ "Let the future tell the truth, and evaluate each one according to his work and accomplishments. " } + white{ bold{ "The present is theirs; the future, for which I really worked, is mine." } } + black{ bold{ " - Nikola Tesla" } }
 puts white{ "I never lose. I either win or I learn." } + black{ bold{ " - Nelson Mandela" } }
+puts white{ "In a sense, we have the printing press, but people are still illiterate." } + black{ bold{ " - @closedloop129" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
