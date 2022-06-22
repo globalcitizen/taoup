@@ -1329,6 +1329,9 @@ puts white{ bold{ "Howe's Law" } } + white{ ": Everyone has a scheme that will n
 # hume's problem of induction
 puts white{ bold{ "Hume's Problem of Induction" } } + white{ ": How can we ever be justified in generalizing from what we've seen to what we haven't?" }
 
+# joy's law
+puts white{ bold{ "Joy's Law" } } + white{ ": No matter who you are, most of the smartest people work for someone else." }
+
 # kasparov's law
 puts white{ bold{ "Kasparov's Law" } } + white{ ": Weak human + machine + better process is superior to a strong computer alone and, more remarkably, superior to a strong human + machine + inferior process." }
 
