@@ -956,6 +956,7 @@ puts white{ "Today, " } + white{ bold{ "the solitary inventor, tinkering in his 
 puts white{ "The key element shaping inequality is no longer the employment relationship, but rather whether one is able to buy assets that appreciate at a faster rate than both inflation and wages." } + black{ bold{ " - Adkins, Cooper, and Konings, 'The Asset Economy'" } }
 puts white{ "When in doubt, zoom out." }
 puts white{ "What you inherit may not be as valuable as what you earn." } + black{ bold{ " - Jamie Johnson" } }
+puts white{ "Some people are too liberal to take their own side in an argument." } + black{ bold{ " - @wrycoder" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
