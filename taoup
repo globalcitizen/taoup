@@ -957,7 +957,7 @@ puts white{ "The key element shaping inequality is no longer the employment rela
 puts white{ "When in doubt, zoom out." }
 puts white{ "What you inherit may not be as valuable as what you earn." } + black{ bold{ " - Jamie Johnson" } }
 puts white{ "Some people are too liberal to take their own side in an argument." } + black{ bold{ " - @wrycoder" } }
-puts white{ bold{ "matargashti" } } + black{ bold{": " } } + white{ "to loiter or stroll without purpose." } + black{ bold{ " - Hindi term" } }
+puts white{ bold{ "maṭaragashtī" } } + black{ bold{": " } } + white{ "to loiter or stroll without purpose." } + black{ bold{ " - Hindi term" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
