@@ -958,6 +958,7 @@ puts white{ "When in doubt, zoom out." }
 puts white{ "What you inherit may not be as valuable as what you earn." } + black{ bold{ " - Jamie Johnson" } }
 puts white{ "Some people are too liberal to take their own side in an argument." } + black{ bold{ " - @wrycoder" } }
 puts white{ bold{ "maṭaragashtī" } } + black{ bold{": " } } + white{ "to loiter or stroll without purpose." } + black{ bold{ " - Hindi term" } }
+puts white{ "I am attempting to construct a mnemonic memory circuit using stone knives and bear skins." } + black{ bold{ " - Mr. Spock, Star Trek" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
