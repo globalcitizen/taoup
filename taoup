@@ -1016,7 +1016,7 @@ puts white{ bold{ "Be an appreciative audience." } } + white{ " Cultivate correc
 puts white{ bold{ "Decrease fear of failure." } } + white{ " Experiment constantly, fail early and often, remember and document those failures, and learn as much as possible in the process." }
 puts white{ bold{ "Cultivate psychological safety." } } + white{ " Never humiliate or punish people who make mistakes or speak up with ideas, questions or concerns." }
 puts white{ bold{ "The three types of organizational failure:" } } + white{ " unsuccessful trials, system breakdowns, and process deviations. Of these, unsuccessful trials offer the richest potential for creative learning but require overcoming deeply ingrained norms that may stigmatize failure and inhibit experimentation." }
-puts white{ bold{ "Preconditions for novelty: " } } + white{ " slack, hubris, and optimism." } + black{ bold{ " - Jim March" } }
+puts white{ bold{ "Preconditions for novelty:" } } + white{ " slack, hubris, and optimism." } + black{ bold{ " - Jim March" } }
 
 # Freeman J. Dyson
 puts "------ freeman j. dyson -------"
