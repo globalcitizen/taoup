@@ -1208,6 +1208,7 @@ puts white{ bold{ "不怕慢就怕站" } } + white{ ": It doesn't matter how slo
 puts white{ bold{ "In carpentry you measure twice and cut once." } } + white{ " In software development you never measure and make cuts until you run out of time." } + black{ bold{ " - Adam Morse" } }
 puts white{ "One, one coco full basket." } + black{ bold{ " - Jamaican saying" } }
 puts white{ bold{ "Festina lente" } } + black{ bold{ ": " } } + white{ "Make haste slowly." } + black{ bold{ " - Latin translation a Greek proverb (σπεῦδε βραδέως)" } }
+puts white{ bold{ "You are not late" } } + black{ bold{ ": " } } + white{ "There has never been a better time in the whole history of the world to invent something." } + black{ bold{ " - Kevin Kelly" } }
 
 # re-sectionize
 puts "----- eponymous randoms -----"
