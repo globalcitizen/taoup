@@ -960,6 +960,7 @@ puts white{ "Some people are too liberal to take their own side in an argument."
 puts white{ bold{ "maṭaragashtī" } } + black{ bold{": " } } + white{ "to loiter or stroll without purpose." } + black{ bold{ " - Hindi term" } }
 puts white{ "I am attempting to construct a mnemonic memory circuit using stone knives and bear skins." } + black{ bold{ " - Mr. Spock, Star Trek" } }
 puts white{ "There are two types of people in the world: lifters and leaners." }
+puts white{ "Ignorance of, or contempt for, physical law is a direct route to frustration. Mother Nature laughs at dilettantism and crushes arrogance without even knowing she did it." } + black{ bold{ " - Jim Williams, 'High Speed Amplifier Techniques' AN47 (1991)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
