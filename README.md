@@ -55,5 +55,6 @@ fortune taoup-fortunes
 Praise for taoup
 ----------------
 
-* "Taoup is in my zshrc startup, it’s consistently fun/intelligent/thoughtful. Thanks for the continued maintenance 👍, cheers." [@ronjouch](https://github.com/ronjouch)
+* "I'm honored. :)" [@jacquesm](https://news.ycombinator.com/user?id=jacquesm), HN user with ~200K karma, after being quoted in taoup
+* "Taoup is in my zshrc startup, it's consistently fun/intelligent/thoughtful. Thanks for the continued maintenance 👍, cheers." [@ronjouch](https://github.com/ronjouch)
 * We are now the [top ranked fortune implementation](https://github.com/topics/fortune) on Github. Spread the word!
