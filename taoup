@@ -964,7 +964,7 @@ puts white{ "The five types of bullshit jobs: " } + white{ bold{ "flunkies" } } 
 puts white{ "Ignorance of, or contempt for, physical law is a direct route to frustration. Mother Nature laughs at dilettantism and crushes arrogance without even knowing she did it." } + black{ bold{ " - Jim Williams, 'High Speed Amplifier Techniques' AN47 (1991)" } }
 puts white{ "AI generated porn is some scary shit man." } + black{ bold{ " - @dimensionc132" } }
 puts white{ "Between Plan 9 and Erlang we missed a bus somewhere." } + black{ bold{ " - @jacquesm" } }
-puts white{ "All but one of the episodes of hyperinflation occurred in the last 100 years." } + black{ bold{ " - Michael Zalewski" } }
+puts white{ "All but one of the episodes of hyperinflation occurred in the last 100 years." } + black{ bold{ " - Michal Zalewski" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
