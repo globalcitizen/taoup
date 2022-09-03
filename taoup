@@ -966,6 +966,7 @@ puts white{ "AI generated porn is some scary shit man." } + black{ bold{ " - @di
 puts white{ "Between Plan 9 and Erlang we missed a bus somewhere." } + black{ bold{ " - @jacquesm" } }
 puts white{ "All but one of the episodes of hyperinflation occurred in the last 100 years." } + black{ bold{ " - Michal Zalewski" } }
 puts white{ "This is a bug in the logic of the system." } + black{ bold{ " - Open source maintainer" } }
+puts white{ "I think local storage is highly undervalued, and the pendulum will shift back." } + black{ bold{ " - @mikewarot (2022)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
