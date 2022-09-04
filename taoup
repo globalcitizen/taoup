@@ -967,6 +967,7 @@ puts white{ "Between Plan 9 and Erlang we missed a bus somewhere." } + black{ bo
 puts white{ "All but one of the episodes of hyperinflation occurred in the last 100 years." } + black{ bold{ " - Michal Zalewski" } }
 puts white{ "This is a bug in the logic of the system." } + black{ bold{ " - Open source maintainer" } }
 puts white{ "I think local storage is highly undervalued, and the pendulum will shift back." } + black{ bold{ " - @mikewarot (2022)" } }
+puts white{ "A core cultural competency of programmers is to be willing to just go look things up." } + black{ bold{ " - @JohnHaugeland" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
@@ -1754,6 +1755,9 @@ puts white{ bold{ "There's a lot of value in dead things." } } + white{ " They'r
 puts white{ "Let the future tell the truth, and evaluate each one according to his work and accomplishments. " } + white{ bold{ "The present is theirs; the future, for which I really worked, is mine." } } + black{ bold{ " - Nikola Tesla" } }
 puts white{ "I never lose. I either win or I learn." } + black{ bold{ " - Nelson Mandela" } }
 puts white{ "In a sense, we have the printing press, but people are still illiterate." } + black{ bold{ " - @closedloop129" } }
+puts white{ "When a machine takes over one specific job, we stop thinking of that as having been a human job, and let the human messes go out of our heads." } + black{ bold{ " - @JohnHaugeland" } } 
+puts white{ "There was a time when fast food restaurants sliced their own cheese; ground their own beef; cut and cooked their own french fries; mixed their own sodas." } + black{ bold{ " - @JohnHaugeland" } }
+puts white{ "You don't live long enough to understand the progress of piecemeal automation." } + black{ bold{ " - @JohnHaugeland" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
