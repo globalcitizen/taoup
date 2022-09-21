@@ -969,6 +969,7 @@ puts white{ "This is a bug in the logic of the system." } + black{ bold{ " - Ope
 puts white{ "I think local storage is highly undervalued, and the pendulum will shift back." } + black{ bold{ " - @mikewarot (2022)" } }
 puts white{ "A core cultural competency of programmers is to be willing to just go look things up." } + black{ bold{ " - @JohnHaugeland" } }
 puts white{ "There is considerable overlap between the intelligence of the smartest bears and the dumbest tourists." } + black{ bold{ " - Yosemite Park Ranger, after abortive attempts at bear-proofing trash cans" } }
+puts white{ bold{ "Only connect!" } } + black{ bold{ " - Howards End, E. M. Forster" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
