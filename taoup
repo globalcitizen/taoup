@@ -970,6 +970,7 @@ puts white{ "I think local storage is highly undervalued, and the pendulum will 
 puts white{ "A core cultural competency of programmers is to be willing to just go look things up." } + black{ bold{ " - @JohnHaugeland" } }
 puts white{ "There is considerable overlap between the intelligence of the smartest bears and the dumbest tourists." } + black{ bold{ " - Yosemite Park Ranger, after abortive attempts at bear-proofing trash cans" } }
 puts white{ bold{ "Only connect!" } } + black{ bold{ " - Howards End, E. M. Forster" } }
+puts white{ "Essentially, you're always testing in production." } + black{ bold{ " - @bena" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
