@@ -971,6 +971,7 @@ puts white{ "A core cultural competency of programmers is to be willing to just 
 puts white{ "There is considerable overlap between the intelligence of the smartest bears and the dumbest tourists." } + black{ bold{ " - Yosemite Park Ranger, after abortive attempts at bear-proofing trash cans" } }
 puts white{ bold{ "Only connect!" } } + black{ bold{ " - Howards End, E. M. Forster" } }
 puts white{ "Essentially, you're always testing in production." } + black{ bold{ " - @bena" } }
+puts white{ "Examples of incredible naïveté and seemingly needless failure on the part of well-meaning entrepreneurs are common." } + black{ bold{ " - Journal of Business Venturing 35 (2020)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
