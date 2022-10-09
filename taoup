@@ -974,6 +974,8 @@ puts white{ "Essentially, you're always testing in production." } + black{ bold{
 puts white{ "Examples of incredible naïveté and seemingly needless failure on the part of well-meaning entrepreneurs are common." } + black{ bold{ " - Journal of Business Venturing 35 (2020)" } }
 puts white{ "The word " } + white{ bold{ "symbiosis" } } + white{ " was invented to describe lichens. It took 150 years to discover the third partner." } + black{ bold{ " - National Geographic (2022)" } }
 puts white{ "An investment in knowledge always pays the best interest." } + black{ bold{ " - Benjamin Franklin" } }
+puts white{ "Great thinkers, icons, and innovators think forward and backward. They drive their brain in reverse." } + black{ bold{ " - William Digby" } }
+puts white{ "Avoiding stupidity is easier than seeking brilliance." } + black{ bold{ " - William Digby" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
