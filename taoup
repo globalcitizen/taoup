@@ -976,6 +976,7 @@ puts white{ "The word " } + white{ bold{ "symbiosis" } } + white{ " was invented
 puts white{ "An investment in knowledge always pays the best interest." } + black{ bold{ " - Benjamin Franklin" } }
 puts white{ "Great thinkers, icons, and innovators think forward and backward. They drive their brain in reverse." } + black{ bold{ " - William Digby" } }
 puts white{ "Avoiding stupidity is easier than seeking brilliance." } + black{ bold{ " - William Digby" } }
+puts white{ "Not everything that is technically possible is also commercially viable." }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
