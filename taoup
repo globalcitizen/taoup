@@ -977,6 +977,7 @@ puts white{ "An investment in knowledge always pays the best interest." } + blac
 puts white{ "Great thinkers, icons, and innovators think forward and backward. They drive their brain in reverse." } + black{ bold{ " - William Digby" } }
 puts white{ "Avoiding stupidity is easier than seeking brilliance." } + black{ bold{ " - William Digby" } }
 puts white{ "Not everything that is technically possible is also commercially viable." }
+puts white{ "If the penalty for breaking a law is a fine, then the law only applies to poor people." } + black{ bold{ " - @sobkas" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
