@@ -978,6 +978,7 @@ puts white{ "Great thinkers, icons, and innovators think forward and backward. T
 puts white{ "Avoiding stupidity is easier than seeking brilliance." } + black{ bold{ " - William Digby" } }
 puts white{ "Not everything that is technically possible is also commercially viable." }
 puts white{ "If the penalty for breaking a law is a fine, then the law only applies to poor people." } + black{ bold{ " - @sobkas" } }
+puts white{ bold{ "Skate to where the puck is going to be, not where it has been." } } + white{ " This statement has made me more money than everything else combined." } + black{ bold{ " - Anonymous HN contributor" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
