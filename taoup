@@ -980,6 +980,7 @@ puts white{ "Not everything that is technically possible is also commercially vi
 puts white{ "If the penalty for breaking a law is a fine, then the law only applies to poor people." } + black{ bold{ " - @sobkas" } }
 puts white{ bold{ "Skate to where the puck is going to be, not where it has been." } } + white{ " This statement has made me more money than everything else combined." } + black{ bold{ " - Anonymous HN contributor" } }
 puts white{ "The idea that we get our information as citizens through algorithms determined by the world's largest advertising company is my definition of dystopia." } + black{ bold{ " - Ian Bremmer (2018)" } }
+puts white{ "The worst thing that can happen to a code base is size." } + black{ bold{ " - Steve Yegge" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
