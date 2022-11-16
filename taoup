@@ -1771,6 +1771,7 @@ puts white{ "In a sense, we have the printing press, but people are still illite
 puts white{ "When a machine takes over one specific job, we stop thinking of that as having been a human job, and let the human messes go out of our heads." } + black{ bold{ " - @JohnHaugeland" } } 
 puts white{ "There was a time when fast food restaurants sliced their own cheese; ground their own beef; cut and cooked their own french fries; mixed their own sodas." } + black{ bold{ " - @JohnHaugeland" } }
 puts white{ "You don't live long enough to understand the progress of piecemeal automation." } + black{ bold{ " - @JohnHaugeland" } }
+puts white{ bold{ "Any proposal must be viewed as follows." } } + white{ " Do not pay overly much attention to the benefits that might be delivered were the law in question to be properly enforced, rather " } + white{ bold{ "one needs to consider the harm done by the improper enforcement of this particular piece of legislation" } } + white{ ", whatever it might be." } + black{ bold{ " - Lyndon B. Johnson" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
