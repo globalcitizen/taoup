@@ -982,6 +982,7 @@ puts white{ bold{ "Skate to where the puck is going to be, not where it has been
 puts white{ "The idea that we get our information as citizens through algorithms determined by the world's largest advertising company is my definition of dystopia." } + black{ bold{ " - Ian Bremmer (2018)" } }
 puts white{ "The worst thing that can happen to a code base is size." } + black{ bold{ " - Steve Yegge" } }
 puts white{ bold{ "To transcend statistics into science one needs experiments" } } + white{ ", those which can control variables, and hence provide a non-statistical interpretive framework which demonstrates these variables are explanatory, and hence gives credence to the theories which explain them." } + black{ bold{ " - @mjburgess" } }
+puts white{ bold{ "If you are designing anything that is intended to last longer than 6 months, documentation is a critical part of the system." } } + white{ " Meetings are great for communicating with people here and now, but only writing can communicate with people from the future. When you meet with your current colleagues, spare a thought for your future colleagues who haven't yet joined, and do them a favor by writing things down. Ability to use written communication is a major differentiator between junior and senior engineers." } + black{ bold{ " - @jl6" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
