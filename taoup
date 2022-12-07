@@ -986,6 +986,7 @@ puts white{ bold{ "If you are designing anything that is intended to last longer
 puts white{ "Hardware has changed dramatically; software is stagnant." } + black{ bold{ " - Rob Pike (2000)" } }
 puts white{ "My superpower is reading the manual." } + black{ bold{ " - @DrBazza" } }
 puts white{ "Trade is built in to nature." } + black{ bold{ " - @mellavora" } }
+puts white{ bold{ "Never rely on cloud devices." } } + white{ " Anything worth doing is worth doing off-line." } + black{ bold{ " - @kodah" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
