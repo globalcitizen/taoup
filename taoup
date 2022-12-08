@@ -987,6 +987,7 @@ puts white{ "Hardware has changed dramatically; software is stagnant." } + black
 puts white{ "My superpower is reading the manual." } + black{ bold{ " - @DrBazza" } }
 puts white{ "Trade is built in to nature." } + black{ bold{ " - @mellavora" } }
 puts white{ bold{ "Never rely on cloud devices." } } + white{ " Anything worth doing is worth doing off-line." } + black{ bold{ " - @kodah" } }
+puts white{ "Soulless agents of Satan, or just clumsy rapists?" } + black{ bold{ " - Olin Shivers, on VCs" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
