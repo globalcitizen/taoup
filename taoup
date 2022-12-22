@@ -2083,7 +2083,7 @@ puts black{ bold{ "Musk's 2nd rule of manufacturing" } } + black{ bold{ ": " } }
 puts black{ bold{ "Musk's 3rd rule of manufacturing" } } + black{ bold{ ": " } } + white{ bold{ "Simplify or optimize" } } + white{ ". But do not optimize things that should not exist." }
 puts black{ bold{ "Musk's 4th rule of manufacturing" } } + black{ bold{ ": " } } + white{ bold{ "Accelerate cycle times" } } + white{ ". You're moving too slowly, go faster. But if you're digging your grave, don't dig it faster." }
 puts black{ bold{ "Musk's 5th rule of manufacturing" } } + black{ bold{ ": " } } + white{ bold{ "Automate" } } + white{ ". But never do this first." }
-
+puts white{ "Generally " } + white{ bold{ "manufacturing is underrated and design is overrated" } } + white{ "." } + black{ bold{ " [...] " } } + white{ "It's 10 to 100 times more effort to design manufacturing." } + black{ bold{ " - Elon Musk" } }
 
 # Michael Moritz
 puts "---- Michael Moritz ----"
