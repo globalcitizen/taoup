@@ -988,6 +988,10 @@ puts white{ "My superpower is reading the manual." } + black{ bold{ " - @DrBazza
 puts white{ "Trade is built in to nature." } + black{ bold{ " - @mellavora" } }
 puts white{ bold{ "Never rely on cloud devices." } } + white{ " Anything worth doing is worth doing off-line." } + black{ bold{ " - @kodah" } }
 puts white{ "Soulless agents of Satan, or just clumsy rapists?" } + black{ bold{ " - Olin Shivers, on VCs" } }
+puts white{ "Among the northern European Saami people, a " } + white{ bold{ "poronkusema" } } + white{ " marked how far a reindeer travelled before urinating." } + black{ bold{ " - Economist review of 'Beyond Measure' (2022)" } }
+puts white{ "Humans are list-makers. From Aristotle's \"Categories\" to the Linnaean taxonomy of biology, " } + white{ bold{ "people are splitters, not lumpers" } } + white{ ", forever seeking to parse and quantify the world." } + black{ bold{ " - Economist review of 'Beyond Measure' (2022)" } }
+puts white{ "It is a political phenomenon, too. " } + white{ bold{ "Honest weights and measures crop up frequently in ancient history as guarantors of social order" } } + white{ ", from Hammurabi's code in Babylon to the Talmud and the Bible, which mentions measurement more than charity." } + black{ bold{ " - Economist review of 'Beyond Measure' (2022)" } }
+puts white{ "Measurements only encompass so much wisdom." } + black{ bold{ " - Economist review of 'Beyond Measure' (2022)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
@@ -1779,10 +1783,7 @@ puts white{ "When a machine takes over one specific job, we stop thinking of tha
 puts white{ "There was a time when fast food restaurants sliced their own cheese; ground their own beef; cut and cooked their own french fries; mixed their own sodas." } + black{ bold{ " - @JohnHaugeland" } }
 puts white{ "You don't live long enough to understand the progress of piecemeal automation." } + black{ bold{ " - @JohnHaugeland" } }
 puts white{ bold{ "Any proposal must be viewed as follows." } } + white{ " Do not pay overly much attention to the benefits that might be delivered were the law in question to be properly enforced, rather " } + white{ bold{ "one needs to consider the harm done by the improper enforcement of this particular piece of legislation" } } + white{ ", whatever it might be." } + black{ bold{ " - Lyndon B. Johnson" } }
-puts white{ "Among the northern European Saami people, a " } + white{ bold{ "poronkusema" } } + white{ " marked how far a reindeer travelled before urinating." } + black{ bold{ " - Economist review of 'Beyond Measure' (2022)" } }
-puts white{ "Humans are list-makers. From Aristotle's \"Categories\" to the Linnaean taxonomy of biology, " } + white{ bold{ "people are splitters, not lumpers" } } + white{ ", forever seeking to parse and quantify the world." } + black{ bold{ " - Economist review of 'Beyond Measure' (2022)" } }
-puts white{ "It is a political phenomenon, too. " } + white{ bold{ "Honest weights and measures crop up frequently in ancient history as guarantors of social order" } } + white{ ", from Hammurabi's code in Babylon to the Talmud and the Bible, which mentions measurement more than charity." } + black{ bold{ " - Economist review of 'Beyond Measure' (2022)" } }
-puts white{ "Measurements only encompass so much wisdom." } + black{ bold{ " - Economist review of 'Beyond Measure' (2022)" } }
+puts white{ bold{ "Change is inevitable." } } + white{ " Except from a vending machine." } # https://www.theguardian.com/business/2022/apr/14/a-day-in-the-life-of-almost-every-vending-machine-in-the-world
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
