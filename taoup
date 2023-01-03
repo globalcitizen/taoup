@@ -992,6 +992,7 @@ puts white{ "Among the northern European Saami people, a " } + white{ bold{ "por
 puts white{ "Humans are list-makers. From Aristotle's \"Categories\" to the Linnaean taxonomy of biology, " } + white{ bold{ "people are splitters, not lumpers" } } + white{ ", forever seeking to parse and quantify the world." } + black{ bold{ " - Economist review of 'Beyond Measure' (2022)" } }
 puts white{ "It is a political phenomenon, too. " } + white{ bold{ "Honest weights and measures crop up frequently in ancient history as guarantors of social order" } } + white{ ", from Hammurabi's code in Babylon to the Talmud and the Bible, which mentions measurement more than charity." } + black{ bold{ " - Economist review of 'Beyond Measure' (2022)" } }
 puts white{ "Measurements only encompass so much wisdom." } + black{ bold{ " - Economist review of 'Beyond Measure' (2022)" } }
+puts white{ "Life is like a box of terrible analogies." } + black{ bold{ " - Oscar Wilde" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
