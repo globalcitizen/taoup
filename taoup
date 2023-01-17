@@ -1788,6 +1788,7 @@ puts white{ "You don't live long enough to understand the progress of piecemeal 
 puts white{ bold{ "Any proposal must be viewed as follows." } } + white{ " Do not pay overly much attention to the benefits that might be delivered were the law in question to be properly enforced, rather " } + white{ bold{ "one needs to consider the harm done by the improper enforcement of this particular piece of legislation" } } + white{ ", whatever it might be." } + black{ bold{ " - Lyndon B. Johnson" } }
 puts white{ bold{ "Change is inevitable." } } + white{ " Except from a vending machine." } # https://www.theguardian.com/business/2022/apr/14/a-day-in-the-life-of-almost-every-vending-machine-in-the-world
 puts white{ "Function reforms form, perpetually." } + black{ bold{ " - Stewart Brand, 'How Buildings Learn' (1994)" } }
+puts white{ bold{ "What ordinary people once made, they buy; and what they once fixed for themselves, they replace entirely or hire an expert to repair" } } + white{ ", whose expert fix often involves replacing an entire system because some miniature component has failed." } + black{ bold{ " - Matthew B. Crawford, 'Shop Class as Soulcraft' (2009)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
