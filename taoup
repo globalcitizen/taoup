@@ -995,6 +995,7 @@ puts white{ "Measurements only encompass so much wisdom." } + black{ bold{ " - E
 puts white{ "Life is like a box of terrible analogies." } + black{ bold{ " - Oscar Wilde" } }
 puts white{ "If you wish to make an apple pie from scratch, you must first invent the universe." } + black{ bold{ " - Carl Sagan" } }
 puts white{ "A QA walks into a bar, orders a beer, pays with a $5,000-off coupon. Test passes." } + black{ bold{ " - @lmkg" } }
+puts white{ "Glitching attacks are enabled by a social system that creates new vulnerabilities much more rapidly than they are closed." } + black{ bold{ " - @kragen" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
