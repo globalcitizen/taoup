@@ -997,6 +997,7 @@ puts white{ "If you wish to make an apple pie from scratch, you must first inven
 puts white{ "A QA walks into a bar, orders a beer, pays with a $5,000-off coupon. Test passes." } + black{ bold{ " - @lmkg" } }
 puts white{ "Glitching attacks are enabled by a social system that creates new vulnerabilities much more rapidly than they are closed." } + black{ bold{ " - @kragen" } }
 puts white{ "In the game of trees you either live, or branch." } + black{ bold{ " - Anonymous comment on revision control systems (2023)" } }
+puts white{ "Be a sailor, not a rower." }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
