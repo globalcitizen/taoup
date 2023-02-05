@@ -1792,6 +1792,7 @@ puts white{ bold{ "Any proposal must be viewed as follows." } } + white{ " Do no
 puts white{ bold{ "Change is inevitable." } } + white{ " Except from a vending machine." } # https://www.theguardian.com/business/2022/apr/14/a-day-in-the-life-of-almost-every-vending-machine-in-the-world
 puts white{ "Function reforms form, perpetually." } + black{ bold{ " - Stewart Brand, 'How Buildings Learn' (1994)" } }
 puts white{ bold{ "What ordinary people once made, they buy; and what they once fixed for themselves, they replace entirely or hire an expert to repair" } } + white{ ", whose expert fix often involves replacing an entire system because some miniature component has failed." } + black{ bold{ " - Matthew B. Crawford, 'Shop Class as Soulcraft' (2009)" } }
+puts white{ "They will never be able to pinpoint position that way!" } + black{ bold{ " - Unnamed US military service person on GPS, 1970s" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
