@@ -998,6 +998,10 @@ puts white{ "A QA walks into a bar, orders a beer, pays with a $5,000-off coupon
 puts white{ "Glitching attacks are enabled by a social system that creates new vulnerabilities much more rapidly than they are closed." } + black{ bold{ " - @kragen" } }
 puts white{ "In the game of trees you either live, or branch." } + black{ bold{ " - Anonymous comment on revision control systems (2023)" } }
 puts white{ "Be a sailor, not a rower." }
+puts white{ bold{ "Il est interdit d'interdire." } } + white{ " It is forbidden to forbid." } + black{ bold{ " - Slogan, French riots, May 1968" } }
+puts white{ bold{ "Jouissez sans entraves." } } + white{ " Enjoy without hindrance." } + black{ bold{ " - Slogan, French riots, May 1968" } }
+puts white{ bold{ "Élections, piège à con." } } + white{ " Elections, a trap for idiots." } + black{ bold{ " - Slogan, French riots, May 1968" } }
+puts white{ bold{ "Soyez réalistes, demandez l'impossible." } } + white{ " Be realistic, demand the impossible." } + black{ bold{ " - Slogan, French riots, May 1968" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
@@ -1939,6 +1943,7 @@ puts white{ bold{ "Language" } } + white{ ", an internal system of the mind, is 
 puts white{ "Colorless green ideas sleep furiously." } + black{ bold{ " - Noam Chomsky (1957), demonstrating grammar without semantics" } }
 puts white{ "All parts should go together without forcing. Therefore, if you can't get them back together again, there must be a reason. By all means, do not use a hammer." } + black{ bold{ " - IBM maintenance manual (1975)" } } # https://www.ibm.com/downloads/cas/1V29LE4Z
 puts white{ "“Best Practice”, sez who? Dogma is for juniors. “Best practices” are all situational; the only way to know if a practice is a good idea is to examine its tradeoffs in the context of your situation." } + black{ bold{ " - James Shore (2021)" } } # https://news.ycombinator.com/item?id=29527980
+puts white{ bold{ "J'ai quelque chose à dire mais je ne sais pas quoi." } } + white{ " I have something to say but I don't know what." } + black{ bold{ " - Graffiti, French riots, May 1968" } }
 
 # randoms - visual art and programming
 puts '--- randoms - visual art and programming ---'
