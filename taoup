@@ -2118,6 +2118,7 @@ puts white{ "Be fearful when others are greedy and greedy only when others are f
 puts white{ "You only find out who is swimming naked when the tide goes out." } + black{ bold{ " - Warren Buffett (2001)" } }
 puts white{ bold{ "The Three I's" } } + white{ ": First come the innovators, then come the imitators, then come the idiots." } + black{ bold{ " - Warren Buffett (2008)" } }
 puts white{ "An idiot with a plan can beat a genius without a plan." } + black{ bold{ " - Warren Buffett" } }
+puts white{ "The difference between successful people and really successful people is that " } + white{ bold{ "really successful people say no to almost everything" } } + white{ "." } + black{ bold{ " - Warren Buffet" } }
 
 # Amazon Leadership Principles from https://www.amazon.jobs/en/principles
 puts "---- amazon leadership principles ----"
