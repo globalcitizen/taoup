@@ -1002,6 +1002,7 @@ puts white{ bold{ "Il est interdit d'interdire." } } + white{ " It is forbidden 
 puts white{ bold{ "Jouissez sans entraves." } } + white{ " Enjoy without hindrance." } + black{ bold{ " - Slogan, French riots, May 1968" } }
 puts white{ bold{ "Élections, piège à con." } } + white{ " Elections, a trap for idiots." } + black{ bold{ " - Slogan, French riots, May 1968" } }
 puts white{ bold{ "Soyez réalistes, demandez l'impossible." } } + white{ " Be realistic, demand the impossible." } + black{ bold{ " - Slogan, French riots, May 1968" } }
+puts white{ "Incorporation is just governments franchising." } + black{ bold{ " - @pessimizer" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
