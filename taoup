@@ -1003,6 +1003,7 @@ puts white{ bold{ "Jouissez sans entraves." } } + white{ " Enjoy without hindran
 puts white{ bold{ "Élections, piège à con." } } + white{ " Elections, a trap for idiots." } + black{ bold{ " - Slogan, French riots, May 1968" } }
 puts white{ bold{ "Soyez réalistes, demandez l'impossible." } } + white{ " Be realistic, demand the impossible." } + black{ bold{ " - Slogan, French riots, May 1968" } }
 puts white{ "Incorporation is just governments franchising." } + black{ bold{ " - @pessimizer" } }
+puts white{ bold{ "Large companies don't care about employees one way or another" } } + white{ ", if you're lucky you're a row in a spreadsheet somewhere and woe to you if your row, the column where you're totalled or the entire sheet ends up in the red." } + black{ bold{ " - @jacquesm" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
