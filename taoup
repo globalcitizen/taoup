@@ -1005,6 +1005,8 @@ puts white{ bold{ "Soyez réalistes, demandez l'impossible." } } + white{ " Be r
 puts white{ "Incorporation is just governments franchising." } + black{ bold{ " - @pessimizer" } }
 puts white{ bold{ "Large companies don't care about employees one way or another" } } + white{ ", if you're lucky you're a row in a spreadsheet somewhere and woe to you if your row, the column where you're totalled or the entire sheet ends up in the red." } + black{ bold{ " - @jacquesm" } }
 puts black{ bold{ "(Before ChatGPT) " } } + white{ bold{ "When you see something that is technically sweet, you go ahead and do it. " } } + black{ bold{ "(After ChatGPT) " } } + white{ bold{ "I console myself with the normal excuse: If I hadn't done it, somebody else would have." } } + black{ bold{ " [...] " } } + white{ "Look at how it was five years ago and how it is now. Take the difference and propagate it forwards. That's scary. " } + black{ bold{ "[...] " } } + white{ "It is hard to see how you can prevent the bad actors from using it for bad things." } + black{ bold{ " [...] " } } + white{ "I don't think they should scale this up more until they have understood whether they can control it." } + black{ bold{ " - Dr. Geoffrey Hinton, 'Godfather of AI' (2023)" } }
+puts white{ bold{ "A good conversation is like a miniskirt" } } + white{ ": short enough to retain interest, but long enough to cover the subject." }
+puts white{ "There is nothing more permanent than a temporary solution." } + black{ bold{ " - Russian proverb" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
