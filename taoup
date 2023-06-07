@@ -1010,6 +1010,7 @@ puts white{ "There is nothing more permanent than a temporary solution." } + bla
 puts white{ "Just do what slack did with irc. 'Reinvent' it with a modern interface and some fixes. The mercurial masses will flock to the hot new platform, VC will shower you with adoration and cash, we'll tell stories about how you don't eat breakfast and only ever wear one sock. Everyone will emulate you and then you can come back around as a wealthy guru investor." } + black{ bold{ " - @more_corn" } }
 puts white{ "The more intricate your technology, the more vital it becomes to simplify your narrative." } + black{ bold{ " - Shama Hyder" } }
 puts white{ "Sell, design, build." } + black{ bold{ " - @ary" } } # Ary's arbitrage
+puts white{ "A meta-analytic null may just be an expression of the typical sentiments of researchers." } + black{ bold{ " - Cremieux Recueil, on the semantic flaws of academic meta-analyses" } } # Recueil's revelation
 
 # Ackoff
 puts "----- russell l. ackoff -------"
