@@ -1011,6 +1011,8 @@ puts white{ "Just do what slack did with irc. 'Reinvent' it with a modern interf
 puts white{ "The more intricate your technology, the more vital it becomes to simplify your narrative." } + black{ bold{ " - Shama Hyder" } }
 puts white{ "Sell, design, build." } + black{ bold{ " - @ary" } } # Ary's arbitrage
 puts white{ "A meta-analytic null may just be an expression of the typical sentiments of researchers." } + black{ bold{ " - Cremieux, on the semantic flaws of academic meta-analyses" } } # Cremiuex's credit
+puts white{ bold{ "Patents commercialized by startups are more likely to be disruptive" } } + white { " than those commercialized by incumbent firms or universities." } + black{ bold{ " - National Bureau of Economic Research (2023)" } }
+
 
 # Ackoff
 puts "----- russell l. ackoff -------"
