@@ -1432,6 +1432,10 @@ puts white{ bold{ "Metcalfe's Law" } } + white{ ": The value of a network is the
 # miller's law
 puts white{ bold{ "Miller's Law" } } + white{ ": All discussions of incremental updates will eventually trend towards proposals for large scale redesigns, feature additions or replacements." } + black{ bold{ " - Mike Beltzner (after Dave Miller of Bugzilla)" } }
 
+# moore's laws
+puts white{ bold{ "Moore's law" } } + white{ ": The number of transistors in an integrated circuit (IC) doubles every two years." }
+puts white{ bold{ "Moore's second law " } } + white{ "(" } + white{ bold{ "Rock's law" } } + white{ "): The cost of a semiconductor chip fabrication plant doubles every four years." }
+
 # moravec's paradox
 puts white{ bold{ "Moravec's Paradox" } } + white{ ": Contrary to traditional assumptions, high-level reasoning requires very little computation, but low-level sensorimotor skills require enormous computational resources." } + black{ bold{ " - Hans Moravec, Rodney Brooks, Marvin Minsky et al. (1980s)" } }
 
