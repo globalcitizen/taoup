@@ -1013,6 +1013,7 @@ puts white{ "Sell, design, build." } + black{ bold{ " - @ary" } } # Ary's arbitr
 puts white{ "A meta-analytic null may just be an expression of the typical sentiments of researchers." } + black{ bold{ " - Cremieux, on the semantic flaws of academic meta-analyses" } } # Cremiuex's credit
 puts white{ bold{ "Patents commercialized by startups are more likely to be disruptive" } } + white { " than those commercialized by incumbent firms or universities." } + black{ bold{ " - National Bureau of Economic Research (2023)" } }
 puts white{ "First time founders are obsessed with product. Second time founders are obsessed with distribution." } + black{ bold{ " - Justin Kan" } }
+puts white{ "This project has always been beyond sociopathic. Scanning retinas with an orb, it's beyond absurdity. An example of late stage capitalism." } + black{ bold{ " - @louwrentius, on Sam Altman's Worldcoin (2023)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
