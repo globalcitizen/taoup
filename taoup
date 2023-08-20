@@ -1394,6 +1394,9 @@ puts white{ bold{ "Joy's Law" } } + white{ ": No matter who you are, most of the
 # kasparov's law
 puts white{ bold{ "Kasparov's Law" } } + white{ ": Weak human + machine + better process is superior to a strong computer alone and, more remarkably, superior to a strong human + machine + inferior process." }
 
+# kerckhoff's principle
+puts white{ bold{ "Kerckhoff's Principle" } } + white{ ": A cryptosystem should be secure even if everything about the system, except the key, is public knowledge." }
+
 # kinkler
 puts white{ bold{ "Kinkler's First Law" } } + white{ ": Responsibility always exceeds authority." }
 puts white{ bold{ "Kinkler's Second Law" } } + white{ ": All the easy problems have been solved." }
