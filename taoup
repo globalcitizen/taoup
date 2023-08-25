@@ -1017,7 +1017,7 @@ puts white{ "This project has always been beyond sociopathic. Scanning retinas w
 puts white{ "Software is over. Everyone who's anyone has moved on to hardware hacking." } + black{ bold{ " - @hipsterhacker" } }
 puts white{ "I'm rewriting git in javascript." } + black{ bold{ " - @hipsterhacker" } }
 puts white{ "PHP = PreHistoric Programming" } + black{ bold{ " - @hipsterhacker" } }
-
+puts white{ "Cyberpunk didn't die, it just stopped being fiction." } + black{ bold{ " - @bpiche" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
