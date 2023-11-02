@@ -1020,6 +1020,7 @@ puts white{ "PHP = PreHistoric Programming" } + black{ bold{ " - @hipsterhacker"
 puts white{ "Cyberpunk didn't die, it just stopped being fiction." } + black{ bold{ " - @bpiche" } }
 puts white{ "The amount of computing going on in the peripheral nervous system is staggering." } + black{ bold{ " - @AndrewKemendo" } }
 puts white{ "Although Darwin eventually did quite well in his final exams, most of his three years was spent eating exotic meats with his Glutton Club, drinking a bit too much, riding his horse, and of course collecting beetles." } + black{ bold{ " - Christ's College, Cambridge University, on Charles Darwin" } }
+puts white{ "A good system is the work of many but the vision of one." }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
