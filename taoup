@@ -2081,6 +2081,7 @@ puts white{ bold{ "The current online shopping experience is the worst it will e
 puts white{ "Because of our emphasis on the long term, we may make decisions and weigh tradeoffs differently than some companies." } + black{ bold{ " - Jeff Bezos (1997)" } }
 puts white{ "Still Day 1." } + black{ bold{ " - Jeff Bezos" } }
 puts white{ "Whatever you do there's going to be risk in your life, and risk is a necessary component of progress." } + black{ bold{ " - Jeff Bezos (2001)" } }
+puts white{ "Efficiency and invention are sort of at odds, because invention - real invention - real lateral thinking - that requires wandering, and you have to give yourself permission to wander. The reality is, we may have to wander for a long time." } + black{ bold{ " - Jeff Bezos" } }
 
 # Ström's summary of the Socratic method @ https://matthewstrom.com/writing/doubt/
 puts "---- Ström's summary of the Socratic method ----"
