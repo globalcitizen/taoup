@@ -1031,6 +1031,14 @@ puts white{ bold{ "The most valuable and least replaceable resource is time." } 
 puts white{ bold{ "Hierarchy of mental content" } } + white{ " (in order of increasing value):" } + white{ bold{ " data, information, knowledge, understanding, and wisdom" } } + white{ "." } + black{ bold { " - Russell L. Ackoff" } }
 puts white{ "The best thing that can be done to a problem is not to solve it but to dissolve it." } + black{ bold{ " - Russell L. Ackoff" } }
 
+# Anderson
+puts "----- poul anderson -----"
+puts white{ "Freedom is groovy." } + black{ bold{ " - Poul Anderson" } }
+puts white{ "The Persians were more important to world history than the Greeks." } + black{ bold{ " - Poul Anderson" } }
+puts white{ bold{ "That disorderly jumble" } } + white{ " known as real life." } + black{ bold{ " - Poul Anderson" } }
+puts white{ "Lately it has become commonplace to worry about the evils of a computerized national databank." } + black{ bold{ " - Poul Anderson (ca. early 1970s)" } }
+puts white{ "It's partly an emotional matter - a libertarian predilection, a prejudice in favour of individual freedom - and partly an intellectual distrust based on looking at the historical record ... a distrust of large, encompassing systems." } + black{ bold{ " - Poul Anderson" } }
+
 # Asimov
 puts "----- isaac asimov -----"
 puts white{ "It seems necessary to me, then, that all people at a session be willing to sound foolish and listen to others sound foolish." } + black{ bold{ " - Isaac Asimov" } }
@@ -1252,6 +1260,11 @@ puts white{ bold{ "Most MBA's tend to be high extrovert/low conviction people" }
 puts white{ bold{ "Most companies are killed by internal infighting, even though it may not seem like it." } } + black{ bold{ " - Peter Thiel" } }
 puts white{ "Competition is for losers." } + black{ bold{ " - Peter Thiel (2014)" } }
 
+# Vernor Vinge
+puts "---- vernor vinge ----\n";
+puts white{ bold{ "You try to identify major parameters of change, and then you use those parameters to assert extremely different possible futures." } } + white{ " Those futures should be as extremely unlikely as your sponsoring entity can tolerate before they kick you out the door and cut all your funding off. Once you've identified those extreme possibilities - say four or five of these scenarios, try to flesh them out. And typically the way you flesh them out is your pretend it's 2050 or 2070 or whatever and write an essay about why, in retrospect, it was obvious that this particular scenario was inevitable. In doing that, you generate a series of symptoms, and then you're in a situation where in the real world, you can look at all of those symptoms, you can organize them, and they are things to watch for." } + black{ bold{ " - Vernor Vinge" } }
+puts white{ "That's what we do. We build, and we build machines." } + black{ bold{ " - Vernor Vinge" } }
+
 # randoms on time
 puts "----- randoms on time -----"
 puts white{ bold{ "He who does not have a past has no present or future." } } + black{ bold{ " - Arabic proverb" } }
@@ -1272,6 +1285,7 @@ puts white{ bold{ "In carpentry you measure twice and cut once." } } + white{ " 
 puts white{ "One, one coco full basket." } + black{ bold{ " - Jamaican saying" } }
 puts white{ bold{ "Festina lente" } } + black{ bold{ ": " } } + white{ "Make haste slowly." } + black{ bold{ " - Latin translation a Greek proverb (σπεῦδε βραδέως)" } }
 puts white{ bold{ "You are not late" } } + black{ bold{ ": " } } + white{ "There has never been a better time in the whole history of the world to invent something." } + black{ bold{ " - Kevin Kelly" } }
+
 
 # re-sectionize
 puts "----- eponymous randoms -----"
