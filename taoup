@@ -1044,6 +1044,7 @@ puts white{ "Not everything that can be counted counts, and not everything that 
 puts white{ "Reality is negotiable." } + black{ bold{ " - Timothy Ferriss" } }
 puts white{ "Do not confuse inexperience with creativity." } + black{ bold{ " - Linda Whittaker" } }
 puts white{ "Greatness is more common than we realize and the rarity is recognition." } + black{ bold{ " - Christopher Butler" } }
+puts white{ "Don't trust an engineer with a clean desk." }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
