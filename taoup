@@ -1046,7 +1046,7 @@ puts white{ "Do not confuse inexperience with creativity." } + black{ bold{ " - 
 puts white{ "Greatness is more common than we realize and the rarity is recognition." } + black{ bold{ " - Christopher Butler" } }
 puts white{ "Don't trust an engineer with a clean desk." }
 puts white{ "Capital doesn't create clarity. It just makes confusion more expensive." } + black{ bold{ " - Tony Fadell" } }
-
+puts white{ "Any sufficiently mundane technology is indistinguishable from... furniture?" } + black{ bold{ " - @efskap" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
