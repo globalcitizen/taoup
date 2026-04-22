@@ -1047,6 +1047,7 @@ puts white{ "Greatness is more common than we realize and the rarity is recognit
 puts white{ "Don't trust an engineer with a clean desk." }
 puts white{ "Capital doesn't create clarity. It just makes confusion more expensive." } + black{ bold{ " - Tony Fadell" } }
 puts white{ "Any sufficiently mundane technology is indistinguishable from... furniture?" } + black{ bold{ " - @efskap" } }
+puts white{ "It's better to be a pirate than to join the navy." } + black{ bold{ " - Steve Jobs (1982)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
