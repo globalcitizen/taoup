@@ -1048,6 +1048,7 @@ puts white{ "Don't trust an engineer with a clean desk." }
 puts white{ "Capital doesn't create clarity. It just makes confusion more expensive." } + black{ bold{ " - Tony Fadell" } }
 puts white{ "Any sufficiently mundane technology is indistinguishable from... furniture?" } + black{ bold{ " - @efskap" } }
 puts white{ "It's better to be a pirate than to join the navy." } + black{ bold{ " - Steve Jobs (1982)" } }
+puts white{ "It's embarrassing for humanity that we cause an almighty ecological disaster and then one of the biggest factors in the recovery of local ecosystems is our absence." } + black{ bold{ " - @jl6, on Chernobyl (2026)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
