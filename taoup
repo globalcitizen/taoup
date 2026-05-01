@@ -1049,6 +1049,7 @@ puts white{ "Capital doesn't create clarity. It just makes confusion more expens
 puts white{ "Any sufficiently mundane technology is indistinguishable from... furniture?" } + black{ bold{ " - @efskap" } }
 puts white{ "It's better to be a pirate than to join the navy." } + black{ bold{ " - Steve Jobs (1982)" } }
 puts white{ "It's embarrassing for humanity that we cause an almighty ecological disaster and then one of the biggest factors in the recovery of local ecosystems is our absence." } + black{ bold{ " - @jl6, on Chernobyl (2026)" } }
+puts white{ "I cant wait to have no dependencies." } + black{ bold{ " - @jackdoe on LLM coding vs. supply chain attacks (2026)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
