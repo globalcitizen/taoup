@@ -1051,6 +1051,7 @@ puts white{ "It's better to be a pirate than to join the navy." } + black{ bold{
 puts white{ "It's embarrassing for humanity that we cause an almighty ecological disaster and then one of the biggest factors in the recovery of local ecosystems is our absence." } + black{ bold{ " - @jl6, on Chernobyl (2026)" } }
 puts white{ "I cant wait to have no dependencies." } + black{ bold{ " - @jackdoe on LLM coding vs. supply chain attacks (2026)" } }
 puts white{ bold{ "Trashing the planet is mainstream." } } + white{ " Taking care of it is counterculture." } + black{ bold{ " - @elif" } }
+puts white{ "I trained Claude to love my wife so I can focus on prompting." } + black{ bold{ " - @lionkor on 2026 zeitgeist" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
