@@ -2278,7 +2278,7 @@ puts "---- Destroying software ----"
 puts white{ "We are destroying software by no longer taking complexity into account when adding features or optimizing some dimension."} + black{ bold{ " - @antirez" } }
 puts white{ "We are destroying software with complex build systems."} + black{ bold{ " - @antirez" } }
 puts white{ "We are destroying software with an absurd chain of dependencies, making everything bloated and fragile."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software telling new programmers: “Don’t reinvent the wheel!”. But, reinventing the wheel is how you learn how things work, and is the first step to make new, different wheels."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software telling new programmers: “Don't reinvent the wheel!”. But, reinventing the wheel is how you learn how things work, and is the first step to make new, different wheels."} + black{ bold{ " - @antirez" } }
 puts white{ "We are destroying software by no longer caring about backward APIs compatibility."} + black{ bold{ " - @antirez" } }
 puts white{ "We are destroying software pushing for rewrites of things that work."} + black{ bold{ " - @antirez" } }
 puts white{ "We are destroying software by jumping on every new language, paradigm, and framework."} + black{ bold{ " - @antirez" } }
