@@ -1053,6 +1053,7 @@ puts white{ "I cant wait to have no dependencies." } + black{ bold{ " - @jackdoe
 puts white{ bold{ "Trashing the planet is mainstream." } } + white{ " Taking care of it is counterculture." } + black{ bold{ " - @elif" } }
 puts white{ "I trained Claude to love my wife so I can focus on prompting." } + black{ bold{ " - @lionkor on 2026 zeitgeist" } }
 puts white{ "Our true nationality is mankind." } + black{ bold{ " - H. G. Wells" } }
+puts white{ "Nothing is more idiomatic Go than ignoring inconvenient edge cases." } + black{ bold{ " - Anonomous HN comment (2026)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
