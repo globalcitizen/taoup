@@ -1344,6 +1344,9 @@ puts white{ bold{ "Arnold's Law of Documentation" } } + white{ ": If it should e
 # atwood's law
 puts white{ bold{ "Atwood's Law" } } + white{ ": Any software that can be written in JavaScript will eventually be written in JavaScript." } + black{ bold{ " - Jeff Atwood" } }
 
+# brandolini's law
+puts white{ bold{ "Brandolini's law" } } + white{ ": The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it." } + black{ bold{ " - Alberto Brandolini (2013)" } }
+
 # buchheit's beholding
 puts white{ bold{ "Buchheit's Beholding" } } + white{ ": Every system has two sets of rules: the rules as they are intended or commonly perceived, and the actual rules ('reality')." } + black{ bold{ " - Paul Buchheit" } }
 
