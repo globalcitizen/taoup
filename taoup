@@ -1056,6 +1056,7 @@ puts white{ "Our true nationality is mankind." } + black{ bold{ " - H. G. Wells"
 puts white{ "Nothing is more idiomatic Go than ignoring inconvenient edge cases." } + black{ bold{ " - Anonymous HN comment (2026)" } }
 puts white{ "You can't be certain about the weather." } + black{ bold{ " - James Margin Stagg, as acted in 'Pressure' (2026)" } } 
 puts white{ "Make the drive compliant and the guidance precise." } + black{ bold{ " - Old machine design principle" } }
+puts white{ "Maintaining consistent progress towards a common goal with a bunch of different perspectives " } + white{ bold{ "is" } } + white{ " the job." } + black{ bold{ " - @conradev on LLMs in development (2026)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
