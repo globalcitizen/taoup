@@ -1059,7 +1059,8 @@ puts white{ "Make the drive compliant and the guidance precise." } + black{ bold
 puts white{ "Maintaining consistent progress towards a common goal with a bunch of different perspectives " } + white{ bold{ "is" } } + white{ " the job." } + black{ bold{ " - @conradev on LLMs in development (2026)" } }
 puts white{ "Without great solitude, no serious work is possible." } + black{ bold{ " - Pablo Picasso" } }
 puts white{ "Perhaps the primary distinction of the artist is that he must actively cultivate that state which most men, necessarily, must avoid: the state of being alone." } + black{ bold{ " - James Baldwin" } }
-puts white{ "To be creative you’ve got to be unsociable and tight-assed." } + black{ bold{ " - Bob Dylan" } }
+puts white{ "To be creative you've got to be unsociable and tight-assed." } + black{ bold{ " - Bob Dylan" } }
+puts white{ "Without being aware of it, they've remained prisoners of those invisible and despotic circles which delimit the universe of a certain milieu in a given era. To have broken these bounds they would have had to rediscover in themselves that capability which was their birth-right, as it was mine: " } + white{ bold{ "the capacity to be alone" } } + white{ "." } + black{ bold{ " - Alexander Grothendieck" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
