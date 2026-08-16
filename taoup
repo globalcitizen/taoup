@@ -1057,7 +1057,7 @@ puts white{ "Nothing is more idiomatic Go than ignoring inconvenient edge cases.
 puts white{ "You can't be certain about the weather." } + black{ bold{ " - James Margin Stagg, as acted in 'Pressure' (2026)" } } 
 puts white{ "Make the drive compliant and the guidance precise." } + black{ bold{ " - Old machine design principle" } }
 puts white{ "Maintaining consistent progress towards a common goal with a bunch of different perspectives " } + white{ bold{ "is" } } + white{ " the job." } + black{ bold{ " - @conradev on LLMs in development (2026)" } }
-puts white{ "Without great solitude, no serious work is possible." } + black{ bold{ " - Picasso" } }
+puts white{ "Without great solitude, no serious work is possible." } + black{ bold{ " - Pablo Picasso" } }
 puts white{ "Perhaps the primary distinction of the artist is that he must actively cultivate that state which most men, necessarily, must avoid: the state of being alone." } + black{ bold{ " - James Baldwin" } }
 puts white{ "To be creative you’ve got to be unsociable and tight-assed." } + black{ bold{ " - Bob Dylan" } }
 
