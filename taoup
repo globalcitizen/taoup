@@ -1062,6 +1062,7 @@ puts white{ "Perhaps the primary distinction of the artist is that he must activ
 puts white{ "To be creative you've got to be unsociable and tight-assed." } + black{ bold{ " - Bob Dylan" } }
 puts white{ "Without being aware of it, they've remained prisoners of those invisible and despotic circles which delimit the universe of a certain milieu in a given era. To have broken these bounds they would have had to rediscover in themselves that capability which was their birth-right, as it was mine: " } + white{ bold{ "the capacity to be alone" } } + white{ "." } + black{ bold{ " - Alexander Grothendieck" } }
 puts white{ "College stopped being about getting an education a long time ago.  It's just a low pass filter for the job market." } + black{ bold{ " - @qeternity" } }
+puts white{ "The best method is strongly dependent on the maturity and motivation of the students." } + black{ bold{ " - Eric Baller, Director, MIT AI Lab machine shop (~1995)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
