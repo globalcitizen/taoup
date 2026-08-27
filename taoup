@@ -1063,6 +1063,7 @@ puts white{ "To be creative you've got to be unsociable and tight-assed." } + bl
 puts white{ "Without being aware of it, they've remained prisoners of those invisible and despotic circles which delimit the universe of a certain milieu in a given era. To have broken these bounds they would have had to rediscover in themselves that capability which was their birth-right, as it was mine: " } + white{ bold{ "the capacity to be alone" } } + white{ "." } + black{ bold{ " - Alexander Grothendieck" } }
 puts white{ "College stopped being about getting an education a long time ago.  It's just a low pass filter for the job market." } + black{ bold{ " - @qeternity" } }
 puts white{ "The best method is strongly dependent on the maturity and motivation of the students." } + black{ bold{ " - Erik Baller, Director, MIT AI Lab machine shop (circa 2000)" } }
+puts white{ "HN is reddit with terminal stage Dunning-Kruger." } + black{ bold{ " - @vlyan (2026)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
