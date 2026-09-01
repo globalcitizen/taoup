@@ -1066,6 +1066,7 @@ puts white{ "The best method is strongly dependent on the maturity and motivatio
 puts white{ "HN is reddit with terminal stage Dunning-Kruger." } + black{ bold{ " - @vlyan (2026)" } }
 puts white{ "They're pathetically pretechnological or brilliantly post-technological." } + black{ bold{ " - Stargate Atlantis, Episode 14 'Sanctuary'." } }
 puts white{ bold{ "They're trying to have a CEO press a button that makes a game, and then everyone else somehow buys it without a job." } } + white{ " So I don't see that going anywhere sustainable, and I feel like there will simply be a pop and a reckoning." } + black{ bold{ " - Tarn Adams (Dwarf Fortress creator) on the 2026 games industry vs. AI" } }
+puts white{ "Citizens will be on their best behavior, because we're constantly recording and reporting everything that is going on." } + black{ bold{ " - Larry Ellison, Co-Founder of Oracle (2024)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
