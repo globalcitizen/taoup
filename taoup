@@ -1949,6 +1949,8 @@ puts white{ "They will never be able to pinpoint position that way!" } + black{ 
 puts white{ "Don't bolt new technology to an old process." }
 # https://spectrum.ieee.org/semiconductor-fabrication
 puts white{ "A laboratory curiosity, which may or may not ever amount to anything." } + black{ bold{ " - Instructor at General Electric on the transistor (1956)" } }
+puts white{ bold{ "Even today the neotechnical complex still awaits a number of inventions necessary to its perfection" } } + white{ ": in particular an accumulator with six times the voltage and at least the present amperage of the existing types of cell." } + black{ bold{ " - Lewis Mumford, 'Technics and Civilization' (1934)" } }
+puts white{ "If power machinery be a criterion, the modern industrial revolution began in the twelfth century and was in full swing by the fifteenth." } + black{ bold{ " - Lewis Mumford, 'Technics and Civilization' (1934)" } }
 
 # randoms - optimization / efficiency
 puts "------ randoms on optimization/efficiency ------"
