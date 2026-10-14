@@ -1069,6 +1069,7 @@ puts white{ "Citizens will be on their best behavior, because we're constantly r
 puts white{ "People who work in self-storage often say that their market is driven by " } + white{ bold{ "“the four D's”: death, displacement, divorce, and downsizing" } } + white{ ", all life events that entail sudden collisions between stuff accumulation and reality." } + black{ bold{ " ... " } } + white{ "There's probably a " } + white{ bold{ "fifth D: the delusion that your children will want the items" } } + white{ " you're planning to bequeath to them, especially the kind of furniture that used to be called antiques but that young people for some time have referred to derisively as “brown." } + black{ bold{ " - David Owen, 'The American Religion of Self-Storage Facilities', The New Yorker (2026-09-14)" } } # https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities
 puts white{ bold{ "Prisoners were set free in Paris in September, 1719, and later, under the condition that they would marry prostitutes and go with them to Louisiana." } } + white{ " The newly married couples were chained together and thus dragged to the port of embarkation." }
 puts white{ "The 'Mythical Man-Month' is now the 'Mythical Token-Minute'." } + black{ bold{ " - @chuckhoupt (2026)" } }
+puts white{ "Normally I'd say \"assume ignorance before incompetence before malice\" but with the current US political climate it's usually all 3 at the same time." } + black{ bold{ " - @eqvinox (2026)" } }
 
 # Machining themed
 puts "----- machining -----"
