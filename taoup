@@ -1121,6 +1121,7 @@ puts white{ bold{ "Wer krumm anfängt, wird nie gerade fertig." } } + white{ " W
 puts white{ "The nut behind the wheel is the problem." }
 puts white{ "A machinist washes their hands before and after they pee." }
 puts white{ "Let the tool do the work." }
+puts white{ "The successful construction of all machinery depends on the perfection of the tools employed; and " } + white{ bold{ "whoever is a master in the arts of tool-making possesses the key to the construction of all machines" } } + white{ " ... the contrivance and construction of tools must therefore ever stand at the head of the industrial arts." } + black{ bold{ " - Charles Babbage (1851)" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
