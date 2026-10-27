@@ -741,6 +741,7 @@ puts white{ "You have to work hard to get your thinking clean to make it simple.
 puts white{ "The objectivity of science is [...] " } + bold{ "the social result of mutual criticism, of the friendly-hostile division of labour among scientists, of their co-operation and also of their competition" } + white{ "... Objectivity can only be explained in terms of social ideas such as competition (both of individual scientists and of various schools of thoughts); tradition (that is the critical tradition); social institutions (for instance, publications in various competing journals and by various competing publishers; discussions at congresses); the power of the state (that is, its political tolerance of free discussion)." } + black{ bold{ " - Karl Popper, The logic of the social sciences (1976)" } }
 puts white{ "Nondeterministic black box of bullshit." } + black{ bold{ " - @nickphx, on LLMs (2026)" } }
 puts white{ "Geometry always defeats techno-hype in the end." } + black{ bold{ " - Jarrett Walker, on the remarkable pragmatism of Blaise Pascal's 1662 Parisian public transport network" } }
+puts white{ "Democracy has been deprecated in the United States, and will be removed in a future 'election'." } + black{ bold{ " - @rnd0 (2026)" } }
 
 # Nassim Taleb (eg. 'Antifragility', pp1-91)
 puts white{ bold{ "Techne" } } + black{ bold{ " (crafts and knowhow) " } } + white{ "not " } + white{ bold{ "episteme" } } + black{ bold{ " (book knowledge; know what). - Nassim Taleb" } } 
