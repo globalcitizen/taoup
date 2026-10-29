@@ -742,6 +742,7 @@ puts white{ "The objectivity of science is [...] " } + bold{ "the social result 
 puts white{ "Nondeterministic black box of bullshit." } + black{ bold{ " - @nickphx, on LLMs (2026)" } }
 puts white{ "Geometry always defeats techno-hype in the end." } + black{ bold{ " - Jarrett Walker, on the remarkable pragmatism of Blaise Pascal's 1662 Parisian public transport network" } }
 puts white{ "Democracy has been deprecated in the United States, and will be removed in a future 'election'." } + black{ bold{ " - @rnd0 (2026)" } }
+puts white{ "Those who cannot understand the monetary system are doomed to reimplement it." } + black{ bold{ " - @toyg on crypto (2026)" } }
 
 # Nassim Taleb (eg. 'Antifragility', pp1-91)
 puts white{ bold{ "Techne" } } + black{ bold{ " (crafts and knowhow) " } } + white{ "not " } + white{ bold{ "episteme" } } + black{ bold{ " (book knowledge; know what). - Nassim Taleb" } } 
