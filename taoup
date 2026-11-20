@@ -1076,6 +1076,7 @@ puts white{ "People who work in self-storage often say that their market is driv
 puts white{ bold{ "Prisoners were set free in Paris in September, 1719, and later, under the condition that they would marry prostitutes and go with them to Louisiana." } } + white{ " The newly married couples were chained together and thus dragged to the port of embarkation." }
 puts white{ "The 'Mythical Man-Month' is now the 'Mythical Token-Minute'." } + black{ bold{ " - @chuckhoupt (2026)" } }
 puts white{ "Normally I'd say \"assume ignorance before incompetence before malice\" but with the current US political climate it's usually all 3 at the same time." } + black{ bold{ " - @eqvinox (2026)" } }
+puts white{ "All men should strive to learn before they die what they're running from, and to, and why." } + black{ bold{ " - James Thurber" } }
 
 # Machining themed
 puts "----- machining -----"
